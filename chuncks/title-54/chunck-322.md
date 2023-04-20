@@ -1,0 +1,8 @@
+
+# Title 54— NATIONAL PARK SERVICE AND RELATED PROGRAMS
+## Subtitle I— National Park System
+### CHAPTER 1029— LAND TRANSFERS
+#### § 102901. Conveyance of property and interests in property in System units or related areas
+###### (a) Freehold and Leasehold Interests .
+
+With respect to any property acquired by the Secretary within a System unit or related area, except property within national parks or within national monuments of scientific significance, the Secretary may convey a freehold or leasehold interest in the property, subject to such terms and conditions as will ensure the use of the property in a manner that is, in the judgment of the Secretary, consistent with the purpose for which the System unit or related area was authorized by Congress. The Secretary shall convey the interest to the highest bidder, in accordance with such regulations as the Secretary may prescribe. The conveyance shall be at not less than the fair market value of the interest, as determined by the Secretary, except that if the conveyance is proposed within 2 years after the property to be conveyed is acquired by the Secretary, the Secretary shall allow the last owner of record of the property 30 days following the date on which the owner is notified by the Secretary in writing that the property is to be conveyed within which to notify the Secretary that the owner wishes to acquire the interest. On receiving the timely request, the Secretary shall convey the interest to the person, in accordance with such regulations as the Secretary may prescribe, on payment or agreement to pay an amount equal to the highest bid price.
