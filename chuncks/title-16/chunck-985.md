@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410gg–1. Acquisition of property
+##### (a) Authority of Secretary; manner; State lands: donation, reservations, and restrictions; Federal lands: transfer to administrative jurisdiction of National Park Service and Secretary
+
+Within the boundary of the park the Secretary is authorized to acquire lands, waters, and interests therein by donation, purchase with donated or appropriated funds, or exchange, except that property owned by the State of Florida or any political subdivision thereof may be acquired only by donation, and subject to such reservations and restrictions as may be provided by Florida law. Lands, waters, and interests therein within such boundary which are owned by the United States and under the control of the Secretary are hereby transferred to the administrative jurisdiction of the National Park Service to be managed for the purposes of the park. Any federally owned lands within the park which are not under the control of the Secretary shall be transferred to his control for purposes of the park at such time as said lands cease to be needed by the agencies which currently control them.

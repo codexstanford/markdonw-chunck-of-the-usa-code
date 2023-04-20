@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460mm–3. Rights of holders of unperfected mining claims
+##### (b) Moratorium on contest proceedings
+
+Any holder of an unperfected mining claim seeking to protect such claim pursuant to this section must have maintained and must continue to maintain such claim in compliance with applicable Federal and State laws, and where applicable, must have obtained and complied with any mining access permit requirements imposed by the Department of the Interior during the 1979 mining season. Prior to September 30, 1982 , no unperfected mining claim which has been maintained in accordance with this subsection shall be contested by the United States for failure to have made a valid mineral discovery within the meaning of the mining laws of the United States: Provided , That such claim shall be diligently prosecuted during this moratorium on contest proceedings as a condition for the moratorium. Any mining operation undertaken pursuant to this subsection, including but not limited to exploration, development, and extraction, shall be subject to such reasonable regulations as the Secretary may prescribe to assure that such operations will, to the maximum extend practicable, be consistent with protection of the scenic, scientific, cultural, and other resources of the Steese National Conservation Area or the White Mountains National Recreation Area or any affected conservation system units established or expanded by this Act.

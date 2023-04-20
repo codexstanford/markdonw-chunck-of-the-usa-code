@@ -1,0 +1,17 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1642. Investigations, experiments, tests, and other activities
+##### (a) Authorization; scope and purposes of activities
+
+The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include, but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
+
+(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
+
+(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and range­land watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmental conditions that affect the protection and management of forests and rangelands.
+
+(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
+
+(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing and conserving energy; and testing forest products, including necessary fieldwork associated therewith.
+
+(5) Renewable resource assessment research shall include, as appropriate, research activities related to developing and applying scientific knowledge and technology in support of the survey and analysis of forest and rangeland renewable resources described in subsection (b) of this section.

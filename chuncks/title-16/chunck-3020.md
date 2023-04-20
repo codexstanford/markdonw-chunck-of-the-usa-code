@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460kk. Establishment
+##### (g) Owner’s reservation of right of use and occupancy for fixed term of years or life; election of term; fair market value; termination; notification
+
+The owner of an improved property, as defined in this section, on the date of its acquisition, as a condition of such acquisition, may retain for herself or himself, her or his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential or agriculture purposes, as the case may be, for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of her or his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this section, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.

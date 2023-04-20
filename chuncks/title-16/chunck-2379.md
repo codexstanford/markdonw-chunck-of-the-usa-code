@@ -1,0 +1,6 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 459g–2. Establishment; notice in Federal Register; copies to Congress
+
+When title to lands and interests in lands in an amount sufficient to constitute an efficiently administerable  1 unit for the purposes of sections 459g to 459g–7 of this title is vested in the United States, the Secretary shall declare the establishment of the seashore by publication of notice thereof in the Federal Register. Such notice shall contain a refined description or map of the boundaries of the seashore as the Secretary may find desirable and such exterior boundaries shall encompass, as nearly as possible, the area generally described in section 459g of this title . Copies of said description or map shall be furnished to the Speaker of the House and the President of the Senate not less than thirty days prior to publication in the Federal Register. Following such establishment, and subject to the limitations and conditions prescribed in sections 459g to 459g–7 of this title, the Secretary may, subject to the provisions of section 459g–1 of this title , acquire the remainder of the lands and interests in lands within the boundaries of the seashore.

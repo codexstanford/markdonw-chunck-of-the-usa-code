@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 459b–1. Acquisition of property
+##### (a) Authority of Secretary; manner and place; concurrence of State owner; transfer from Federal agency to administrative jurisdiction of Secretary
+
+The Secretary of the Interior (hereinafter referred to as “Secretary”) is authorized to acquire by purchase, gift, condemnation, transfer from any Federal agency, exchange, or otherwise, the land, waters, and other property, and improvements thereon and any interest therein, within the area which is described in section 459b of this title or which lies within the boundaries of the seashore as described pursuant to section 459b–2 of this title (both together hereinafter in sections 459b to 459b–8 of this title referred to as “such area”). Any property, or interest therein, owned by the Commonwealth of Massachusetts, by any of the towns referred to in section 459b of this title , or by any other political subdivision of said Commonwealth may be acquired only with the concurrence of such owner. Notwithstanding any other provision of law, any Federal property located within such area may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of sections 459b to 459b–8 of this title.

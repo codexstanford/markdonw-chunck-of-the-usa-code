@@ -1,0 +1,11 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 35— ENDANGERED SPECIES
+#### § 1540. Penalties and enforcement
+##### (b) Criminal violations
+
+(1) Any person who knowingly violates any provision of this chapter, of any permit or certificate issued hereunder, or of any regulation issued in order to implement subsection (a)(1)(A), (B), (C), (D), (E), or (F), (a)(2)(A), (B), (C), or (D), (c), (d) (other than a regulation relating to recordkeeping, or filing of reports), (f), or (g) of section 1538 of this title shall, upon conviction, be fined not more than $50,000 or imprisoned for not more than one year, or both. Any person who knowingly violates any provision of any other regulation issued under this chapter shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than six months, or both.
+
+(2) The head of any Federal agency which has issued a lease, license, permit, or other agreement authorizing a person to import or export fish, wildlife, or plants, or to operate a quarantine station for imported wildlife, or authorizing the use of Federal lands, including grazing of domestic livestock, to any person who is convicted of a criminal violation of this chapter or any regulation, permit, or certificate issued hereunder may immediately modify, suspend, or revoke each lease, license, permit, or other agreement. The Secretary shall also suspend for a period of up to one year, or cancel, any Federal hunting or fishing permits or stamps issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation, permit, or certificate issued hereunder. The United States shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any leases, licenses, permits, stamps, or other agreements pursuant to this section.
+
+(3) Notwithstanding any other provision of this chapter, it shall be a defense to prosecution under this subsection if the defendant committed the offense based on a good faith belief that he was acting to protect himself or herself, a member of his or her family, or any other individual, from bodily harm from any endangered or threatened species.

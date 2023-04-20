@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 5A— PROTECTION AND CONSERVATION OF WILDLIFE
+#### § 662. Impounding, diverting, or controlling of waters
+##### (c) Modification of projects; acquisition of lands
+
+Federal agencies authorized to construct or operate water-control projects are authorized to modify or add to the structures and operations of such projects, the construction of which has not been substantially completed on the date of enactment of the Fish and Wildlife Coordination Act, and to acquire lands in accordance with section 663 of this title , in order to accommodate the means and measures for such conservation of wildlife resources as an integral part of such projects: Provided , That for projects authorized by a specific Act of Congress before the date of enactment of the Fish and Wildlife Coordination Act (1) such modification or land acquisition shall be compatible with the purposes for which the project was authorized; (2) the cost of such modifications or land acquisition, as means and measures to prevent loss of and damage to wildlife resources to the extent justifiable, shall be an integral part of the cost of such projects; and (3) the cost of such modifications or land acquisition for the development or improvement of wildlife resources may be included to the extent justifiable, and an appropriate share of the cost of any project may be allocated for this purpose with a finding as to the part of such allocated cost, if any, to be reimbursed by non-Federal interests.

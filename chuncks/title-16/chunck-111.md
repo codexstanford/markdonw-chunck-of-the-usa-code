@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 79l. Employment of personnel for rehabilitation, protection, and improvements of additional lands
+##### (b) Appointment and compensation of personnel for administration of expanded Park; appointment, etc., of additional personnel
+
+In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.

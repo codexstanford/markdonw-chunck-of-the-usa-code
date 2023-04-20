@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 2— NATIONAL FORESTS
+#### § 541d. Acquisition of property within the scenic-research area; consent of owner; substantial change in use or maintenance of property
+##### (b) Consent of owner for acquisition of lands in sub-areas; exceptions; guidelines for determination of substantial change in land use or maintenance
+
+Within all subareas of the Area except the estuary and associated wetlands subarea, the Secretary may not acquire any land or interest in land without the consent of the owner or owners so long as the owner or owners use such land for substantially the same purposes and in the same manner as it was used and maintained on June 1, 1974 : Provided, however , That the Secretary may acquire any land or interest in land without the consent of the owner or owners when such land is in imminent danger of being used for different purposes or in a different manner from the use or uses existing on June 1, 1974 . The Secretary shall publish, within one hundred and eighty days of December 22, 1974 , guidelines which shall be used by him to determine what constitutes a substantial change in land use or maintenance for the non-federally-owned lands within the Area. Within the estuary and associated wetlands subarea the Secretary may acquire any land or interest in land without the consent of the owner or owners at any time, after public hearing.

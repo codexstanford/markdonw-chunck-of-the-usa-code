@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460x–8. Zoning bylaws
+##### (c) Notification of owner by Secretary of use of property inconsistent with applicable bylaws or standards; requirements of notice; discontinuance of use by owner; condemnation upon failure to discontinue use
+
+If the Secretary determines that any such property referred to in subsection (b) of this section covered by any such bylaw is being used in a way which is not in substantial compliance with such bylaw, or that any such property referred to in subsection (b) with respect to which an agreement has been made is being used in a manner which is not substantially consistent with such applicable standards, he shall so notify the owner of any such property in writing. Such notice shall contain a detailed statement as to why the Secretary believes that such use is not in substantial compliance with such zoning bylaw or why such use is not substantially consistent with such applicable standards, as the case may be. Any such owner shall have sixty days following the receipt by him of that written notification within which to discontinue the use referred to in such notification. Discontinuance of such use within such sixty-day period shall have the effect of prohibiting the Secretary from acquiring such property by condemnation by reason of such use. In any case in which such use is not discontinued within such sixty-day period, the Secretary may, in his discretion, acquire such property by condemnation.

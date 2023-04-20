@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460hh–1. Acquisition of property
+##### (a) Authority of Secretary; manner of acquisition
+
+The Secretary may acquire land or interests in lands within the boundaries of the recreation area by donation, purchase with donated or appropriated funds, or exchange. When any tract of land is only partly within such boundaries, the Secretary may acquire all or any portion of the land outside of such boundaries in order to minimize the payment of severance costs. Land so acquired outside of the boundaries may be exchanged by the Secretary for non-Federal lands within the boundaries, and any land so acquired and not utilized for exchange shall be reported to the General Services Administration for disposal under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. Any Federal property located within the boundaries of the recreation area may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the recreation area. Lands within the boundaries of the recreation area owned by the State of Oklahoma, or any political subdivision thereof, may be acquired only by donation: Provided , That the Secretary may also acquire lands by exchange with the city of Sulphur, utilizing therefor only such lands as may be excluded from the recreation area which were formerly within the Platt National Park.

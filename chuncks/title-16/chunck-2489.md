@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460l–14. Facilities or project modifications to be provided without written indication of intent
+##### (a) Other project purposes as justification; public health and safety requirement of minimum facilities at access points; basis for calculation of benefits; nonreimbursable costs
+
+No facilities or project modifications which will furnish recreation or fish and wildlife enhancement benefits shall be provided in the absence of the indication of intent with respect thereto specified in section 460 l –13(a) of this title unless (1) such facilities or modifications serve other project purposes and are justified thereby without regard to such incidental recreation or fish and wildlife enhancement benefits as they may have or (2) they are minimum facilities which are required for the public health and safety and are located at access points provided by roads existing at the time of project construction or constructed for the administration and management of the project. Calculation of the recreation and fish and wildlife enhancement benefits in any such case shall be based on the number of visitor-days anticipated in the absence of recreation and fish and wildlife enhancement facilities or modifications except as hereinbefore provided and on the value per visitor-day of the project without such facilities or modifications. Project costs allocated to recreation and fish and wildlife enhancement on this basis shall be nonreimbursable.

@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1644. Forestry and rangeland competitive research grants
+##### (a) Competitive grant authority
+
+In addition to any grants made under other laws, the Secretary is authorized to make competitive grants that will further research activities authorized by this subchapter to Federal, State, and other governmental agencies, public or private agencies, institutions, universities, and organizations, and businesses and individuals in the United States. In making these grants, the Secretary shall emphasize basic and applied research activities that are important to achieving the purposes of this subchapter, and shall obtain, through review by qualified scientists and other methods, participation in research activities by scientists throughout the United States who have expertise in matters related to forest and rangeland renewable resources. Grants under this section shall be made at the discretion of the Secretary under whatever conditions the Secretary may prescribe, after publicly soliciting research proposals, allowing sufficient time for submission of the proposals, and considering qualitative, quantitative, financial, administrative, and other factors that the Secretary deems important in judging, comparing, and accepting the proposals. The Secretary may reject any or all proposals received under this section if the Secretary determines that it is in the public interest to do so.

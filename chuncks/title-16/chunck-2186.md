@@ -1,0 +1,8 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 450jj–3. Designation of additional land by Secretary; manner of acquiring additional land
+
+(a) There is hereby designated for addition to the Jefferson National Expansion Memorial  1 (hereinafter in sections 450jj–3 to 450jj–9 of this title referred to as the “Memorial”) approximately one hundred acres in the city of East Saint Louis, Illinois, contiguous with the Mississippi River and between the Eads Bridge and the Poplar Street Bridge, as generally depicted on the map entitled “Boundary Map, Jefferson National Expansion Memorial  1  ”, numbered 366–80013, dated January 1992, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The additional acreage authorized by this section is in recognition of the historical significance of the Memorial site to the westward expansion of the United States and the historical linkage of this site on the Mississippi in both Missouri and Illinois to such expansion, the international recognition of the Gateway Arch, designed by Eero Saarinen, as one of the world’s great sculptural and architectural achievements, and the increasing use of the Memorial site by millions of people from all over the United States and the world.
+
+(b) Within the area designated in accordance with this section, the Secretary of the Interior may acquire lands and interests in lands by donation, purchase with donated or appropriated funds, or exchange, except that lands owned by the State of Illinois or any political subdivision thereof may be acquired only by donation.

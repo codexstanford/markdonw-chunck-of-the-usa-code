@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1643. Implementation of provisions
+##### (b) Acceptance, holding, and administration of gifts, donations, and bequests; use and investment of gifts, proceeds, etc.; funding requirements
+
+In implementing this subchapter, the Secretary is authorized to accept, hold, and administer gifts, donations, and bequests of money, real property, or personal property from any source not otherwise prohibited by law and to use such gifts, donations, and bequests to (1) establish or operate any forest and rangeland research facility within the United States, or (2) perform any forest and rangeland renewable resource research activity authorized by this subchapter. Such gifts, donations, and bequests, or the proceeds thereof, and money appropriated for these purposes shall be deposited in the Treasury in a special fund. At the request of the Secretary, the Secretary of the Treasury may invest or reinvest any money in the fund that in the opinion of the Secretary is not needed for current operations. Such investments shall be in public debt securities with maturities suitable for the needs of the fund and bearing interest at prevailing market rates. There are hereby authorized to be expended from such fund such amounts as may be specified in annual appropriation Acts, which shall remain available until expended.

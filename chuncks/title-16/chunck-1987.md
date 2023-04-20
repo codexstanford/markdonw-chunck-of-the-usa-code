@@ -1,0 +1,9 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 430h–3. Consolidation of lands and installation of park tour road
+##### (c) Municipal agreements of park tour road’s effect upon local road systems; Federal obligations for local roads directly attributable to installation of park tour road
+
+to enter into agreements with duly authorized officials of the City of Vicksburg and Warren County relative to the effect which the installation of a one-way park tour road with controlled access will have upon the existing local road systems; subject to the availability of funds, to obligate the United States to make provisions for such alterations, relocations and construction of local roads, including procurement of rights-of-way therefor and the subsequent transfer thereof to the State or its appropriate political subdivisions which shall thereupon assume jurisdiction and maintenance, as the Secretary and said officials agree are directly attributable to the installation of the park tour road; and to transfer to the city or county jurisdiction and maintenance of service roads which the Secretary constructs on park lands to properties that otherwise would be denied access because of the installation of the park tour road.
+
+The Secretary of the Interior shall not, without first obtaining the consent of the city and county officials referred to in subsection (c), convert the portion of the existing road known as Confederate Avenue lying between Graveyard Road and Fort Garrott into a one-way park tour road with controlled access, or otherwise limit the use of such portion by local traffic, until the United States has provided for such alterations, relocations, and construction of local roads (including procurement of rights-of-way) as the Secretary and said officials agree are directly attributable to the installation of such park tour road.

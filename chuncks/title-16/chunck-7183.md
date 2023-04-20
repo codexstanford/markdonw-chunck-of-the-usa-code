@@ -1,0 +1,9 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 35— ENDANGERED SPECIES
+#### § 1536. Interagency cooperation
+##### (l) Committee order granting exemption; cost of mitigation and enhancement measures; report by applicant to Council on Environmental Quality
+
+(1) If the Committee determines under subsection (h) that an exemption should be granted with respect to any agency action, the Committee shall issue an order granting the exemption and specifying the mitigation and enhancement measures established pursuant to subsection (h) which shall be carried out and paid for by the exemption applicant in implementing the agency action. All necessary mitigation and enhancement measures shall be authorized prior to the implementing of the agency action and funded concurrently with all other project features.
+
+(2) The applicant receiving such exemption shall include the costs of such mitigation and enhancement measures within the overall costs of continuing the proposed action. Notwithstanding the preceding sentence the costs of such measures shall not be treated as project costs for the purpose of computing benefit-cost or other ratios for the proposed action. Any applicant may request the Secretary to carry out such mitigation and enhancement measures. The costs incurred by the Secretary in carrying out any such measures shall be paid by the applicant receiving the exemption. No later than one year after the granting of an exemption, the exemption applicant shall submit to the Council on Environmental Quality a report describing its compliance with the mitigation and enhancement measures prescribed by this section. Such a report shall be submitted annually until all such mitigation and enhancement measures have been completed. Notice of the public availability of such reports shall be published in the Federal Register by the Council on Environmental Quality.

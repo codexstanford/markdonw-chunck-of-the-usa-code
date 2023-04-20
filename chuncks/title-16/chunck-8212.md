@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 51— ALASKA NATIONAL INTEREST LANDS CONSERVATION
+#### § 3193. Use of cabins and other sites of occupancy on conservation system units
+##### (d) Existing cabin leases or permits
+
+Nothing in this Act shall preclude the renewal or continuation of valid leases or permits in effect on December 2, 1980 , for cabins, homesites, or similar structures on Federal lands. Unless the Secretary, or in the case of national forest lands, the Secretary of Agriculture, issues specific findings following notice and an opportunity for the lease-holder or permittee to respond, that renewal or continuation of such valid permit or lease constitutes a direct threat to or a significant impairment to the purposes for which a conservation system unit was established (in the case of a structure located within a conservation system unit) or the public domain or national forest (in case of a structure located outside conservation system units), he shall renew such valid leases or permits upon their expiration in accordance with the provisions of the original lease or permit, subject to such reasonable regulations as he may prescribe. Subject to the provisions of the original lease or permit, nothing in this Act or subsection shall necessarily preclude the appropriate Secretary from transferring such a lease or permit to another person at the election or death of the original permittee or leasee.

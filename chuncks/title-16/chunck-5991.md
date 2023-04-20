@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12B— BONNEVILLE PROJECT
+#### § 832k. Authority of Administrator
+##### (a) Settlement, compromise, and payment of claims; limitations; conclusiveness of settlements; restoration of damage
+
+The Administrator is authorized to determine, settle, compromise, and pay claims and demands against the United States which are not in excess of $1,000 and are presented to the Administrator in writing within one year from the date of accrual thereof, for any losses, injuries, or damages to persons or property, or for the death of persons, resulting from acts or omissions of employees acting within the scope of their employment pursuant to this chapter. The Administrator is also authorized to determine, compromise, and settle any claims and demands of the United States for any losses, injuries, or damages to property under the Administrator’s control, against other persons or public or private corporations. The Administrator’s determination, compromise, settlement, or payment of any of the claims referred to in this subsection shall be final and conclusive upon all officers of the Government, notwithstanding the provisions of any other Act to the contrary. When claims presented to the Administrator under this subsection arise, in whole or in part, out of any damage done to private property, the Administrator may repair all or any part of such damage in lieu of making such payments.

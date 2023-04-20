@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12— FEDERAL REGULATION AND DEVELOPMENT OF POWER
+#### § 824k. Orders requiring interconnection or wheeling
+##### (a) Rates, charges, terms, and conditions for wholesale transmission services
+
+An order under section 824j of this title shall require the transmitting utility subject to the order to provide wholesale transmission services at rates, charges, terms, and conditions which permit the recovery by such utility of all the costs incurred in connection with the transmission services and necessary associated services, including, but not limited to, an appropriate share, if any, of legitimate, verifiable and economic costs, including taking into account any benefits to the transmission system of providing the transmission service, and the costs of any enlargement of transmission facilities. Such rates, charges, terms, and conditions shall promote the economically efficient transmission and generation of electricity and shall be just and reasonable, and not unduly discriminatory or preferential. Rates, charges, terms, and conditions for transmission services provided pursuant to an order under section 824j of this title shall ensure that, to the extent practicable, costs incurred in providing the wholesale transmission services, and properly allocable to the provision of such services, are recovered from the applicant for such order and not from a transmitting utility’s existing wholesale, retail, and transmission customers.

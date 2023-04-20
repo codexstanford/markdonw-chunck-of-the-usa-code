@@ -1,0 +1,6 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 3— FORESTS; FOREST SERVICE; REFORESTATION; MANAGEMENT
+#### § 579d. Indirect expenditures; future budget justifications
+
+The Forest Service shall implement and adhere to the definitions of indirect expenditures established pursuant to Public Law 105–277 on a nationwide basis without flexibility for modification by any organizational level except the Washington Office, and when changed by the Washington Office, such changes in definition shall be reported in budget requests submitted by the Forest Service: Provided further , That the Forest Service shall provide in all future budget justifications, planned indirect expenditures in accordance with the definitions, summarized and displayed to the Regional, Station, Area, and detached unit office level. The justification shall display the estimated source and amount of indirect expenditures, by expanded budget line item, of funds in the agency’s annual budget justification. The display shall include appropriated funds and the Knutson-Vandenberg, Brush Disposal, Cooperative Work-Other, and Salvage Sale funds. Changes between estimated and actual indirect expenditures shall be reported in subsequent budget justifications.

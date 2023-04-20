@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410oo–2. Acquisition of property
+##### (a) In general
+
+Except as otherwise provided in this section, the Secretary may acquire, by donation, purchase with donated or appropriated funds, or exchange, land or interests in land, together with structures and other improvements thereon and personal property, which is included within the park. In addition the Secretary may acquire by any such means such personal property associated with the park as he deems appropriate for interpretation of the park and such additional lands and properties as may be necessary for purposes of an administrative headquarters and administrative site. Any land, interests in land, structures, improvements, or personal property owned by the State of Mississippi or any political subdivision thereof, may be acquired only by donation. The Secretary may not acquire fee title to any property other than the property he deems necessary for an administrative site and headquarters and the property referred to in paragraph (1), (2), or (3) of section 410 oo –1 of this title, and the Secretary may not acquire the property referred to in paragraph (1) of section 410 oo –1 of this title unless at least 25 per centum of the fair market value of such property (as determined by the Secretary) is donated to the United States in connection with such acquisition. The Secretary may not acquire the property referred to in paragraph (3) of section 410 oo –1(b) of this title except by donation.

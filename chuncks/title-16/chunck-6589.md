@@ -1,0 +1,9 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 28— WILD AND SCENIC RIVERS
+#### § 1276. Rivers constituting potential additions to national wild and scenic rivers system
+##### (d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas
+
+(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
+
+(2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990 . Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.

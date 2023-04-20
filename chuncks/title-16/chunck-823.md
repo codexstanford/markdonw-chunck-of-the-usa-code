@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410r–8. Modification of certain water projects
+##### (i) West Dade Wellfield
+
+No Federal license, permit, approval, right-of-way or assistance shall be granted or issued with respect to the West Dade Wellfield (to be located in the Bird Drive Drainage Basin, as identified in the Comprehensive Development Master Plan for Dade County, Florida) until the Secretary, the Governor of the State of Florida, the South Florida Water Management District and Dade County, Florida enter into an agreement providing that the South Florida Water Management District’s water use permit for the wellfield, if granted, must include the following limiting conditions: (1) the wellfield’s peak pumpage rate shall not exceed 140,000,000 gallons per day; (2) the permit shall include reasonable, enforceable measures to limit demand on the wellfield in times of water shortage; and (3) if, during times of water shortage, the District fails to limit demand on the wellfield pursuant to (2), or if the District limits demand on the wellfield pursuant to (2), but the Secretary certifies that operation of the wellfield is still causing significant adverse impacts on the resources of the Park, the Governor shall require the South Florida Water Management District to take necessary actions to alleviate the adverse impact, including, but not limited to, temporary reductions in the pumpage from the wellfield.

@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 23— NATIONAL WILDERNESS PRESERVATION SYSTEM
+#### § 1131. National Wilderness Preservation System
+##### (a) Establishment; Congressional declaration of policy; wilderness areas; administration for public use and enjoyment, protection, preservation, and gathering and dissemination of information; provisions for designation as wilderness areas
+
+In order to assure that an increasing population, accompanied by expanding settlement and growing mechanization, does not occupy and modify all areas within the United States and its possessions, leaving no lands designated for preservation and protection in their natural condition, it is hereby declared to be the policy of the Congress to secure for the American people of present and future generations the benefits of an enduring resource of wilderness. For this purpose there is hereby established a National Wilderness Preservation System to be composed of federally owned areas designated by Congress as “wilderness areas”, and these shall be administered for the use and enjoyment of the American people in such manner as will leave them unimpaired for future use and enjoyment as wilderness, and so as to provide for the protection of these areas, the preservation of their wilderness character, and for the gathering and dissemination of information regarding their use and enjoyment as wilderness; and no Federal lands shall be designated as “wilderness areas” except as provided for in this chapter or by a subsequent Act.

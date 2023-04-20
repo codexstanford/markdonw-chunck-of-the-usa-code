@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12F— PACIFIC NORTHWEST CONSUMER POWER PREFERENCE; RECIPROCAL PRIORITY IN OTHER REGIONS
+#### § 837b. Contract terms and conditions for use of electric energy outside Pacific Northwest
+##### (b) Conservable electric energy; provisional basis for delivery; return of energy to meet requirements of Pacific Northwest customers; time and extent of return of energy
+
+Electric energy generated at Federal hydroelectric plants in the Pacific Northwest which can be conserved, for which there is no immediate demand in the Pacific Northwest at any established rate, but for which the Secretary determines there may be a demand in meeting the future requirements of the Pacific Northwest, may be delivered for use outside that region only on a provisional basis under contracts providing that if the Secretary determines at a subsequent time that, by virtue of prior deliveries under such contract, the Secretary is or will be unable to meet the energy requirements of any Pacific Northwest customer, the purchaser will return the full amount of energy delivered to him, or such portion or portions thereof as may be required, at such time or times as may be specified by the Secretary, except that the Secretary shall not require return during the purchaser’s daily peak periods. The Secretary shall require the return of the energy provisionally delivered hereunder, to such extent and at such times, as may be necessary to meet demands at any established rate for use within the Pacific Northwest.

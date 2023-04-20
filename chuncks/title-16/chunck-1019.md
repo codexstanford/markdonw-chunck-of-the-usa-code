@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410jj–3. Acquisition of lands and interests
+##### (a) State- or locally-owned lands; manner of acquisition
+
+Within the boundary of the park, the Secretary is authorized to acquire those lands owned by the State of Hawaii or any political subdivision thereof only by donation or exchange, and only with the consent of the owner. Any such exchange shall be accomplished in accordance with the provisions of section 102901(b) and (c) of title 54. Any property conveyed to the State or a political subdivision thereof in exchange for property within the park which is held in trust for the benefit of Native Hawaiians, as defined in the Hawaiian Homes Commission Act of 1920 shall, as a matter of Federal law, be held by the grantee subject to an equitable estate of the same class and degree as encumbers the property within the preserve; and “available lands” defined in section 203 of the Hawaiian Homes Commission Act may be exchanged in accordance with section 204 of said Act. The vesting of title in the United States to property within the park shall operate to extinguish any such equitable estate with respect to property acquired by exchange within the park. The Secretary may lease from the Department of Hawaiian Home Lands said trust lands until such time as said lands may be acquired by exchange as set forth herein or otherwise acquired. The Secretary may enter into such a lease without regard to fiscal year limitations.

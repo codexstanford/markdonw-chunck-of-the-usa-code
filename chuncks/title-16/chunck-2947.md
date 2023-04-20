@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460gg–5. Management plan for recreation area
+##### (d) Wilderness areas; review by Secretary; recommendations of President to Congress; notice of hearings and meetings
+
+The Secretary shall review, as to their suitability or nonsuitability for preservation as wilderness, the areas generally depicted on the map referred to in section 460gg of this title as the “Lord Flat-Somers Point Plateau Wilderness Study Area”, and the “West Side Reservoir Face Wilderness Study Area”, and the “Mountain Sheep Wilderness Study Area” and report his findings to the President. The Secretary shall complete his review and the President shall, within five years from December 31, 1975 , advise the United States Senate and House of Representatives of his recommendations with respect to the designation of lands within such area as wilderness. In conducting his review the Secretary shall comply with the provisions of section 1132(d) of this title and shall give public notice at least sixty days in advance of any hearings or other public meeting concerning the wilderness study area. The Secretary shall administer all Federal lands within the study areas so as not to preclude their possible future designation by the Congress as wilderness. Nothing contained herein shall limit the President in proposing, as part of this recommendation to Congress, the designation as wilderness of any additional area within the recreation area which is predominately of wilderness value.

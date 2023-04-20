@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1609. National Forest System
+##### (a) Congressional declaration of constituent elements and purposes; lands etc., included within; return of lands to public domain
+
+Congress declares that the National Forest System consists of units of federally owned forest, range, and related lands throughout the United States and its territories, united into a nationally significant system dedicated to the long-term benefit for present and future generations, and that it is the purpose of this section to include all such areas into one integral system. The “National Forest System” shall include all national forest lands reserved or withdrawn from the public domain of the United States, all national forest lands acquired through purchase, exchange, donation, or other means, the national grasslands and land utilization projects administered under title III of the Bankhead-Jones Farm Tenant Act [ 7 U.S.C. 1010 et seq.], and other lands, waters, or interests therein which are administered by the Forest Service or are designated for administration through the Forest Service as a part of the system. Notwithstanding the provisions of section 473 of this title , no land now or hereafter reserved or withdrawn from the public domain as national forests pursuant to section 471  1 of this title, or any act supplementary to and amendatory thereof, shall be returned to the public domain except by an act of Congress.

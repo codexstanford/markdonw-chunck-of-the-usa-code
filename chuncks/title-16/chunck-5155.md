@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 6— GAME AND BIRD PRESERVES; PROTECTION
+#### § 698h. Right of use and occupancy of improved property on Big Cypress Preserve and Addition
+##### (a) Election of right of use and occupancy; payment of fair market value; termination of right
+
+The owner of an improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for himself and his heirs and assigns a right of use of and occupancy of the improved property for a definite term of not more than twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless this property is wholly or partially donated to the United States, the Secretary shall pay the owner the fair market value of the property on the date of acquisition less the fair market value, on that date, of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of sections 698f to 698m–4 of this title, which shall include the exercise of such right in violation of any applicable State or local laws and ordinances, and it shall terminate by operation of law upon the Secretary’s notifying the holder of the right of such determination and tendering to him an amount equal to the fair market value of that portion of the right which remains unexpired.

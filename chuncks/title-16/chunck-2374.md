@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 459g–1. Acquisition of property
+##### (a) Transfer from Federal agency to administrative jurisdiction of Secretary; non-Federal lands
+
+Notwithstanding any other provision of law, Federal property located within the boundaries of the Cape Lookout National Seashore may, with the concurrence of the agency having custody thereof, be transferred to the administrative jurisdiction of the Secretary of the Interior for the purposes of the seashore. Such transfer shall be made without transfer of funds. Lands owned by the State of North Carolina or any political subdivision thereof may be acquired only by donation, but the Secretary may, subject to the provisions of section 459g–6 of this title , acquire any other non-Federal lands, marshlands, waters, or interests therein which are located within the boundaries of the seashore by donation, purchase with donated or appropriated funds, or exchange. Notwithstanding any other provision of law, the Secretary may accept any lands donated by the State of North Carolina subject to a provision for reversion to the State conditioned upon continued use of the property for national seashore purposes. Land donated by the State of North Carolina pursuant to this subsection shall constitute consideration for the transfer by the United States of 1.5 acres of land that is to be used as a site for a public health facility in the village of Hatteras, Dare County, North Carolina.

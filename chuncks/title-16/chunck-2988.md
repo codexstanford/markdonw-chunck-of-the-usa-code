@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460ii–3. Federal supervision of water resources projects
+##### (b) Limitations on recommending authorizations and requesting appropriations; applicability of local considerations and criteria
+
+No department or agency of the United States shall recommend authorization of any water resources project that would have a direct and adverse effect on the values for which such area is established, as determined by the Secretary, nor shall such department or agency request appropriations to begin construction of any such project, whether heretofore or hereafter authorized, without at least sixty days in advance, (1) advising the Secretary in writing of its intention to do so and (2) reporting to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate the nature of the project involved and the manner in which such project would conflict with the purposes of this subchapter or would affect the recreation area and the values to be protected by it under this subchapter. It is not the intention of Congress by this subchapter to require the manipulation or reduction of lake water levels in Lake Sidney Lanier. Nothing in this subchapter shall be construed in any way to restrict, prohibit, or affect any recommendation of the Metropolitan Atlanta Water Resources Study as authorized by the Public Works Committee of the United States Senate on March 2, 1972 .

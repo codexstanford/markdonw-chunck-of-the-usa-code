@@ -1,0 +1,6 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12D— COLUMBIA BASIN PROJECT
+#### § 835c–2. Authorization of appropriations; establishment of Columbia Basin Land Development Account
+
+There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such moneys as may be necessary to carry out the provisions of this Act, to be reimbursable to the extent required by this Act. All revenues received in carrying out the provisions of section 4 hereof [ 16 U.S.C. 835c ] shall be covered into the General Treasury as miscellaneous receipts. Amounts equal to appropriated funds requisitioned by the Secretary and made available for disbursement on the books of the Treasurer of the United States shall be debited in a special account in the Treasury, to be known as the Columbia Basin Land Development Account. Amounts equal to revenues covered into the General Treasury as miscellaneous receipts shall be credited in said special account. After such credits equal the amount of the debits with interest thereon at the rate of 3 per centum per annum from the respective dates of the debits, additional credits in said special account shall be made by the Secretary, in the manner determined by him, the basis of corresponding credits to the construction cost obligations of the district or districts entering into contracts for the repayment thereof.

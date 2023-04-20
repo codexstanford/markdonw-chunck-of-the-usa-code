@@ -1,0 +1,15 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 54— RESOURCE CONSERVATION
+#### § 3472. Conservation tillage; Congressional findings, etc.
+###### (a) Congress finds that
+
+(1) domestic and international demand for agricultural products from the United States is great and is expected to significantly increase over the next twenty years;
+
+(2) the ability of the United States to provide agricultural products to meet that demand is seriously impaired by the annual loss of five billion tons of soil due to wind and water erosion;
+
+(3) the battle against soil erosion is being lost despite the annual expenditure of millions of dollars by the Federal Government on research, technical assistance, and conservation incentives to control soil erosion;
+
+(4) conservation tillage practices are estimated to reduce soil erosion by 50 to 90 per centum over conventional farming practices; and
+
+(5) conservation tillage may result in better yields, greater land use flexibility, decreased fuel use, decreased labor and equipment costs, increased retention of soil moisture, and more productive land than conventional farming practices and may be adaptable to a broad range of soil types and slopes throughout the country.

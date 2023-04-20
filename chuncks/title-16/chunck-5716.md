@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12— FEDERAL REGULATION AND DEVELOPMENT OF POWER
+#### § 824e. Power of Commission to fix rates and charges; determination of cost of production or transmission
+##### (a) Unjust or preferential rates, etc.; statement of reasons for changes; hearing; specification of issues
+
+Whenever the Commission, after a hearing held upon its own motion or upon complaint, shall find that any rate, charge, or classification, demanded, observed, charged, or collected by any public utility for any transmission or sale subject to the jurisdiction of the Commission, or that any rule, regulation, practice, or contract affecting such rate, charge, or classification is unjust, unreasonable, unduly discriminatory or preferential, the Commission shall determine the just and reasonable rate, charge, classification, rule, regulation, practice, or contract to be thereafter observed and in force, and shall fix the same by order. Any complaint or motion of the Commission to initiate a proceeding under this section shall state the change or changes to be made in the rate, charge, classification, rule, regulation, practice, or contract then in force, and the reasons for any proposed change or changes therein. If, after review of any motion or complaint and answer, the Commission shall decide to hold a hearing, it shall fix by order the time and place of such hearing and shall specify the issues to be adjudicated.

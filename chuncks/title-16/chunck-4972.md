@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 5B— WILDLIFE RESTORATION
+#### § 669c. Allocation and apportionment of available amounts
+##### (b) Apportionment to States
+
+The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under section 669g–1 of this title , and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.

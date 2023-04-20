@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410eeee–2. Acquisition of property
+##### (a) Authority of Secretary; manner; donation of State lands; improved and unimproved properties
+
+Within the boundaries of the New River Gorge National River, 1 the Secretary may acquire lands and waters or interests therein by donation, purchase with donated or appropriated funds, transfer, or exchange. Lands owned by the State of West Virginia or a political subdivision thereof may be acquired by donation only. In addition, the Secretary may acquire by any of the foregoing methods not to exceed ten acres outside the boundaries of the national river for an administrative headquarters site, and funds appropriated for land acquisition shall be available for the acquisition of the administrative headquarters site. The authority of the Secretary to condemn in fee, improved properties as defined in subsection (c) of this section shall not be invoked as long as the owner of such improved property holds and uses it in a manner compatible with the purposes of this subchapter. The Secretary may acquire any such improved property without the consent of the owner whenever he finds that such property has undergone, since January 1, 1978 , or is imminently about to undergo, changes in land use which are incompatible with the purposes of the national river. The Secretary may acquire less than fee interest in any improved or unimproved property within the boundaries of the national river.

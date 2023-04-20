@@ -1,0 +1,13 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410jj–4. Administration
+##### (b) Emergency, temporary, and interim activities; cooperative agreements; expenditures; rehabilitation projects
+
+(1) With the approval of the owner thereof, the Secretary may undertake critical or emergency stabilization of utilities and historic structures, develop and occupy temporary office space, and conduct interim interpretive and visitor services on non-Federal property within the park.
+
+(2) The Secretary shall seek and may enter into cooperative agreements with the owner or owners of property within the park pursuant to which the Secretary may preserve, protect, maintain, construct, reconstruct, develop, improve, and interpret sites, facilities, and resources of historic, natural, architectural, and cultural significance. Such agreements shall be of not less than twenty years duration, may be extended and amended by mutual agreement, and shall include, without limitation, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. Each such agreement shall also provide that the owner shall be liable to the United States in an amount equal to the fair market value of any capital improvements made to or placed upon the property in the event the agreement is terminated prior to its natural expiration, or any extension thereof, by the owner, such value to be determined as of the date of such termination, or, at the election of the Secretary, that the Secretary be permitted to remove such capital improvements within a reasonable time of such termination. Upon the expiration of such agreement, the improvements thereon shall become the property of the owner, unless the United States desires to remove such capital improvements and restore the property to its natural state within a reasonable time for such expiration.
+
+(3) Except for emergency, temporary, and interim activities as authorized in paragraph (1) of this subsection, no funds appropriated pursuant to this Act shall be expended on non-Federal property unless such expenditure is pursuant to a cooperative agreement with the owner.
+
+(4) The Secretary may stabilize and rehabilitate structures and other properties used for religious or sectarian purposes only if such properties constitute a substantial and integral part of the historical fabric of the Kalaupapa settlement, and only to the extent necessary and appropriate to interpret adequately the nationally significant historical features and events of the settlement for the benefit of the public.

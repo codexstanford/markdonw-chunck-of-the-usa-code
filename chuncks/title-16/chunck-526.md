@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 284c. Financial assistance for reconstruction of Center
+##### (e) Easement noise and other standards; enforcement measures
+
+No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards (“A” weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads, prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.

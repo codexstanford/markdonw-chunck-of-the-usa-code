@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 28— WILD AND SCENIC RIVERS
+#### § 1280. Federal mining and mineral leasing laws
+##### (b) Withdrawal from appropriation of minerals in Federal river beds or bank areas; prospecting, leases, licenses, and permits
+
+The minerals in any Federal lands which constitute the bed or bank or are situated within one-quarter mile of the bank of any river which is listed in section 1276(a) of this title are hereby withdrawn from all forms of appropriation under the mining laws during the periods specified in section 1278(b) of this title . Nothing contained in this subsection shall be construed to forbid prospecting or the issuance of leases, licenses, and permits under the mineral leasing laws subject to such conditions as the Secretary of the Interior and, in the case of national forest lands, the Secretary of Agriculture find appropriate to safeguard the area in the event it is subsequently included in the system. Notwithstanding the foregoing provisions of this subsection or any other provision of this chapter, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in paragraphs (77) through (88) of section 1276(a) of this title are hereby withdrawn subject to valid existing rights, from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto, during the periods specified in section 1278(b) of this title .

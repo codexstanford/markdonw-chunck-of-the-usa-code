@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 79c. Acquisition of land
+##### (a) Authority of Secretary; administrative sites; manner and place; donation of State lands; reverters and other conditions
+
+The Secretary is authorized to acquire lands and interests in land within the boundaries of the Redwood National Park and, in addition thereto, not more than ten acres outside of those boundaries for an administrative site or sites. Such acquisition may be by donation, purchase with appropriated or donated funds, exchange, or otherwise, but lands and interests in land owned by the State of California may be acquired only by donation which donation of lands or interest in lands may be accepted in the discretion of the Secretary subject to such preexisting reverters and other conditions as may appear in the title to these lands held by the State of California, and such other reverters and conditions as may be consistent with the use and management of the donated lands as a portion of Redwood National Park. Notwithstanding any other provision of law, the Secretary may expend appropriated funds for the management of and for the construction, design, and maintenance of permanent improvements on such lands and interests in land as are donated by the State of California in a manner not inconsistent with such reverters and other conditions.

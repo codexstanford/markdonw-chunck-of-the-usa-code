@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1611. Timber
+##### (a) Limitations on removal; variations in allowable sale quantity; public participation
+
+The Secretary shall limit the sale of timber from each national forest to a quantity equal to or less than a quantity which can be removed from such forest annually in perpetuity on a sustained-yield basis: Provided , That, in order to meet overall multiple-use objectives, the Secretary may establish an allowable sale quantity for any decade which departs from the projected long-term average sale quantity that would otherwise be established: Provided further , That any such planned departure must be consistent with the multiple-use management objectives of the land management plan. Plans for variations in the allowable sale quantity must be made with public participation as required by section 1604(d) of this title . In addition, within any decade, the Secretary may sell a quantity in excess of the annual allowable sale quantity established pursuant to this section in the case of any national forest so long as the average sale quantities of timber from such national forest over the decade covered by the plan do not exceed such quantity limitation. In those cases where a forest has less than two hundred thousand acres of commercial forest land, the Secretary may use two or more forests for purposes of determining the sustained yield.

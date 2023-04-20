@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1606. Budget requests by President for Forest Service activities
+##### (c) Annual evaluation report to Congress of Program components; time of submission; status of major research programs; application of findings; status, etc., of cooperative forestry assistance programs and activities
+
+For the purpose of providing information that will aid Congress in its oversight responsibilities and improve the accountability of agency expenditures and activities, the Secretary shall prepare an annual report which evaluates the component elements of the Program required to be prepared by section 1602 of this title which shall be furnished to the Congress at the time of submission of the annual fiscal budget commencing with the third fiscal year after August 17, 1974 . With regard to the research component of the program, the report shall include, but not be limited to, a description of the status of major research programs, significant findings, and how these findings will be applied in National Forest System management and in cooperative State and private Forest Service programs. With regard to the cooperative forestry assistance part of the Program, the report shall include, but not be limited to, a description of the status, accomplishments, needs, and work backlogs for the programs and activities conducted under the Cooperative Forestry Assistance Act of 1978 [ 16 U.S.C. 2101 et seq.].

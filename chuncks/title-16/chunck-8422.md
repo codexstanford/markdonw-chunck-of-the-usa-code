@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 56A— PACIFIC SALMON FISHING
+#### § 3632. United States Section
+##### (a) Commissioners
+
+The United States shall be represented on the Commission by four United States Commissioners who are knowledgeable or experienced concerning Pacific salmon, to be appointed by and serve at the pleasure of the President. Of these, one shall be an official of the United States Government who shall be a nonvoting member of the United States Section; one shall be a resident of the State of Alaska and shall be appointed from a list of at least six qualified individuals nominated by the Governor of that State; one shall be a resident of the States  1 of Oregon, 2 or Washington and shall be appointed from a list of at least six qualified individuals nominated by the Governors of those States; and one shall be appointed from a list of at least six qualified individuals nominated by the treaty Indian tribes of the States of Idaho, Oregon or Washington. Two of the initial appointments shall be for two-year terms; all other appointments shall be for four-year terms. Each Commissioner is eligible for reappointment. Any individual appointed to fill a vacancy occurring prior to the expiration of any term of office shall be appointed for the remainder of that term. Unless otherwise agreed, the chairmanship of the United States Section shall rotate annually among all four members with the order of rotation determined by lot at the first meeting.

@@ -1,0 +1,8 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460nnn–92. Release from wilderness study area status
+
+The Federal lands included in the Wildlands Juniper Management Area established under section 460nnn–91 of this title are no longer subject to the requirement of section 1782(c) of title 43 pertaining to managing the lands so as not to impair the suitability of the lands for preservation as wilderness.
+
+Part F— Land Exchanges

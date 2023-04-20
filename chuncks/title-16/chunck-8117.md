@@ -1,0 +1,13 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 51— ALASKA NATIONAL INTEREST LANDS CONSERVATION
+#### § 3142. Arctic National Wildlife Refuge coastal plain resource assessment
+##### (g) Civil penalties
+
+(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5 , to have violated any provision of a plan approved under subsection (e) or any term or condition of a permit issued under subsection (f), or to have committed any act prohibited under subsection (d) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed, and, with respect to the violator, the history of any prior offenses, his demonstrated good faith in attempting to achieve timely compliance after being cited for the violation, and such other matters as justice may require.
+
+(2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28 . The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2)(E) of title 5 .
+
+(3) If any person fails to pay an assessment of a civil penalty against him under paragraph (1) after it has become final, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+
+(4) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this subsection unless the matter is pending in court for judicial review or recovery of assessment.

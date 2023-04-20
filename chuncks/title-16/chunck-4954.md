@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 5A— PROTECTION AND CONSERVATION OF WILDLIFE
+#### § 668dd. National Wildlife Refuge System
+##### (g) Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition
+
+Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.

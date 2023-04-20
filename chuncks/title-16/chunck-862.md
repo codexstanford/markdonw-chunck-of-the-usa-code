@@ -1,0 +1,9 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 410z–1. Acquisition of additional sites
+##### (b) Cooperative agreements authorized
+
+(1) In furtherance of the general purposes of this subchapter as prescribed in section 410z of this title , the Secretary is authorized to enter into cooperative agreements with the city of Boston, the Commonwealth of Massachusetts, or any private organization to mark, interpret, restore, and/or provide technical assistance for the preservation and interpretation of any properties listed in section 410z of this title , or portions thereof, which, in his opinion, would best be preserved in private, municipal, or State ownership, in connection with the Boston National Historical Park. Such agreements shall contain, but shall not be limited to, provisions that the Secretary, through the National Park Service, shall have right of access at all reasonable times to all public portions of the property covered by such agreement for the purpose of conducting visitors through such properties and interpreting them to the public, that no changes or alterations shall be made in such properties except by mutual agreement between the Secretary and the other parties to such agreements, except that no limitation or control of any kind over the use of any such properties customarily used for church purposes shall be imposed by any agreement. The agreements may contain specific provisions which outline in detail the extent of the participation by the Secretary in the restoration, preservation, and maintenance of such historic properties.
+
+(2) The Secretary of the Interior is authorized to enter into a cooperative agreement with the Boston Public Library to provide for the distribution of informational and interpretive materials relating to the park and to the Freedom Trail.

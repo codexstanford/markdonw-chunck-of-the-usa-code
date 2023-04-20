@@ -1,0 +1,9 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 45f. Mineral King Valley addition authorized
+##### (b) Drawing copy, availability; boundary revisions: notification of Congressional committees, publication in Federal Register; abolition and transfer of Sequoia National Game Refuge to administrative jurisdiction of Secretary
+
+(1) In order to add to the Sequoia National Park (hereinafter in this section referred to as the “park”) a certain area known as Mineral King Valley possessing unique natural and scenic values, there is hereby established as part of such park all lands, waters, and interests therein, constituting approximately sixteen thousand two hundred acres designated before November 10, 1978 , as the Sequoia National Game Refuge and as depicted on the drawing entitled “Boundary Map, Sequoia-Kings Canyon National Park”, numbered 102–90,000 and dated April 1975. A copy of such drawing shall be on file and available for public inspection in the office of the Director, National Park Service, Department of the Interior. After advising the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing, the Secretary is authorized to make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+
+(2) The Sequoia National Game Refuge is hereby abolished and the Secretary of Agriculture shall transfer, without consideration, to the administrative jurisdiction of the Secretary, the area constituting such refuge, and any unexpended funds available for purposes of management of the refuge shall be available for purposes of management of the park.

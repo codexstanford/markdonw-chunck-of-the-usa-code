@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12A— TENNESSEE VALLEY AUTHORITY
+#### § 831n–4. Bonds for financing power program
+##### (g) Power property; lease and lease-purchase agreements
+
+Power generating and related facilities operated by the Corporation under lease and lease-purchase agreements shall constitute power property held by the Corporation within the meaning of section 831 l of this title, but that portion of the payment due for any fiscal year under said section 831 l of this title to a State where such facilities are located which is determined or estimated by the Board to result from holding such facilities or selling electric energy generated thereby shall be reduced by the amount of any taxes or tax equivalents applicable to such fiscal year paid by the owners or others on account of said facilities to said State and to local taxing jurisdictions therein. In connection with the construction of a generating plant or other facilities under an agreement providing for lease or purchase of said facilities or any interest therein by or on behalf of the Corporation, or for the purchase of the output thereof, the Corporation may convey, in the name of the United States by deed, lease, or otherwise, any real property in its possession or control, may perform necessary engineering and construction work and other services, and may enter into any necessary contractual arrangements.

@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12— FEDERAL REGULATION AND DEVELOPMENT OF POWER
+#### § 824a. Interconnection and coordination of facilities; emergencies; transmission to foreign countries
+##### (a) Regional districts; establishment; notice to State commissions
+
+For the purpose of assuring an abundant supply of electric energy throughout the United States with the greatest possible economy and with regard to the proper utilization and conservation of natural resources, the Commission is empowered and directed to divide the country into regional districts for the voluntary interconnection and coordination of facilities for the generation, transmission, and sale of electric energy, and it may at any time thereafter, upon its own motion or upon application, make such modifications thereof as in its judgment will promote the public interest. Each such district shall embrace an area which, in the judgment of the Commission, can economically be served by such interconnection and coordinated electric facilities. It shall be the duty of the Commission to promote and encourage such interconnection and coordination within each such district and between such districts. Before establishing any such district and fixing or modifying the boundaries thereof the Commission shall give notice to the State commission of each State situated wholly or in part within such district, and shall afford each such State commission reasonable opportunity to present its views and recommendations, and shall receive and consider such views and recommendations.

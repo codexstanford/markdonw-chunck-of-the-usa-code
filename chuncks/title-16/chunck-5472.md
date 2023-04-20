@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 10— NORTHERN PACIFIC HALIBUT FISHING
+#### § 773c. General responsibility
+##### (c) Regional Fishery Management Council involvement
+
+The Regional Fishery Management Council having authority for the geographic area concerned may develop regulations governing the United States portion of Convention waters, including limited access regulations, applicable to nationals or vessels of the United States, or both, which are in addition to, and not in conflict with regulations adopted by the Commission. Such regulations shall only be implemented with the approval of the Secretary, shall not discriminate between residents of different States, and shall be consistent with the limited entry criteria set forth in section 1853(b)(6) of this title . If it becomes necessary to allocate or assign halibut fishing privileges among various United States fishermen, such allocation shall be fair and equitable to all such fishermen, based upon the rights and obligations in existing Federal law, reasonably calculated to promote conservation, and carried out in such manner that no particular individual, corporation, or other entity acquires an excessive share of the halibut fishing privileges: Provided , That the Regional Council may provide for the rural coastal villages of Alaska the opportunity to establish a commercial halibut fishery in areas in the Bering Sea to the north of 56 degrees north latitude during a 3 year development period.

@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 36— FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING
+#### § 1673. State programs
+##### (a) Development by State program director, etc., of comprehensive and coordinated program by mutual agreement; consultations; review procedure
+
+The State director of cooperative extension programs (hereinafter in this subchapter referred to as the “State director”) and the administrative heads of extension for eligible colleges and universities in each State shall jointly develop, by mutual agreement, a single comprehensive and coordinated renewable resources extension program in which the role of each eligible college and university is well-defined. In meeting this responsibility, the State director and the administrative heads of extension for eligible colleges and universities shall consult and seek agreement with the administrative technical representatives and the forestry representatives provided for by the Secretary in implementation of the Act of October 10, 1962 ( 76 Stat. 806–807 , as amended; 16 U.S.C. 582a , 582a–1—582a–7), in the State. Each State’s renewable resources extension program shall be submitted to the Secretary annually. The National Agricultural Research, Extension, Education, and Economics Advisory Board established under section 3123 of title 7 shall review and make recommendations to the Secretary pertaining to programs conducted under this subchapter.

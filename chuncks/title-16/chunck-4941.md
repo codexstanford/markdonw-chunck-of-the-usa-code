@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 5A— PROTECTION AND CONSERVATION OF WILDLIFE
+#### § 668b. Enforcement provisions
+##### (a) Arrest; search; issuance and execution of warrants and process
+
+Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this subchapter may, without warrant, arrest any person committing in his presence or view a violation of this subchapter or of any permit or regulations issued hereunder and take such person immediately for examination or trial before an officer or court of competent jurisdiction; may execute any warrant or other process issued by an officer or court of competent jurisdiction for the enforcement of the provisions of this subchapter; and may, with or without a warrant, as authorized by law, search any place. The Secretary of the Interior is authorized to enter into cooperative agreements with State fish and wildlife agencies or other appropriate State authorities to facilitate enforcement of this subchapter, and by said agreements to delegate such enforcement authority to State law enforcement personnel as he deems appropriate for effective enforcement of this subchapter. Any judge of any court established under the laws of the United States, and any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.

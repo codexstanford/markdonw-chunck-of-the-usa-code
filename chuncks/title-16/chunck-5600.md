@@ -1,0 +1,19 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 12— FEDERAL REGULATION AND DEVELOPMENT OF POWER
+#### § 808. New licenses and renewals
+##### (d) Adequacy of transmission facilities; provision of services to successor by existing licensee; tariff; final order; modification, extension or termination of order
+
+(1) In evaluating applications for new licenses pursuant to this section, the Commission shall not consider whether an applicant has adequate transmission facilities with regard to the project.
+
+(2) When the Commission issues a new license (pursuant to this section) to an applicant which is not the existing licensee of the project and finds that it is not feasible for the new licensee to utilize the energy from such project without provision by the existing licensee of reasonable services, including transmission services, the Commission shall give notice to the existing licensee and the new licensee to immediately enter into negotiations for such services and the costs demonstrated by the existing licensee as being related to the provision of such services. It is the intent of the Congress that such negotiations be carried out in good faith and that a timely agreement be reached between the parties in order to facilitate the transfer of the license by the date established when the Commission issued the new license. If such parties do not notify the Commission that within the time established by the Commission in such notice (and if appropriate, in the judgment of the Commission, one 45-day extension thereof), a mutually satisfactory arrangement for such services that is consistent with the provisions of this chapter has been executed, the Commission shall order the existing licensee to file (pursuant to section 824d of this title ) with the Commission a tariff, subject to refund, ensuring such services beginning on the date of transfer of the project and including just and reasonable rates and reasonable terms and conditions. After notice and opportunity for a hearing, the Commission shall issue a final order adopting or modifying such tariff for such services at just and reasonable rates in accordance with section 824d of this title and in accordance with reasonable terms and conditions. The Commission, in issuing such order, shall ensure the services necessary for the full and efficient utilization and benefits for the license term of the electric energy from the project by the new licensee in accordance with the license and this subchapter, except that in issuing such order the Commission
+
+(A) shall not compel the existing licensee to enlarge generating facilities, transmit electric energy other than to the distribution system (providing service to customers) of the new licensee identified as of the date one day preceding the date of license award, or require the acquisition of new facilities, including the upgrading of existing facilities other than any reasonable enhancement or improvement of existing facilities controlled by the existing licensee (including any acquisition related to such enhancement or improvement) necessary to carry out the purposes of this paragraph;
+
+(B) shall not adversely affect the continuity and reliability of service to the customers of the existing licensee;
+
+(C) shall not adversely affect the operational integrity of the transmission and electric systems of the existing licensee;
+
+(D) shall not cause any reasonably quantifiable increase in the jurisdictional rates of the existing licensee; and
+
+(E) shall not order any entity other than the existing licensee to provide transmission or other services. Such order shall be for such period as the Commission deems appropriate, not to exceed the term of the license. At any time, the Commission, upon its own motion or upon a petition by the existing or new licensee and after notice and opportunity for a hearing, may modify, extend, or terminate such order.

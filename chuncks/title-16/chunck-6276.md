@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 16A— ATLANTIC TUNAS CONVENTION
+#### § 971c. Authority of Secretary of State; cooperative enforcement agreements
+##### (b) Enforcement agreements
+
+The Secretary of State, in consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, is authorized to enter into agreements with any contracting party, pursuant to paragraph 3 of article IX of the Convention, relating to cooperative enforcement of the provisions of the Convention, recommendations in force for the United States and such party or parties under the Convention, and regulations adopted by the United States and such contracting party or parties pursuant to recommendations of the Commission. Such agreements may authorize personnel of the United States to enforce measures under the Convention and under regulations of another party with respect to persons under that party’s jurisdiction, and may authorize personnel of another party to enforce measures under the Convention and under United States regulations with respect to persons subject to the jurisdiction of the United States. Enforcement under such an agreement may not take place within the territorial seas or exclusive economic zone of the United States. Such agreements shall not subject persons or vessels under the jurisdiction of the United States to prosecution or assessment of penalties by any court or tribunal of a foreign country.

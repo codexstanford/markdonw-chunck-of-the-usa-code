@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 2— NATIONAL FORESTS
+#### § 472a. Timber sales on National Forest System lands
+##### (c) Terms and conditions of contract
+
+The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended [ 16 U.S.C. 1604 ]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 [ 16 U.S.C. 528–531 ]) will result, sales contracts shall be for a period not to exceed ten years: Provided , That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordance with an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.

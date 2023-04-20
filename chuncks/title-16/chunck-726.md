@@ -1,0 +1,6 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 407m–2. Acquisition of property adjacent to Old Saint Joseph’s Church
+
+The Secretary of the Interior is authorized to acquire by donation or with donated funds, or to acquire by purchase, from the Redevelopment Authority of the City of Philadelphia the land and interests in land immediately adjacent to, but not including the Old Saint Joseph’s Church property in the city of Philadelphia, Pennsylvania, which land and interests in land are identified on the records of the city of Philadelphia as 324, 326, 328, 330, 332, 334 and 336 Walnut Street, for inclusion in the Independence National Historical Park: Provided , That the Secretary shall first enter into an agreement with the proprietor or proprietors of the Old Saint Joseph’s Church property, such agreement to contain the usual and customary provisions for the protection and physical maintenance of such church property, without expense to the United States, in keeping with, but not as a part of the nearby Independence National Historical Park and providing for its continued use, without limitation or control, for customary church purposes.

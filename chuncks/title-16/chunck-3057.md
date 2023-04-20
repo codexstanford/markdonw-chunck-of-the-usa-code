@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 1— NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES
+#### § 460mm–4. Administration of recreation area
+##### (a) Recreation, conservation, and resource development
+
+The White Mountains National Recreation area established by this Act shall be administered by the Secretary in order to provide for public outdoor recreation use and enjoyment and for the conservation of the scenic, scientific, historic, fish and wildlife, and other values contributing to public enjoyment of such area. Except as otherwise provided in this Act, the Secretary shall administer the recreation area in a manner which in his judgment will best provide for (1) public outdoor recreation benefits; (2) conservation of scenic, scientific, historic, fish and wildlife, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of natural resources and the continuation of such existing uses and developments as will promote, or are compatible with, or do not significantly impair public recreation and conservation of the scenic, scientific, historic, fish and wildlife, or other values contributing to public enjoyment. In administering the recreation area, the Secretary may utilize such statutory authorities available to him for the conservation and management of natural resources as he deems appropriate for recreation and preservation purposes and for resource development compatible therewith.

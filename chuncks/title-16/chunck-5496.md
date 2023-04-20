@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 10B— FISH RESTORATION AND MANAGEMENT PROJECTS
+#### § 777. Federal-State relationships
+##### (a) Cooperation between Federal Government and State fish and game departments; expenditure of funds
+
+The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.

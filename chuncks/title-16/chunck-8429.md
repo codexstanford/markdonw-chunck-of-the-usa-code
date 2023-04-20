@@ -1,0 +1,21 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 56A— PACIFIC SALMON FISHING
+#### § 3632. United States Section
+##### (h) Voting requirements
+
+(1) Except as provided in paragraph (2), the United States Section shall operate with the objective of attaining consensus decisions in the development and exercise of its single vote within the Commission. A decision of the United States Section shall be taken when there is no dissenting vote.
+
+(2) A decision of the United States Section with respect to any salmon fishery regime covered by chapter 1 or 2 (except paragraph 4 of chapter 2) of Annex IV to the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of the United States Commissioner appointed from the list submitted by the Governor of Alaska pursuant to subsection (a). A decision of the United States Section with respect to any salmon fishery regime covered by chapter 4, 5 (except paragraph 2(b) of chapter 5), or 6 of the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of both the United States Commissioner appointed from the list submitted by the Governors of Washington and Oregon pursuant to subsection (a) and the United States Commissioner appointed from the list submitted by the treaty Indian tribes of the State of Idaho, Oregon, or Washington pursuant to subsection (a). Before a decision of the United States Section is made under this paragraph, the voting Commissioner or Commissioners shall consult with the Commissioner who is an official of the United States Government under subsection (a)  3
+
+(3) All decisions and recommendations of the United States Section of the northern, southern, and transboundary Panels shall require the concurring vote of a majority of the United States Panel members present and voting, except that decisions and recommendations of the southern Panel shall require the concurring vote of the members designated in subsections (c)(2) and (c)(3) and one of those members designated in subsection (c)(4).
+
+(4) All decisions and recommendations of the United States Section of the Fraser River Panel shall require the concurring vote of all United States Panel members present and voting, except that orders referred to in article VI(6) of the Treaty may be agreed to on the basis of a majority, provided that the Panel members representing the State and Tribal fishery management authorities concur.
+
+(5) All decisions and recommendations of any joint Panel shall require the concurring votes of each Panel under the voting rules specified in paragraphs (2) and (3).
+
+(6) To assist in the resolution of disputes affecting decisions of the United States Section or of the United States Panel sections, a three-person Conciliation Board may be established. The members of the Conciliation Board shall be selected by the United States Section as follows: each non-Federal Commissioner shall submit a list of no fewer than three qualified nominees; one person shall be selected from each list by consensus decision of the Federal Commissioner and the other two non-Federal Commissioners. The Conciliation Board shall operate under such bylaws as may be established by the United States Section.
+
+(7) In any matter where the Fraser River Panel is unable to act because the United States Fraser River Panel members have been unable to reach a decision in accordance with paragraph (3) of this subsection, and upon a determination by the Chairman of the United States Section that an action of the Panel is required, the United States Section shall act for the United States Panel members in the Fraser River Panel.
+
+(8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.

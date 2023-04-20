@@ -1,0 +1,7 @@
+
+# Title 16— CONSERVATION
+### CHAPTER 38— FISHERY CONSERVATION AND MANAGEMENT
+#### § 1824. Permits for foreign fishing
+##### (c) Registration permits
+
+The Secretary of State, in cooperation with the Secretary, shall issue annually a registration permit for each fishing vessel of a foreign nation which is a party to an international fishery agreement under which foreign fishing is authorized by section 1821(b) of this title and which wishes to engage in fishing described in subsection (a). Each such permit shall set forth the terms and conditions contained in the agreement that apply with respect to such fishing, and shall include the additional requirement that the owner or operator of the fishing vessel for which the permit is issued shall prominently display such permit in the wheelhouse of such vessel and show it, upon request, to any officer authorized to enforce the provisions of this chapter (as provided for in section 1861 of this title ). The Secretary of State, after consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, shall prescribe the form and manner in which applications for registration permits may be made, and the forms of such permits. The Secretary of State may establish, require the payment of, and collect fees for registration permits; except that the level of such fees shall not exceed the administrative costs incurred by him in issuing such permits.
