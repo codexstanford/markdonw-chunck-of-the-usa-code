@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 70— STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
+#### § 7151. Transferred
+
+subpart 4— general provisions

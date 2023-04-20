@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 68— NATIONAL EDUCATION REFORM
+#### § 6064. Contraceptive devices
+
+The Department of Health and Human Services and the Department of Education shall ensure that all federally funded programs which provide for the distribution of contraceptive devices to unemancipated minors develop procedures to encourage, to the extent practical, family participation in such programs.

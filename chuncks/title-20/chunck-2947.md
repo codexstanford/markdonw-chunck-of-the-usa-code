@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 47— STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
+#### §§ 2941 to 2943. Omitted
+
+subpart 4— effective schools programs

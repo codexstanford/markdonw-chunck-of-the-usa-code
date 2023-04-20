@@ -1,0 +1,8 @@
+
+# Title 20— EDUCATION
+### CHAPTER 3— SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES
+#### § 76s. Definitions
+
+As used in this subchapter, the terms “building and site of the John F. Kennedy Center for the Performing Arts” and “grounds of the John F. Kennedy Center for the Performing Arts” refer to the site in the District of Columbia on which the John F. Kennedy Center building is constructed and that extends to the line of the west face of the west retaining walls and curbs of the Inner Loop Freeway on the east, the north face of the north retaining walls and curbs of the Theodore Roosevelt Bridge approaches on the south, the east face of the east retaining walls and curbs of Rock Creek Parkway on the west, and the south curbs of New Hampshire Avenue and F Street on the north, as generally depicted on the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563, and dated April 20, 1994 (as amended by the map entitled “Transfer of John F. Kennedy Center for the Performing Arts”, numbered 844/82563A and dated May 22, 1997 ), which shall be on file and available for public inspection in the office of the National Capital Region, National Park Service, Department of the Interior. Upon completion of the project for establishment of the John F. Kennedy Center Plaza authorized by section 76q–1 of this title , the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence.
+
+SUBCHAPTER VI— JOSEPH H. HIRSHHORN MUSEUM AND SCULPTURE GARDEN

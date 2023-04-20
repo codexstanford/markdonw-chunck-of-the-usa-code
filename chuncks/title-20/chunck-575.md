@@ -1,0 +1,7 @@
+
+# Title 20— EDUCATION
+### CHAPTER 26— SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES
+#### § 957. National Council on the Humanities
+##### (f) Advisory functions: policies, programs, and procedures; review of applications for financial support; recommendations prerequisite to action of Chairperson; unilateral action by Chairperson pursuant to delegation of authority
+
+The Council shall (1) advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson’s functions, and (2) shall review applications for financial support and make recommendations thereon to the Chairperson. The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application, unless the Council fails to make a recommendation thereon within a reasonable time. In the case of any application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of a delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council: Provided , That the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (B) of paragraph (1) of section 960(a) of this title .

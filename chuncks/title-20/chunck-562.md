@@ -1,0 +1,7 @@
+
+# Title 20— EDUCATION
+### CHAPTER 26— SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES
+#### § 956. National Endowment for the Humanities
+##### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
+
+It shall be a condition of the receipt of any grant under this section that the group, individual, or State agency or entity receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection.

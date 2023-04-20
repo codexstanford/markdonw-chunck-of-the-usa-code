@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 70— STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
+#### §§ 8671 to 8678. Transferred
+
+Part D— Technology-Based Technical Assistance

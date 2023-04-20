@@ -1,0 +1,7 @@
+
+# Title 20— EDUCATION
+### CHAPTER 26— SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES
+#### § 958. Federal Council on the Arts and the Humanities
+##### (b) Composition; presiding officer; changes in membership to meet changes in programs or executive branch organization
+
+The Council shall be composed of the Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, the Director of the Institute of Museum and Library Services, the Secretary of Education, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, the Librarian of Congress, the Director of the National Gallery of Art, the Chairman of the Commission of Fine Arts, the Archivist of the United States, the Commissioner, Public Buildings Service, General Services Administration, the Assistant Secretary for Aging, a member designated by the Secretary of State, and a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House. The President shall designate the presiding officer of the Council from among the members. The President is authorized to change the membership of the Council from time to time as the President deems necessary to meet changes in Federal programs or executive branch organization.

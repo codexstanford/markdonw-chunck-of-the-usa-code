@@ -1,0 +1,7 @@
+
+# Title 20— EDUCATION
+### CHAPTER 28— HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE
+#### § 1080. Default of student under Federal loan insurance program
+##### (b) Effect of payment of loss
+
+Upon payment of the amount of the loss pursuant to subsection (a), the United States shall be subrogated for all of the rights of the holder of the obligation upon the insured loan and shall be entitled to an assignment of the note or other evidence of the insured loan by the insurance beneficiary. If the net recovery made by the Secretary on a loan after deduction of the cost of that recovery (including reasonable administrative costs and collection costs, to the extent set forth in regulations issued by the Secretary) exceeds the amount of the loss, the excess shall be paid over to the insured. The Secretary may, in attempting to make recovery on such loans, contract with private business concerns, State student loan insurance agencies, or State guaranty agencies, for payment for services rendered by such concerns or agencies in assisting the Secretary in making such recovery. Any contract under this subsection entered into by the Secretary shall provide that attempts to make recovery on such loans shall be fair and reasonable, and do not involve harassment, intimidation, false or misleading representations, or unnecessary communications concerning the existence of any such loan to persons other than the student borrower.

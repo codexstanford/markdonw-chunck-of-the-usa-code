@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 47— STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
+#### §§ 3101, 3102. Omitted
+
+subpart 3— general provisions

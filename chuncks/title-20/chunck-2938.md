@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 47— STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
+#### §§ 2831 to 2839. Omitted
+
+subpart 2— state administration

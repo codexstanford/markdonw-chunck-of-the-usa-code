@@ -1,0 +1,6 @@
+
+# Title 20— EDUCATION
+### CHAPTER 70— STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
+#### § 6871. Repealed. Pub. L. 114–95, title III, § 3001(2)(C) , Dec. 10, 2015 , 129 Stat. 1953
+
+Part B— General Provisions

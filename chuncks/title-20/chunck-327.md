@@ -1,0 +1,7 @@
+
+# Title 20— EDUCATION
+### CHAPTER 6A— VENDING FACILITIES FOR BLIND IN FEDERAL BUILDINGS
+#### § 107d–3. Vending machine income
+##### (a) Accrual to blind licensee and alternatively to State agency; ceiling on amount for individual licensee
+
+In accordance with the provisions of subsection (b) of this section, vending machine income obtained from the operation of vending machines on Federal property shall accrue (1) to the blind licensee operating a vending facility on such property, or (2) in the event there is no blind licensee operating such facility on such property, to the State agency in whose State the Federal property is located, for the uses designated in subsection (c) of this section, except that with respect to income which accrues under clause (1) of this subsection, the Commissioner may prescribe regulations imposing a ceiling on income from such vending machines for an individual blind licensee. In the event such a ceiling is imposed, no blind licensee shall receive less vending machine income under such ceiling than he was receiving on January 1, 1974 . No limitation shall be imposed on income from vending machines, combined to create a vending facility, which are maintained, serviced, or operated by a blind licensee. Any amounts received by a blind licensee that are in excess of the amount permitted to accrue to him under any ceiling imposed by the Commissioner shall be disbursed to the appropriate State agency under clause (2) of this subsection and shall be used by such agency in accordance with subsection (c) of this section.

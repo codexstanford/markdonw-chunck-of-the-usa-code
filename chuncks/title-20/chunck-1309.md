@@ -1,0 +1,13 @@
+
+# Title 20— EDUCATION
+### CHAPTER 28— HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE
+#### § 1079. Certificate of Federal loan insurance—effective date of insurance
+##### (b) Comprehensive insurance coverage certificate
+
+(1) Establishment of system by regulation
+
+In lieu of requiring a separate insurance application and issuing a separate certificate of insurance for each student loan made by an eligible lender as provided in subsection (a), the Secretary may, in accordance with regulations consistent with section 1074 of this title , issue to any eligible lender applying therefor a certificate of comprehensive insurance coverage which shall, without further action by the Secretary, insure all insurable loans made by that lender, on or after the date of the certificate and before a specified cutoff date, within the limits of an aggregate maximum amount stated in the certificate. Such regulations may provide for conditioning such insurance, with respect to any loan, upon compliance by the lender with such requirements (to be stated or incorporated by reference in the certificate) as in the Secretary’s judgment will best achieve the purpose of this subsection while protecting the United States from the risk of unreasonable loss and promoting the objectives of this part, including (but not limited to) provisions as to the reporting of such loans and information relevant thereto to the Secretary and as to the payment of initial and other premiums and the effect of default therein, and including provision for confirmation by the Secretary from time to time (through endorsement of the certificate) of the coverage of specific new loans by such certificate, which confirmation shall be incontestable by the Secretary in the absence of fraud or misrepresentation of fact or patent error.
+
+(2) Uncovered loans
+
+If the holder of a certificate of comprehensive insurance coverage issued under this subsection grants to a student a line of credit extending beyond the cutoff date specified in that certificate, loans or payments thereon made by the holder after that date pursuant to the line of credit shall not be deemed to be included in the coverage of that certificate except as may be specifically provided therein; but, subject to the limitations of section 1074 of this title , the Secretary may, in accordance with regulations, make commitments to insure such future loans or payments, and such commitments may be honored either as provided in subsection (a) or by inclusion of such insurance on comprehensive coverage under the subsection for the period or periods in which such future loans or payments are made.

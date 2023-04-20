@@ -1,0 +1,7 @@
+
+# Title 20— EDUCATION
+### CHAPTER 31— GENERAL PROVISIONS CONCERNING EDUCATION
+#### § 1231b–2. Review of applications
+##### (a) Persons aggrieved; final State educational agency actions; hearing; ruling and reasons for ruling; rescission of final actions
+
+In the case of any applicable program under which financial assistance is provided to (or through) a State educational agency to be expended in accordance with a State plan approved by the Secretary, any applicant or recipient aggrieved by the final action of the State educational agency, and alleging a violation of State or Federal law, rules, regulations, or guidelines governing the applicable program, in (1) disapproving or failing to approve its application or program in whole or part, (2) failing to provide funds in amounts in accord with the requirements of laws and regulations, (3) ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds, or (4) terminating further assistance for an approved program, may within thirty days request a hearing. Within thirty days after it receives such a request, the State educational agency shall hold a hearing on the record and shall review such final action. No later than ten days after the hearing, the State educational agency shall issue its written ruling, including reasons therefor. If it determines such final action was contrary to Federal or State law, or the rules, regulations, and guidelines governing such applicable program, it shall rescind such final action.
