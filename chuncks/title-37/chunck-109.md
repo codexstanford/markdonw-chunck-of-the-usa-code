@@ -1,0 +1,11 @@
+
+# Title 37— PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
+### CHAPTER 5— SPECIAL AND INCENTIVE PAYS
+#### § 302k. Special pay: accession bonus for medical officers in critically short wartime specialties
+###### (c) Limitation on Eligibility for Bonus .
+
+A person may not be paid a bonus under subsection (a) if
+
+(1) the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a course of study in medicine or osteopathy; or
+
+(2) the Secretary concerned determines that the person is not qualified to become and remain certified as a doctor or osteopath in a specialty designated by regulations as a critically short wartime specialty.
