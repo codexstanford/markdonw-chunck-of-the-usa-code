@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 25— SURFACE MINING CONTROL AND RECLAMATION
+#### § 1269. Release of performance bonds or deposits
+##### (f) Objections to release; hearing
+
+Any person with a valid legal interest which might be adversely affected by release of the bond or the responsible officer or head of any Federal, State, or local governmental agency which has jurisdiction by law or special expertise with respect to any environmental, social, or economic impact involved in the operation, or is authorized to develop and enforce environmental standards with respect to such operations shall have the right to file written objections to the proposed release from bond to the regulatory authority within thirty days after the last publication of the above notice. If written objections are filed, and a hearing requested, the regulatory authority shall inform all the interested parties, of the time and place of the hearing, and hold a public hearing in the locality of the surface coal mining operation proposed for bond release within thirty days of the request for such hearing. The date, time, and location of such public hearings shall be advertised by the regulatory authority in a newspaper of general circulation in the locality for two consecutive weeks, and shall hold a public hearing in the locality of the surface coal mining operation proposed for bond release or at the State capital at the option of the objector, within thirty days of the request for such hearing.

@@ -1,0 +1,21 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 816. Judicial review of Commission orders
+##### (a) Petition by person adversely affected or aggrieved; temporary relief
+
+(1) Any person adversely affected or aggrieved by an order of the Commission issued under this chapter may obtain a review of such order in any United States court of appeals for the circuit in which the violation is alleged to have occurred or in the United States Court of Appeals for the District of Columbia Circuit, by filing in such court within 30 days following the issuance of such order a written petition praying that the order be modified or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Commission and to the other parties, and thereupon the Commission shall file in the court the record in the proceeding as provided in section 2112 of title 28 . Upon such filing, the court shall have exclusive jurisdiction of the proceeding and of the questions determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, or setting aside, in whole or in part, the order of the Commission and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Commission shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Commission with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Commission, the court may order such additional evidence to be taken before the Commission and to be made a part of the record. The Commission may modify its findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and it shall file such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The Commission may modify or set aside its original order by reason of such modified or new findings of fact. Upon the filing of the record after such remand proceedings, the jurisdiction of the court shall be exclusive and its judgment and degree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28 .
+
+(2) In the case of a proceeding to review any order or decision issued by the Commission under this chapter, except an order or decision pertaining to an order issued under section 817(a) of this title or an order or decision pertaining to a citation issued under section 814(a) or (f) of this title, the court may, under such conditions as it may prescribe, grant such temporary relief as it deems appropriate pending final determination of the proceeding, if
+
+(A) all parties to the proceeding have been notified and given an opportunity to be heard on a request for temporary relief;
+
+(B) the person requesting such relief shows that there is a substantial likelihood that he will prevail on the merits of the final determination of the proceeding; and
+
+(C) such relief will not adversely affect the health and safety of miners in the coal or other mine.
+
+(3) In the case of a proceeding to review any order or decision issued by the Panel under this chapter, the court may, under such conditions as it may prescribe, grant such temporary relief as it deems appropriate pending final determination of the proceeding, if
+
+(A) all parties to the proceeding have been notified and given an opportunity to be heard on a request for temporary relief; and
+
+(B) the person requesting such relief shows that there is a substantial likelihood that he will prevail on the merits of the final determination of the proceeding.

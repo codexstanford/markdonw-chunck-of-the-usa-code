@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 815. Procedure for enforcement
+##### (a) Notification of civil penalty; contest
+
+If, after an inspection or investigation, the Secretary issues a citation or order under section 814 of this title , he shall, within a reasonable time after the termination of such inspection or investigation, notify the operator by certified mail of the civil penalty proposed to be assessed under section 820(a) of this title for the violation cited and that the operator has 30 days within which to notify the Secretary that he wishes to contest the citation or proposed assessment of penalty. A copy of such notification shall be sent by mail to the representative of miners in such mine. If, within 30 days from the receipt of the notification issued by the Secretary, the operator fails to notify the Secretary that he intends to contest the citation or the proposed assessment of penalty, and no notice is filed by any miner or representative of miners under subsection (d) of this section within such time, the citation and the proposed assessment of penalty shall be deemed a final order of the Commission and not subject to review by any court or agency. Refusal by the operator or his agent to accept certified mail containing a citation and proposed assessment of penalty under this subsection shall constitute receipt thereof within the meaning of this subsection.

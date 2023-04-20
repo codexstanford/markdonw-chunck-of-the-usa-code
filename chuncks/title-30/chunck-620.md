@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 872. Maps
+##### (a) Fireproof repository; contents; certification
+
+The operator of a coal mine shall have in a fireproof repository located in an area on the surface of the mine chosen by the mine operator to minimize the danger of destruction by fire or other hazard, an accurate and up-to-date map of such mine drawn on scale. Such map shall show the active workings, all pillared, worked out, and abandoned areas, except as provided in this section, entries and aircourses with the direction of airflow indicated by arrows, contour lines of all elevations, elevations of all main and cross or side entries, dip of the coalbed, escapeways, adjacent mine workings within one thousand feet, mines above or below, water pools above, and either producing or abandoned oil and gas wells located within five hundred feet of such mine and any underground area of such mine, and such other information as the Secretary may require. Such map shall identify those areas of the mine which have been pillared, worked out, or abandoned which are inaccessible or cannot be entered safely and on which no information is available. Such map shall be made or certified by a registered engineer or a registered surveyor of the State in which the mine is located. Such map shall be kept up to date by temporary notations and such map shall be revised and supplemented at intervals prescribed by the Secretary on the basis of a survey made or certified by such engineer or surveyor.

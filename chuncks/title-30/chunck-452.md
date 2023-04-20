@@ -1,0 +1,13 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 814. Citations and orders
+##### (e) Pattern of violations; abatement; termination of pattern
+
+(1) If an operator has a pattern of violations of mandatory health or safety standards in the coal or other mine which are of such nature as could have significantly and substantially contributed to the cause and effect of coal or other mine health or safety hazards, he shall be given written notice that such pattern exists. If, upon any inspection within 90 days after the issuance of such notice, an authorized representative of the Secretary finds any violation of a mandatory health or safety standard which could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard, the authorized representative shall issue an order requiring the operator to cause all persons in the area affected by such violation, except those persons referred to in subsection (c), to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
+
+(2) If a withdrawal order with respect to any area in a coal or other mine has been issued pursuant to paragraph (1), a withdrawal order shall be issued by an authorized representative of the Secretary who finds upon any subsequent inspection the existence in such mine of any violation of a mandatory health or safety standard which could significantly and substantially contribute to the cause and effect of a coal or other mine health or safety hazard. The withdrawal order shall remain in effect until an authorized representative of the Secretary determines that such violation has been abated.
+
+(3) If, upon an inspection of the entire coal or other mine, an authorized representative of the Secretary finds no violations of mandatory health or safety standards that could significantly and substantially contribute to the cause and effect of a coal or other mine health and safety hazard, the pattern of violations that resulted in the issuance of a notice under paragraph (1) shall be deemed to be terminated and the provisions of paragraphs (1) and (2) shall no longer apply. However, if as a result of subsequent violations, the operator reestablishes a pattern of violations, paragraphs (1) and (2) shall again be applicable to such operator.
+
+(4) The Secretary shall make such rules as he deems necessary to establish criteria for determining when a pattern of violations of mandatory health or safety standards exists.

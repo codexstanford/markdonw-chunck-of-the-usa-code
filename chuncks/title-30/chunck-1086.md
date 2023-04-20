@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 25— SURFACE MINING CONTROL AND RECLAMATION
+#### § 1272. Designating areas unsuitable for surface coal mining
+##### (c) Petition; intervention; decision
+
+Any person having an interest which is or may be adversely affected shall have the right to petition the regulatory authority to have an area designated as unsuitable for surface coal mining operations, or to have such a designation terminated. Such a petition shall contain allegations of facts with supporting evidence which would tend to establish the allegations. Within ten months after receipt of the petition the regulatory authority shall hold a public hearing in the locality of the affected area, after appropriate notice and publication of the date, time, and location of such hearing. After a person having an interest which is or may be adversely affected has filed a petition and before the hearing, as required by this subsection, any person may intervene by filing allegations of facts with supporting evidence which would tend to establish the allegations. Within sixty days after such hearing, the regulatory authority shall issue and furnish to the petitioner and any other party to the hearing, a written decision regarding the petition, and the reasons therefore. 1 In the event that all the petitioners stipulate agreement prior to the requested hearing, and withdraw their request, such hearing need not be held.

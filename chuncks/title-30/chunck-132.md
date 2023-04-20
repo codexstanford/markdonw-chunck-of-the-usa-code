@@ -1,0 +1,9 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 3A— LEASES AND PROSPECTING PERMITS
+#### § 185. Rights-of-way for pipelines through Federal lands
+##### (h) Environmental protection
+
+(1) Nothing in this section shall be construed to amend, repeal, modify, or change in any way the requirements of section 102(2)(C) [ 42 U.S.C. 4332(2)(C) ] or any other provision of the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
+
+(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.

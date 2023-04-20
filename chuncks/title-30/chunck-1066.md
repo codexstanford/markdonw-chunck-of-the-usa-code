@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 25— SURFACE MINING CONTROL AND RECLAMATION
+#### § 1269. Release of performance bonds or deposits
+##### (a) Filing of request; submittal of copy of advertisement; notification by letter of intent to seek release
+
+The permittee may file a request with the regulatory authority for the release of all or part of a performance bond or deposit. Within thirty days after any application for bond or deposit release has been filed with the regulatory authority, the operator shall submit a copy of an advertisement placed at least once a week for four successive weeks in a newspaper of general circulation in the locality of the surface coal mining operation. Such advertisement shall be considered part of any bond release application and shall contain a notification of the precise location of the land affected, the number of acres, the permit and the date approved, the amount of the bond filed and the portion sought to be released, and the type and appropriate dates of reclamation work performed, and a description of the results achieved as they relate to the operator’s approved reclamation plan. In addition, as part of any bond release application, the applicant shall submit copies of letters which he has sent to adjoining property owners, local governmental bodies, planning agencies, and sewage and water treatment authorities, or water companies in the locality in which the surface coal mining and reclamation activities took place, notifying them of his intention to seek release from the bond.

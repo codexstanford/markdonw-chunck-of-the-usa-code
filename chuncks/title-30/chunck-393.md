@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 17— EXPLORATION PROGRAM FOR DISCOVERY OF MINERALS
+#### § 642. Exploration contracts
+##### (a) Terms and conditions; interest rates
+
+In order to carry out the purposes of this chapter, and subject to the provisions of this section, the Secretary is authorized to enter into exploration contracts with individuals, partnerships, corporations, or other legal entities which shall provide for such Federal financial participation as he deems in the national interest. Such contracts shall contain terms and conditions as the Secretary deems necessary and appropriate, including terms and conditions for the repayment of the Federal funds made available under any contract together with interest thereon, as a royalty on the value of the production from the area described in the contract. Interest shall be calculated from the date of the loan. Such interest shall be at rates which (1) are not less than the rates of interest which the Secretary of the Treasury shall determine the Department of the Interior would have to pay if it borrowed such funds from the Treasury of the United States, taking into consideration current average yields on outstanding marketable obligations of the United States with maturities comparable to the terms of the particular contracts involved and (2) plus 2 per centum per annum in lieu of recovering the cost of administering the particular contracts.

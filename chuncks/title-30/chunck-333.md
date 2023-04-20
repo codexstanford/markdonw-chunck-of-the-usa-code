@@ -1,0 +1,6 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 12— MULTIPLE MINERAL DEVELOPMENT OF THE SAME TRACTS
+#### § 528. Waiver and relinquishment of mineral rights
+
+The owner or owners of any mining claim heretofore located may, at any time prior to issuance of patent therefor, waive and relinquish all rights thereunder to Leasing Act minerals. The execution and acknowledgment of such a waiver and relinquishment by such owner or owners and the recordation thereof in the office where the notice or certificate of location of such mining claim is of record shall render such mining claim thereafter subject to the reservation referred to in section 524 of this title and any patent issued therefor shall contain such a reservation, but no such waiver or relinquishment shall be deemed in any manner to constitute any concession as to the date of priority of rights under said mining claim or as to the validity thereof.

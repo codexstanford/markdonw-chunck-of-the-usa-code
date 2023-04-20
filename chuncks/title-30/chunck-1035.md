@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 25— SURFACE MINING CONTROL AND RECLAMATION
+#### § 1264. Decisions of regulatory authority and appeals
+##### (c) Request for rehearing on reasons for final determination; time; issuance of decision
+
+If the application is approved, the permit shall be issued. If the application is disapproved, specific reasons therefor must be set forth in the notification. Within thirty days after the applicant is notified of the final decision of the regulatory authority on the permit application, the applicant or any person with an interest which is or may be adversely affected may request a hearing on the reasons for the final determination. The regulatory authority shall hold a hearing within thirty days of such request and provide notification to all interested parties at the time that the applicant is so notified. If the Secretary is the regulatory authority the hearing shall be of record and governed by section 554 of title 5 . Where the regulatory authority is the State, such hearing shall be of record, adjudicatory in nature and no person who presided at a conference under section 1263(b) of this title shall either preside at the hearing or participate in this decision thereon or in any administrative appeal therefrom. Within thirty days after the hearing the regulatory authority shall issue and furnish the applicant, and all persons who participated in the hearing, with the written decision of the regulatory authority granting or denying the permit in whole or in part and stating the reasons therefor.

@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 862. Roof support
+##### (a) Roof control plan; contents; review; availability
+
+Each operator shall undertake to carry out on a continuing basis a program to improve the roof control system of each coal mine and the means and measures to accomplish such system. The roof and ribs of all active underground roadways, travelways, and working places shall be supported or otherwise controlled adequately to protect persons from falls of the roof or ribs. A roof control plan and revisions thereof suitable to the roof conditions and mining system of each coal mine and approved by the Secretary shall be adopted and set out in printed form within sixty days after the operative date of this subchapter. The plan shall show the type of support and spacing approved by the Secretary. Such plan shall be reviewed periodically, at least every six months by the Secretary, taking into consideration any falls of roof or ribs or inadequacy of support of roof or ribs. No person shall proceed beyond the last permanent support unless adequate temporary support is provided or unless such temporary support is not required under the approved roof control plan and the absence of such support will not pose a hazard to the miners. A copy of the plan shall be furnished the Secretary or his authorized representative and shall be available to the miners and their representatives.

@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 25— SURFACE MINING CONTROL AND RECLAMATION
+#### § 1233. Objectives of fund
+##### (c) Inventory
+
+For the purposes of assisting in the planning and evaluation of reclamation projects pursuant to section 1235 of this title , and assisting in making the certification referred to in section 1240a(a) of this title , the Secretary shall maintain an inventory of eligible lands and waters pursuant to section 1234 of this title which meet the priorities stated in paragraphs (1) and (2) of subsection (a). Under standardized procedures established by the Secretary, States and Indian tribes with approved abandoned mine reclamation programs pursuant to section 1235 of this title may offer amendments, subject to the approval of the Secretary, to update the inventory as it applies to eligible lands and waters under the jurisdiction of such States or tribes. The Secretary shall provide such States and tribes with the financial and technical assistance necessary for the purpose of making inventory amendments. The Secretary shall compile and maintain an inventory for States and Indian lands in the case when a State or Indian tribe does not have an approved abandoned mine reclamation program pursuant to section 1235 of this title . On a regular basis, but not less than annually, the projects completed under this subchapter shall be so noted on the inventory under standardized procedures established by the Secretary.

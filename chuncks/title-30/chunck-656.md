@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 877. General safety provisions
+##### (r) Tunnelling under water; permits; contents; necessity; safety zones; restrictions
+
+Whenever an operator mines coal from a coal mine opened after the operative date of this subchapter, or from any new working section of a mine opened prior to such date, in a manner that requires the construction, operation, and maintenance of tunnels under any river, stream, lake, or other body of water, that is, in the judgment of the Secretary, sufficiently large to constitute a hazard to miners, such operator shall obtain a permit from the Secretary which shall include such terms and conditions as he deems appropriate to protect the safety of miners working or passing through such tunnels from cave-ins and other hazards. Such permits shall require, in accordance with a plan to be approved by the Secretary, that a safety zone be established beneath and adjacent to such body of water. No plan shall be approved unless there is a minimum of cover to be determined by the Secretary, based on test holes drilled by the operator in a manner to be prescribed by the Secretary. No such permit shall be required in the case of any new working section of a mine which is located under any water resource reservoir being constructed by a Federal agency on December 30, 1969 , the operator of which is required by such agency to operate in a manner that adequately protects the safety of miners working in such section from cave-ins and other hazards.

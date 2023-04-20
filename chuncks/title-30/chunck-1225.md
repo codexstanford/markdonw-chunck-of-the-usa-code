@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 26— DEEP SEABED HARD MINERAL RESOURCES
+#### § 1416. Denial of certification of applications and of issuance, transfer, suspension, and revocation of licenses and permits; suspension and modification of activities
+##### (c) Effect on activities; emergency orders
+
+The issuance of any notice of proposed suspension or revocation of a license for exploration or permit for commercial recovery or proposed suspension or modification of particular activities under such a license or permit shall not affect the continuation of exploration or commercial recovery activities by the licensee or permittee. The provisions of paragraphs (3) and (4) of subsection (a) and the first sentence of this subsection shall not apply when the President determines by Executive order that an immediate suspension of a license for exploration or permit for commercial recovery, or immediate suspension or modification of particular activities under such a license or permit, is necessary for the reasons set forth in subsection (a)(2)(B), or the Administrator determines that an immediate suspension of such a license or permit, or immediate suspension or modification of particular activities under such a license or permit, is necessary to prevent a significant adverse effect on the environment or to preserve the safety of life and property at sea, and the Administrator issues an emergency order requiring such immediate suspension.

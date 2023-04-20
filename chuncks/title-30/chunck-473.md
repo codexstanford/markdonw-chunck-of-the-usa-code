@@ -1,0 +1,7 @@
+
+# Title 30— MINERAL LANDS AND MINING
+### CHAPTER 22— MINE SAFETY AND HEALTH
+#### § 819. Posting of orders and decisions
+##### (d) Filing; designation of health and safety officers
+
+Each operator of a coal or other mine subject to this chapter shall file with the Secretary the name and address of such mine and the name and address of the person who controls or operates the mine. Any revisions in such names or addresses shall be promptly filed with the Secretary. Each operator of a coal or other mine subject to this chapter shall designate a responsible official at such mine as the principal officer in charge of health and safety at such mine, and such official shall receive a copy of any notice, order, citation, or decision issued under this chapter affecting such mine. In any case where the mine is subject to the control of any person not directly involved in the daily operations of the coal or other mine, there shall be filed with the Secretary the name and address of such person and the name and address of a principal official of such person who shall have overall responsibility for the conduct of an effective health and safety program at any coal or other mine subject to the control of such person, and such official shall receive a copy of any notice, order, citation, or decision issued affecting any such mine. The mere designation of a health and safety official under this subsection shall not be construed as making such official subject to any penalty under this chapter.
