@@ -1,0 +1,14 @@
+
+# Title 5— GOVERNMENT ORGANIZATION AND EMPLOYEES
+### CHAPTER 5— ADMINISTRATIVE PROCEDURE
+#### § 552. Public information; agency rules, opinions, orders, records, and proceedings
+######## (E) An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) ))  1 shall not make any record available under this paragraph to
+######### (ii) Such agency regulations shall provide that
+
+(I) fees shall be limited to reasonable standard charges for document search, duplication, and review, when records are requested for commercial use;
+
+(II) fees shall be limited to reasonable standard charges for document duplication when records are not sought for commercial use and the request is made by an educational or noncommercial scientific institution, whose purpose is scholarly or scientific research; or a representative of the news media; and
+
+(III) for any request not described in (I) or (II), fees shall be limited to reasonable standard charges for document search and duplication. In this clause, the term “a representative of the news media” means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelance journalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
+
+(iii) Documents shall be furnished without any charge or at a charge reduced below the fees established under clause (ii) if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.

@@ -1,0 +1,6 @@
+
+# Title 5— GOVERNMENT ORGANIZATION AND EMPLOYEES
+### CHAPTER 6— THE ANALYSIS OF REGULATORY FUNCTIONS
+#### § 603. Initial regulatory flexibility analysis
+
+(a) Whenever an agency is required by section 553 of this title , or any other law, to publish general notice of proposed rulemaking for any proposed rule, or publishes a notice of proposed rulemaking for an interpretative rule involving the internal revenue laws of the United States, the agency shall prepare and make available for public comment an initial regulatory flexibility analysis. Such analysis shall describe the impact of the proposed rule on small entities. The initial regulatory flexibility analysis or a summary shall be published in the Federal Register at the time of the publication of general notice of proposed rulemaking for the rule. The agency shall transmit a copy of the initial regulatory flexibility analysis to the Chief Counsel for Advocacy of the Small Business Administration. In the case of an interpretative rule involving the internal revenue laws of the United States, this chapter applies to interpretative rules published in the Federal Register for codification in the Code of Federal Regulations, but only to the extent that such interpretative rules impose on small entities a collection of information requirement.

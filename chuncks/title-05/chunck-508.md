@@ -1,0 +1,8 @@
+
+# Title 5— GOVERNMENT ORGANIZATION AND EMPLOYEES
+### CHAPTER 31— AUTHORITY FOR EMPLOYMENT
+#### § 3136. Regulations
+
+The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
+
+SUBCHAPTER III— THE FEDERAL BUREAU OF INVESTIGATION AND DRUG ENFORCEMENT ADMINISTRATION SENIOR EXECUTIVE SERVICE

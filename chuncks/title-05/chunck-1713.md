@@ -1,0 +1,8 @@
+
+# Title 5— GOVERNMENT ORGANIZATION AND EMPLOYEES
+### CHAPTER 84— FEDERAL EMPLOYEES’ RETIREMENT SYSTEM
+#### § 8452. Computation of disability annuity
+
+(a)
+
+(1)

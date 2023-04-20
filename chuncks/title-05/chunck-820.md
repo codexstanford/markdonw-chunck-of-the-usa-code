@@ -1,0 +1,10 @@
+
+# Title 5— GOVERNMENT ORGANIZATION AND EMPLOYEES
+### CHAPTER 53— PAY RATES AND SYSTEMS
+#### § 5305. Special pay authority
+
+(a)
+
+(1) Whenever the Office of Personnel Management finds that the Government’s recruitment or retention efforts with respect to 1 or more occupations in 1 or more areas or locations are, or are likely to become, significantly handicapped due to any of the circumstances described in subsection (b), the Office may establish for the areas or locations involved, with respect to individuals in positions paid under any of the pay systems referred to in subsection (c), higher minimum rates of pay for 1 or more grades or levels, occupational groups, series, classes, or subdivisions thereof, and may make corresponding increases in all rates of the pay range for each such grade or level. However, a minimum rate so established may not exceed the maximum rate of basic pay (excluding any locality-based comparability payment under section 5304 or similar provision of law) for the grade or level by more than 30 percent, and no rate may be established under this section in excess of the rate of basic pay payable for level IV of the Executive Schedule. In the case of individuals not subject to the provisions of this title governing appointment in the competitive service, the President may designate another agency to authorize special rates under this section.
+
+(2) The head of an agency may determine that a category of employees of the agency will not be covered by a special rate authorization established under this section. The head of an agency shall provide written notice to the Office of Personnel Management (or other agency designated by the President to authorize special rates under the last sentence of paragraph (1)) which identifies the specific category or categories of employees that will not be covered by special rates authorized under this section. If the head of an agency removes a category of employees from coverage under a special rate authorization after that authorization takes effect, the loss of coverage will take effect on the first day of the first pay period after the date of the notice.
