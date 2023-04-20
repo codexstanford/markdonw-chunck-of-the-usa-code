@@ -1,0 +1,6 @@
+
+# Title 11— BANKRUPTCY
+### CHAPTER 5— CREDITORS, THE DEBTOR, AND THE ESTATE
+#### § 525. Protection against discriminatory treatment
+
+(a) Except as provided in the Perishable Agricultural Commodities Act, 1930, the Packers and Stockyards Act, 1921, and section 1 of the Act entitled “An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944 , and for other purposes,” approved July 12, 1943 , a governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant to, condition such a grant to, discriminate with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employment against, a person that is or has been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associated, solely because such bankrupt or debtor is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this title, or during the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.

@@ -1,0 +1,22 @@
+
+# Title 11— BANKRUPTCY
+### CHAPTER 7— LIQUIDATION
+#### § 707. Dismissal of a case or conversion to a case under chapter 11 or 13
+###### (a) The court may dismiss a case under this chapter only after notice and a hearing and only for cause, including
+######### (i) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter, the court shall presume abuse exists if the debtor’s current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv), and multiplied by 60 is not less than the lesser of
+
+(I) 25 percent of the debtor’s nonpriority unsecured claims in the case, or $6,000, 1 whichever is greater; or
+
+(II) $10,000. 1
+
+(ii)
+
+(I) The debtor’s monthly expenses shall be the debtor’s applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor’s actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor’s monthly expenses shall include the debtor’s reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor’s monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor’s monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
+
+(II) In addition, the debtor’s monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor’s immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
+
+(III) In addition, for a debtor eligible for chapter 13, the debtor’s monthly expenses may include the actual administrative expenses of administering a chapter 13 plan for the district in which the debtor resides, up to an amount of 10 percent of the projected plan payments, as determined under schedules issued by the Executive Office for United States Trustees.
+
+(IV) In addition, the debtor’s monthly expenses may include the actual expenses for each dependent child less than 18 years of age, not to exceed $1,500  1 per year per child, to attend a private or public elementary or secondary school if the debtor provides documentation of such expenses and a detailed explanation of why such expenses are reasonable and necessary, and why such expenses are not already accounted for in the National Standards, Local Standards, or Other Necessary Expenses referred to in subclause (I).
+
+(V) In addition, the debtor’s monthly expenses may include an allowance for housing and utilities, in excess of the allowance specified by the Local Standards for housing and utilities issued by the Internal Revenue Service, based on the actual expenses for home energy costs if the debtor provides documentation of such actual expenses and demonstrates that such actual expenses are reasonable and necessary.
