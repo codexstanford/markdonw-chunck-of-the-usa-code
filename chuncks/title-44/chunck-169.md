@@ -1,0 +1,8 @@
+
+# Title 44— PUBLIC PRINTING AND DOCUMENTS
+### CHAPTER 17— DISTRIBUTION AND SALE OF PUBLIC DOCUMENTS
+#### § 1701. Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists
+
+Money appropriated by any Act may not be used for services in an executive department or other Government establishment at the District of Columbia, in the work of addressing, wrapping, mailing, or otherwise dispatching a publication for public distribution, except maps, weather reports, and weather cards issued by them or for the purchase of material or supplies to be used in this work. The Director of the Government Publishing Office shall perform this work at the Government Publishing Office. The head of an executive department, independent office, and establishment of the Government at the District of Columbia, shall furnish from time to time to the Director of the Government Publishing Office mailing lists, in convenient form, and changes in them, or penalty mail slips, for use in the public distribution of publications issued by the department or establishment. The Director of the Government Publishing Office may furnish copies of a publication only in accordance with law or the instruction of the head of the department or establishment issuing the publication.
+
+This section does not apply to orders, instructions, directions, notices, or circulars of information printed for and issued by an executive department or other Government establishment or to the distribution of public documents by Senators or Members of the House of Representatives or to the Senate Service Department, House of Representatives Publications Distribution Service, and document rooms of the Senate or House of Representatives.

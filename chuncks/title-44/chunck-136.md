@@ -1,0 +1,6 @@
+
+# Title 44— PUBLIC PRINTING AND DOCUMENTS
+### CHAPTER 13— PARTICULAR REPORTS AND DOCUMENTS
+#### § 1321. Hydrographic Surveys; foreign surveys
+
+Appropriations made for the preparation or publication of foreign hydrographic surveys may be applicable only upon approval by the Secretary of the Navy, after a report from three competent naval officers that the original data for proposed charts justify their publication. The Secretary of the Navy shall order a board of three naval officers to examine and report upon the data before he approves an application of moneys to the preparation or publication of charts or hydrographic surveys.
