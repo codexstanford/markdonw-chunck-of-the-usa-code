@@ -1,0 +1,9 @@
+
+# Title 38— VETERANS’ BENEFITS
+### CHAPTER 11— COMPENSATION FOR SERVICE-CONNECTED DISABILITY OR DEATH
+#### § 1114. Rates of wartime disability compensation
+##### (r) Subject to section 5503(c) of this title , if any veteran, otherwise entitled to compensation authorized under subsection ( o ) of this section, at the maximum rate authorized under subsection (p) of this section, or at the intermediate rate authorized between the rates authorized under subsections (n) and ( o ) of this section and at the rate authorized under subsection (k) of this section, is in need of regular aid and attendance, then, in addition to such compensation
+
+(1) the veteran shall be paid a monthly aid and attendance allowance at the rate of $2,002; or
+
+(2) if the veteran, in addition to such need for regular aid and attendance, is in need of a higher level of care, such veteran shall be paid a monthly aid and attendance allowance at the rate of $2,983, in lieu of the allowance authorized in clause (1) of this subsection, if the Secretary finds that the veteran, in the absence of the provision of such care, would require hospitalization, nursing home care, or other residential institutional care. For the purposes of clause (2) of this subsection, need for a higher level of care shall be considered to be need for personal health-care services provided on a daily basis in the veteran’s home by a person who is licensed to provide such services or who provides such services under the regular supervision of a licensed health-care professional. The existence of the need for such care shall be determined by a physician employed by the Department or, in areas where no such physician is available, by a physician carrying out such function under contract or fee arrangement based on an examination by such physician. For the purposes of section 1134 of this title , such allowance shall be considered as additional compensation payable for disability.

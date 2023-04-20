@@ -1,0 +1,7 @@
+
+# Title 38— VETERANS’ BENEFITS
+### CHAPTER 78— VETERANS’ CANTEEN SERVICE
+#### § 7802. Duties of Secretary with respect to Service
+###### (e) Personnel .
+
+The Secretary shall employ such persons as are necessary for the establishment, maintenance, and operation of the Service, and pay the salaries, wages, and expenses of all such employees from the funds of the Service. Personnel necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots shall be appointed, compensated from funds of the Service, and removed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5. Those employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5 , subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5. An employee appointed under this section may be considered for appointment to a Department position in the competitive service in the same manner that a Department employee in the competitive service is considered for transfer to such position. An employee of the Service who is appointed to a Department position in the competitive service under the authority of the preceding sentence may count toward the time-in-service requirement for a career appointment in such position any previous period of employment in the Service.

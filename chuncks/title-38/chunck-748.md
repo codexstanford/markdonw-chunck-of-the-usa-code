@@ -1,0 +1,8 @@
+
+# Title 38— VETERANS’ BENEFITS
+### CHAPTER 18— BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS
+#### § 1816. Regulations
+
+The Secretary shall prescribe regulations for purposes of the administration of this subchapter.
+
+SUBCHAPTER III— CHILDREN OF CERTAIN KOREA AND THAILAND SERVICE VETERANS BORN WITH SPINA BIFIDA

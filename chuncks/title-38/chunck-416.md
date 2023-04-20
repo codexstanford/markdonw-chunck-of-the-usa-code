@@ -1,0 +1,6 @@
+
+# Title 38— VETERANS’ BENEFITS
+### CHAPTER 15— PENSION FOR NON-SERVICE-CONNECTED DISABILITY OR DEATH OR FOR SERVICE
+#### § 1533. Children of Civil War veterans
+
+Whenever there is no surviving spouse entitled to pension under section 1532 of this title , the Secretary shall pay to the children of each Civil War veteran who met the service requirements of section 1532 of this title a pension at the monthly rate of $73.13 for one child, plus $8.13 for each additional child, with the total amount equally divided.
