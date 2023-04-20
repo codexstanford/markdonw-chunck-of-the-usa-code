@@ -1,0 +1,8 @@
+
+# Title 46— SHIPPING
+## Subtitle VII— Security and Drug Enforcement
+### CHAPTER 700— PORTS AND WATERWAYS SAFETY
+#### § 70006. Establishment by Secretary of the department in which the Coast Guard is operating of anchorage grounds and regulations generally
+###### (a) In General .
+
+The Secretary of Homeland Security is authorized, empowered, and directed to define and establish anchorage grounds for vessels in all harbors, rivers, bays, and other navigable waters of the United States whenever it is manifest to the said Secretary that the maritime or commercial interests of the United States require such anchorage grounds for safe navigation and the establishment of such anchorage grounds shall have been recommended by the Chief of Engineers, and to adopt suitable rules and regulations in relation thereto; and such rules and regulations shall be enforced by the Coast Guard under the direction of the Secretary of Transportation: Provided , That at ports or places where there is no Coast Guard vessel available such rules and regulations may be enforced by the Chief of Engineers under the direction of the Secretary of Homeland Security. In the event of the violation of any such rules and regulations by the owner, master, or person in charge of any vessel, such owner, master, or person in charge of such vessel shall be liable to a penalty of up to $10,000. Each day during which a violation continues shall constitute a separate violation. The said vessel may be holden for the payment of such penalty, and may be seized and proceeded against summarily by libel for the recovery of the same in any United States district court for the district within which such vessel may be and in the name of the officer designated by the Secretary of Homeland Security.

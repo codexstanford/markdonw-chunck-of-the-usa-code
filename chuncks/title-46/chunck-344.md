@@ -1,0 +1,13 @@
+
+# Title 46— SHIPPING
+## Subtitle II— Vessels and Seamen
+### CHAPTER 81— GENERAL
+#### § 8104. Watches
+
+(a) An owner, charterer, managing operator, master, individual in charge, or other person having authority may permit an officer to take charge of the deck watch on a vessel when leaving or immediately after leaving port only if the officer has been off duty for at least 6 hours within the 12 hours immediately before the time of leaving.
+
+(b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
+
+(c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, an individual in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
+
+(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title , yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. An individual in the deck or engine department may not be required to work more than 8 hours in one day.
