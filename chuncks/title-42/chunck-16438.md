@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7542. Information collection
+##### (c) Availability to public; trade secrets
+
+Any records, reports, or information obtained under this part or part C shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or a particular portion thereof (other than emission data), to which the Administrator has access under this section, if made public, would divulge methods or processes entitled to protection as trade secrets of that person, the Administrator shall consider the record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18 . Any authorized representative of the Administrator shall be considered an employee of the United States for purposes of section 1905 of title 18 . Nothing in this section shall prohibit the Administrator or authorized representative of the Administrator from disclosing records, reports or information to other officers, employees or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Administrator or any officer or employee under the Administrator’s control from the duly authorized committees of the Congress.

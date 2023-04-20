@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2153b. Export policies relating to peaceful nuclear activities and international nuclear trade
+##### (b) Enrichment of source or special nuclear material only under effective international auspices and inspection
+
+(1) No source or special nuclear material within the territory of any nation or group of nations, under its jurisdiction, or under its control anywhere will be enriched (as described in section 2014(aa)(2) of this title ) or reprocessed, no irradiated fuel elements containing such material which are to be removed from a reactor will be altered in form or content, and no fabrication or stockpiling involving plutonium, uranium 233, or uranium enriched to greater than 20 percent in the isotope 235 shall be performed except in a facility under effective international auspices and inspection, and any such irradiated fuel elements shall be transferred to such a facility as soon as practicable after removal from a reactor consistent with safety requirements. Such facilities shall be limited in number to the greatest extent feasible and shall be carefully sited and managed so as to minimize the proliferation and environmental risks associated with such facilities. In addition, there shall be conditions to limit the access of non-nuclear-weapon states other than the host country to sensitive nuclear technology associated with such facilities.
+
+(2) Any facilities within the territory of any nation or group of nations, under its jurisdiction, or under its control anywhere for the necessary short-term storage of fuel elements containing plutonium, uranium 233, or uranium enriched to greater than 20 percent in the isotope 235 prior to placement in a reactor or of irradiated fuel elements prior to transfer as required in subparagraph (1) shall be placed under effective international auspices and inspection.

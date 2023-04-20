@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8— LOW-INCOME HOUSING
+#### § 1437c. Contributions for low-income housing projects
+##### (e) Local determination of need as prerequisite for contracts for preliminary loans, and contracts for loans or annual contributions; notice
+
+In recognition that there should be local determination of the need for low-income housing to meet needs not being adequately met by private enterprise
+
+(1) the Secretary shall not make any contract with a public housing agency for preliminary loans (all of which shall be repaid out of any moneys which become available to such agency for the development of the projects involved) for surveys and planning in respect to any low-income housing projects (i) unless the governing body of the locality involved has by resolution approved the application of the public housing agency for such preliminary loan; and (ii) unless the public housing agency has demonstrated to the satisfaction of the Secretary that there is need for such low-income housing which is not being met by private enterprise; and
+
+(2) the Secretary shall not make any contract for loans (other than preliminary loans) or for contributions pursuant to this chapter unless the governing body of the locality involved has entered into an agreement with the public housing agency providing for the local cooperation required by the Secretary pursuant to this chapter; the Secretary shall require that each such agreement shall provide that, notwithstanding any order, judgment, or decree of any court (including any settlement order), before making any amounts that are provided pursuant to any contract for contributions under this subchapter available for use for the development of any housing or other property not previously used as public housing, the public housing agency shall (A) notify the chief executive officer (or other appropriate official) of the unit of general local government in which the public housing for which such amounts are to be so used is located (or to be located) of such use, and (B) pursuant to the request of such unit of general local government, provide such information as may reasonably be requested by such unit of general local government regarding the public housing to be so assisted (except to the extent otherwise prohibited by law).

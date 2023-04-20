@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2210b. Uranium supply
+##### (e) Excessive imports for contracts or options as threatening national security; investigation by Secretary of Commerce; recommendation for further investigation
+
+(1) If, during the period 1982 to 1992, the Secretary of Energy determines that executed contracts or options for source material or special nuclear material from foreign sources for use in utilization facilities within or under the jurisdiction of the United States represent greater than 37½ percent of actual or projected domestic uranium requirements for any two-consecutive-year period, or if the Secretary of Energy determines the level of contracts or options involving source material and special nuclear material from foreign sources may threaten to impair the national security, the Secretary of Energy shall request the Secretary of Commerce to initiate under section 1862 of title 19 an investigation to determine the effects on the national security of imports of source material and special nuclear material. The Secretary of Energy shall cooperate fully with the Secretary of Commerce in carrying out such an investigation and shall make available to the Secretary of Commerce the findings that lead to this request and such other information that will assist the Secretary of Commerce in the conduct of the investigation.
+
+(2) The Secretary of Commerce shall, in the conduct of any investigation requested by the Secretary of Energy pursuant to this section, take into account any information made available by the Secretary of Energy, including information regarding the impact on national security of projected or executed contracts or options for source material or special nuclear material from foreign sources or whether domestic production capacity is sufficient to supply projected national security requirements.
+
+(3) No sooner than 3 years following completion of any investigation by the Secretary of Commerce under paragraph (1), if no recommendation has been made pursuant to such study for trade adjustments to assist or protect domestic uranium production, the Secretary of Energy may initiate a request for another such investigation by the Secretary of Commerce.

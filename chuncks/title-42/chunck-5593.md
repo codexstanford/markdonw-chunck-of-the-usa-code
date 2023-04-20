@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 416. Additional definitions
+##### (b) Wife
+
+The term “wife” means the wife of an individual, but only if she (1) is the mother of his son or daughter, (2) was married to him for a period of not less than one year immediately preceding the day on which her application is filed, or (3) in the month prior to the month of her marriage to him (A) was entitled to, or on application therefor and attainment of age 62 in such prior month would have been entitled to, benefits under subsection (b), (e), or (h) of section 402 of this title , (B) had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of such section (subject, however, to section 402(s) of this title ), or (C) was entitled to, or upon application therefor and attainment of the required age (if any) would have been entitled to, a widow’s, child’s (after attainment of age 18), or parent’s insurance annuity under section 231a of title 45 . For purposes of clause (2), a wife shall be deemed to have been married to an individual for a period of one year throughout the month in which occurs the first anniversary of her marriage to such individual. For purposes of subparagraph (C) of section 402(b)(1) of this title , a divorced wife shall be deemed not to be married throughout the month in which she becomes divorced.

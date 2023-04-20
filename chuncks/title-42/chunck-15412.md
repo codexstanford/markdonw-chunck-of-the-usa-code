@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 82— SOLID WASTE DISPOSAL
+#### § 6976. Judicial review
+##### (a) Review of final regulations and certain petitions
+
+Any judicial review of final regulations promulgated pursuant to this chapter and the Administrator’s denial of any petition for the promulgation, amendment, or repeal of any regulation under this chapter shall be in accordance with sections 701 through 706 of title 5, except that
+
+(1) a petition for review of action of the Administrator in promulgating any regulation, or requirement under this chapter or denying any petition for the promulgation, amendment or repeal of any regulation under this chapter may be filed only in the United States Court of Appeals for the District of Columbia, and such petition shall be filed within ninety days from the date of such promulgation or denial, or after such date if such petition for review is based solely on grounds arising after such ninetieth day; action of the Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement; and
+
+(2) in any judicial proceeding brought under this section in which review is sought of a determination under this chapter required to be made on the record after notice and opportunity for hearing, if a party seeking review under this chapter applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the information is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper; the Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file with the court such modified or new findings and his recommendation, if any, for the modification or setting aside of his original order, with the return of such additional evidence.

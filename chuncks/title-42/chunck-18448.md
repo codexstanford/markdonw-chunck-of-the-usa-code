@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 108— NUCLEAR WASTE POLICY
+#### § 10155. Storage of spent nuclear fuel
+##### (g) Criteria for determining adequacy of available storage capacity
+
+Not later than 90 days after January 7, 1983 , the Commission pursuant to section 553 of the Administrative Procedures Act [ 5 U.S.C. 553 ], shall propose, by rule, procedures and criteria for making the determination required by subsection (b) that a person owning and operating a civilian nuclear power reactor cannot reasonably provide adequate spent nuclear fuel storage capacity at the civilian nuclear power reactor site when needed to ensure the continued orderly operation of such reactor. Such criteria shall ensure the maintenance of a full core reserve storage capability at the site of such reactor unless the Commission determines that maintenance of such capability is not necessary for the continued orderly operation of such reactor. Such criteria shall identify the feasibility of reasonably providing such adequate spent nuclear fuel storage capacity, taking into account economic, technical, regulatory, and public health and safety factors, through the use of high-density fuel storage racks, fuel rod compaction, transshipment of spent nuclear fuel to another civilian nuclear power reactor within the same utility system, construction of additional spent nuclear fuel pool capacity, or such other technologies as may be approved by the Commission.

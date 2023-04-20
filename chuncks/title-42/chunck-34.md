@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 207. Grades, ranks, and titles of commissioned corps
+##### (d) Maximum number in grade for each fiscal year
+
+Within the total number of officers of the Regular Corps authorized by the appropriation Act or Acts for each fiscal year to be on active duty, the Secretary shall by regulation prescribe the maximum number of officers authorized to be in each of the grades from the warrant officer (W–1) grade to the director grade, inclusive. Such numbers shall be determined after considering the anticipated needs of the Service during the fiscal year, the funds available, the number of officers in each grade at the beginning of the fiscal year, and the anticipated appointments, the anticipated promotions based on years of service, and the anticipated retirements during the fiscal year. The number so determined for any grade for a fiscal year may not exceed the number limitation (if any) contained in the appropriation Act or Acts for such year. Such regulations for each fiscal year shall be prescribed as promptly as possible after the appropriation Act fixing the authorized strength of the corps for that year, and shall be subject to amendment only if such authorized strength or such number limitation is thereafter changed. The maxima established by such regulations shall not require (apart from action pursuant to other provisions of this chapter) any officer to be separated from the Service or reduced in grade.

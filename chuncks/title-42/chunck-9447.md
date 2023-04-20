@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8A— SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING
+#### § 1490e. Programs of technical and supervisory assistance for low-income individuals and families in rural areas
+##### (b) Loans to public or private nonprofit corporations, etc., for necessary planning and financing expenses; interest rates; factors determinative of amount; terms and conditions of repayment
+
+The Secretary is authorized to make loans to public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him for the necessary expenses, prior to construction, of planning, and obtaining financing for, the rehabilitation or construction of housing for low-income individuals or families under any Federal, State, or local housing program which is or could be used in rural areas. Such loans shall be made without interest and shall be for the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including but not limited to preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the housing or sooner.

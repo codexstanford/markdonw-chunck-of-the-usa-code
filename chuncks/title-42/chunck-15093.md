@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 81— ENERGY CONSERVATION AND RESOURCE RENEWAL
+#### § 6881. Energy resource and renewable-resource obligation guarantee program
+##### (d) Limitations on original principal amount guaranteed; revocation of guarantees and commitments to guarantee; conclusiveness of guarantee
+
+The original principal amount guaranteed under subsection (a) may not exceed 90 percent of the cost of the energy conservation measure or the renewable-resource energy measure financed by the obligation guaranteed under such subsection; except that such amount may not exceed 25 percent of the fair market value of the building or industrial plant being modified by such energy conservation measure or renewable-resource energy measure. No guarantee issued, and no commitment to guarantee, which is issued under subsection (a) shall be terminated, canceled, or otherwise revoked except in accordance with reasonable terms and conditions prescribed by the Secretary, after consultation with the Secretary of the Treasury, and contained in the written guarantee or commitment to guarantee. The full faith and credit of the United States is pledged to the payment of all guarantees made under subsection (a). Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligation involved for such guarantee, and the validity of any guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligation except for fraud or material misrepresentation on the part of such holder.

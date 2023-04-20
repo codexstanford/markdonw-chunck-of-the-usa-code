@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300j–7. Judicial review
+##### (b) District courts; petition for review: actions respecting variances or exemptions; filing period; grounds arising after expiration of filing period; exclusiveness of remedy
+
+The United States district courts shall have jurisdiction of actions brought to review (1) the granting of, or the refusing to grant, a variance or exemption under section 300g–4 or 300g–5 of this title or (2) the requirements of any schedule prescribed for a variance or exemption under such section or the failure to prescribe such a schedule. Such an action may only be brought upon a petition for review filed with the court within the 45-day period beginning on the date the action sought to be reviewed is taken or, in the case of a petition to review the refusal to grant a variance or exemption or the failure to prescribe a schedule, within the 45-day period beginning on the date action is required to be taken on the variance, exemption, or schedule, as the case may be. A petition for such review may be filed after the expiration of such period if the petition is based solely on grounds arising after the expiration of such period. Action with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or in any civil action to enjoin enforcement.

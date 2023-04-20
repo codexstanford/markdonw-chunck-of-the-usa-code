@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 24— DISPOSAL OF ATOMIC ENERGY COMMUNITIES
+#### § 2391. Assistance to governmental entities
+##### (d) Recommendation for further assistance payments
+
+With respect to any entity not less than six months prior to the expiration of the ten-year period referred to in subsection (a) (or not less than six months prior to June 30, 1979 , in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District; or not less than six months prior to June 30, 1986 , in the case of Anderson County and Roane County, Tennessee; or not later than June 30, 1996 , in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico), the Administrator shall present to the appropriate committees of the House of Representatives and the Senate recommendations as to the need for any further assistance payments to such entity. If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997 , the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.

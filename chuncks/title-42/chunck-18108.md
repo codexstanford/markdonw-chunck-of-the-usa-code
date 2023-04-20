@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 105— COMMUNITY SERVICES PROGRAMS
+#### § 9839. Administrative requirements and standards
+##### (b) Development and administrative costs of programs
+
+Except as provided in subsection (f), no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary may waive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.

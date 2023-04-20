@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 45— FAIR HOUSING
+#### § 3603. Effective dates of certain prohibitions
+##### (b) Exemptions
+
+Nothing in section 3604 of this title (other than subsection (c)) shall apply to
+
+(1) any single-family house sold or rented by an owner: Provided , That such private individual owner does not own more than three such single-family houses at any one time: Provided further , That in the case of the sale of any such single-family house by a private individual owner not residing in such house at the time of such sale or who was not the most recent resident of such house prior to such sale, the exemption granted by this subsection shall apply only with respect to one such sale within any twenty-four month period: Provided further , That such bona fide private individual owner does not own any interest in, nor is there owned or reserved on his behalf, under any express or voluntary agreement, title to or any right to all or a portion of the proceeds from the sale or rental of, more than three such single-family houses at any one time: Provided further , That after December 31, 1969 , the sale or rental of any such single-family house shall be excepted from the application of this subchapter only if such house is sold or rented (A) without the use in any manner of the sales or rental facilities or the sales or rental services of any real estate broker, agent, or salesman, or of such facilities or services of any person in the business of selling or renting dwellings, or of any employee or agent of any such broker, agent, salesman, or person and (B) without the publication, posting or mailing, after notice, of any advertisement or written notice in violation of section 3604(c) of this title ; but nothing in this proviso shall prohibit the use of attorneys, escrow agents, abstractors, title companies, and other such professional assistance as necessary to perfect or transfer the title, or
+
+(2) rooms or units in dwellings containing living quarters occupied or intended to be occupied by no more than four families living independently of each other, if the owner actually maintains and occupies one of such living quarters as his residence.

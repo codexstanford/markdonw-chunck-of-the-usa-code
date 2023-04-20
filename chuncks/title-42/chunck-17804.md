@@ -1,0 +1,13 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 103— COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY
+#### § 9608. Financial responsibility
+##### (a) Establishment and maintenance by owner or operator of vessel; amount; failure to obtain certification of compliance
+
+(1) The owner or operator of each vessel (except a nonself-propelled barge that does not carry hazardous substances as cargo) over three hundred gross tons that uses any port or place in the United States or the navigable waters or any offshore facility, shall establish and maintain, in accordance with regulations promulgated by the President, evidence of financial responsibility of $300 per gross ton (or for a vessel carrying hazardous substances as cargo, or $5,000,000, whichever is greater) to cover the liability prescribed under paragraph (1) of section 9607(a) of this title . Financial responsibility may be established by any one, or any combination, of the following: insurance, guarantee, surety bond, or qualification as a self-insurer. Any bond filed shall be issued by a bonding company authorized to do business in the United States. In cases where an owner or operator owns, operates, or charters more than one vessel subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the largest of such vessels.
+
+(2) The Secretary of the Treasury shall withhold or revoke the clearance required by section 60105 of title 46 of any vessel subject to this subsection that does not have certification furnished by the President that the financial responsibility provisions of paragraph (1) of this subsection have been complied with.
+
+(3) The Secretary of Transportation, in accordance with regulations issued by him, shall (A) deny entry to any port or place in the United States or navigable waters to, and (B) detain at the port or place in the United States from which it is about to depart for any other port or place in the United States, any vessel subject to this subsection that, upon request, does not produce certification furnished by the President that the financial responsibility provisions of paragraph (1) of this subsection have been complied with.
+
+(4) In addition to the financial responsibility provisions of paragraph (1) of this subsection, the President shall require additional evidence of financial responsibility for incineration vessels in such amounts, and to cover such liabilities recognized by law, as the President deems appropriate, taking into account the potential risks posed by incineration and transport for incineration, and any other factors deemed relevant.

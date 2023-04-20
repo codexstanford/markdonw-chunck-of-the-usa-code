@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 19B— WATER RESOURCES PLANNING
+#### § 1962d–5a. Reimbursement to States
+##### (b) Agreement provisions; termination of agreement for failure to commence work
+
+Agreements entered into pursuant to this section shall (1) fully describe the work to be accomplished by the non-Federal public body, and be accompanied by an engineering plan if necessary therefor; (2) specify the manner in which such work shall be carried out; (3) provide for necessary review of design and plans, and inspection of the work by the Chief of Engineers or his designee; (4) state the basis on which the amount of reimbursement shall be determined; (5) state that such reimbursement shall be dependent upon the appropriation of funds applicable thereto or funds available therefor, and shall not take precedence over other pending projects of higher priority for improvements; and (6) specify that reimbursement or credit for non-Federal installation expenditures shall apply only to work undertaken on Federal projects after project authorization and execution of the agreement, and does not apply retroactively to past non-Federal work. Each such agreement shall expire three years after the date on which it is executed if the work to be undertaken by the non-Federal public body has not commenced before the expiration of that period. The time allowed for completion of the work will be determined by the Secretary of the Army, acting through the Chief of Engineers, and stated in the agreement.

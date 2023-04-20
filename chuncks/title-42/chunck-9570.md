@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 9— HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE
+#### § 1589d. Undisposed housing
+##### (a) Disposal to highest bidder; rejection of bids; disposal by negotiation
+
+Notwithstanding the provisions of this or any other law, (1) any housing to be sold on-site determined by the Secretary of Housing and Urban Development to be permanent, located on lands owned by the United States and under the jurisdiction of the Secretary, which is not relinquished, transferred, under contract of sale, sold, or otherwise disposed of by the Secretary under other provisions of this subchapter or under the provisions of other law by January 1, 1957 , except housing which is determined by the Secretary by that date to be suitable for sale in accordance with section 1587(b) of this title ; and (2) any permanent housing to be sold off-site which is not relinquished, transferred, under contract of sale, sold, or otherwise disposed of prior to August 7, 1956 , shall be disposed of, as expeditiously as possible, on a competitive basis to the highest responsible bidder upon such terms and after such public advertisement as the Secretary of Housing and Urban Development may deem in the public interest; except that the Secretary of Housing and Urban Development may reject any bid which the Secretary deems less than the fair market value of the property and may thereafter dispose of the property by negotiation.

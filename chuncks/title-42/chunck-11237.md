@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2210. Indemnification and limitation of liability
+##### (f) Collection of fees by Nuclear Regulatory Commission
+
+The Commission or the Secretary, as appropriate, is authorized to collect a fee from all persons with whom an indemnification agreement is executed under this section. This fee shall be $30 per year per thousand kilowatts of thermal energy capacity for facilities licensed under section 2133 of this title : Provided , That the Commission or the Secretary, as appropriate, is authorized to reduce the fee for such facilities in reasonable relation to increases in financial protection required above a level of $60,000,000. For facilities licensed under section 2134 of this title , and for construction permits under section 2235 of this title , the Commission is authorized to reduce the fee set forth above. The Commission shall establish criteria in writing for determination of the fee for facilities licensed under section 2134 of this title , taking into consideration such factors as (1) the type, size, and location of facility involved, and other factors pertaining to the hazard, and (2) the nature and purpose of the facility. For other licenses, the Commission shall collect such nominal fees as it deems appropriate. No fee under this subsection shall be less than $100 per year.

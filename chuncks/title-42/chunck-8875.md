@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 1397ee. Payments to States
+##### (b) Enhanced FMAP
+
+For purposes of subsection (a), the “enhanced FMAP”, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title ) for the State increased by a number of percentage points equal to 30 percent of the number of percentage points by which (1) such Federal medical assistance percentage for the State, is less than (2) 100 percent; but in no case shall the enhanced FMAP for a State exceed 85 percent. Notwithstanding the preceding sentence, during the period that begins on October 1, 2015 , and ends on September 30, 2019 , the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 23 percentage points, and during the period that begins on October 1, 2019 , and ends on September 30, 2020 , the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 11.5 percentage points but in no case shall exceed 100 percent. The increase in the enhanced FMAP under the preceding sentence shall not apply with respect to determining the payment to a State under subsection (a)(1) for expenditures described in subparagraph (D)(iv), paragraphs (8), (9), (11) of subsection (c), or clause (4) of the first sentence of section 1396d(b) of this title .

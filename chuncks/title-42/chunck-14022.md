@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 71— SOLAR ENERGY
+#### § 5504. Development and demonstration of combined solar heating and cooling systems for use in residential dwellings
+##### (e) Installation of combined systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system; reports by owner
+
+The Secretary shall (1) arrange for the installation of combined solar heating and cooling systems procured by the Administrator under subsection (d)(2) in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of combined solar heating and cooling systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.

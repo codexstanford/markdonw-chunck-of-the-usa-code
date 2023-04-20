@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 44— DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+#### § 3535. Administrative provisions
+##### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
+
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.

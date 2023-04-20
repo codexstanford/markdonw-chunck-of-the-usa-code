@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 70— MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS
+#### § 5422. State enforcement
+##### (f) Annual evaluation by Secretary of execution of State plan; basis of evaluation; submission of evaluation and data to Congress; determination by Secretary of improper administration, etc., of State plan; procedure; effect of determination
+
+The Secretary shall, on the basis of reports submitted by the designated State agency and his own inspections, make a continuing evaluation of the manner in which each State having a plan approved under this section is carrying out such plan. Such evaluation shall be made by the Secretary at least annually for each State, and the results of such evaluation and the inspection reports on which it is based shall be promptly submitted to the appropriate committees of the Congress. Whenever the Secretary finds, after affording due notice and opportunity for a hearing, that in the administration of the State plan there is a failure to comply substantially with any provision of the State plan or that the State plan has become inadequate, he shall notify the State agency or agencies of his withdrawal of approval of such plan. Upon receipt of such notice by such State agency or agencies such plan shall cease to be in effect, but the State may retain jurisdiction in any case commenced before the withdrawal of the plan in order to enforce manufactured home standards under the plan whenever the issues involved do not relate to the reasons for the withdrawal of the plan.

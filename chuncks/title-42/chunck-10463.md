@@ -1,0 +1,8 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 19B— WATER RESOURCES PLANNING
+#### § 1962d–11b. Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local authorities in Maryland or Virginia
+
+(a) The Secretary, on the recommendation of the Chief of Engineers, is authorized to permit the delivery of water from the District of Columbia water system at the Dalecarlia filtration plant, or at other points on the system, to any competent State or local authority in the Washington, District of Columbia, metropolitan area in Maryland. All of the expense of installing the connection or connections and appurtenances between the water supply systems and any subsequent changes therein shall be paid by the requesting entity, which shall also pay such charges for the use of the water as the Secretary may, from time to time in advance of delivery, determine to be reasonable. Payments shall be made at such time, and pursuant to such regulations, as the Secretary prescribes. The Secretary may revoke any permit for the use of water at any time.
+
+(b) The Secretary is authorized to purchase water from any State or local authority in Maryland or Virginia that has, at the time of purchase, completed a connection with the District of Columbia water system. The Secretary is authorized to pay such charges for the use of the water as the Secretary has agreed upon in advance of delivery.

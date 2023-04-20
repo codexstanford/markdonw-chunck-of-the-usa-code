@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8A— SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING
+#### § 1452c. Nullification of right of redemption of single family mortgagors under rehabilitation loan program
+##### (b) Foreclosure by others
+
+Whenever with respect to a single family mortgage on a property that also has a single family mortgage securing a loan under section 1452b  1 of this title, a mortgagee forecloses in any Federal or State court or pursuant to a power of sale in a mortgage, the Secretary of Housing and Urban Development, if the Secretary is purchaser at the foreclosure sale, shall be entitled to receive a conveyance of title to, and possession of, the property, subject to the interests senior to the interests of the mortgagee. Notwithstanding any State law to the contrary, there shall be no right of redemption (including in all instances any right to possession based upon any right of redemption) if the mortgagor or any other person subsequent to the foreclosure sale to the Secretary in connection with a property that secured a single family mortgage for a loan under section 1452b  1 of this title. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the Secretary, who is the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.

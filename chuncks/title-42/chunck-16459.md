@@ -1,0 +1,15 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7545. Regulation of fuels
+##### (j) Lead substitute gasoline additives
+
+(1) After November 15, 1990 , any person proposing to register any gasoline additive under subsection (a) or to use any previously registered additive as a lead substitute may also elect to register the additive as a lead substitute gasoline additive for reducing valve seat wear by providing the Administrator with such relevant information regarding product identity and composition as the Administrator deems necessary for carrying out the responsibilities of paragraph (2) of this subsection (in addition to other information which may be required under subsection (b)).
+
+(2) In addition to the other testing which may be required under subsection (b), in the case of the lead substitute gasoline additives referred to in paragraph (1), the Administrator shall develop and publish a test procedure to determine the additives’ effectiveness in reducing valve seat wear and the additives’ tendencies to produce engine deposits and other adverse side effects. The test procedures shall be developed in cooperation with the Secretary of Agriculture and with the input of additive manufacturers, engine and engine components manufacturers, and other interested persons. The Administrator shall enter into arrangements with an independent laboratory to conduct tests of each additive using the test procedures developed and published pursuant to this paragraph. The Administrator shall publish the results of the tests by company and additive name in the Federal Register along with, for comparison purposes, the results of applying the same test procedures to gasoline containing 0.1 gram of lead per gallon in lieu of the lead substitute gasoline additive. The Administrator shall not rank or otherwise rate the lead substitute additives. Test procedures shall be established within 1 year after November 15, 1990 . Additives shall be tested within 18 months of November 15, 1990 , or 6 months after the lead substitute additives are identified to the Administrator, whichever is later.
+
+(3) The Administrator may impose a user fee to recover the costs of testing of any fuel additive referred to in this subsection. The fee shall be paid by the person proposing to register the fuel additive concerned. Such fee shall not exceed $20,000 for a single fuel additive.
+
+(4) There are authorized to be appropriated to the Administrator not more than $1,000,000 for the second full fiscal year after November 15, 1990 , to establish test procedures and conduct engine tests as provided in this subsection. Not more than $500,000 per year is authorized to be appropriated for each of the 5 subsequent fiscal years.
+
+(5) Any fees collected under this subsection shall be deposited in a special fund in the United States Treasury for licensing and other services which thereafter shall be available for appropriation, to remain available until expended, to carry out the Agency’s activities for which the fees were collected.

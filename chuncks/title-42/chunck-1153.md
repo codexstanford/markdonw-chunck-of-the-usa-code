@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 267. Quarantine stations, grounds, and anchorages
+##### (c) Overtime pay for employees of Service
+
+The Surgeon General shall fix a reasonable rate of extra compensation for overtime services of employees of the United States Public Health Service, Foreign Quarantine Division, performing overtime duties including the operation of vessels, in connection with the inspection or quarantine treatment of persons (passengers and crews), conveyances, or goods arriving by land, water, or air in the United States or any place subject to the jurisdiction thereof, hereinafter referred to as “employees of the Public Health Service”, when required to be on duty between the hours of 6 o’clock postmeridian and 6 o’clock antemeridian (or between the hours of 7 o’clock postmeridian and 7 o’clock antemeridian at stations which have a declared workday of from 7 o’clock antemeridian to 7 o’clock postmeridian), or on Sundays or holidays, such rate, in lieu of compensation under any other provision of law, to be fixed at two times the basic hourly rate for each hour that the overtime extends beyond 6 o’clock (or 7 o’clock as the case may be) postmeridian, and two times the basic hourly rate for each overtime hour worked on Sundays or holidays. As used in this subsection, the term “basic hourly rate” shall mean the regular basic rate of pay which is applicable to such employees for work performed within their regular scheduled tour of duty.

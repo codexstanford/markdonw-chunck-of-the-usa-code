@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 76— AGE DISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS
+#### § 6104. Enforcement
+##### (b) Limitations on termination of, or on refusal to grant or to continue, assistance; disbursement of withheld funds to achiever agencies
+
+Any termination of, or refusal to grant or to continue, assistance under subsection (a)(1) shall be limited to the particular political entity or other recipient with respect to which a finding has been made under subsection (a)(1). Any such termination or refusal shall be limited in its effect to the particular program or activity, or part of such program or activity, with respect to which such finding has been made. No such termination or refusal shall be based in whole or in part on any finding with respect to any program or activity which does not receive Federal financial assistance. Whenever the head of any Federal department or agency who prescribes regulations under section 6103 of this title withholds funds pursuant to subsection (a), he may, in accordance with regulations he shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency, or State or political subdivision thereof, which demonstrates the ability to achieve the goals of the Federal statute author­izing the program or activity while complying with regulations issued under section 6103 of this title .

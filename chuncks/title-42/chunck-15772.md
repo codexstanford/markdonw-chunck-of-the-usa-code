@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 84— DEPARTMENT OF ENERGY
+#### § 7276b. Integrated resource plans
+##### (d) Compliance with integrated resource plans
+
+Within 1 year after October 24, 1992 , the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to fully comply with the applicable integrated resource plan and submit an annual report to the Administrator (in such form and containing such information as the Administrator may require) describing the customer’s progress to the goals established in such plan. After the initial review under subsection (a) the Administrator shall periodically conduct reviews of a representative sample of applicable integrated resource plans and the customer’s implementation of the applicable integrated resource plan to determine if the customers are in compliance with their plans. If the Administrator finds a customer out-of-compliance, the Administrator shall impose a surcharge under this section on all electric energy purchased by the customer from the Western Area Power Administration or reduce such customer’s power allocation by 10 percent, unless the Administrator finds that a good faith effort has been made to comply with the approved plan.

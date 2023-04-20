@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8A— SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING
+#### § 1478. Local committees to assist Secretary
+##### (a) Composition, appointment, and compensation; chairman; promulgation of procedural rules; forms and equipment
+
+For the purposes of this subsection and subsection (b) of this section, the Secretary may use the services of any existing committee of farmers operating (pursuant to laws or regulations carried out by the Department of Agriculture) in any county or parish in which activities are carried on under this subchapter. In any county or parish in which activities are carried on under this subchapter and in which no existing satisfactory committee is available, the Secretary is authorized to appoint a committee composed of three persons residing in the county or parish. Each member of such existing or newly appointed committee shall be allowed compensation at the rate determined by the Secretary while engaged in the performance of duties under this subchapter and, in addition, shall be allowed such amounts as the Secretary may prescribe for necessary traveling and subsistence expenses. One member of the committee shall be designated by the Secretary as chairman. The Secretary shall prescribe rules governing the procedures of the committees, furnish forms and equipment necessary for the performance of their duties, and authorize and provide for the compensation of such clerical assistance as he deems may be required by any committee.

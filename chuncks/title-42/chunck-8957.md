@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8— LOW-INCOME HOUSING
+#### § 1437c. Contributions for low-income housing projects
+##### (f) Modification by Secretary of terms of contracts, etc.; limitations; amendment or supersedure of contracts for annual contributions or loans
+
+Subject to the specific limitations or standards in this chapter governing the terms of sales, rentals, leases, loans, contracts for annual contributions, or other agreements, the Secretary may, whenever he deems it necessary or desirable in the fulfillment of the purposes of this chapter, consent to the modification, with respect to rate of interest, time of payment of any installment of principal or interest, security, amount of annual contribution, or any other term, of any contract or agreement of any kind to which the Secretary is a party. When the Secretary finds that it would promote economy or be in the financial interest of the Federal Government or is necessary to assure or maintain the lower income character of the project or projects involved, any contract heretofore or hereafter made for annual contributions, loans, or both, may be amended or superseded by a contract entered into by mutual agreement between the public housing agency and the Secretary. Contracts may not be amended or superseded in a manner which would impair the rights of the holders of any outstanding obligations of the public housing agency involved for which annual contributions have been pledged. Any rule of law contrary to this provision shall be deemed inapplicable.

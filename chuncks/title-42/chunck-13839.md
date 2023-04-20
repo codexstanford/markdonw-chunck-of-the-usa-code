@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 69— COMMUNITY DEVELOPMENT
+#### § 5304. Statement of activities and review
+##### (j) Retention of program income; condition of distribution
+
+Notwithstanding any other provision of law, any unit of general local government may retain any program income that is realized from any grant made by the Secretary, or any amount distributed by a State, under section 5306 of this title if (1) such income was realized after the initial disbursement of the funds received by such unit of general local government under such section; and (2) such unit of general local government has agreed that it will utilize the program income for eligible community development activities in accordance with the provisions of this chapter; except that the Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with this subsection creates an unreasonable administrative burden on the unit of general local government. A State may require as a condition of any amount distributed by such State under section 5306(d) of this title that a unit of general local government shall pay to such State any such income to be used by such State to fund additional eligible community development activities, except that such State shall waive such condition to the extent such income is applied to continue the activity from which such income was derived.

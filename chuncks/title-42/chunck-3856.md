@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300j–1. Research, technical assistance, information, training of personnel
+##### (b) Emergency situations
+
+The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation (including an emergency situation resulting from a cybersecurity event) affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health, including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.

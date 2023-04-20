@@ -1,0 +1,13 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7413. Federal enforcement
+##### (b) Civil judicial enforcement
+
+The Administrator shall, as appropriate, in the case of any person that is the owner or operator of an affected source, a major emitting facility, or a major stationary source, and may, in the case of any other person, commence a civil action for a permanent or temporary injunction, or to assess and recover a civil penalty of not more than $25,000 per day for each violation, or both, in any of the following instances:
+
+(1) Whenever such person has violated, or is in violation of, any requirement or prohibition of an applicable implementation plan or permit. Such an action shall be commenced (A) during any period of federally assumed enforcement, or (B) more than 30 days following the date of the Administrator’s notification under subsection (a)(1) that such person has violated, or is in violation of, such requirement or prohibition.
+
+(2) Whenever such person has violated, or is in violation of, any other requirement or prohibition of this subchapter, section 7603 of this title , subchapter IV–A, subchapter V, or subchapter VI, including, but not limited to, a requirement or prohibition of any rule, order, waiver or permit promulgated, issued, or approved under this chapter, or for the payment of any fee owed the United States under this chapter (other than subchapter II).
+
+(3) Whenever such person attempts to construct or modify a major stationary source in any area with respect to which a finding under subsection (a)(5) has been made. Any action under this subsection may be brought in the district court of the United States for the district in which the violation is alleged to have occurred, or is occurring, or in which the defendant resides, or where the defendant’s principal place of business is located, and such court shall have jurisdiction to restrain such violation, to require compliance, to assess such civil penalty, to collect any fees owed the United States under this chapter (other than subchapter II) and any noncompliance assessment and nonpayment penalty owed under section 7420 of this title , and to award any other appropriate relief. Notice of the commencement of such action shall be given to the appropriate State air pollution control agency. In the case of any action brought by the Administrator under this subsection, the court may award costs of litigation (including reasonable attorney and expert witness fees) to the party or parties against whom such action was brought if the court finds that such action was unreasonable.

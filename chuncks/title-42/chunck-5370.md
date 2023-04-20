@@ -1,0 +1,23 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 402. Old-age and survivors insurance benefit payments
+##### (k) Simultaneous entitlement to benefits
+
+(1) A child, entitled to child’s insurance benefits on the basis of the wages and self-employment income of an insured individual, who would be entitled, on filing application, to child’s insurance benefits on the basis of the wages and self-employment income of some other insured individual, shall be deemed entitled, subject to the provisions of paragraph (2) of this subsection, to child’s insurance benefits on the basis of the wages and self-employment income of such other individual if an application for child’s insurance benefits on the basis of the wages and self-employment income of such other individual has been filed by any other child who would, on filing application, be entitled to child’s insurance benefits on the basis of the wages and self-employment income of both such insured individuals.
+
+(2)
+
+(A) Any child who under the preceding provisions of this section is entitled for any month to child’s insurance benefits on the wages and self-employment income of more than one insured individual shall, notwithstanding such provisions, be entitled to only one of such child’s insurance benefits for such month. Such child’s insurance benefits for such month shall be the benefit based on the wages and self-employment income of the insured individual who has the greatest primary insurance amount, except that such child’s insurance benefits for such month shall be the largest benefit to which such child could be entitled under subsection (d) (without the application of section 403(a) of this title ) or subsection (m) if entitlement to such benefit would not, with respect to any person, result in a benefit lower (after the application of section 403(a) of this title ) than the benefit which would be applicable if such child were entitled on the wages and self-employment income of the individual with the greatest primary insurance amount. Where more than one child is entitled to child’s insurance benefits pursuant to the preceding provisions of this paragraph, each such child who is entitled on the wages and self-employment income of the same insured individuals shall be entitled on the wages and self-employment income of the same such insured individual.
+
+(B) Any individual (other than an individual to whom subsection (e)(3) or (f)(3) applies) who, under the preceding provisions of this section and under the provisions of section 423 of this title , is entitled for any month to more than one monthly insurance benefit (other than an old-age or disability insurance benefit) under this subchapter shall be entitled to only one such monthly benefit for such month, such benefit to be the largest of the monthly benefits to which he (but for this subparagraph) would otherwise be entitled for such month. Any individual who is entitled for any month to more than one widow’s or widower’s insurance benefit to which subsection (e)(3) or (f)(3) applies shall be entitled to only one such benefit for such month, such benefit to be the largest of such benefits.
+
+(3)
+
+(A) If an individual is entitled to an old-age or disability insurance benefit for any month and to any other monthly insurance benefit for such month, such other insurance benefit for such month, after any reduction under subsection (q), subsection (e)(2) or (f)(2), and any reduction under section 403(a) of this title , shall be reduced, but not below zero, by an amount equal to such old-age or disability insurance benefit (after reduction under such subsection (q)).
+
+(B) If an individual is entitled for any month to a widow’s or widower’s insurance benefit to which subsection (e)(3) or (f)(3) applies and to any other monthly insurance benefit under this section (other than an old-age insurance benefit), such other insurance benefit for such month, after any reduction under subparagraph (A) of this paragraph, any reduction under subsection (q), and any reduction under section 403(a) of this title , shall be reduced, but not below zero, by an amount equal to such widow’s or widower’s insurance benefit after any reduction or reductions under such subparagraph (A) and such section 403(a).
+
+(4) Any individual who, under this section and section 423 of this title , is entitled for any month to both an old-age insurance benefit and a disability insurance benefit under this subchapter shall be entitled to only the larger of such benefits for such month, except that, if such individual so elects, he shall instead be entitled to only the smaller of such benefits for such month.
+
+(5)

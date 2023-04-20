@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 116— EMERGENCY PLANNING AND COMMUNITY RIGHT-TO-KNOW
+#### § 11001. Establishment of State commissions, planning districts, and local committees
+##### (a) Establishment of State emergency response commissions
+
+Not later than six months after October 17, 1986 , the Governor of each State shall appoint a State emergency response commission. The Governor may designate as the State emergency response commission one or more existing emergency response organizations that are State-sponsored or appointed. The Governor shall, to the extent practicable, appoint persons to the State emergency response commission who have technical expertise in the emergency response field. The State emergency response commission shall appoint local emergency planning committees under subsection (c) and shall supervise and coordinate the activities of such committees. The State emergency response commission shall establish procedures for receiving and processing requests from the public for information under section 11044 of this title , including tier II information under section 11022 of this title . Such procedures shall include the designation of an official to serve as coordinator for information. If the Governor of any State does not designate a State emergency response commission within such period, the Governor shall operate as the State emergency response commission until the Governor makes such designation.

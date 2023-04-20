@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7651j. Excess emissions penalty
+##### (a) Excess emissions penalty
+
+The owner or operator of any unit or process source subject to the requirements of sections  1 7651b, 7651c, 7651d, 7651e, 7651f or 7651h of this title, or designated under section 7651i of this title , that emits sulfur dioxide or nitrogen oxides for any calendar year in excess of the unit’s emissions limitation requirement or, in the case of sulfur dioxide, of the allowances the owner or operator holds for use for the unit for that calendar year shall be liable for the payment of an excess emissions penalty, except where such emissions were authorized pursuant to section 7410(f) of this title . That penalty shall be calculated on the basis of the number of tons emitted in excess of the unit’s emissions limitation requirement or, in the case of sulfur dioxide, of the allowances the operator holds for use for the unit for that year, multiplied by $2,000. Any such penalty shall be due and payable without demand to the Administrator as provided in regulations to be issued by the Administrator by no later than eighteen months after November 15, 1990 . Any such payment shall be deposited in the United States Treasury pursuant to the Miscellaneous Receipts Act. 2 Any penalty due and payable under this section shall not diminish the liability of the unit’s owner or operator for any fine, penalty or assessment against the unit for the same violation under any other section of this chapter.

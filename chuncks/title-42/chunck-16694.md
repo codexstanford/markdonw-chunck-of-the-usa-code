@@ -1,0 +1,13 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7651g. Permits and compliance plans
+##### (d) Second phase permits
+
+(1) To provide for permits for (A) new electric utility steam generating units required under section 7651b(e) of this title to have allowances, (B) affected units or sources under section 7651d of this title , and (C) existing units subject to nitrogen oxide emission reductions under section 7651f of this title , each State in which one or more such units or sources are located shall submit in accordance with subchapter V, a permit program for approval as provided by that subchapter. Upon approval of such program, for the units or sources subject to such approved program the Administrator shall suspend the issuance of permits as provided in subchapter V.
+
+(2) The owner or operator or the designated representative of each affected source under section 7651d of this title shall submit a permit application and compliance plan for that source to the permitting authority, not later than January 1, 1996 .
+
+(3) Not later than December 31, 1997 , each State with an approved permit program shall issue permits to the owner or operator, or the designated representative of the owners and operators, of affected sources under section 7651d of this title that satisfy the requirements of subchapter V and this subchapter and that submitted to such State a permit application and compliance plan pursuant to paragraph (2). In the case of a State without an approved permit program by July 1, 1996 , the Administrator shall, not later than January 1, 1998 , issue a permit to the owner or operator or the designated representative of each such affected source. In the case of affected sources for which applications and plans are timely received under paragraph (2), the permit application and the compliance plan, including amendments thereto, shall be binding on the owner or operator or the designated representative of the owners or operators and shall be enforceable as a permit for purposes of this subchapter and subchapter V until a permit is issued by the permitting authority for the affected source. The provisions of section 558(c) of title 5 (relating to renewals) shall apply to permits issued by a permitting authority under this subchapter and subchapter V.
+
+(4) The permit issued in accordance with this subsection for an affected source shall provide that the affected units at the affected source may not emit an annual tonnage of sulfur dioxide in excess of the number of allowances to emit sulfur dioxide the owner or operator or designated representative hold for the unit.

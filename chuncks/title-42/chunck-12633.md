@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 50— NATIONAL FLOOD INSURANCE
+#### § 4012a. Flood insurance purchase and compliance requirements and escrow accounts
+##### (a) Amount and term of coverage
+
+After the expiration of sixty days following December 31, 1973 , no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Administrator as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 [ 42 U.S.C. 4001 et seq.], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: Provided , That if the financial assistance provided is in the form of a loan or an insurance or guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.

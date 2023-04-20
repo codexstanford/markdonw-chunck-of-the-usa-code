@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 1320b–13. Social security account statements
+##### (d) Disclosure to governmental employees of effect of noncovered employment
+
+(1) In the case of any individual commencing employment on or after January 1, 2005 , in any agency or instrumentality of any State (or political subdivision thereof, as defined in section 418(b)(2) of this title ) in a position in which service performed by the individual does not constitute “employment” as defined in section 410 of this title , the head of the agency or instrumentality shall ensure that, prior to the date of the commencement of the individual’s employment in the position, the individual is provided a written notice setting forth an explanation, in language calculated to be understood by the average individual, of the maximum effect on computations of primary insurance amounts (under section 415(a)(7) of this title ) and the effect on benefit amounts (under section 402(k)(5) of this title ) of monthly periodic payments or benefits payable based on earnings derived in such service. Such notice shall be in a form which shall be prescribed by the Commissioner of Social Security.
+
+(2) The written notice provided to an individual pursuant to paragraph (1) shall include a form which, upon completion and signature by the individual, would constitute certification by the individual of receipt of the notice. The agency or instrumentality providing the notice to the individual shall require that the form be completed and signed by the individual and submitted to the agency or instrumentality and to the pension, annuity, retirement, or similar fund or system established by the governmental entity involved responsible for paying the monthly periodic payments or benefits, before commencement of service with the agency or instrumentality.

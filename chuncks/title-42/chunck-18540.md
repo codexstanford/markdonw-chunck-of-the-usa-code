@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 108— NUCLEAR WASTE POLICY
+#### § 10198. Research and development on spent nuclear fuel
+##### (a) Demonstration and cooperative programs
+
+The Secretary shall establish a demonstration program, in cooperation with the private sector, for the dry storage of spent nuclear fuel at civilian nuclear power reactor sites, with the objective of establishing one or more technologies that the Commission may, by rule, approve for use at the sites of civilian nuclear power reactors without, to the maximum extent practicable, the need for additional site-specific approvals by the Commission. Not later than 1 year after January 7, 1983 , the Secretary shall select at least 1, but not more than 3, sites evaluated under section 10194 of this title at such power reactors. In selecting such site or sites, the Secretary shall give preference to civilian nuclear power reactors that will soon have a shortage of interim storage capacity for spent nuclear fuel. Subject to reaching agreement as provided in subsection (b), the Secretary shall undertake activities to assist such power reactors with demonstration projects at such sites, which may use one of the following types of alternate storage technologies: spent nuclear fuel storage casks, caissons, or silos. The Secretary shall also undertake a cooperative program with civilian nuclear power reactors to encourage the development of the technology for spent nuclear fuel rod consolidation in existing power reactor water storage basins.

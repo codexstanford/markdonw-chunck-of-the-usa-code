@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300g–2. State primary enforcement responsibility
+##### (b) Regulations
+
+(1) The Administrator shall, by regulation (proposed within 180 days of December 16, 1974 ), prescribe the manner in which a State may apply to the Administrator for a determination that the requirements of subsection (a) are satisfied with respect to the State, the manner in which the determination is made, the period for which the determination will be effective, and the manner in which the Administrator may determine that such requirements are no longer met. Such regulations shall require that before a determination of the Administrator that such requirements are met or are no longer met with respect to a State may become effective, the Administrator shall notify such State of the determination and the reasons therefor and shall provide an opportunity for public hearing on the determination. Such regulations shall be promulgated (with such modifications as the Administrator deems appropriate) within 90 days of the publication of the proposed regulations in the Federal Register. The Administrator shall promptly notify in writing the chief executive officer of each State of the promulgation of regulations under this paragraph. Such notice shall contain a copy of the regulations and shall specify a State’s authority under this subchapter when it is determined to have primary enforcement responsibility for public water systems.
+
+(2) When an application is submitted in accordance with the Administrator’s regulations under paragraph (1), the Administrator shall within 90 days of the date on which such application is submitted (A) make the determination applied for, or (B) deny the application and notify the applicant in writing of the reasons for his denial.

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 71— SOLAR ENERGY
+#### § 5503. Development and demonstration of solar heating systems for use in residential dwellings
+##### (d) Installation of heating systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system for five years; reports by owner
+
+The Secretary shall (1) arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of solar heating systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.

@@ -1,0 +1,8 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 16— NATIONAL SCIENCE FOUNDATION
+#### § 1885. Congressional statement of findings and declaration of policy respecting equal opportunities in science and engineering
+
+(a) The Congress finds that it is in the national interest to promote the full use of human resources in science and engineering and to insure the full development and use of the scientific and engineering talents and skills of men and women, equally, of all ethnic, racial, and economic backgrounds, including persons with disabilities.
+
+(b) The Congress declares it is the policy of the United States to encourage men and women, equally, of all ethnic, racial, and economic backgrounds, including persons with disabilities, to acquire skills in science, engineering, and mathematics, to have equal opportunity in education, training, and employment in scientific and engineering fields, and thereby to promote scientific and engineering literacy and the full use of the human resources of the Nation in science and engineering. To this end, the Congress declares that the highest quality science and engineering over the long-term requires substantial support, from currently available research and educational funds, for increased participation in science and engineering by women, minorities, and persons with disabilities. The Congress further declares that the impact on women, minorities, and persons with disabilities which is produced by advances in science and engineering must be included as essential factors in national and international science, engineering, and economic policies.

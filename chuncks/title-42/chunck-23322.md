@@ -1,0 +1,21 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 161— DEPARTMENT OF ENERGY RESEARCH AND INNOVATION
+#### § 18645. Fusion energy
+##### (r) Authorization of appropriations
+
+Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section
+
+(1) $996,000,000 for fiscal year 2021;
+
+(2) $921,000,000 for fiscal year 2022;
+
+(3) $1,025,500,400 for fiscal year 2023;
+
+(4) $1,043,489,724 for fiscal year 2024;
+
+(5) $1,053,266,107 for fiscal year 2025;
+
+(6) $1,047,962,074 for fiscal year 2026; and
+
+(7) $1,114,187,798 for fiscal year 2027.

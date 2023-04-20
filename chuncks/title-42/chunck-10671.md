@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 21— CIVIL RIGHTS
+#### § 2000e–5. Enforcement provisions
+##### (c) State or local enforcement proceedings; notification of State or local authority; time for filing charges with Commission; commencement of proceedings
+
+In the case of an alleged unlawful employment practice occurring in a State, or political subdivision of a State, which has a State or local law prohibiting the unlawful employment practice alleged and establishing or authorizing a State or local authority to grant or seek relief from such practice or to institute criminal proceedings with respect thereto upon receiving notice thereof, no charge may be filed under subsection (a)  1 by the person aggrieved before the expiration of sixty days after proceedings have been commenced under the State or local law, unless such proceedings have been earlier terminated, provided that such sixty-day period shall be extended to one hundred and twenty days during the first year after the effective date of such State or local law. If any requirement for the commencement of such proceedings is imposed by a State or local authority other than a requirement of the filing of a written and signed statement of the facts upon which the proceeding is based, the proceeding shall be deemed to have been commenced for the purposes of this subsection at the time such statement is sent by registered mail to the appropriate State or local authority.

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 70— MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS
+#### § 5406. Submission of cost or other information by manufacturer
+##### (b) Conditions upon availability to public of submitted information
+
+Such information shall be available to the public unless the manufacturer establishes that it contains a trade secret or that disclosure of any portion of such information would put the manufacturer at a substantial competitive disadvantage. Notice of the availability of such information shall be published promptly in the Federal Register. If the Secretary determines that any portion of such information contains a trade secret or that the disclosure of any portion of such information would put the manufacturer at a substantial competitive disadvantage, such portion may be disclosed to the public only in such manner as to preserve the confidentiality of such trade secret or in such combined or summary form so as not to disclose the identity of any individual manufacturer, except that any such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this subsection shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.

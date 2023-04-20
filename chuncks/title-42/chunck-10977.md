@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2071. Determination of other material as special nuclear material; Presidential assent; effective date
+
+The Commission may determine from time to time that other material is special nuclear material in addition to that specified in the definition as special nuclear material. Before making any such determination, the Commission must find that such material is capable of releasing substantial quantities of atomic energy and must find that the determination that such material is special nuclear material is in the interest of the common defense and security, and the President must have expressly assented in writing to the determination. The Commission’s determination, together with the assent of the President, shall be submitted to the Energy Committees and a period of thirty days shall elapse while Congress is in session (in computing such thirty days, there shall be excluded the days on which either House is not in session because of an adjournment for more than three days) before the determination of the Commission may become effective: Provided, however , That the Energy Committees, after having received such determination, may by resolution in writing, waive the conditions of or all or any portion of such thirty-day period.

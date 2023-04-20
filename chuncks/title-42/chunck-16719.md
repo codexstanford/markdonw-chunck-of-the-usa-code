@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7651k. Monitoring, reporting, and recordkeeping requirements
+##### (a) Applicability
+
+The owner and operator of any source subject to this subchapter shall be required to install and operate CEMS on each affected unit at the source, and to quality assure the data for sulfur dioxide, nitrogen oxides, opacity and volumetric flow at each such unit. The Administrator shall, by regulations issued not later than eighteen months after November 15, 1990 , specify the requirements for CEMS, for any alternative monitoring system that is demonstrated as providing information with the same precision, reliability, accessibility, and timeliness as that provided by CEMS, and for recordkeeping and reporting of information from such systems. Such regulations may include limitations or the use of alternative compliance methods by units equipped with an alternative monitoring system as may be necessary to preserve the orderly functioning of the allowance system, and which will ensure the emissions reductions contemplated by this subchapter. Where 2 or more units utilize a single stack, a separate CEMS shall not be required for each unit, and for such units the regulations shall require that the owner or operator collect sufficient information to permit reliable compliance determinations for each such unit.

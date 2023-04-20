@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 108— NUCLEAR WASTE POLICY
+#### § 10137. Consultation with States and affected Indian tribes
+##### (a) Provision of information
+
+(1) The Secretary, the Commission, and other agencies involved in the construction, operation, or regulation of any aspect of a repository in a State shall provide to the Governor and legislature of such State, and to the governing body of any affected Indian tribe, timely and complete information regarding determinations or plans made with respect to the site characterization siting, development, design, licensing, construction, operation, regulation, or decommissioning of such repository.
+
+(2) Upon written request for such information by the Governor or legislature of such State, or by the governing body of any affected Indian tribe, as the case may be, the Secretary shall provide a written response to such request within 30 days of the receipt of such request. Such response shall provide the information requested or, in the alternative, the reasons why the information cannot be so provided. If the Secretary fails to so respond within such 30 days, the Governor or legislature of such State, or the governing body of any affected Indian tribe, as the case may be, may transmit a formal written objection to such failure to respond to the President. If the President or Secretary fails to respond to such written request within 30 days of the receipt by the President of such formal written objection, the Secretary shall immediately suspend all activities in such State authorized by this part, and shall not renew such activities until the Governor or legislature of such State, or the governing body of any affected Indian tribe, as the case may be, has received the written response to such written request required by this subsection.

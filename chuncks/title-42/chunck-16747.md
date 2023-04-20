@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7661b. Permit applications
+##### (c) Deadline
+
+Any person required to have a permit shall, not later than 12 months after the date on which the source becomes subject to a permit program approved or promulgated under this subchapter, or such earlier date as the permitting authority may establish, submit to the permitting authority a compliance plan and an application for a permit signed by a responsible official, who shall certify the accuracy of the information submitted. The permitting authority shall approve or disapprove a completed application (consistent with the procedures established under this subchapter for consideration of such applications), and shall issue or deny the permit, within 18 months after the date of receipt thereof, except that the permitting authority shall establish a phased schedule for acting on permit applications submitted within the first full year after the effective date of a permit program (or a partial or interim program). Any such schedule shall assure that at least one-third of such permits will be acted on by such authority annually over a period of not to exceed 3 years after such effective date. Such authority shall establish reasonable procedures to prioritize such approval or disapproval actions in the case of applications for construction or modification under the applicable requirements of this chapter.

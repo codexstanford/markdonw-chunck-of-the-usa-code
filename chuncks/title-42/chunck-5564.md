@@ -1,0 +1,25 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 415. Computation of primary insurance amount
+##### (a) Primary insurance amount
+######## (A) The primary insurance amount of an individual shall (except as otherwise provided in this section) be equal to the sum of
+######### (ii) For individuals who initially become eligible for old-age or disability insurance benefits, or who die (before becoming eligible for such benefits), in any calendar year after 1979, each of the amounts so established shall equal the product of the corresponding amount established with respect to the calendar year 1979 under clause (i) of this subparagraph and the quotient obtained by dividing
+
+(I) the national average wage index (as defined in section 409(k)(1) of this title ) for the second calendar year preceding the calendar year for which the determination is made, by
+
+(II) the national average wage index (as so defined) for 1977.
+
+(iii) Each amount established under clause (ii) for any calendar year shall be rounded to the nearest $1, except that any amount so established which is a multiple of $0.50 but not of $1 shall be rounded to the next higher $1.
+
+(C)
+
+(i) No primary insurance amount computed under subparagraph (A) may be less than an amount equal to $11.50 multiplied by the individual’s years of coverage in excess of 10, or the increased amount determined for purposes of this clause under subsection (i).
+
+(ii) For purposes of clause (i), the term “years of coverage” with respect to any individual means the number (not exceeding 30) equal to the sum of (I) the number (not exceeding 14 and disregarding any fraction) determined by dividing (a) the total of the wages credited to such individual (including wages deemed to be paid prior to 1951 to such individual under section 417 of this title , compensation under the Railroad Retirement Act of 1937 [ 45 U.S.C. 228a et seq.] prior to 1951 which is creditable to such individual pursuant to this subchapter, and wages deemed to be paid prior to 1951 to such individual under section 431 of this title ) for years after 1936 and before 1951 by (b) $900, plus (II) the number equal to the number of years after 1950 each of which is a computation base year (within the meaning of subsection (b)(2)(B)(ii)) and in each of which he is credited with wages (including wages deemed to be paid to such individual under section 417 of this title , compensation under the Railroad Retirement Act of 1937 or 1974 [ 45 U.S.C. 228a et seq., 231 et seq.] which is creditable to such individual pursuant to this subchapter, and wages deemed to be paid to such individual under section 429 of this title ) and self-employment income of not less than 25 percent (in the case of a year after 1950 and before 1978) of the maximum amount which (pursuant to subsection (e)) may be counted for such year, or 25 percent (in the case of a year after 1977 and before 1991) or 15 percent (in the case of a year after 1990) of the maximum amount which (pursuant to subsection (e)) could be counted for such year if section 430 of this title as in effect immediately prior to December 20, 1977 , had remained in effect without change (except that, for purposes of subsection (b) of such section 430 of this title as so in effect, the reference to the contribution and benefit base in paragraph (1) of such subsection (b) shall be deemed a reference to an amount equal to $45,000, each reference in paragraph (2) of such subsection (b) to the average of the wages of all employees as reported to the Secretary of the Treasury shall be deemed a reference to the national average wage index (as defined in section 409(k)(1) of this title ), the reference to a preceding calendar year in paragraph (2)(A) of such subsection (b) shall be deemed a reference to the calendar year before the calendar year in which the determination under subsection (a) of such section 430 of this title is made, and the reference to a calendar year in paragraph (2)(B) of such subsection (b) shall be deemed a reference to 1992).
+
+(D) In each calendar year the Commissioner of Social Security shall publish in the Federal Register, on or before November 1, the formula for computing benefits under this paragraph and for adjusting wages and self-employment income under subsection (b)(3) in the case of an individual who becomes eligible for an old-age insurance benefit, or (if earlier) becomes eligible for a disability insurance benefit or dies, in the following year, and the national average wage index (as defined in section 409(k)(1) of this title ) on which that formula is based.
+
+(2)
+
+(A) A year shall not be counted as the year of an individual’s death or eligibility for purposes of this subsection or subsection (i) in any case where such individual was entitled to a disability insurance benefit for any of the 12 months immediately preceding the month of such death or eligibility (but there shall be counted instead the year of the individual’s eligibility for the disability insurance benefit or benefits to which he was entitled during such 12 months).

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 82— SOLID WASTE DISPOSAL
+#### § 6939a. Exposure information and health assessments
+##### (f) “Health assessments” defined
+
+For the purposes of this section, the term “health assessments” shall include preliminary assessments of the potential risk to human health posed by individual sites and facilities subject to this section, based on such factors as the nature and extent of contamination, the existence of potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size and potential susceptibility of the community within the likely pathways of exposure, the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants, and the comparison of existing morbidity and mortality data on diseases that may be associated with the observed levels of exposure. The assessment shall include an evaluation of the risks to the potentially affected population from all sources of such contaminants, including known point or nonpoint sources other than the site or facility in question. A purpose of such preliminary assessments shall be to help determine whether full-scale health or epidemiological studies and medical evaluations of exposed populations shall be undertaken.

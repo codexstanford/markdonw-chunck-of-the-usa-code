@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 136— VIOLENT CRIME CONTROL AND LAW ENFORCEMENT
+#### § 14043g–1. Transferred
+
+Part N– 2 — Rape Survivor Child Custody

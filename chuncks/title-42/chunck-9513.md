@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8A— SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING
+#### § 1490r. Rural housing voucher program
+##### (a) In general
+
+To such extent or in such amounts as are approved in appropriation Acts, the Secretary shall carry out a rural housing voucher program to assist very low-income families and persons to reside in rental housing in rural areas. For such purposes, the Secretary may provide assistance using a payment standard based on the fair market rental rate established by the Secretary for the area. The monthly assistance payment for any family shall be the amount by which the payment standard for the area exceeds 30 per centum of the family’s monthly adjusted income, except that such monthly assistance payment shall not exceed the amount which the rent for the dwelling unit (including the amount allowed for utilities in the case of a unit with separate utility metering) exceeds 10 per centum of the family’s monthly gross income.

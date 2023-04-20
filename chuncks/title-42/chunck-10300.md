@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 16— NATIONAL SCIENCE FOUNDATION
+#### § 1869. Scholarships and graduate fellowships
+##### (a) In general
+
+The Foundation is authorized to award scholarships and graduate fellowships for study and research in the sciences or in engineering at appropriate nonprofit American or nonprofit foreign institutions selected by the recipient of such aid, for stated periods of time. Persons shall be selected for such scholarships and fellowships from among citizens, nationals or lawfully admitted permanent resident aliens of the United States, and such selections shall be made solely on the basis of ability; but in any case in which two or more applicants for scholarships or fellowships, as the case may be, are deemed by the Foundation to be possessed of substantially equal ability, and there are not sufficient scholarships or fellowships, as the case may be, available to grant one to each of such applicants, the available scholarship or scholarships or fellowship or fellowships shall be awarded to the applicants in such manner as will tend to result in a wide distribution of scholarships and fellowships throughout the United States and as will address national workforce demand in critical STEM fields. Nothing contained in this chapter shall prohibit the Foundation from refusing or revoking a scholarship or fellowship award, in whole or in part, in the case of any applicant or recipient, if the Board is of the opinion that such award is not in the best interests of the United States.

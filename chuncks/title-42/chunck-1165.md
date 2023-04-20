@@ -1,0 +1,8 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 272. Administration of oaths by quarantine officers
+
+Medical officers of the United States, when performing duties as quarantine officers at any port or place within the United States, are authorized to take declarations and administer oaths in matters pertaining to the administration of the quarantine laws and regulations of the United States.
+
+Part H— Organ Transplants

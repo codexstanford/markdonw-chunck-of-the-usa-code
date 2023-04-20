@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300j–22. Recall of drinking water coolers with lead-lined tanks
+
+For purposes of the Consumer Product Safety Act [ 15 U.S.C. 2051 et seq.], all drinking water coolers identified by the Administrator on the list under section 300j–23 of this title as having a lead-lined tank shall be considered to be imminently hazardous consumer products within the meaning of section 12 of such Act ( 15 U.S.C. 2061 ). After notice and opportunity for comment, including a public hearing, the Consumer Product Safety Commission shall issue an order requiring the manufacturers and importers of such coolers to repair, replace, or recall and provide a refund for such coolers within 1 year after October 31, 1988 . For purposes of enforcement, such order shall be treated as an order under section 15(d) of that Act ( 15 U.S.C. 2064(d) ).

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 70— MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS
+#### § 5403. Construction and safety standards
+##### (d) Supremacy of Federal standards
+
+Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title , there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.

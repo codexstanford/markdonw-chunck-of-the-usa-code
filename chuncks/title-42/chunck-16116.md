@@ -1,0 +1,14 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7411. Standards of performance for new stationary sources
+##### (j) Innovative technological systems of continuous emission reduction
+######## (A) Any person proposing to own or operate a new source may request the Administrator for one or more waivers from the requirements of this section for such source or any portion thereof with respect to any air pollutant to encourage the use of an innovative technological system or systems of continuous emission reduction. The Administrator may, with the consent of the Governor of the State in which the source is to be located, grant a waiver under this paragraph, if the Administrator determines after notice and opportunity for public hearing, that
+
+(i) the proposed system or systems have not been adequately demonstrated,
+
+(ii) the proposed system or systems will operate effectively and there is a substantial likelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
+
+(iii) the owner or operator of the proposed source has demonstrated to the satisfaction of the Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
+
+(iv) the granting of such waiver is consistent with the requirements of subparagraph (C). In making any determination under clause (ii), the Administrator shall take into account any previous failure of such system or systems to operate effectively or to meet any requirement of the new source performance standards. In determining whether an unreasonable risk exists under clause (iii), the Administrator shall consider, among other factors, whether and to what extent the use of the proposed technological system will cause, increase, reduce, or eliminate emissions of any unregulated pollutants; available methods for reducing or eliminating any risk to public health, welfare, or safety which may be associated with the use of such system; and the availability of other technological systems which may be used to conform to standards under this section without causing or contributing to such unreasonable risk. The Administrator may conduct such tests and may require the owner or operator of the proposed source to conduct such tests and provide such information as is necessary to carry out clause (iii) of this subparagraph. Such requirements shall include a requirement for prompt reporting of the emission of any unregulated pollutant from a system if such pollutant was not emitted, or was emitted in significantly lesser amounts without use of such system.

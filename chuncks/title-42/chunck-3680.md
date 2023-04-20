@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300e–6. Administration of assistance programs
+##### (d) Other entities considered health maintenance organizations
+
+An entity which provides health services to a defined population on a prepaid basis and which has members who are entitled to insurance benefits under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] or to medical assistance under a State plan approved under title XIX of such Act [ 42 U.S.C. 1396 et seq.] may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if
+
+(1) with respect to its members who are entitled to such insurance benefits or to such medical assistance it (A) provides health services in accordance with section 300e(b) of this title , except that (i) it does not furnish to those members the health services (within the basic health services) for which it may not be compensated under such title XVIII [ 42 U.S.C. 1395 et seq.] or such State plan, and (ii) it does not fix the basic or supplemental health services payment for such members under a community rating system, and (B) is organized and operated in the manner prescribed by section 300e(c) of this title , except that it does not assume full financial risk on a prospective basis for the provision to such members of basic or supplemental health services with respect to which it is not required under such title XVIII or such State plan to assume such financial risk; and
+
+(2) with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title . An entity which provides health services to a defined population on a prepaid basis and which has members who are enrolled under the health benefits program authorized by chapter 89 of title 5, may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title .

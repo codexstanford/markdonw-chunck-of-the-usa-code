@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2134. Medical, industrial, and commercial licenses
+##### (c) Research and development activities
+
+The Commission is authorized to issue licenses to persons applying therefor for utilization and production facilities useful in the conduct of research and development activities of the types specified in section 2051 of this title . The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development. The Commission is authorized to issue licenses under this section for utilization facilities useful in the conduct of research and development activities of the types specified in section 2051 of this title in which the licensee sells research and testing services and energy to others, subject to the condition that the licensee shall recover not more than 75 percent of the annual costs to the licensee of owning and operating the facility through sales of nonenergy services, energy, or both, other than research and development or education and training, of which not more than 50 percent may be through sales of energy.

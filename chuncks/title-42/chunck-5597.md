@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 416. Additional definitions
+##### (f) Husband
+
+The term “husband” means the husband of an individual, but only if (1) he is the father of her son or daughter, (2) he was married to her for a period of not less than one year immediately preceding the day on which his application is filed, or (3) in the month prior to the month of his marriage to her (A) he was entitled to, or on application therefor and attainment of age 62 in such prior month would have been entitled to, benefits under subsection (c), (f) or (h) of section 402 of this title , (B) he had attained age eighteen and was entitled to, or on application therefor would have been entitled to, benefits under subsection (d) of such section (subject, however, to section 402(s) of this title ), or (C) he was entitled to, or upon application therefor and attainment of the required age (if any) he would have been entitled to, a widower’s, child’s (after attainment of age 18), or parent’s insurance annuity under section 231a of title 45 . For purposes of clause (2), a husband shall be deemed to have been married to an individual for a period of one year throughout the month in which occurs the first anniversary of his marriage to her. For purposes of subparagraph (C) of section 402(c)(1) of this title , a divorced husband shall be deemed not to be married throughout the month which he becomes divorced.

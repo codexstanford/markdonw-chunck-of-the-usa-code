@@ -1,0 +1,8 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 12— COMPENSATION FOR INJURY, DEATH, OR DETENTION OF EMPLOYEES OF CONTRACTORS WITH UNITED STATES OUTSIDE UNITED STATES
+#### § 1711. Definitions
+
+When used in this chapter
+
+(a) The term “Secretary” means the Secretary of Labor.

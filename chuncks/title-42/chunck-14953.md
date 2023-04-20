@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 80— PUBLIC WORKS EMPLOYMENT
+#### § 6705. Limitations on use of grants
+##### (e) Performance of projects by State or local governments prohibited; competitive bidding; illegal aliens
+
+(1) No part of the construction (including demolition and other site preparation activities), renovation, repair, or other improvement of any public works project for which a grant is made under this chapter after May 13, 1977 , shall be performed directly by any department, agency, or instrumentality of any State or local government. Construction of each such project shall be performed by contract awarded by competitive bidding, unless the Secretary shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary’s concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
+
+(2) No grant shall be made under this chapter for any local public works project unless the State or local government applying for such grant submits with its application a certification acceptable to the Secretary that no contract will be awarded in connection with such project to any bidder who will employ on such project any alien in the United States in violation of the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] or any other law, convention, or treaty of the United States relating to the immigration, exclusion, deportation, or expulsion of aliens.

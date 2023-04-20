@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 430. Adjustment of contribution and benefit base
+##### (d) Determinations for calendar years after 1976 for purposes of retirement benefit plans
+
+Notwithstanding any other provision of law, the contribution and benefit base determined under this section for any calendar year after 1976 for purposes of section 1322(b)(3)(B) of title 29 , with respect to any plan, shall be the contribution and benefit base that would have been determined for such year if this section as in effect immediately prior to the enactment of the Social Security Amendments of 1977 had remained in effect without change (except that, for purposes of subsection (b) of such section 430 of this title as so in effect, the reference to the contribution and benefit base in paragraph (1) of such subsection (b) shall be deemed a reference to an amount equal to $45,000, each reference in paragraph (2) of such subsection (b) to the average of the wages of all employees as reported to the Secretary of the Treasury shall be deemed a reference to the national average wage index (as defined in section 409(k)(1) of this title ), the reference to a preceding calendar year in paragraph (2)(A) of such subsection (b) shall be deemed a reference to the calendar year before the calendar year in which the determination under subsection (a) of such section 430 of this title is made, and the reference to a calendar year in paragraph (2)(B) of such subsection (b) shall be deemed a reference to 1992).

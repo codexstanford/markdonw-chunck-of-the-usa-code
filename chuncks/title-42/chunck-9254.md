@@ -1,0 +1,19 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8— LOW-INCOME HOUSING
+#### § 1439. Local housing assistance plan
+##### (a) Applicability of approved plan to housing assistance application; procedure upon receipt of application by Secretary of Housing and Urban Development; definitions
+
+(1) The Secretary of Housing and Urban Development, upon receiving an application for housing assistance under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.], 1 section 101 of the Housing and Urban Development Act of 1965 [ 12 U.S.C. 1701s ], or, 2 if the unit of general local government in which the proposed assistance is to be provided has an approved housing assistance plan, shall
+
+(A) not later than ten days after receipt of the application, notify the chief executive officer of such unit of general local government that such application is under consideration; and
+
+(B) afford such unit of general local government the opportunity, during the thirty-day period beginning on the date of such notification, to object to the approval of the application on the grounds that the application is inconsistent with its housing assistance plan. Upon receiving an application for such housing assistance, the Secretary shall assure that funds made available under this section shall be utilized to the maximum extent practicable to meet the needs and goals identified in the unit of local government’s housing assistance plan.
+
+(2) If the unit of general local government objects to the application on the grounds that it is inconsistent with its housing assistance plan, the Secretary may not approve the application unless he determines that the application is consistent with such housing assistance plan. If the Secretary determines, that such application is consistent with the housing assistance plan, he shall notify the chief executive officer of the unit of general local government of his determination and the reasons therefor in writing. If the Secretary concurs with the objection of the unit of local government, he shall notify the applicant stating the reasons therefor in writing.
+
+(3) If the Secretary does not receive an objection by the close of the period referred to in paragraph (1)(B), he may approve the application unless he finds it inconsistent with the housing assistance plan. If the Secretary determines that an application is inconsistent with a housing assistance plan, he shall notify the applicant stating the reasons therefor in writing.
+
+(4) The Secretary shall make the determinations referred to in paragraphs (2) and (3) within thirty days after he receives an objection pursuant to paragraph (1)(B) or within thirty days after the close of the period referred to in paragraph (1)(B), whichever is earlier.
+
+(5) As used in this section, the term “housing assistance plan” means a housing assistance plan submitted and approved under section 5304 of this title or, in the case of a unit of general local government not participating under title I of this Act [ 42 U.S.C. 5301 et seq.], a housing plan approved by the Secretary as meeting the requirements of this section. In developing a housing assistance plan under this paragraph a unit of general local government shall consult with local public agencies involved in providing for the welfare of children to determine the housing needs of (A) families identified by the agencies as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care or in preventing the discharge of a child from foster care and reunification with his or her family; and (B) children who, upon discharge of the child from foster care, cannot return to their family or extended family and for which adoption is not available. The unit of general local government shall include in the housing assistance plan needs and goals with respect to such families and children.

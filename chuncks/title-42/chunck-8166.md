@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 1395aaa. Contract with a consensus-based entity regarding performance measurement
+##### (d) Funding
+
+(1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
+
+(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, $20,000,000 for fiscal year 2020, $26,000,000 for fiscal year 2021, $20,000,000 for fiscal year 2022, and $20,000,000 for fiscal year 2023. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018, 2019, 2020, 2021, 2022, and 2023, shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.

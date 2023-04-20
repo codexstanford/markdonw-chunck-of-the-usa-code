@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 16— NATIONAL SCIENCE FOUNDATION
+#### § 1863. National Science Board
+##### (g) Appointment and assignment of staff; compensation; security requirements
+
+The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of professional staff members, technical and professional personnel on leave of absence from academic, industrial, or research institutions for a limited term, and such operations and support staff members as may be necessary. Such staff shall be appointed by the Chairman and assigned at the direction of the Board. The professional members and limited term technical and professional personnel of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of such title relating to classification, and shall be compensated at a rate not exceeding the maximum rate payable under section 5376 of such title, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Section 1873(a)(3) of this title shall apply to each limited term appointment of technical and professional personnel under this subsection. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title .

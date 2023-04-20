@@ -1,0 +1,19 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8— LOW-INCOME HOUSING
+#### § 1437c. Contributions for low-income housing projects
+##### (c) Limitation on aggregate contractual contributions; contracts for preliminary loans; payments of annual contributions; limitations on specific authorities
+
+(1) The Secretary may enter into contracts for annual contributions aggregating not more than $7,875,049,000 per annum, which amount shall be increased by $1,494,400,000 on October 1, 1980 , and by $906,985,000 on October 1, 1981 . The additional authority to enter into such contracts provided on or after October 1, 1980 , shall be effective only in such amounts as may be approved in appropriation Acts. In addition, the aggregate amount which may be obligated over the duration of the contracts may not exceed $31,200,000,000 with respect to the additional authority provided on October 1, 1980 , and $18,087,370,000 with respect to the additional authority provided on October 1, 1981 .
+
+(2) The Secretary shall enter into only such new contracts for preliminary loans as are consistent with the number of dwelling units for which contracts for annual contributions may be entered into.
+
+(3) The full faith and credit of the United States is solemnly pledged to the payment of all annual contributions contracted for pursuant to this section, and there are hereby authorized to be appropriated in each fiscal year, out of any money in the Treasury not otherwise appropriated, the amounts necessary to provide for such payments.
+
+(4) All payments of annual contributions pursuant to this section shall be made out of any funds available for purposes of this chapter when such payments are due, except that funds obtained through the issuance of obligations pursuant to section 1437b(b) of this title (including repayments or other realizations of the principal of loans made out of such funds) shall not be available for the payment of such annual contributions.
+
+(5) During such period as the Secretary may prescribe for starting construction, the Secretary may approve the conversion of public housing development authority for use under section 1437g of this title or for use for the acquisition and rehabilitation of property to be used in public housing, if the public housing agency, after consultation with the unit of local government, certifies that such assistance would be more effectively used for such purpose, and if the total number of units assisted will not be less than 90 per centum of the units covered by the original reservation.
+
+(6) The aggregate amount of budget authority which may be obligated for contracts for annual contributions and for grants under section 1437 o of this title is increased by $9,912,928,000 on October 1, 1983 , and by such sums as may be approved in appropriation Acts on October 1, 1984 . The aggregate amount of budget authority that may be obligated for contracts for annual contributions for assistance under section 1437f of this title , for contracts referred to in paragraphs (7)(A)(iv) and (7)(B)(iv), for grants for public housing, for comprehensive improvement assistance, and for amendments to existing contracts, is increased (to the extent approved in appropriation Acts) by $7,167,000,000 on October 1, 1987 , and by $7,300,945,000 on October 1, 1988 . The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $16,194,000,000 on October 1, 1990 , and by $14,709,400,000 on October 1, 1991 . The aggregate amount of budget authority that may be obligated for assistance referred to in paragraph (7) is increased (to the extent approved in appropriation Acts) by $14,710,990,520 on October 1, 1992 , and by $15,328,852,122 on October 1993.
+
+(7)

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8A— SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING
+#### § 1490f. Loans and insurance of loans for condominium housing in rural areas
+##### (c) Blanket loans and insurance of loans; terms and conditions; certification by borrower of future ownership of multifamily project; maximum amount of principal obligation
+
+In addition to individual loans made or insured under subsection (a) the Secretary is authorized, upon such terms and conditions (substantially identical insofar as may be feasible with those specified in section 1485 of this title ) as he may prescribe, to make or insure blanket loans to a borrower who shall certify to the Secretary, as a condition of obtaining such loan or insurance, that upon completion of the multifamily project the ownership of the project will be committed to a plan of family unit ownership under which (1) each family unit will be eligible for a loan or insurance under subsection (a), and (2) the individual dwelling units in the project will be sold only on a condominium basis and only to purchasers eligible for a loan or insurance under subsection (a). The principal obligation of any blanket loan made or insured under this subsection shall in no case exceed the sum of the individual amounts of the loans which could be made or insured with respect to the individual dwelling units in the project under subsection (a).

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 19B— WATER RESOURCES PLANNING
+#### § 1962d–14a. Alaska hydroelectric power development
+##### (h) Conveyance of title, rights, and interests of United States; Federal requirements, reservations, and provisions
+
+The Secretary is authorized and directed, pursuant to the agreement, to convey all title, rights, and interests of the United States to any project, its lands and water areas, and appurtenant facilities to the non-Federal public authorities which have agreed to assume ownership of the project and responsibility for its performance, operation, and maintenance, as well as necessary replacements in accordance with this section upon full payment by such non-Federal public authorities as required under subsection (g)(1) of this section. Such conveyance shall, pursuant to the agreement required by subsection (g) of this section, to the maximum extent possible, occur immediately upon the project’s availability for generation of all or a substantial portion of the authorized hydroelectric power of the project, and shall include such Federal requirements, reservations, and provisions for access rights to the project and its records as the Secretary finds advisable to complete any portion of project construction remaining at the time of conveyance and to assure that the project will be operated and maintained in a responsible and safe manner to accomplish, as nearly as may be possible, all of the authorized purposes of the project including, but not restricted to, hydroelectric power generation.

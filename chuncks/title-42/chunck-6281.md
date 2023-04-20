@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 906. Training grants for public welfare personnel
+##### (f) Direct grants to certain agencies and institutions
+
+(1) The portion of the sums appropriated for any fiscal year which is determined by the Secretary under the first sentence of subsection (b) to be available for carrying out this subsection shall be available to enable him to provide (A) directly or through grants to or contracts with public or nonprofit private institutions of higher learning, for training personnel who are employed or preparing for employment in the administration of public assistance programs, (B) directly or through grants to or contracts with public or nonprofit private agencies or institutions, for special courses of study or seminars of short duration (not in excess of one year) for training of such personnel, and (C) directly or through grants to or contracts with public or nonprofit private institutions of higher learning, for establishing and maintaining fellowships or traineeships for such personnel at such institutions, with such stipends and allowances as may be permitted by the Secretary.
+
+(2) Payments under paragraph (1) may be made in advance on the basis of estimates by the Secretary, or may be made by way of reimbursement, and adjustments may be made in future payments under this subsection to take account of overpayments or underpayments in amounts previously paid.
+
+(3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.

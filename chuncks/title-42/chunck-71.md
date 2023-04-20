@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 211. Promotion of commissioned officers
+##### (j) Determination of order of seniority
+
+(1) The order of seniority of officers in a grade in the Regular Corps shall be determined, subject to the provisions of paragraph (2) of this subsection, by the relative length of time spent in active service after the effective date of each such officer’s original appointment or permanent promotion to that grade. When permanent promotions of two or more officers to the same grade are effective on the same day, their relative seniority shall be the same as it was in the grade from which promoted. In all other cases of original appointments or permanent promotions (or both) to the same grade effective on the same day, relative seniority shall be determined in accordance with regulations of the President.
+
+(2) In the case of an officer originally appointed in the Regular Corps to the grade of assistant or above, his seniority in the grade to which appointed shall be determined after inclusion, as service in such grade, of any active service in such grade or in any higher grade in the Ready Reserve Corps, but (if the appointment is to the grade of senior assistant or above) only to the extent of whichever of the following is greater: (A) His active service in such grade or any higher grade in the Ready Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he had the training and experience necessary for such appointment, or (B) the excess of his total active service in the Ready Reserve Corps (above the grade of junior assistant) over three years if his appointment in the Regular Corps is to the senior assistant grade, over ten years if the appointment is to the full grade, or over seventeen years if the appointment is to the senior grade.

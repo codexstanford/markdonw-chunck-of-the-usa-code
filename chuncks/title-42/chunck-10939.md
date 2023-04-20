@@ -1,0 +1,11 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2022. Health and environmental standards for uranium mill tailings
+##### (c) Publication in Federal Register; notice and hearing; consultations; judicial review; time for petition; venue; copy to Administrator; record; administrative jurisdiction; review by Supreme Court; effective date of rule
+
+(1) Before the promulgation of any rule pursuant to this section, the Administrator shall publish the proposed rule in the Federal Register, together with a statement of the research, analysis, and other available information in support of such proposed rule, and provide a period of public comment of at least thirty days for written comments thereon and an opportunity, after such comment period and after public notice, for any interested person to present oral data, views, and arguments at a public hearing. There shall be a transcript of any such hearing. The Administrator shall consult with the Commission and the Secretary of Energy before promulgation of any such rule.
+
+(2) Judicial review of any rule promulgated under this section may be obtained by any interested person only upon such person filing a petition for review within sixty days after such promulgation in the United States court of appeals for the Federal judicial circuit in which such person resides or has his principal place of business. A copy of the petition shall be forthwith transmitted by the clerk of court to the Administrator. The Administrator thereupon shall file in the court the written submissions to, and transcript of, the written or oral proceedings on which such rule was based as provided in section 2112 of title 28 . The court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The judgement of the court affirming, modifying, or setting aside, in whole or in part, any such rule shall be final, subject to judicial review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
+
+(3) Any rule promulgated under this section shall not take effect earlier than sixty calendar days after such promulgation.

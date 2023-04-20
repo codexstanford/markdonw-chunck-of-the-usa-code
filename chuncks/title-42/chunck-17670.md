@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 99— OCEAN THERMAL ENERGY CONVERSION
+#### § 9153. Enforcement
+##### (a) Enforcement responsibility of Administrator of National Oceanic and Atmospheric Administration; Coast Guard
+
+Except where a specific section of this chapter designates enforcement responsibility, the provisions of this chapter shall be enforced by the Administrator. The Secretary of the department in which the Coast Guard is operating shall have exclusive responsibility for enforcement measures which affect the safety of life and property at sea, shall exercise such other enforcement responsibilities with respect to vessels subject to the provisions of this chapter as are authorized under other provisions of law, and may, upon the specific request of the Administrator, assist the Administrator in the enforcement of any provision of this chapter. The Administrator and the Secretary of the department in which the Coast Guard is operating may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment, including aircraft and vessels, and facilities of any other Federal agency or department, and may authorize officers or employees of other departments or agencies to provide assistance as necessary in carrying out subsection (b) of this section. The Administrator and the Secretary of the department in which the Coast Guard is operating may issue regulations jointly or severally as may be necessary and appropriate to carry out their duties under this section.

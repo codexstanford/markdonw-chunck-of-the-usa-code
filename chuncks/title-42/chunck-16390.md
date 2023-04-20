@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 85— AIR POLLUTION PREVENTION AND CONTROL
+#### § 7521. Emission standards for new motor vehicles or new motor vehicle engines
+##### (b) Emissions of carbon monoxide, hydrocarbons, and oxides of nitrogen; annual report to Congress; waiver of emission standards; research objectives
+
+(1)
+
+(A) The regulations under subsection (a) applicable to emissions of carbon monoxide and hydrocarbons from light-duty vehicles and engines manufactured during model years 1977 through 1979 shall contain standards which provide that such emissions from such vehicles and engines may not exceed 1.5 grams per vehicle mile of hydrocarbons and 15.0 grams per vehicle mile of carbon monoxide. The regulations under subsection (a) applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during the model year 1980 shall contain standards which provide that such emissions may not exceed 7.0 grams per vehicle mile. The regulations under subsection (a) applicable to emissions of hydrocarbons from light-duty vehicles and engines manufactured during or after model year 1980 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970. Unless waived as provided in paragraph (5), 1 regulations under subsection (a) applicable to emissions of carbon monoxide from light-duty vehicles and engines manufactured during or after the model year 1981 shall contain standards which require a reduction of at least 90 percent from emissions of such pollutant allowable under the standards under this section applicable to light-duty vehicles and engines manufactured in model year 1970.

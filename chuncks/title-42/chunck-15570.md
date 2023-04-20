@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 84— DEPARTMENT OF ENERGY
+#### § 7135a. Delegation by Secretary of Energy of energy research, etc., functions to Administrator of Energy Information Administration; prohibition against required delegation; utilization of capabilities by Secretary
+
+Notwithstanding any other provision of law, the Secretary of Energy shall not be required to delegate to the Administrator of the Energy Information Administration any energy research, development, and demonstration function vested in the Secretary, pursuant to the Atomic Energy Act [ 42 U.S.C. 2011 et seq.], the Federal Nonnuclear Energy Research and Development Act [ 42 U.S.C. 5901 et seq.], the Geothermal Research, Development and Demonstration Act, 1 the Electric and Hybrid Vehicle Research, Development and Demonstration Act [ 15 U.S.C. 2501 et seq.], the Solar Heating and Cooling Demonstration Act [ 42 U.S.C. 5501 et seq.], the Solar Energy Research, Development and Demonstration Act, 1 and the Energy Reorganization Act [ 42 U.S.C. 5801 et seq.]. Additionally, the Secretary may utilize the capabilities of the Energy Information Administration as he deems appropriate for the conduct of such programs.

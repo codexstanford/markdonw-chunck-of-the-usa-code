@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300b–1. Research project grants and contracts
+
+In carrying out section 241 of this title , the Secretary may make grants to public and nonprofit private entities, and may enter into contracts with public and private entities and individuals, for projects for (1) basic or applied research leading to the understanding, diagnosis, treatment, and control of genetic diseases, (2) planning, establishing, demonstrating, and developing special programs for the training of genetic counselors, social and behavioral scientists, and other health professionals, (3) the development of programs to educate practicing physicians, other health professionals, and the public regarding the nature of genetic processes, the inheritance patterns of genetic diseases, and the means, methods, and facilities available to diagnose, control, counsel, and treat genetic diseases, and (4) the development of counseling and testing programs and other programs for the diagnosis, control, and treatment of genetic diseases. In making grants and entering into contracts for projects described in clause (1) of the preceding sentence, the Secretary shall give priority to applications for such grants or contracts which are submitted for research on sickle cell anemia and for research on Cooley’s anemia.

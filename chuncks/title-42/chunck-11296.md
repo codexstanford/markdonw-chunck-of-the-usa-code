@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2231. Applicability of administrative procedure provisions; definitions
+
+The provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to all agency action taken under this chapter, and the terms “agency” and “agency action” shall have the meaning specified in section 551 of title 5 : Provided, however , That in the case of agency proceedings or actions which involve Restricted Data, defense information, safeguards information protected from disclosure under the authority of section 2167 of this title or information protected from dissemination under the authority of section 2168 of this title , the Commission shall provide by regulation for such parallel procedures as will effectively safeguard and prevent disclosure of Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of section 2168 of this title to unauthorized persons with minimum impairment of the procedural rights which would be available if Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of section 2168 of this title were not involved.

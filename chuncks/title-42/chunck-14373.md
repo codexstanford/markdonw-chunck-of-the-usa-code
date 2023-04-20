@@ -1,0 +1,8 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 77— ENERGY CONSERVATION
+#### § 6251. Repealed. Pub. L. 109–58, title III, § 301(a)(3) , Aug. 8, 2005 , 119 Stat. 683
+
+SUBCHAPTER II— STANDBY ENERGY AUTHORITIES
+
+Part A— General Emergency Authorities

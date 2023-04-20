@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 233. Civil actions or proceedings against commissioned officers or employees
+##### (l) Timely response to filing of action or proceeding
+
+(1) If a civil action or proceeding is filed in a State court against any entity described in subsection (g)(4) or any officer, governing board member, employee, or any contractor of such an entity for damages described in subsection (a), the Attorney General, within 15 days after being notified of such filing, shall make an appearance in such court and advise such court as to whether the Secretary has determined under subsections (g) and (h), that such entity, officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section with respect to the actions or omissions that are the subject of such civil action or proceeding. Such advice shall be deemed to satisfy the provisions of subsection (c) that the Attorney General certify that an entity, officer, governing board member, employee, or contractor of the entity was acting within the scope of their employment or responsibility.
+
+(2) If the Attorney General fails to appear in State court within the time period prescribed under paragraph (1), upon petition of any entity or officer, governing board member, employee, or contractor of the entity named, the civil action or proceeding shall be removed to the appropriate United States district court. The civil action or proceeding shall be stayed in such court until such court conducts a hearing, and makes a determination, as to the appropriate forum or procedure for the assertion of the claim for damages described in subsection (a) and issues an order consistent with such determination.

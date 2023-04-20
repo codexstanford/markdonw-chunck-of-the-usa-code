@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 9— HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE
+#### § 1592b. Maximum construction costs; determinations by Secretary in certain condemnation proceedings
+
+The cost per family dwelling unit for any housing project constructed under the authority of this subchapter shall not exceed an average of $9,000 for two-bedroom units in such project, $10,000 for three-bedroom units in such project, and $11,000 for four-bedroom units in such project: Provided , That the Secretary of Housing and Urban Development may increase any such dollar limitation by not exceeding $1,000 in any geographical area where he finds that cost levels so require: Provided further , That in the Territories and possessions of the United States the Secretary of Housing and Urban Development may increase any such dollar limitation by 50 per centum: And provided further , That for the purposes of this section the cost of any land acquired by the Secretary of Housing and Urban Development upon the filing of a declaration of taking in proceedings for the condemnation of fee title shall be considered to be the amount determined by the Secretary of Housing and Urban Development upon the basis of competent appraisal, to be the value thereof.

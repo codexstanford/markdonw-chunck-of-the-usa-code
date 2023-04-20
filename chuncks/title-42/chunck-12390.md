@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 44— DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+#### § 3535. Administrative provisions
+##### (h) Financial transactions, finality; checking accounts for funds in Treasury; availability of funds for administrative expenses; consolidation of cash for banking and checking purposes
+
+Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, such financial transactions of the Secretary as the making of loans or grants (and vouchers approved by the Secretary in connection with such financial transactions) shall be final and conclusive upon all officers of the Government. Funds made available to the Secretary pursuant to any provision of law for such financial transactions shall be deposited in a checking account or accounts with the Treasury of the United States. Such funds and any receipts and assets obtained or held by the Secretary in connection with such financial transactions shall be available, in such amounts as may from year to year be authorized by the Congress, for the administrative expenses of the Secretary in connection with such financial transactions. Notwithstanding the provisions of any other law, the Secretary may, with the approval of the Comptroller General, consolidate into one or more accounts for banking and checking purposes all cash obtained or held in connection with such financial transactions, including amounts appropriated, from whatever source derived.

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 50— NATIONAL FLOOD INSURANCE
+#### § 4105. Disaster mitigation requirements; notification to flood-prone areas
+##### (b) Alternative actions of tentatively identified communities; public hearing; opportunity for submission of evidence; finality of administrative determination of existence or extent of flood hazard area
+
+After such notification, each tentatively identified community shall either (1) promptly make proper application to participate in the national flood insurance program or (2) within six months submit technical data sufficient to establish to the satisfaction of the Administrator that the community either is not seriously flood prone or that such flood hazards as may have existed have been corrected by flood-works or other flood control methods. The Administrator may, in his discretion, grant a public hearing to any community with respect to which conflicting data exist as to the nature and extent of a flood hazard. If the Administrator decides not to hold a hearing, the community shall be given an opportunity to submit written and documentary evidence. Whether or not such hearing is granted, the Administrator’s final determination as to the existence or extent of a flood hazard area in a particular community shall be deemed conclusive for the purposes of this Act if supported by substantial evidence in the record considered as a whole.

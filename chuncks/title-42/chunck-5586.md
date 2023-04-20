@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 415. Computation of primary insurance amount
+##### (h) Service of certain Public Health Service Officers
+
+(1) Notwithstanding the provisions of subchapter III of chapter 83 of title 5, remuneration paid for service to which the provisions of section 410( l )(1) of this title are applicable and which is performed by an individual as a commissioned officer of the Reserve Corps of the Public Health Service prior to July 1, 1960 , shall not be included in computing entitlement to or the amount of any monthly benefit under this subchapter, on the basis of his wages and self-employment income, for any month after June 1960 and prior to the first month with respect to which the Director of the Office of Personnel Management certifies to the Commissioner of Social Security that, by reason of a waiver filed as provided in paragraph (2), no further annuity will be paid to him, his wife, and his children, or, if he has died, to his widow and children, under subchapter III of chapter 83 of title 5 on the basis of such service.
+
+(2) In the case of a monthly benefit for a month prior to that in which the individual, on whose wages and self-employment income such benefit is based, dies, the waiver must be filed by such individual; and such waiver shall be irrevocable and shall constitute a waiver on behalf of himself, his wife, and his children. If such individual did not file such a waiver before he died, then in the case of a benefit for the month in which he died or any month thereafter, such waiver must be filed by his widow, if any, and by or on behalf of all his children, if any; and such waivers shall be irrevocable. Such a waiver by a child shall be filed by his legal guardian or guardians, or, in the absence thereof, by the person (or persons) who has the child in his care.

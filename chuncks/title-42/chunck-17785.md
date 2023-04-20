@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 103— COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY
+#### § 9606. Abatement actions
+##### (c) Guidelines for using imminent hazard, enforcement, and emergency response authorities; promulgation by Administrator of EPA, scope, etc.
+
+Within one hundred and eighty days after December 11, 1980 , the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering of information, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2), 1 1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) section 2606 of title 15 .

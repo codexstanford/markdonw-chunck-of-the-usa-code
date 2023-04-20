@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 66— DOMESTIC VOLUNTEER SERVICES
+#### § 4951. Congressional statement of purpose
+
+This part provides for the Volunteers in Service to America (VISTA) program of full-time volunteer service, together with appropriate powers and responsibilities designed to assist in the development and coordination of such program. The purpose of this part is to strengthen and supplement efforts to eliminate and alleviate poverty and poverty-related problems in the United States by encouraging and enabling persons from all walks of life, all geographical areas, and all age groups, including low-income individuals, elderly and retired Americans, to perform meaningful and constructive volunteer service in agencies, institutions, and situations where the application of human talent and dedication may assist in the solution of poverty and poverty-related problems and secure and increase opportunities for self-advancement by persons affected by such problems. In addition, the objectives of this part are to generate the commitment of private sector resources, to encourage volunteer service at the local level, to support efforts by local agencies and community organizations to achieve long-term sustainability of projects, and to strengthen local agencies and community organizations to carry out the objectives of this part.

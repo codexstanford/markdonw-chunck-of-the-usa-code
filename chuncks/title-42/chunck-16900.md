@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 88— URANIUM MILL TAILINGS RADIATION CONTROL
+#### § 7914. Acquisition and disposition of lands and materials
+##### (h) Subsurface mineral rights; sale, lease, or other disposition; restoration costs for disturbance of residual radioactive materials
+
+No provision of any agreement under section 7913 of this title shall prohibit the Secretary of the Interior, with the concurrence of the Secretary of Energy and the Commission, from disposing of any subsurface mineral rights by sale or lease (in accordance with laws of the United States applicable to the sale, lease, or other disposal of such rights) which are associated with land on which residual radioactive materials are disposed and which are transferred to the United States as required under this section if the Secretary of the Interior takes such action as the Commission deems necessary pursuant to a license issued by the Commission to assure that the residual radioactive materials will not be disturbed by reason of any activity carried on following such disposition. If any such materials are disturbed by any such activity, the Secretary of the Interior shall insure, prior to the disposition of the minerals, that such materials will be restored to a safe and environmentally sound condition as determined by the Commission, and that the costs of such restoration will be borne by the person acquiring such rights from the Secretary of the Interior or from his successor or assign.

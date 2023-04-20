@@ -1,0 +1,15 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2201. General duties of Commission
+##### (u) Additional contracts; guiding principles; appropriations
+
+(1) enter into contracts for such periods of time as the Commission may deem necessary or desirable, but not to exceed five years from the date of execution of the contract, for the purchase or acquisition of reactor services or services related to or required by the operation of reactors;
+
+(2)
+
+(A) enter into contracts for such periods of time as the Commission may deem necessary or desirable for the purchase or acquisition of any supplies, equipment, materials, or services required by the Commission whenever the Commission determines that: (i) it is advantageous to the Government to make such purchase or acquisition from commercial sources; (ii) the furnishing of such supplies, equipment, materials, or services will require the construction or acquisition of special facilities by the vendors or suppliers thereof; (iii) the amortization chargeable to the Commission constitutes an appreciable portion of the cost of contract performance, excluding cost of materials; and (iv) the contract for such period is more advantageous to the Government than a similar contract not executed under the authority of this subsection. Such contracts shall be entered into for periods not to exceed five years each from the date of initial delivery of such supplies, equipment, materials, or services or ten years from the date of execution of the contracts excluding periods of renewal under option.
+
+(B) In entering into such contracts the Commission shall be guided by the following principles: (i) the percentage of the total cost of special facilities devoted to contract performance and chargeable to the Commission should not exceed the ratio between the period of contract deliveries and the anticipated useful life of such special facilities; (ii) the desirability of obtaining options to renew the contract for reasonable periods at prices not to include charges for special facilities already amortized; and (iii) the desirability of reserving in the Commission the right to take title to the special facilities under appropriate circumstances; and
+
+(3) include in contracts made under this subsection provisions which limit the obligation of funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from termination as the contract may provide. The term “special facilities” as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.

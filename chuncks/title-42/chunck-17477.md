@@ -1,0 +1,13 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 96— BIOMASS ENERGY AND ALCOHOL FUELS
+#### § 8814. Loan guarantees
+##### (f) Payment to lender
+
+If the Secretary concerned determines that
+
+(1) the borrower is unable to meet payments and is not in default,
+
+(2) it is in the public interest to permit the borrower to continue with such project, and
+
+(3) the probable net benefit to the United States in paying the principal and interest due under the loan will be greater than that which would result in the event of a default, then the Secretary may pay to the lender under a loan guarantee agreement an amount not greater than the principal and interest which the borrower is obligated to pay to such lender, if the borrower agrees to reimburse the Secretary for such payment on terms and conditions, including interest, which the Secretary determines are sufficient to protect the financial interests of the United States.

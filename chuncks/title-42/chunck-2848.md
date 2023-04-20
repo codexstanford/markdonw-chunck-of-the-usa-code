@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 292b. Limitations on individual insured loans and on loan insurance
+##### (a) In general
+
+The total of the loans made to a student in any academic year or its equivalent (as determined by the Secretary) which may be covered by Federal loan insurance under this subpart may not exceed $20,000 in the case of a student enrolled in a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, or podiatric medicine, and $12,500 in the case of a student enrolled in a school of pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology. The aggregate insured unpaid principal amount for all such insured loans made to any borrower shall not at any time exceed $80,000 in the case of a borrower who is or was a student enrolled in a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, or podiatric medicine, and $50,000 in the case of a borrower who is or was a student enrolled in a school of pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or clinical psychology. The annual insurable limit per student shall not be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any year in excess of the annual limit.

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 300u–6. Office of Minority Health
+##### (a) In general
+
+There is established an Office of Minority Health. The Office of Minority Health as existing on March 23, 2010 , shall be transferred to the Office of the Secretary in such manner that there is established in the Office of the Secretary, the Office of Minority Health, which shall be headed by the Deputy Assistant Secretary for Minority Health who shall report directly to the Secretary, and shall retain and strengthen authorities (as in existence on March 23, 2010 ) for the purpose of improving minority health and the quality of health care minorities receive, and eliminating racial and ethnic disparities. In carrying out this subsection, the Secretary, acting through the Deputy Assistant Secretary, shall award grants, contracts, enter into memoranda of understanding, cooperative, interagency, intra-agency and other agreements with public and nonprofit private entities, agencies, as well as Departmental and Cabinet agencies and organizations, and with organizations that are indigenous human resource providers in communities of color to assure improved health status of racial and ethnic minorities, and shall develop measures to evaluate the effectiveness of activities aimed at reducing health disparities and supporting the local community. Such measures shall evaluate community outreach activities, language services, workforce cultural competence, and other areas as determined by the Secretary.

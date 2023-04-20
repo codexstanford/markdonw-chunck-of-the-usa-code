@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 136— VIOLENT CRIME CONTROL AND LAW ENFORCEMENT
+#### §§ 14041a, 14041b. Omitted
+
+Part H— Domestic Violence Task Force

@@ -1,0 +1,8 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 46— JUSTICE SYSTEM IMPROVEMENT
+#### § 3743. Transferred
+
+SUBCHAPTER V— BUREAU OF JUSTICE ASSISTANCE GRANT PROGRAMS
+
+Part A— Edward Byrne Memorial Justice Assistance Grant Program

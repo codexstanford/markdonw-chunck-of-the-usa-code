@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 68— DISASTER RELIEF
+#### § 5197a. Security regulations
+##### (c) National security positions
+
+No employee of the Federal Emergency Management Agency shall occupy any position determined by the Administrator to be of critical importance from the standpoint of national security until a full field investigation concerning such employee shall have been conducted by the Director of the Office of Personnel Management and a report thereon shall have been evaluated in writing by the Administrator of the Federal Emergency Management Agency. In the event such full field investigation by the Director of the Office of Personnel Management develops any data reflecting that such applicant for a position of critical importance is of questionable loyalty or reliability for security purposes, or if the Administrator of the Federal Emergency Management Agency for any other reason considers it to be advisable, such investigation shall be discontinued and a report thereon shall be referred to the Administrator of the Federal Emergency Management Agency for evaluation in writing. Thereafter, the Administrator of the Federal Emergency Management Agency may refer the matter to the Federal Bureau of Investigation for the conduct of a full field investigation by such Bureau. The result of such latter investigation by such Bureau shall be furnished to the Administrator of the Federal Emergency Management Agency for action.

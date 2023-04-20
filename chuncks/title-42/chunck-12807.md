@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 50— NATIONAL FLOOD INSURANCE
+#### § 4104. Flood elevation determinations
+##### (f) Reimbursement of certain expenses
+
+When, incident to any appeal under subsection (b) or (c) of this section, the owner or lessee of real property or the community, as the case may be, or, in the case of an appeal that is resolved by submission of conflicting data to the Scientific Resolution Panel provided for in section 4104–1 of this title , the community, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal based on a scientific or technical error on the part of the Federal Emergency Management Agency, which is successful in whole or part, the Administrator shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Administrator in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. The Administrator may use such amounts from the National Flood Insurance Fund established under section 4017 of this title as may be necessary to carry out this subsection. The Administrator shall promulgate regulations to carry out this subsection.

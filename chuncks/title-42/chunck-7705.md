@@ -1,0 +1,15 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 1395x. Definitions
+##### (k) Utilization review
+
+A utilization review plan of a hospital or skilled nursing facility shall be considered sufficient if it is applicable to services furnished by the institution to individuals entitled to insurance benefits under this subchapter and if it provides
+
+(1) for the review, on a sample or other basis, of admissions to the institution, the duration of stays therein, and the professional services (including drugs and biologicals) furnished, (A) with respect to the medical necessity of the services, and (B) for the purpose of promoting the most efficient use of available health facilities and services;
+
+(2) for such review to be made by either (A) a staff committee of the institution composed of two or more physicians (of which at least two must be physicians described in subsection (r)(1) of this section), with or without participation of other professional personnel, or (B) a group outside the institution which is similarly composed and (i) which is established by the local medical society and some or all of the hospitals and skilled nursing facilities in the locality, or (ii) if (and for as long as) there has not been established such a group which serves such institution, which is established in such other manner as may be approved by the Secretary;
+
+(3) for such review, in each case of inpatient hospital services or extended care services furnished to such an individual during a continuous period of extended duration, as of such days of such period (which may differ for different classes of cases) as may be specified in regulations, with such review to be made as promptly as possible, after each day so specified, and in no event later than one week following such day; and
+
+(4) for prompt notification to the institution, the individual, and his attending physician of any finding (made after opportunity for consultation to such attending physician) by the physician members of such committee or group that any further stay in the institution is not medically necessary. The review committee must be composed as provided in clause (B) of paragraph (2) rather than as provided in clause (A) of such paragraph in the case of any hospital or skilled nursing facility where, because of the small size of the institution, or (in the case of a skilled nursing facility) because of lack of an organized medical staff, or for such other reason or reasons as may be included in regulations, it is impracticable for the institution to have a properly functioning staff committee for the purposes of this subsection. If the Secretary determines that the utilization review procedures established pursuant to subchapter XIX are superior in their effectiveness to the procedures required under this section, he may, to the extent that he deems it appropriate, require for purposes of this subchapter that the procedures established pursuant to subchapter XIX be utilized instead of the procedures required by this section.

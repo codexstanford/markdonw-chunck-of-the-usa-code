@@ -1,0 +1,19 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 421. Disability determinations
+##### (a) State agencies
+
+(1) In the case of any individual, the determination of whether or not he is under a disability (as defined in section 416(i) or 423(d) of this title) and of the day such disability began, and the determination of the day on which such disability ceases, shall be made by a State agency, notwithstanding any other provision of law, in any State that notifies the Commissioner of Social Security in writing that it wishes to make such disability determinations commencing with such month as the Commissioner of Social Security and the State agree upon, but only if (A) the Commissioner of Social Security has not found, under subsection (b)(1), that the State agency has substantially failed to make disability determinations in accordance with the applicable provisions of this section or rules issued thereunder, and (B) the State has not notified the Commissioner of Social Security, under subsection (b)(2), that it does not wish to make such determinations. If the Commissioner of Social Security once makes the finding described in clause (A) of the preceding sentence, or the State gives the notice referred to in clause (B) of such sentence, the Commissioner of Social Security may thereafter determine whether (and, if so, beginning with which month and under what conditions) the State may again make disability determinations under this paragraph.
+
+(2) The disability determinations described in paragraph (1) made by a State agency shall be made in accordance with the pertinent provisions of this subchapter and the standards and criteria contained in regulations or other written guidelines of the Commissioner of Social Security pertaining to matters such as disability determinations, the class or classes of individuals with respect to which a State may make disability determinations (if it does not wish to do so with respect to all individuals in the State), and the conditions under which it may choose not to make all such determinations. In addition, the Commissioner of Social Security shall promulgate regulations specifying, in such detail as the Commissioner deems appropriate, performance standards and administrative requirements and procedures to be followed in performing the disability determination function in order to assure effective and uniform administration of the disability insurance program throughout the United States. The regulations may, for example, specify matters such as
+
+(A) the administrative structure and the relationship between various units of the State agency responsible for disability determinations,
+
+(B) the physical location of and relationship among agency staff units, and other individuals or organizations performing tasks for the State agency, and standards for the availability to applicants and beneficiaries of facilities for making disability determinations,
+
+(C) State agency performance criteria, including the rate of accuracy of decisions, the time periods within which determinations must be made, the procedures for and the scope of review by the Commissioner of Social Security, and, as the Commissioner finds appropriate, by the State, of its performance in individual cases and in classes of cases, and rules governing access of appropriate Federal officials to State offices and to State records relating to its administration of the disability determination function,
+
+(D) fiscal control procedures that the State agency may be required to adopt, and
+
+(E) the submission of reports and other data, in such form and at such time as the Commissioner of Social Security may require, concerning the State agency’s activities relating to the disability determination. Nothing in this section shall be construed to authorize the Commissioner of Social Security to take any action except pursuant to law or to regulations promulgated pursuant to law.

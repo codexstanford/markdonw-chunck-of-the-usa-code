@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 21— CIVIL RIGHTS
+#### § 2000e–2. Unlawful employment practices
+##### (h) Seniority or merit system; quantity or quality of production; ability tests; compensation based on sex and authorized by minimum wage provisions
+
+Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to apply different standards of compensation, or different terms, conditions, or privileges of employment pursuant to a bona fide seniority or merit system, or a system which measures earnings by quantity or quality of production or to employees who work in different locations, provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin, nor shall it be an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test provided that such test, its administration or action upon the results is not designed, intended or used to discriminate because of race, color, religion, sex or national origin. It shall not be an unlawful employment practice under this subchapter for any employer to differentiate upon the basis of sex in determining the amount of the wages or compensation paid or to be paid to employees of such employer if such differentiation is authorized by the provisions of section 206(d) of title 29 .

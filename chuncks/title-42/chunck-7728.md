@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 1395x. Definitions
+##### (w) Arrangements for certain services; payments pursuant to arrangements for utilization review activities
+
+(1) The term “arrangements” is limited to arrangements under which receipt of payment by the hospital, critical access hospital, skilled nursing facility, home health agency, or hospice program (whether in its own right or as agent), with respect to services for which an individual is entitled to have payment made under this subchapter, discharges the liability of such individual or any other person to pay for the services.
+
+(2) Utilization review activities conducted, in accordance with the requirements of the program established under part B of subchapter XI of this chapter with respect to services furnished by a hospital or critical access hospital to patients insured under part A of this subchapter or entitled to have payment made for such services under part B of this subchapter or under a State plan approved under subchapter XIX, by a quality improvement organization designated for the area in which such hospital or critical access hospital is located shall be deemed to have been conducted pursuant to arrangements between such hospital or critical access hospital and such organization under which such hospital or critical access hospital is obligated to pay to such organization, as a condition of receiving payment for hospital or critical access hospital services so furnished under this part or under such a State plan, such amount as is reasonably incurred and requested (as determined under regulations of the Secretary) by such organization in conducting such review activities with respect to services furnished by such hospital or critical access hospital to such patients.

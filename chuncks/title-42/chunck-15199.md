@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 82— SOLID WASTE DISPOSAL
+#### § 6925. Permits for treatment, storage, or disposal of hazardous waste
+##### (a) Permit requirements
+
+Not later than eighteen months after October 21, 1976 , the Administrator shall promulgate regulations requiring each person owning or operating an existing facility or planning to construct a new facility for the treatment, storage, or disposal of hazardous waste identified or listed under this subchapter to have a permit issued pursuant to this section. Such regulations shall take effect on the date provided in section 6930 of this title and upon and after such date the treatment, storage, or disposal of any such hazardous waste and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste is prohibited except in accordance with such a permit. No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polychlorinated biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.

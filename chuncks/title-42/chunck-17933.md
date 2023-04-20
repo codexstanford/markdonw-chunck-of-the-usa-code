@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 103— COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY
+#### §§ 9631 to 9633. Repealed. Pub. L. 99–499, title V, § 517(c)(1) , Oct. 17, 1986 , 100 Stat. 1774
+
+Part B— Post-closure Liability Trust Fund

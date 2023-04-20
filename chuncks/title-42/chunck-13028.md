@@ -1,0 +1,10 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 59— NATIONAL URBAN POLICY AND NEW COMMUNITY DEVELOPMENT
+#### § 4502. Congressional findings and declaration of policy
+
+(a) The Congress finds that rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created an imbalance between the Nation’s needs and resources and seriously threaten our physical and social environment, and the financial viability of our cities, and that the economic and social development of the Nation, the proper conservation of our energy and other natural resources, and the achievement of satisfactory living standards depend upon the sound, orderly, and more balanced development of all areas of the Nation.
+
+(b) The Congress further finds that Federal programs affect the location of population, economic growth, and the character of urban development; that such programs frequently conflict and result in undesirable and costly patterns of urban development and redevelopment which adversely affect the environment and wastefully use energy and other natural resources; and that existing and future programs must be interrelated and coordinated within a system of orderly development and established priorities consistent with a national urban policy.
+
+(c) To promote the general welfare and properly apply the resources of the Federal Government in strengthening the economic and social health of all areas of the Nation and more adequately protect the physical environment and conserve energy and other natural resources, the Congress declares that the Federal Government, consistent with the responsibilities of State and local government and the private sector, must assume responsibility for the development of a national urban policy which shall incorporate social, economic, and other appropriate factors. Such policy shall serve as a guide in making specific decisions at the national level which affect the pattern of urban development and redevelopment and shall provide a framework for development of interstate, State, and local urban policy.

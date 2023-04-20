@@ -1,0 +1,15 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 73— DEVELOPMENT OF ENERGY SOURCES
+#### § 5841. Establishment and transfers
+##### (a) Composition; Chairman; Acting Chairman; quorum; official spokesman; seal; functions of Chairman and Commission
+
+(1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President. The Chairman may from time to time designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all meetings of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have equal responsibility and authority in all decisions and actions of the Commission, shall have full access to all information relating to the performance of his duties or responsibilities, and shall have one vote. Action of the Commission shall be determined by a majority vote of the members present. The Chairman (or Acting Chairman in the absence of the Chairman) shall be the official spokesman of the Commission in its relations with the Congress, Government agencies, persons, or the public, and, on behalf of the Commission, shall see to the faithful execution of the policies and decisions of the Commission, and shall report thereon to the Commission from time to time or as the Commission may direct. The Commission shall have an official seal which shall be judicially noticed.
+
+(2) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (a) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of commissioners other than the Chairman, and except as otherwise provided in this chapter), (b) the distribution of business among such personnel and among administrative units of the Commission, and (c) the use and expenditure of funds.
+
+(3) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
+
+(4) The appointment by the Chairman of the heads of major administrative units under the Commission shall be subject to the approval of the Commission.
+
+(5) There are hereby reserved to the Commission its functions with respect to revising budget estimates and with respect to determining upon the distribution of appropriated funds according to major programs and purposes.

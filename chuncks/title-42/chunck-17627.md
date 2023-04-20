@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 99— OCEAN THERMAL ENERGY CONVERSION
+#### § 9115. Adjacent coastal States
+##### (a) Designation of adjacent coastal State
+
+(1) The Administrator, in issuing notice of application pursuant to section 9112(d) of this title , shall designate as an “adjacent coastal State” any coastal State which (A) would be directly connected by electric transmission cable or pipeline to an ocean thermal energy conversion facility as proposed in an application, or (B) in whose waters any part of such proposed ocean thermal energy conversion facility would be located, or (C) in whose waters an ocean thermal energy conversion plantship would be operated as proposed in an application.
+
+(2) The Administrator shall, upon request of a State, designate such State as an “adjacent coastal State” if he determines (A) that there is a risk of damage to the coastal environment of such State equal to or greater than the risk posed to a State required to be designated as an “adjacent coastal State” by paragraph (1) of this subsection or (B) that the thermal plume of the proposed ocean thermal energy conversion facility or plantship is likely to impinge on so as to degrade the thermal gradient at possible locations for ocean thermal energy conversion facilities which could reasonably be expected to be directly connected by electric transmission cable or pipeline to such State. This paragraph shall apply only with respect to requests made by a State not later than the 14th day after the date of publication of notice of application for a proposed ocean thermal energy conversion facility in the Federal Register in accordance with section 9112(d) of this title . The Administrator shall make any designation required by this paragraph not later than the 45th day after the date he receives such a request from a State.

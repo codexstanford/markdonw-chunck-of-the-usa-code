@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 34— ECONOMIC OPPORTUNITY PROGRAM
+#### § 2982d. Omitted
+
+Part B— Special Rural Programs

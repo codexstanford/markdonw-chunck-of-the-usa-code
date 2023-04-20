@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 135— RESIDENCY AND SERVICE REQUIREMENTS IN FEDERALLY ASSISTED HOUSING
+#### § 13602. Compliance with criteria for occupancy as requirement for tenancy
+
+In selecting tenants for occupancy of units in federally assisted housing, an owner of such housing shall utilize the criteria for occupancy in federally assisted housing established by the Secretary, by regulation, under section 13603 of this title . If an owner determines that an applicant for occupancy in the housing does not meet such criteria, the owner may deny such applicant occupancy.

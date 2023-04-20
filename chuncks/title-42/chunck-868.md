@@ -1,0 +1,9 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 254h. Provision of health services by Corps members
+##### (b) Utilization of existing health facilities; lease, acquisition, and use of equipment and supplies; permanent and temporary professional services
+
+(1) Notwithstanding any other provision of law, the Secretary may (A) to the maximum extent feasible make such arrangements as he determines necessary to enable Corps members to utilize the health facilities in or serving the health professional shortage area in providing health services; (B) make such arrangements as he determines are necessary for the use of equipment and supplies of the Service and for the lease or acquisition of other equipment and supplies; and (C) secure the permanent or temporary services of physicians, dentists, nurses, administrators, and other health personnel. If there are no health facilities in or serving such area, the Secretary may arrange to have Corps members provide health services in the nearest health facilities of the Service or may lease or otherwise provide facilities in or serving such area for the provision of health services.
+
+(2) If the individuals in or served by a health professional shortage area are being served (as determined under regulations of the Secretary) by a hospital or other health care delivery facility of the Service, the Secretary may, in addition to such other arrangements as he may make under paragraph (1), arrange for the utilization of such hospital or facility by Corps members in providing health services, but only to the extent that such utilization will not impair the delivery of health services and treatment through such hospital or facility to individuals who are entitled to health services and treatment through such hospital or facility.

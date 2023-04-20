@@ -1,0 +1,17 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 12— COMPENSATION FOR INJURY, DEATH, OR DETENTION OF EMPLOYEES OF CONTRACTORS WITH UNITED STATES OUTSIDE UNITED STATES
+#### § 1701. Compensation for injury or death resulting from war-risk hazard
+##### (a) Persons covered
+
+In case of injury or death resulting from injury
+
+(1) to any person employed by a contractor with the United States, if such person in an employee specified in chapter 11 of this title, and no compensation is payable with respect to such injury or death under such chapter; or
+
+(2) to any person engaged by the United States under a contract for his personal services outside the continental United States; or
+
+(3) to any person employed outside the continental United States as a civilian employee paid from nonappropriated funds administered by the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship’s Store Ashore, Navy exchanges, Marine Corps exchanges, officers’ and noncommissioned officers’ open messes, enlisted men’s clubs, service clubs, special service activities, or any other instrumentality of the United States under the jurisdiction of the Department of Defense and conducted for the mental, physical, and morale improvement of personnel of the Department of Defense and their dependents; or
+
+(4) to any person who is an employee specified in section 1651(a)(5) of this title , if no compensation is payable with respect to such injury or death under chapter 11 of this title or to any person engaged under a contract for his personal services outside the United States approved and financed by the United States under the Mutual Security Act of 1954, as amended (other than title II of chapter II thereof unless the Secretary of Labor, upon the recommendation of the head of any department or other agency of the United States Government, determines a contract financed under a successor provision of any successor Act should be covered by this section): Provided , That in cases where the United States is not a formal party to contracts approved and financed under the Mutual Security Act of 1954, as amended, the Secretary, upon the recommendation of the head of any department or agency of the United States, may, in the exercise of his discretion, waive the application of the provisions of this subparagraph with respect to any such contracts, subcontracts, or subordinate contracts, work location under such contracts, subcontracts, or subordinate contracts, or classification of employees; or
+
+(5) to any person employed or otherwise engaged for personal services outside the continental United States by an American employer providing welfare or similar services for the benefit of the Armed Forces pursuant to appropriate authorization by the Secretary of Defense, and such injury proximately results from a war-risk hazard, whether or not such person then actually was engaged in the course of his employment, the provisions of subchapter I of chapter 81 of title 5, as amended, and as modified by this chapter, shall apply with respect thereto in the same manner and to the same extent as if the person so employed were a civil employee of the United States and were injured while in the performance of his duty, and any compensation found to be due shall be paid from the compensation fund established pursuant to section 8147 of title 5 . This subsection shall not be construed to include any person who would otherwise come within the purview of subchapter I of chapter 81 of title 5.

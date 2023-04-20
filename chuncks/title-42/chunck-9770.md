@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 13— SCHOOL LUNCH PROGRAMS
+#### § 1761. Summer food service program for children
+##### (n) Management and administration plan; notification and submittal to Secretary; specific provisions
+
+Each State desiring to participate in the program shall notify the Secretary by January 1 of each year of its intent to administer the program and shall submit for approval by February 15 a management and administration plan for the program for the fiscal year, which shall include, but not be limited to, (1) the State’s administrative budget for the fiscal year, and the State’s plans to comply with any standards prescribed by the Secretary under subsection (k) of this section; (2) the State’s plans for use of program funds and funds from within the State to the maximum extent practicable to reach needy children; (3) the State’s plans for providing technical assistance and training eligible service institutions; (4) the State’s plans for monitoring and inspecting service institutions, feeding sites, and food service management companies and for ensuring that such companies do not enter into contracts for more meals than they can provide effectively and efficiently; (5) the State’s plan for timely and effective action against program violators; and (6) the State’s plan for ensuring fiscal integrity by auditing service institutions not subject to auditing requirements prescribed by the Secretary.

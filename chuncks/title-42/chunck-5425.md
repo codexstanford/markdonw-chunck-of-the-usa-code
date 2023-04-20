@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 404. Overpayments and underpayments
+##### (g) Cross-program recovery of overpayments
+
+For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title .

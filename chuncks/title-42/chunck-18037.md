@@ -1,0 +1,6 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 105— COMMUNITY SERVICES PROGRAMS
+#### § 9820. Grants to plan economic development and cooperative programs
+
+In order to facilitate the purposes of this subchapter, the Secretary is authorized to provide financial assistance to any public or private nonprofit agency or organization for planning of community economic development programs and cooperative programs under this subchapter.

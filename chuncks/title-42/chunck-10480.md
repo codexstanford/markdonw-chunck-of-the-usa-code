@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 19B— WATER RESOURCES PLANNING
+#### § 1962d–17. Regional or river basin plans and Federal water and related land resources projects; preparation, formulation, and evaluation
+##### (a) Interest rate formula for discounting future benefits and cost computations; repeal of conflicting provisions and administrative actions
+
+The interest rate formula to be used in plan formulation and evaluation for discounting future benefits and computing costs by Federal officers, employees, departments, agencies, and instrumentalities in the preparation of comprehensive regional or river basin plans and the formulation and evaluation of Federal water and related land resources projects shall be the formula set forth in the “Policies, Standards, and Procedures in the Formulation, Evaluation, and Review of Plans for Use and Development of Water and Related Land Resources” approved by the President on May 15, 1962 , and published as Senate Document 97 of the Eighty-seventh Congress on May 29, 1962 , as amended by the regulation issued by the Water Resources Council and published in the Federal Register on December 24, 1968 (33 F.R. 19170; 18 C.F.R. 704.39), until otherwise provided by a statute enacted after March 7, 1974 . Every provision of law and every administrative action in conflict with this section is hereby repealed to the extent of such conflict.

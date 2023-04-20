@@ -1,0 +1,17 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 254d. National Health Service Corps
+##### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; “monthly pay” defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
+
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C)) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+
+(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member’s monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+
+(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member’s monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
+
+(C) For each month in which a member is directly engaged in the delivery of health services in a health professional shortage area in accordance with an agreement with the Secretary entered into under section 294n(f)(1)(C)  2 of this title, under which the Secretary is obligated to make payments in accordance with section 294n(f)(2)  2 of this title, the amount of any monthly increase under subparagraph (A) or (B) with respect to such member shall be decreased by an amount equal to one-twelfth of the amount which the Secretary is obligated to pay upon the completion of the year of practice in which such month occurs. For purposes of subparagraphs (A) and (B), the term “monthly pay” includes special pay received under chapter 5 of title 37.
+
+(2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member’s being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
+
+(3) A member of the Corps described in subparagraph (C) of subsection (a)(1) shall when assigned to an entity under section 254f of this title be subject to the personnel system of such entity, except that such member shall receive during the period of assignment the income that the member would receive if the member was a member of the Corps described in subparagraph (B) of such subsection.

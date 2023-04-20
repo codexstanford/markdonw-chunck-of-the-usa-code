@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 7— SOCIAL SECURITY
+#### § 403. Reduction of insurance benefits
+##### (k) Noncovered remunerative activity outside United States
+
+An individual shall be considered to be engaged in noncovered remunerative activity outside the United States if he performs services outside the United States as an employee and such services do not constitute employment as defined in section 410 of this title and are not performed in the active military or naval service of the United States, or if he carries on a trade or business outside the United States (other than the performance of service as an employee) the net income or loss of which (1) is not includible in computing his net earnings from self-employment for a taxable year and (2) would not be excluded from net earnings from self-employment, if carried on in the United States, by any of the numbered paragraphs of section 411(a) of this title . When used in the preceding sentence with respect to a trade or business (other than the performance of service as an employee), the term “United States” does not include the Commonwealth of Puerto Rico, the Virgin Islands, Guam, or American Samoa in the case of an alien who is not a resident of the United States (including the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa); and the term “trade or business” shall have the same meaning as when used in section 162 of the Internal Revenue Code of 1986.

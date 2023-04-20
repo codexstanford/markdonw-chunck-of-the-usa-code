@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 6A— PUBLIC HEALTH SERVICE
+#### § 211. Promotion of commissioned officers
+##### (l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
+
+Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title ) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.

@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 23— DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
+#### § 2201. General duties of Commission
+##### (d) Employment of personnel
+
+appoint and fix the compensation of such officers and employees as may be necessary to carry out the functions of the Commission. Such officers and employees shall be appointed in accordance with the civil-service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that, to the extent the Commission deems such action necessary to the discharge of its responsibilities, personnel may be employed and their compensation fixed without regard to such laws: Provided, however , That no officer or employee (except such officers and employees whose compensation is fixed by law, and scientific and technical personnel up to a limit of the highest rate of grade 18 of the General Schedule) whose position would be subject to chapter 51 and subchapter III of chapter 53 of title 5, if such provisions were applicable to such position, shall be paid a salary at a rate in excess of the rate payable under such provisions for positions of equivalent difficulty or responsibility. Such rates of compensation may be adopted by the Commission as may be authorized by chapter 51 and subchapter III of chapter 53 of title 5, as of the same date such rates are authorized for positions subject to such provisions. The Commission shall make adequate provision for administrative review of any determination to dismiss any employee;

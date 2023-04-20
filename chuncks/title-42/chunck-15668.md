@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 84— DEPARTMENT OF ENERGY
+#### § 7193. Remedial orders
+##### (c) Notice of contestation to Commission; stay; hearing; cross examination; final order; enforcement and review
+
+If within thirty days after the receipt of the remedial order issued by the Secretary, the person notifies the Secretary that he intends to contest a remedial order issued under subsection (a) of this section, the Secretary shall immediately advise the Commission of such notification. Upon such notice, the Commission shall stay the effect of the remedial order, unless the Commission finds the public interest requires immediate compliance with such remedial order. The Commission shall, upon request, afford an opportunity for a hearing, including, at a minimum, the submission of briefs, oral or documentary evidence, and oral arguments. To the extent that the Commission in its discretion determines that such is required for a full and true disclosure of the facts, the Commission shall afford the right of cross examination. The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s remedial order, or directing other appropriate relief, and such order shall, for the purpose of judicial review, constitute a final agency action, except that enforcement and other judicial review of such action shall be the responsibility of the Secretary.

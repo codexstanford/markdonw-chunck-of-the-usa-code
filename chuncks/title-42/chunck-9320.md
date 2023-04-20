@@ -1,0 +1,7 @@
+
+# Title 42— THE PUBLIC HEALTH AND WELFARE
+### CHAPTER 8A— SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING
+#### § 1474. Loans and grants for repairs or improvements of rural dwellings
+##### (a) Prerequisites; purposes; amounts; terms
+
+The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate. Any portion of the sums advanced to the borrower treated as a loan shall be secured and be repayable within twenty years in accordance with the principles and conditions set forth in this subchapter, except that a loan for less than $7,500 need be evidenced only by a promissory note. Sums made available by grant may be made subject to the conditions set forth in this subchapter for the protection of the Government with respect to contributions made on loans made by the Secretary.
