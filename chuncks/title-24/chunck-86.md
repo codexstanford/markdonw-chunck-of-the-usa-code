@@ -1,0 +1,7 @@
+
+# Title 24— HOSPITALS AND ASYLUMS
+### CHAPTER 9— HOSPITALIZATION OF MENTALLY ILL NATIONALS RETURNED FROM FOREIGN COUNTRIES
+#### § 328. Payment for care and treatment
+##### (a) Persons liable; scope of liability; compromise or waiver; investigations; judicial proceedings
+
+Any person hospitalized under section 324 of this title or his estate, shall be liable to pay or contribute toward the payment of the costs or charges for his care and treatment to the same extent as such person would, if resident in the District of Columbia, be liable to pay, under the laws of the District of Columbia, for his care and maintenance in a hospital for the mentally ill in that jurisdiction. The Secretary may, in his discretion, where in his judgment substantial justice will be best served thereby or the probable recovery will not warrant the expense of collection, compromise or waive the whole or any portion of any claim under this section. In carrying out this section, the Secretary may make or cause to be made such investigations as may be necessary to determine the ability of any person hospitalized under section 324 of this title to pay or contribute toward the cost of his hospitalization. All collections or reimbursement on account of the costs and charges for the care of the eligible person shall be deposited in the Treasury as miscellaneous receipts. Any judicial proceedings to recover such costs or charges shall be brought in the name of the United States in any court of competent jurisdiction.
