@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 9— FEDERAL FOOD, DRUG, AND COSMETIC ACT
+#### § 360b. New animal drugs
+##### (i) Publication in Federal Register; effective date and revocation or suspension of regulation
+
+When a new animal drug application filed pursuant to subsection (b) or section 360ccc of this title is approved, the Secretary shall by notice, which upon publication shall be effective as a regulation, publish in the Federal Register the name and address of the applicant and the conditions and indications of use of the new animal drug covered by such application, including any tolerance and withdrawal period or other use restrictions and, if such new animal drug is intended for use in animal feed, appropriate purposes and conditions of use (including special labeling requirements and any requirement that an animal feed bearing or containing the new animal drug be limited to use under the professional supervision of a licensed veterinarian) applicable to any animal feed for use in which such drug is approved, and such other information, upon the basis of which such application was approved, as the Secretary deems necessary to assure the safe and effective use of such drug. Upon withdrawal of approval of such new animal drug application or upon its suspension or upon failure to renew a conditional approval under section 360ccc of this title , the Secretary shall forthwith revoke or suspend, as the case may be, the regulation published pursuant to this subsection (i) insofar as it is based on the approval of such application.

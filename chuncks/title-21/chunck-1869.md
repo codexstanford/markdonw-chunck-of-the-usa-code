@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 13— DRUG ABUSE PREVENTION AND CONTROL
+#### § 824. Denial, revocation, or suspension of registration
+##### (f) Disposition of controlled substances or list I chemicals
+
+In the event the Attorney General suspends or revokes a registration granted under section 823 of this title , all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of sale deposited in court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title . All right, title, and interest in such controlled substances or list I chemicals shall vest in the United States upon a revocation order becoming final.

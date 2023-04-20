@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 12— MEAT INSPECTION
+#### § 607. Labeling, marking, and container requirements
+##### (c) Labeling: type styles and sizes; definitions and standards of identity or composition; standards of fill of container; consistency of Federal and Federal-State standards
+
+The Secretary, whenever he determines such action is necessary for the protection of the public, may prescribe: (1) the styles and sizes of type to be used with respect to material required to be incorporated in labeling to avoid false or misleading labeling in marketing and labeling any articles or animals subject to this subchapter or subchapter II of this chapter; (2) definitions and standards of identity or composition for articles subject to this subchapter and standards of fill of container for such articles not inconsistent with any such standards established under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], and there shall be consultation between the Secretary and the Secretary of Health and Human Services prior to the issuance of such standards under either Act relating to articles subject to this chapter to avoid inconsistency in such standards and possible impairment of the coordinated effective administration of these Acts. There shall also be consultation between the Secretary and an appropriate advisory committee provided for in section 661 of this title , prior to the issuance of such standards under this chapter, to avoid, insofar as feasible, inconsistency between Federal and State standards.

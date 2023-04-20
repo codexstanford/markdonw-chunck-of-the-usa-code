@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 9— FEDERAL FOOD, DRUG, AND COSMETIC ACT
+#### § 399i. Food and Drug Administration Working Capital Fund
+##### (a) In general
+
+There is hereby established in the Treasury of the United States a Working Capital Fund (the Fund) to be administered by the Food and Drug Administration (FDA), without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocks may be maintained to meet, in whole or in part, the needs of the FDA and requisitions of other Government Offices, and (2) such other services as the Commissioner of the FDA, subject to review by the Secretary of Health and Human Services, determines may be performed more advantageously as central services. The Fund shall be reimbursed from applicable discretionary resources, notwithstanding any otherwise applicable purpose limitations, available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment, information technology, and other expenses. Charges for equipment and information technology shall include costs associated with maintenance, repair, and depreciation (including improvement and replacement).

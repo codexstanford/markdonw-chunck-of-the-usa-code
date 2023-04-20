@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 10— POULTRY AND POULTRY PRODUCTS INSPECTION
+#### § 457. Labeling and container standards
+##### (d) Withholding use of false or misleading mark, label, or container size or form; modification; hearing; conclusiveness of determination; appeal
+
+If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this chapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person using or proposing to use the marking, labeling, or container does not accept the determination of the Secretary, such person may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person adversely affected thereby appeals to the United States Court of Appeals for the circuit in which such person has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.

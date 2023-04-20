@@ -1,0 +1,6 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 13— DRUG ABUSE PREVENTION AND CONTROL
+#### § 967. Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees and mileage of witnesses
+
+For the purpose of any investigation which, in the opinion of the Secretary of the Treasury, is necessary and proper to the enforcement of section 545 of title 18 (relating to smuggling goods into the United States) with respect to any controlled substance (as defined in section 802 of this title ), the Secretary of the Treasury may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of records (including books, papers, documents and tangible things which constitute or contain evidence) relevant or material to the investigation. The attendance of witnesses and the production of records may be required from any place within the customs territory of the United States, except that a witness shall not be required to appear at any hearing distant more than 100 miles from the place where he was served with subpena. Witnesses summoned by the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. Oaths and affirmations may be made at any place subject to the jurisdiction of the United States.

@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 9— FEDERAL FOOD, DRUG, AND COSMETIC ACT
+#### § 360b. New animal drugs
+##### (j) Exemption of drugs for research; discretionary and mandatory conditions
+
+To the extent consistent with the public health, the Secretary shall promulgate regulations for exempting from the operation of this section new animal drugs, and animal feeds bearing or containing new animal drugs, intended solely for investigational use by experts qualified by scientific training and experience to investigate the safety and effectiveness of animal drugs. Such regulations may, in the discretion of the Secretary, among other conditions relating to the protection of the public health, provide for conditioning such exemption upon the establishment and maintenance of such records, and the making of such reports to the Secretary, by the manufacturer or the sponsor of the investigation of such article, of data (including but not limited to analytical reports by investigators) obtained as a result of such investigational use of such article, as the Secretary finds will enable him to evaluate the safety and effectiveness of such article in the event of the filing of an application pursuant to this section. Such regulations, among other things, shall set forth the conditions (if any) upon which animals treated with such articles, and any products of such animals (before or after slaughter), may be marketed for food use.

@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 10— POULTRY AND POULTRY PRODUCTS INSPECTION
+#### § 467. Inspection services
+##### (a) Refusal or withdrawal; hearing; business unfitness based upon certain convictions; persons responsibly connected with the business
+
+The Secretary may (for such period, or indefinitely, as he deems necessary to effectuate the purposes of this chapter) refuse to provide, or withdraw, inspection service under this chapter with respect to any establishment if he determines, after opportunity for a hearing is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection upon this chapter because the applicant or recipient or anyone responsibly connected with the applicant or recipient, has been convicted, in any Federal or State court, within the previous ten years of (1) any felony or more than one misdemeanor under any law based upon the acquiring, handling, or distributing of adulterated, mislabeled, or deceptively packaged food or fraud in connection with transactions in food; or (2) any felony, involving fraud, bribery, extortion, or any other act or circumstances indicating a lack of the integrity needed for the conduct of operations affecting the public health. For the purpose of this paragraph a person shall be deemed to be responsibly connected with the business if he was a partner, officer, director, holder, or owner of 10 per centum or more of its voting stock or employee in a managerial or executive capacity.

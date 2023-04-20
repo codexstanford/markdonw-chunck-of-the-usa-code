@@ -1,0 +1,6 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 26— FOOD SAFETY
+#### § 2106. Consultation regarding genetically engineered seafood products
+
+The Commissioner of Food and Drugs shall consult with the Assistant Administrator of the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration to produce a report on any environmental risks associated with genetically engineered seafood products, including the impact on wild fish stocks.

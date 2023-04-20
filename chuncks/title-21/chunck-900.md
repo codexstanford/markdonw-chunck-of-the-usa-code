@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 9— FEDERAL FOOD, DRUG, AND COSMETIC ACT
+#### § 360nn. Inspection, records, and reports
+##### (a) Inspection of premises
+
+If the Secretary finds for good cause that the methods, tests, or programs related to electronic product radiation safety in a particular factory, warehouse, or establishment in which electronic products are manufactured or held, may not be adequate or reliable, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are thereafter authorized (1) to enter, at reasonable times, any area in such factory, warehouse, or establishment in which the manufacturer’s tests (or testing programs) required by section 360kk(h) of this title are carried out, and (2) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, the facilities and procedures within such area which are related to electronic product radiation safety. Each such inspection shall be commenced and completed with reasonable promptness. In addition to other grounds upon which good cause may be found for purposes of this subsection, good cause will be considered to exist in any case where the manufacturer has introduced into commerce any electronic product which does not comply with an applicable standard prescribed under this part and with respect to which no exemption from the notification requirements has been granted by the Secretary under section 360 ll (a)(2) or 360 ll (e) of this title.

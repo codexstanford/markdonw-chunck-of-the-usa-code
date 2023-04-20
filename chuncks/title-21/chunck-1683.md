@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 10— POULTRY AND POULTRY PRODUCTS INSPECTION
+#### § 472. Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments
+##### (c) Reimbursement of State costs
+
+The Secretary shall reimburse a State for costs related to the inspection of selected establishments in the State in accordance with Federal requirements in an amount of not less than 60 percent of eligible State costs.

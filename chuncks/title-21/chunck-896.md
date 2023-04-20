@@ -1,0 +1,7 @@
+
+# Title 21— FOOD AND DRUGS
+### CHAPTER 9— FEDERAL FOOD, DRUG, AND COSMETIC ACT
+#### § 360mm. Imports
+##### (a) Refusal of admission to noncomplying electronic products
+
+Any electronic product offered for importation into the United States which fails to comply with an applicable standard prescribed under this part, or to which is not affixed a certification in the form of a label or tag in conformity with section 360kk(h) of this title shall be refused admission into the United States. The Secretary of the Treasury shall deliver to the Secretary of Health and Human Services, upon the latter’s request, samples of electronic products which are being imported or offered for import into the United States, giving notice thereof to the owner or consignee, who may have a hearing before the Secretary of Health and Human Services. If it appears from an examination of such samples or otherwise that any electronic product fails to comply with applicable standards prescribed pursuant to section 360kk of this title , then, unless subsection (b) of this section applies and is complied with, (1) such electronic product shall be refused admission, and (2) the Secretary of the Treasury shall cause the destruction of such electronic product unless such article is exported, under regulations prescribed by the Secretary of the Treasury, within 90 days after the date of notice of refusal of admission or within such additional time as may be permitted by such regulations.
