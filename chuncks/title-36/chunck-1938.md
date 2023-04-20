@@ -1,0 +1,8 @@
+
+# Title 36— PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
+## Subtitle II— Patriotic and National Organizations
+### CHAPTER 2303— VETERANS OF WORLD WAR I OF THE UNITED STATES OF AMERICA, INCORPORATED
+#### § 230301. Organization
+###### (a) Federal Charter .
+
+Veterans of World War I of the United States of America, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.

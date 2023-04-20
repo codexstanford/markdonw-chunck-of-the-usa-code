@@ -1,0 +1,17 @@
+
+# Title 36— PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
+## Subtitle II— Patriotic and National Organizations
+### CHAPTER 1201— KOREAN WAR VETERANS ASSOCIATION, INCORPORATED
+#### § 120102. Purposes
+
+The purposes of the corporation are those provided in the articles of incorporation of the corporation and shall include the following:
+
+(1) To organize as a veterans service organization in order to maintain a continuing interest in the welfare of veterans of the Korean War, and rehabilitation of the disabled veterans of the Korean War to include all that served during active hostilities and subsequently in defense of the Republic of Korea, and their families.
+
+(2) To establish facilities for the assistance of all veterans and to represent them in their claims before the Department of Veterans Affairs and other organizations without charge.
+
+(3) To perpetuate and preserve the comradeship and friendships born on the field of battle and nurtured by the common experience of service to the United States during the time of war and peace.
+
+(4) To honor the memory of the men and women who gave their lives so that the United States and the world might be free and live by the creation of living memorial, monuments, and other forms of additional educational, cultural, and recreational facilities.
+
+(5) To preserve for the people of the United States and posterity of such people the great and basic truths and enduring principles upon which the United States was founded.

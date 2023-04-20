@@ -1,0 +1,26 @@
+
+# Title 36— PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
+## Subtitle II— Patriotic and National Organizations
+### CHAPTER 901— HELP AMERICA VOTE FOUNDATION
+#### § 90103. Board of directors
+###### (b) Members and Appointment .
+
+(1) The board consists of 12 directors, who shall be appointed not later than 60 days after the date of the enactment of this chapter as follows:
+
+(A) Four directors (of whom not more than two may be members of the same political party) shall be appointed by the President.
+
+(B) Two directors shall be appointed by the Speaker of the House of Representatives.
+
+(C) Two directors shall be appointed by the Minority Leader of the House of Representatives.
+
+(D) Two directors shall be appointed by the Majority Leader of the Senate.
+
+(E) Two directors shall be appointed by the Minority Leader of the Senate.
+
+(2) In addition to the directors described in paragraph (1), the chair and ranking minority member of the Committee on House Administration of the House of Representatives (or their designees) and the chair and ranking minority member of the Committee on Rules and Administration of the Senate (or their designees) shall each serve as an ex officio nonvoting member of the board.
+
+(3) A director is not an employee of the Federal Government and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States (except as may otherwise be provided in this chapter).
+
+(4) The terms of office of the directors are 4 years.
+
+(5) A vacancy on the board shall be filled in the manner in which the original appointment was made.
