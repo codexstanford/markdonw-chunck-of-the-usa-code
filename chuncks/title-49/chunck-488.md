@@ -1,0 +1,8 @@
+
+# Title 49— TRANSPORTATION
+## SUBTITLE III— GENERAL AND INTERMODAL PROGRAMS
+### CHAPTER 51— TRANSPORTATION OF HAZARDOUS MATERIAL
+#### § 5115. Training curriculum for the public sector
+###### (a) In General .
+
+In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses, including online curriculum as appropriate, necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9605 ), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 ( 42 U.S.C. 11001 ), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.

@@ -1,0 +1,8 @@
+
+# Title 49— TRANSPORTATION
+## SUBTITLE VI— MOTOR VEHICLE AND DRIVER PROGRAMS
+### CHAPTER 301— MOTOR VEHICLE SAFETY
+#### § 30120. Remedies for defects and noncompliance
+###### (d) Filing Manufacturer’s Remedy Program .
+
+A manufacturer shall file with the Secretary a copy of the manufacturer’s program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register. A manufacturer’s remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer’s notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan. In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.
