@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2381. Exercise of functions
+##### (a) Delegation by President; rules and regulations; utilization of goods and services from private enterprise, and facilities and resources of Federal agencies when not competitive with private enterprise
+
+The President may exercise any functions conferred upon him by this chapter through such agency or officer of the United States Government as he shall direct. The head of any such agency or such officer may from time to time promulgate such rules and regulations as may be necessary to carry out such functions, and may delegate authority to perform any such functions, including, if he shall so specify, the authority successively to redelegate any of such functions to any of his subordinates. In providing technical assistance under this chapter, the head of any such agency or such officer shall utilize, to the fullest extent practicable, goods and professional and other services from private enterprise on a contract basis. In such fields as education, health, housing, or agriculture, the facilities and resources of other Federal agencies shall be utilized when such facilities are particularly or uniquely suitable for technical assistance, are not competitive with private enterprise, and can be made available without interfering unduly with domestic programs.

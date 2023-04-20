@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2348a. Authorization of appropriations
+##### (c) Emergency transfer of funds
+
+If the President determines that, as the result of an unforeseen emergency, the provision of assistance under this part in amounts in excess of funds otherwise available for such assistance is important to the national interests of the United States, the President may (1) exercise the authority of section 2360(a) of this title to transfer funds available to carry out part IV of this subchapter for use under this part without regard to the 20-percent increase limitation contained in such section, except that the total amount so transferred in any fiscal year may not exceed $15,000,000; and (2) in the event the President also determines that such unforeseen emergency requires the immediate provision of assistance under this part, direct the drawdown of commodities and services from the inventory and resources of any agency of the United States Government of an aggregate value not to exceed $25,000,000 in any fiscal year. In addition to the aggregate value of $25,000,000 authorized in paragraph (2) of the preceding sentence, the President may direct the drawdown of commodities and services from the inventory and resources of any agency of the United States Government for the purposes of providing necessary and immediate assistance to Taiwan of a value not to exceed $25,000,000 in any fiscal year.

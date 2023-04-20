@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2392. Government agencies
+##### (e) Establishment of accounts
+
+In furnishing assistance under this chapter, accounts may be established on the books of any agency of the United States Government or, on terms and conditions approved by the Secretary of the Treasury, in banking institutions in the United States, (1) against which letters of commitment may be issued which shall constitute recordable obligations of the United States Government, and moneys due or to become due under such letters of commitment shall be assignable under the Assignment of Claims Act of 1940, as amended  1 (second and third paragraphs of 31 U.S.C. 203 and 41 U.S.C. 15 ), and (2) from which disbursements may be made to, or withdrawals may be made by, recipient countries or agencies, organizations, or persons upon presentation of contracts, invoices, or other appropriate documentation. Expenditure of funds which have been made available through accounts so established shall be accounted for on standard documentation required for expenditure of funds of the United States Government: Provided, That such expenditures for commodities, defense articles, military education and training, services (including defense services), or facilities procured outside the United States may be accounted for exclusively on such certification as may be prescribed in regulations approved by the Comptroller General of the United States.

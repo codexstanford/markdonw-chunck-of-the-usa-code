@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2391. Missions and staffs abroad
+##### (c) Appointment of Chairman of Development Assistance Committee; compensation
+
+The President may appoint any United States citizen who is not an employee of the United States Government or may assign any United States citizen who is a United States Government employee to serve as Chairman of the Development Assistance Committee or any successor committee thereto of the Organization for Economic Cooperation and Development upon election thereto by members of said Committee, and, in his discretion, may terminate such appointment or assignment, notwithstanding any other provision of law. Such person may receive such compensation and allowances as are authorized by the Foreign Service Act of 1980 [ 22 U.S.C. 3901 et seq.], not to exceed those authorized for a chief of mission (as defined in section 102(a)(3)  1 of that Act [ 22 U.S.C. 3902(a)(3) ]), as the President shall determine to be appropriate. Such person (if not a United States Government employee who is assigned to serve as Chairman) shall be deemed to be an employee of the United States Government for purposes of chapters 81, 83, 87, and 89 of title 5. Such person may also, in the President’s discretion, receive any other benefits and perquisites available under this chapter to chiefs of special missions or staffs outside the United States established under this section.

@@ -1,0 +1,9 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 46A— FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA
+#### § 3142. Report by Secretary of Commerce
+##### (c) Analyses
+
+(1) The analysis in each report prepared under subsection (a) shall, to the extent of available data, compare business enterprises controlled by foreign persons with other business enterprises in the United States with respect to employment, market share, value added, productivity, research and development, exports, imports, profitability, taxes paid, and investment incentives and services provided by State and local governments (including quasi-governmental entities).
+
+(2) Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies identified in the most recent assessment prepared under section 4816 of title 10 or included in the most recent report submitted to the President under section 6683  1 of title 42.

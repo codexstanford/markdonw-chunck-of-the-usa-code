@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 52— FOREIGN SERVICE
+#### § 4049. Death in service
+##### (f) Recall service
+
+If an annuitant entitled to a reduced annuity dies in service after being recalled under section 3948 of this title and is survived by a spouse or former spouse entitled to a survivor annuity based on the service of such annuitant, such survivor annuity shall be computed as if the recall service had otherwise terminated on the day of death and the annuity of the deceased had been resumed in accordance with section 4063 of this title . If such death occurs after the annuitant had completed sufficient recall service to attain eligibility for a supplemental annuity, a surviving spouse or surviving former spouse who was married to the participant at any time during a period of recall service shall be entitled to elect, in addition to any other benefits and in lieu of a refund of retirement contributions made during the recall service, a supplemental survivor annuity computed and paid under section 4046(i) of this title as if the recall service had otherwise terminated. If the annuitant had completed sufficient recall service to attain eligibility to have his or her annuity determined anew, a surviving spouse or such a surviving former spouse may elect, in lieu of any other survivor benefit under this subchapter, to have the rights of the annuitant redetermined and to receive a survivor annuity computed under subsection (b) on the basis of the total service of the annuitant.

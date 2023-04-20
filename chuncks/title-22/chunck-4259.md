@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 52— FOREIGN SERVICE
+#### § 3970. Compensation for imprisoned foreign national employees
+##### (a) Eligibility; rates of compensation; terms and conditions of payment; applicability of powers under other statutory provisions
+
+The head of any agency or other Government establishment (including any in the legislative or judicial branch) may compensate any current or former foreign national employee, or any foreign national who is or was employed under a personal services contract, who is or has been imprisoned by a foreign government if the Secretary of State (or, in the case of a foreign national employed by the Central Intelligence Agency, the Director of Central Intelligence) determines that such imprisonment is the result of the employment of the foreign national by the United States. Such compensation may not exceed the amount that the agency head determines approximates the salary and other benefits to which the foreign national would have been entitled had he or she been employed during the period of such imprisonment. Such compensation may be paid under such terms and conditions as the Secretary of State deems appropriate. For purposes of this section, an agency head shall have the same powers with respect to imprisoned foreign nationals who are or were employed by the agency as an agency head has under subchapter VII of chapter 55 of title 5 to the extent that such powers are consistent with this section.

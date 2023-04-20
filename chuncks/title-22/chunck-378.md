@@ -1,0 +1,6 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 7— INTERNATIONAL BUREAUS, CONGRESSES, ETC.
+#### § 277d–42. Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions
+
+If an agreement is concluded pursuant to section 277d–41 of this title , the Commissioner is authorized to construct, operate, and maintain flood control works located in the United States having substantially the characteristics described in “Report on the Flood Control Project Rio Grande, Presidio Valley, Texas”, prepared by the United States section, International Boundary and Water Commission, United States and Mexico; and there are hereby authorized to be appropriated to the Department of State for the use of the United States section of the Commission such sums as may be necessary to carry out the provisions of title II of this Act. No part of any appropriation under this section shall be expended for flood control works on any land, site, or easement unless such land, site, or easement has been acquired under the treaty for other purposes or by donation and, in the case of a donation, the title thereto has been approved in accordance with existing rules and regulations of the Attorney General of the United States.

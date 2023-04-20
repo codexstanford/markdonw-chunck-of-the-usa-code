@@ -1,0 +1,6 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 14— FOREIGN SERVICE
+#### § 822. Repealed. May 26, 1949, ch. 143, § 5 , 63 Stat. 111
+
+Part B— Boards

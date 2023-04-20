@@ -1,0 +1,6 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2223. Indus Basin development
+
+In the event that funds made available under this chapter (other than subchapter II of this chapter) are used by or under the supervision of the International Bank for Reconstruction and Development in furtherance of the development of the Indus Basin through the program of cooperation among South Asian and other countries of the free world, which is designed to promote economic growth and political stability in South Asia, such funds may be used in accordance with requirements, standards, or procedures established by the Bank concerning completion of plans and cost estimates and determination of feasibility, rather than with requirements, standards, or procedures, concerning such matters set forth in this chapter or other Acts; and such funds may also be used without regard to the provisions of section 55305 of title 46 , whenever the President determines that such provisions cannot be fully satisfied without seriously impeding or preventing accomplishment of the purposes of such programs: Provided , That compensating allowances are made in the administration of other programs to the same or other areas to which the requirements of said section 55305 of title 46 are applicable.

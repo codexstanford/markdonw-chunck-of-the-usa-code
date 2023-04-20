@@ -1,0 +1,9 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 52— FOREIGN SERVICE
+#### § 3929. Inspector General
+##### (a) Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office
+
+(1) There shall be an Inspector General of the Department of State and the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Department shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
+
+(2) The Inspector General may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.

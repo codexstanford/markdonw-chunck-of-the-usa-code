@@ -1,0 +1,13 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 33— MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM
+#### § 2454. Administration
+##### (e) Grants; use of funds, counseling service; publicity and promotion abroad
+
+(1) In providing for the activities and interchanges authorized by section 2452 of this title , grants may be made to or for individuals, either directly or through foundations or educational or other institutions, which foundations or institutions are public or private nonprofit, and may include funds for tuition and other necessary incidental expenses, for travel expenses from their places of residence and return for themselves, and, whenever it would further the purposes of this chapter, for the dependent members of their immediate families, for health and accident insurance premiums, emergency medical expenses, costs of preparing and transporting to their former homes the remains of any of such persons who may die while away from their homes as participants or dependents of participants in any program under this chapter, and for per diem in lieu of subsistence at rates prescribed by the Director of the United States Information Agency, for all such persons, and for such other expenses as are necessary for the successful accomplishment of the purposes of this chapter.
+
+(2) Funds available for programs under this chapter may be used (i) to provide for orientation courses, language training, or other appropriate services and materials for persons traveling out of the countries of their residence for educational and cultural purposes which further the purposes of this chapter, whether or not they are receiving other financial support from the Government, and (ii) to provide or continue services to increase the effectiveness of such programs following the return of such persons to the countries of their residence.
+
+(3) For the purpose of assisting foreign students in making the best use of their opportunities while attending colleges and universities in the United States, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, the Director of the United States Information Agency may make suitable arrangements, by contract or otherwise, for the establishment and maintenance at colleges and universities in the United States attended by foreign students of an adequate counseling service.
+
+(4) The Director of the United States Information Agency is authorized to provide for publicity and promotion (including representation) abroad of activities of the type provided for in this chapter, and of similar services and opportunities for interchange not supported by the United States Government.

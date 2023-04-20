@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 21— SETTLEMENT OF INTERNATIONAL CLAIMS
+#### § 1631g. Payment of debts
+##### (d) Fund for debt payments
+
+Payment of debt claims shall be made only out of such money included in, or received as net proceeds from the sale, use, or other disposition of, any property owned by the debtor immediately prior to its vesting in the designee of the President, as shall remain after deduction of (1) the amount of the expenses of the designee (including both expenses in connection with such property or proceeds thereof, and such portion as the designee shall fix of his other expenses), and of taxes, as defined in section 1631k of this title , paid by the designee in respect of such property or proceeds; and (2) such amount, if any, as the designee may establish as a cash reserve for the future payment of such expenses and taxes. If the money available hereunder for the payment of debt claims against the debtor is insufficient for the satisfaction of all claims allowed by the designee, ratable payments shall be made in accordance with subsection (g) of this section to the extent permitted by the money available and additional payments shall be made whenever the designee shall determine that substantial further money has become available, through liquidation of any such property or otherwise. The designee shall not be required, through any judgment of any court, levy of execution, or otherwise, to sell or liquidate any property vested in him, for the purpose of paying or satisfying any debt claim.

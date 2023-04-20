@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 74— FOREIGN AFFAIRS AGENCIES CONSOLIDATION
+#### § 6613. Transfer, appointment, and assignment of personnel
+##### (c) Assignment authority
+
+The Secretary, for a period of not more than 6 months commencing on the effective date of the transfer to the Department of State of personnel under subsections (a) and (b), is authorized to assign such personnel to any position or set of duties in the Department of State regardless of the position held or duties performed by such personnel prior to transfer, except that, by virtue of such assignment, such personnel shall not have their grade or class or their rate of basic pay or basic salary rate reduced, nor their tenure changed. In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State. The Secretary shall consult with the relevant exclusive representatives (as defined in section 4102 of this title and in section 7103 of title 5 ) with regard to the exercise of this authority. This subsection does not authorize the Secretary to assign any individual to any position that by law requires appointment by the President, by and with the advice and consent of the Senate.

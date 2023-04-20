@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2399c. Coordination of policies and programs
+##### (a) Development Coordination Committee established
+
+The President shall establish a system for coordination of United States policies and programs which affect United States interests in the development of low-income countries. To that end, the President shall establish a Development Coordination Committee which shall advise him with respect to coordination of United States policies and programs affecting the development of the developing countries, including programs of bilateral and multilateral development assistance. The Committee shall include the head of the agency primarily responsible for administering subchapter I of this chapter, Chairman, and representatives of the Departments of State, Treasury, Commerce, Agriculture, Energy, and Labor, the Executive Office of the President, and other executive departments and agencies, as the President shall designate. The Committee shall advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.

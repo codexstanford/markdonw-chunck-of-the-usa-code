@@ -1,0 +1,8 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 51— PANAMA CANAL
+#### §§ 3851, 3852. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4) , Sept. 23, 1996 , 110 Stat. 2868
+
+SUBCHAPTER III— GENERAL PROVISIONS
+
+Part 1 — Procurement

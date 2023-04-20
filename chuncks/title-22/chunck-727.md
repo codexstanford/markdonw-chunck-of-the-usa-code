@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 7— INTERNATIONAL BUREAUS, CONGRESSES, ETC.
+#### § 287. Representation in Organization
+##### (b) Appointment of additional representatives; rank, status, and tenure; duties; reappointment unnecessary
+
+The President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament (control and limitation of armament). Such persons shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations. They shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations. Any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended.

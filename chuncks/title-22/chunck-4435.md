@@ -1,0 +1,9 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 52— FOREIGN SERVICE
+#### § 4056. Creditable service
+##### (c) Service with other Government agency when on approved leave without pay; arrangement for payment of retirement deductions and agency contributions; special contribution
+
+(1) A participant who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of Government employees may, within 60 days after entering on that leave without pay, file with the employing agency an election to receive full retirement credit for such periods of leave without pay and arrange to pay concurrently into the Fund through the employing agency, amounts equal to the retirement deductions and agency contributions on the Foreign Service salary rate that would be applicable if the participant were in a pay status. If the election and all payments provided by this subsection are not made for the periods of such leave without pay occurring after November 7, 1976 , the participant may not receive any credit for such periods of leave without pay occurring after such date.
+
+(2) A participant may make a special contribution for any period or periods of approved leave without pay while serving before November 7, 1976 , as a full-time officer or employee of an organization composed primarily of Government employees. Any such contribution shall be based upon the suspended Foreign Service salary rate and shall be computed in accordance with section 4045 of this title . A participant who makes such contributions shall be allowed full retirement credit for the period or periods of leave without pay. If this contribution is not made, up to 6 months’ retirement credit shall be allowed for such periods of leave without pay each calendar year.

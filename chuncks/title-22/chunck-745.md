@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 7— INTERNATIONAL BUREAUS, CONGRESSES, ETC.
+#### § 287c. Economic and communication sanctions pursuant to United Nations Security Council Resolution
+##### (a) Enforcement measures; importation of Rhodesian chromium
+
+Notwithstanding the provisions of any other law, whenever the United States is called upon by the Security Council to apply measures which said Council has decided, pursuant to article 41 of said Charter, are to be employed to give effect to its decisions under said Charter, the President may, to the extent necessary to apply such measures, through any agency which he may designate, and under such orders, rules, and regulations as may be prescribed by him, investigate, regulate, or prohibit, in whole or in part, economic relations or rail, sea, air, postal, telegraphic, radio, and other means of communication between any foreign country or any national thereof or any person therein and the United States or any person subject to the jurisdiction thereof, or involving any property subject to the jurisdiction of the United States. Any Executive order which is issued under this subsection and which applies measures against Southern Rhodesia pursuant to any United Nations Security Council Resolution may be enforced, notwithstanding the provisions of any other law. The President may exempt from such Executive order any shipment of chromium in any form which is in transit to the United States on March 18, 1977 .

@@ -1,0 +1,6 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 24— MUTUAL SECURITY PROGRAM
+#### § 1854. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept. 4, 1961 , 75 Stat. 460
+
+Part B— Development Loan Fund

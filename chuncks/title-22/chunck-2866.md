@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 34— THE PEACE CORPS
+#### § 2504. Peace Corps volunteers
+##### (e) Health care
+
+Volunteers shall receive such health care (including, if necessary, for volunteers and trainees, services under section 2507b of this title ) during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f), and former volunteers shall receive such health examinations within six months after termination of their service, including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services), as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [ 42 U.S.C. 14401 et seq.].

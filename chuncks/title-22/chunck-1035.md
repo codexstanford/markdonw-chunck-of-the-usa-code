@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 9— FOREIGN WARS, WAR MATERIALS, AND NEUTRALITY
+#### § 401. Illegal exportation of war materials
+##### (a) Seizure and forfeiture of materials and carriers
+
+Whenever an attempt is made to export or ship from or take out of the United States any arms or munitions of war or other articles in violation of law, or whenever it is known or there shall be probable cause to believe that any arms or munitions of war or other articles are intended to be or are being or have been exported or removed from the United States in violation of law, the Secretary of the Treasury, or any person duly authorized for the purpose by the President, may seize and detain such arms or munitions of war or other articles and may seize and detain any vessel, vehicle, or aircraft containing the same or which has been or is being used in exporting or attempting to export such arms or munitions of war or other articles. The Secretary of Commerce may seize and detain any commodity (other than arms or munitions of war) or technology which is intended to be or is being exported in violation of laws governing such exports and may seize and detain any vessel, vehicle, or aircraft containing the same or which has been used or is being used in exporting or attempting to export such articles. All arms or munitions of war and other articles, vessels, vehicles, and aircraft seized pursuant to this subsection shall be forfeited.

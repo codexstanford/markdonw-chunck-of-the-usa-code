@@ -1,0 +1,14 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 7— INTERNATIONAL BUREAUS, CONGRESSES, ETC.
+#### § 287e–1. Housing supplement for certain employees assigned to the United States Mission to the United Nations
+
+The Secretary of State may, under such regulations as he shall prescribe, and notwithstanding section 3324(a) and (b) of title 31 and section 5536 of title 5 :
+
+(1) Make available to the Representative of the United States to the United Nations and the Deputy Permanent Representative of the United States to the United Nations living quarters leased or rented by the United States (for periods not exceeding ten years) and allowances for unusual expenses incident to the operation and maintenance of such living quarters similar to those and to be considered for all purposes as authorized by section 5913 of title 5 .
+
+(2) Make available in New York to no more than 41 foreign service employees of the staff of the United States Mission to the United Nations, other representatives, and no more than two employees who serve at the pleasure of the Representative, living quarters leased or rented by the United States (for periods not exceeding ten years). The number of employees to which such quarters will be made available shall be determined by the Secretary and shall reflect a significant reduction over the number of persons eligible for housing benefits as of October 1, 1988 . No employee may occupy a unit under this provision if the unit is owned by the employee. The Secretary shall require that each employee occupying housing under this subsection contribute to the Department of State a percentage of his or her base salary, in an amount to be determined by the Secretary of State, toward the cost of such housing. The Secretary may reduce such payments to the extent of income taxes paid on the value of the leased or rented quarters any payments made by employees to the Department of State for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
+
+(3) provide  1 such allowance as the Secretary considers appropriate, to each Delegate and Alternate Delegate of the United States to any session of the General Assembly of the United Nations who is not a permanent member of the staff of the United States Mission to the United Nations, in order to compensate each such Delegate or Alternate Delegate for necessary housing and subsistence expenses incurred by him with respect to attending any such session.
+
+(4) The Inspector General shall review the program established by this section no later than December 1989 and periodically thereafter with a view to increasing cost savings and making other appropriate recommendations.

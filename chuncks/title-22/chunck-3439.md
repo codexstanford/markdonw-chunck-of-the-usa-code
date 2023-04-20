@@ -1,0 +1,15 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 39— ARMS EXPORT CONTROL
+#### § 2753. Eligibility for defense services or defense articles
+##### (a) Prerequisites for consent by President; report to Congress
+
+No defense article or defense service shall be sold or leased by the United States Government under this chapter to any country or international organization, and no agreement shall be entered into for a cooperative project (as defined in section 2767 of this title ), unless
+
+(1) the President finds that the furnishing of defense articles and defense services to such country or international organization will strengthen the security of the United States and promote world peace;
+
+(2) the country or international organization shall have agreed not to transfer title to, or possession of, any defense article or related training or other defense service so furnished to it, or produced in a cooperative project (as defined in section 2767 of this title ), to anyone not an officer, employee, or agent of that country or international organization (or the North Atlantic Treaty Organization or the specified member countries (other than the United States) in the case of a cooperative project) and not to use or permit the use of such article or related training or other defense service for purposes other than those for which furnished unless the consent of the President has first been obtained;
+
+(3) the country or international organization shall have agreed that it will maintain the security of such article or service and will provide substantially the same degree of security protection afforded to such article or service by the United States Government; and
+
+(4) the country or international organization is otherwise eligible to purchase or lease defense articles or defense services. In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.

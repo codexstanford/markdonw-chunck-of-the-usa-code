@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 7— INTERNATIONAL BUREAUS, CONGRESSES, ETC.
+#### § 283e. Payment of subscription to Bank and Fund by United States
+##### (b) Issuance of special notes
+
+For the purpose of keeping to a minimum the cost to the United States of participation in the Bank, the Secretary of the Treasury, after paying the requisite part of the subscription and quota of the United States in the Bank required to be made under article II, section 4, and article IV, section 3, respectively, of the agreement, is authorized and directed to issue special notes of the United States from time to time, at par, and to deliver such notes to the Bank in exchange for dollars to the extent permitted by the agreement. The special notes provided for in this subsection shall be issued under the authority and subject to the provisions of chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include the purposes for which special notes are authorized and directed to be issued under this subsection, but such notes shall bear no interest, shall be nonnegotiable, and shall be payable on demand of the Bank. The face amount of special notes issued to the Bank under the authority of this subsection and outstanding at any one time shall not exceed, in the aggregate, the amount of the subscription and quota of the United States actually paid to the Bank under article II, section 4, and article IV, section 3, respectively, of the agreement.

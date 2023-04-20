@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 39— ARMS EXPORT CONTROL
+#### § 2791. General provisions
+##### (a) Considerations in procurement outside United States
+
+In carrying out this chapter, special emphasis shall be placed on procurement in the United States, but, subject to the provisions of subsection (b) of this section, consideration shall also be given to coproduction or licensed production outside the United States of defense articles of United States origin when such production best serves the foreign policy, national security, and economy of the United States. In evaluating any sale proposed to be made pursuant to this chapter, there shall be taken into consideration (A) the extent to which the proposed sale damages or infringes upon licensing arrangements whereby United States entities have granted licenses for the manufacture of the defense articles selected by the purchasing country to entities located in friendly foreign countries, which licenses result in financial returns to the United States, (B) the portion of the defense articles so manufactured which is of United States origin, and (C) whether, and the extent to which, such sale might contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.

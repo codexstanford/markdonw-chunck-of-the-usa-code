@@ -1,0 +1,67 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2151p–1. Tropical forests
+##### (c) Assistance to developing countries
+
+In providing assistance to developing countries, the President shall do the following:
+
+(1) Place a high priority on conservation and sustainable management of tropical forests.
+
+(2) To the fullest extent feasible, engage in dialogues and exchanges of information with recipient countries
+
+(A) which stress the importance of conserving and sustainably managing forest resources for the long-term economic benefit of those countries, as well as the irreversible losses associated with forest destruction, and
+
+(B) which identify and focus on policies of those countries which directly or indirectly contribute to deforestation.
+
+(3) To the fullest extent feasible, support projects and activities
+
+(A) which offer employment and income alternatives to those who otherwise would cause destruction and loss of forests, and
+
+(B) which help developing countries identify and implement alternatives to colonizing forested areas.
+
+(4) To the fullest extent feasible, support training programs, educational efforts, and the establishment or strengthening of institutions which increase the capacity of developing countries to formulate forest policies, engage in relevant land-use planning, and otherwise improve the management of their forests.
+
+(5) To the fullest extent feasible, help end destructive slash-and-burn agriculture by supporting stable and productive farming practices in areas already cleared or degraded and on lands which inevitably will be settled, with special emphasis on demonstrating the feasibility of agroforestry and other techniques which use technologies and methods suited to the local environment and traditional agricultural techniques and feature close consultation with and involvement of local people.
+
+(6) To the fullest extent feasible, help conserve forests which have not yet been degraded, by helping to increase production on lands already cleared or degraded through support of reforestation, fuelwood, and other sustainable forestry projects and practices, making sure that local people are involved at all stages of project design and implementation.
+
+(7) To the fullest extent feasible, support projects and other activities to conserve forested watersheds and rehabilitate those which have been deforested, making sure that local people are involved at all stages of project design and implementation.
+
+(8) To the fullest extent feasible, support training, research, and other actions which lead to sustainable and more environmentally sound practices for timber harvesting, removal, and processing, including reforestation, soil conservation, and other activities to rehabilitate degraded forest lands.
+
+(9) To the fullest extent feasible, support research to expand knowledge of tropical forests and identify alternatives which will prevent forest destruction, loss, or degradation, including research in agroforestry, sustainable management of natural forests, small-scale farms and gardens, small-scale animal husbandry, wider application of adopted traditional practices, and suitable crops and crop combinations.
+
+(10) To the fullest extent feasible, conserve biological diversity in forest areas by
+
+(A) supporting and cooperating with United States Government agencies, other donors (both bilateral and multilateral), and other appropriate governmental, intergovernmental, and nongovernmental organizations in efforts to identify, establish, and maintain a representative network of protected tropical forest ecosystems on a worldwide basis;
+
+(B) whenever appropriate, making the establishment of protected areas a condition of support for activities involving forest clearance or degradation; and
+
+(C) helping developing countries identify tropical forest ecosystems and species in need of protection and establish and maintain appropriate protected areas.
+
+(11) To the fullest extent feasible, engage in efforts to increase the awareness of United States Government agencies and other donors, both bilateral and multilateral, of the immediate and long-term value of tropical forests.
+
+(12) To the fullest extent feasible, utilize the resources and abilities of all relevant United States Government agencies.
+
+(13) Require that any program or project under this part significantly affecting tropical forests (including projects involving the planting of exotic plant species)
+
+(A) be based upon careful analysis of the alternatives available to achieve the best sustainable use of the land, and
+
+(B) take full account of the environmental impacts of the proposed activities on biological diversity, as provided for in the environmental procedures of the Agency for International Development.
+
+(14) Deny assistance under this part for
+
+(A) the procurement or use of logging equipment, unless an environmental assessment indicates that all timber harvesting operations involved will be conducted in an environmentally sound manner which minimizes forest destruction and that the proposed activity will produce positive economic benefits and sustainable forest management systems; and
+
+(B) actions which significantly degrade national parks or similar protected areas which contain tropical forests or introduce exotic plants or animals into such areas.
+
+(15) Deny assistance under this part for the following activities unless an environmental assessment indicates that the proposed activity will contribute significantly and directly to improving the livelihood of the rural poor and will be conducted in an environmentally sound manner which supports sustainable development:
+
+(A) Activities which would result in the conversion of forest lands to the rearing of livestock.
+
+(B) The construction, upgrading, or maintenance of roads (including temporary haul roads for logging or other extractive industries) which pass through relatively undegraded forest lands.
+
+(C) The colonization of forest lands.
+
+(D) The construction of dams or other water control structures which flood relatively undegraded forest lands.

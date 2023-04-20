@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 7— INTERNATIONAL BUREAUS, CONGRESSES, ETC.
+#### § 277b. Works or projects under treaty
+##### (a) Construction, operation, maintenance, and supervision; sewage interceptor system
+
+The President is further authorized (1) to construct any project or works which may be provided for in a treaty entered into with Mexico and to repair, protect, maintain, or complete works now existing or now under construction or those that may be constructed under the treaty provisions aforesaid; and to construct any project or works designed to facilitate compliance with the provisions of treaties between the United States and Mexico; (2) to operate and maintain any project or works so constructed or, subject to such rules and regulations for continuing supervision by the said American Commissioner or any Federal agency as the President may cause to be promulgated, to turn over the operation and maintenance of such project or works to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such project or works may be in whole or in part situated, upon such terms, conditions, and requirements as the President may deem appropriate; and (3) to carry out preliminary surveys, operations, and maintenance of the interceptor system constructed to intercept sewage flows from Tijuana from selected canyon areas.

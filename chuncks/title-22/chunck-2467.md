@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2370. Prohibitions against furnishing assistance
+##### (k) Maximum amount of assistance, including military assistance to individual countries without approval of or presentation to Congress
+
+Without the express approval of Congress, no assistance shall be furnished under this chapter to any country for construction of any productive enterprise with respect to which the aggregate value of assistance to be furnished by the United States will exceed $100,000,000, except that this sentence does not apply with respect to assistance for construction of any productive enterprise in Egypt which is described in the presentation materials to Congress. Except as otherwise provided in section 2318 of this title , no military assistance shall be furnished to any country under this chapter for carrying out any program, with respect to which the aggregate value of assistance to be furnished beginning July 1, 1966 , by the United States will exceed $100,000,000 unless such program has been included in the presentation to the Congress during its consideration of authorizations for appropriations under this chapter or of appropriations pursuant to authorizations contained in this chapter. No provision of this chapter or any other Act shall be construed to authorize the President to waive the provisions of this subsection.

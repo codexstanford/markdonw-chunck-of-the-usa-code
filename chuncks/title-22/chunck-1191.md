@@ -1,0 +1,6 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 15— THE REPUBLIC OF THE PHILIPPINES
+#### §§ 1321, 1322. Omitted
+
+Part 5— General Provisions

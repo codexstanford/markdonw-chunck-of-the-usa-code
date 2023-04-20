@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 11— FOREIGN AGENTS AND PROPAGANDA
+#### § 612. Registration statement
+##### (b) Supplements; filing period
+
+Every agent of a foreign principal who has filed a registration statement required by subsection (a) of this section shall, within thirty days after the expiration of each period of six months succeeding such filing, file with the Attorney General a supplement thereto under oath, on a form prescribed by the Attorney General, which shall set forth with respect to such preceding six months’ period such facts as the Attorney General, having due regard for the national security and the public interest, may deem necessary to make the information required under this section accurate, complete, and current with respect to such period. In connection with the information furnished under clauses (3), (4), (6), and (9) of subsection (a) of this section, the registrant shall give notice to the Attorney General of any changes therein within ten days after such changes occur. If the Attorney General, having due regard for the national security and the public interest, determines that it is necessary to carry out the purposes of this subchapter, he may, in any particular case, require supplements to the registration statement to be filed at more frequent intervals in respect to all or particular items of information to be furnished.

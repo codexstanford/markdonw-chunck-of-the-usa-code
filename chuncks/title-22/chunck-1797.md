@@ -1,0 +1,9 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 32— FOREIGN ASSISTANCE
+#### § 2151d. Development of indigenous energy resources
+##### (b) General assistance authority; cooperative programs in energy production and conservation; program goals
+
+(1) In order to help developing countries alleviate their energy problems by improving their ability to use indigenous energy resources to produce the energy needed by their economies, the President is authorized to furnish assistance, on such terms and conditions as he may determine, to enable such countries to prepare for and undertake development of their energy resources. Such assistance may include data collection and analysis, the training of skilled personnel, research on and development of suitable energy sources, and pilot projects to test new methods of energy production.
+
+(2) The President is authorized to furnish assistance under this part for cooperative programs with developing countries in energy production and conservation, through research on and development and use of small-scale, decentralized, renewable energy sources for rural areas carried out as integral parts of rural development efforts in accordance with section 2151a of this title . Such programs shall also be directed toward the earliest practicable development and use of energy technologies which are environmentally acceptable, require minimum capital investment, are most acceptable to and affordable by the people using them, are simple and inexpensive to use and maintain, and are transferable from one region of the world to another. Such programs may include research on and the development, demonstration, and application of suitable energy technologies (including use of wood); analysis of energy uses, needs, and resources; training and institutional development; and scientific interchange.

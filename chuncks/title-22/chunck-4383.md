@@ -1,0 +1,7 @@
+
+# Title 22— FOREIGN RELATIONS AND INTERCOURSE
+### CHAPTER 52— FOREIGN SERVICE
+#### § 4046. Computation of annuities
+##### (f) Unmarried participants
+
+At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant has satisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall begin on the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
