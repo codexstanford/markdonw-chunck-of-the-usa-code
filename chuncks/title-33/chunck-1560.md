@@ -1,0 +1,15 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1342. National pollutant discharge elimination system
+##### (a) Permits for discharge of pollutants
+
+(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title , upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
+
+(2) The Administrator shall prescribe conditions for such permits to assure compliance with the requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
+
+(3) The permit program of the Administrator under paragraph (1) of this subsection, and permits issued thereunder, shall be subject to the same terms, conditions, and requirements as apply to a State permit program and permits issued thereunder under subsection (b) of this section.
+
+(4) All permits for discharges into the navigable waters issued pursuant to section 407 of this title shall be deemed to be permits issued under this subchapter, and permits issued under this subchapter shall be deemed to be permits issued under section 407 of this title , and shall continue in force and effect for their term unless revoked, modified, or suspended in accordance with the provisions of this chapter.
+
+(5) No permit for a discharge into the navigable waters shall be issued under section 407 of this title after October 18, 1972 . Each application for a permit under section 407 of this title , pending on October 18, 1972 , shall be deemed to be an application for a permit under this section. The Administrator shall authorize a State, which he determines has the capability of administering a permit program which will carry out the objectives of this chapter to issue permits for discharges into the navigable waters within the jurisdiction of such State. The Administrator may exercise the authority granted him by the preceding sentence only during the period which begins on October 18, 1972 , and ends either on the ninetieth day after the date of the first promulgation of guidelines required by section 1314(i)(2) of this title , or the date of approval by the Administrator of a permit program for such State under subsection (b) of this section, whichever date first occurs, and no such authorization to a State shall extend beyond the last day of such period. Each such permit shall be subject to such conditions as the Administrator determines are necessary to carry out the provisions of this chapter. No such permit shall issue if the Administrator objects to such issuance.

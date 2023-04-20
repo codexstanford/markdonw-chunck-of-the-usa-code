@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1375. Reports to Congress; detailed estimates and comprehensive study on costs; State estimates
+##### (c) Status of combined sewer overflows in municipal treatment works operations
+
+The Administrator shall submit to the Congress by October 1, 1978 , a report on the status of combined sewer overflows in municipal treatment works operations. The report shall include (1) the status of any projects funded under this chapter to address combined sewer overflows (2) a listing by State of combined sewer overflow needs identified in the 1977 State priority listings, (3) an estimate for each applicable municipality of the number of years necessary, assuming an annual authorization and appropriation for the construction grants program of $5,000,000,000, to correct combined sewer overflow problems, (4) an analysis using representative municipalities faced with major combined sewer overflow needs, of the annual discharges of pollutants from overflows in comparison to treated effluent discharges, (5) an analysis of the technological alternatives available to municipalities to correct major combined sewer overflow problems, and (6) any recommendations of the Administrator for legislation to address the problem of combined sewer overflows, including whether a separate authorization and grant program should be established by the Congress to address combined sewer overflows.

@@ -1,0 +1,13 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1286. Reimbursement and advanced construction
+##### (f) Additional funds
+
+(1) In any case where a substantial portion of the funds allotted to a State for the current fiscal year under this subchapter have been obligated under section 1281(g) of this title , or will be so obligated in a timely manner (as determined by the Administrator), and there is construction of any treatment works project without the aid of Federal funds and in accordance with all procedures and all requirements applicable to treatment works projects, except those procedures and requirements which limit construction of projects to those constructed with the aid of previously allotted Federal funds, the Administrator, upon his approval of an application made under this subsection therefor, is authorized to pay the Federal share of the cost of construction of such project when additional funds are allotted to the State under this subchapter if prior to the construction of the project the Administrator approves plans, specifications, and estimates therefor in the same manner as other treatment works projects. The Administrator may not approve an application under this subsection unless an authorization is in effect for the first fiscal year in the period for which the application requests payment and such requested payment for that fiscal year does not exceed the State’s expected allotment from such authorization. The Administrator shall not be required to make such requested payment for any fiscal year
+
+(A) to the extent that such payment would exceed such State’s allotment of the amount appropriated for such fiscal year; and
+
+(B) unless such payment is for a project which, on the basis of an approved funding priority list of such State, is eligible to receive such payment based on the allotment and appropriation for such fiscal year. To the extent that sufficient funds are not appropriated to pay the full Federal share with respect to a project for which obligations under the provisions of this subsection have been made, the Administrator shall reduce the Federal share to such amount less than 75 per centum as such appropriations do provide.
+
+(2) In determining the allotment for any fiscal year under this subchapter, any treatment works project constructed in accordance with this section and without the aid of Federal funds shall not be considered completed until an application under the provisions of this subsection with respect to such project has been approved by the Administrator, or the availability of funds from which this project is eligible for reimbursement has expired, whichever first occurs.

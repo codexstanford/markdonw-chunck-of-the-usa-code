@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1329. Nonpoint source management programs
+##### (e) Local management programs; technical assistance
+
+If a State fails to submit a management program under subsection (b) or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) and can be approved pursuant to subsection (d). After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h).

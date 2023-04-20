@@ -1,0 +1,9 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1258. Pollution control in the Great Lakes
+##### (d) Lake Erie demonstration program
+
+(1) In recognition of the serious conditions which exist in Lake Erie, the Secretary of the Army, acting through the Chief of Engineers, is directed to design and develop a demonstration waste water management program for the rehabilitation and environmental repair of Lake Erie. Prior to the initiation of detailed engineering and design, the program, along with the specific recommendations of the Chief of Engineers, and recommendations for its financing, shall be submitted to the Congress for statutory approval. This authority is in addition to, and not in lieu of, other waste water studies aimed at eliminating pollution emanating from select sources around Lake Erie.
+
+(2) This program is to be developed in cooperation with the Environmental Protection Agency, other interested departments, agencies, and instrumentalities of the Federal Government, and the States and their political subdivisions. This program shall set forth alternative systems for managing waste water on a regional basis and shall provide local and State governments with a range of choice as to the type of system to be used for the treatment of waste water. These alternative systems shall include both advanced waste treatment technology and land disposal systems including aerated treatment-spray irrigation technology and will also include provisions for the disposal of solid wastes, including sludge. Such program should include measures to control point sources of pollution, area sources of pollution, including acid-mine drainage, urban runoff and rural runoff, and in place sources of pollution, including bottom loads, sludge banks, and polluted harbor dredgings.

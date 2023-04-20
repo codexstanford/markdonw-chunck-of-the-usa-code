@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1319. Enforcement
+##### (f) Wrongful introduction of pollutant into treatment works
+
+Whenever, on the basis of any information available to him, the Administrator finds that an owner or operator of any source is introducing a pollutant into a treatment works in violation of subsection (d) of section 1317 of this title , the Administrator may notify the owner or operator of such treatment works and the State of such violation. If the owner or operator of the treatment works does not commence appropriate enforcement action within 30 days of the date of such notification, the Administrator may commence a civil action for appropriate relief, including but not limited to, a permanent or temporary injunction, against the owner or operator of such treatment works. In any such civil action the Administrator shall join the owner or operator of such source as a party to the action. Such action shall be brought in the district court of the United States in the district in which the treatment works is located. Such court shall have jurisdiction to restrain such violation and to require the owner or operator of the treatment works and the owner or operator of the source to take such action as may be necessary to come into compliance with this chapter. Notice of commencement of any such action shall be given to the State. Nothing in this subsection shall be construed to limit or prohibit any other authority the Administrator may have under this chapter.

@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1285. Allotment of grant funds
+##### (e) Minimum allotment; additional appropriations; ratio of amount available
+
+For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, no State shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.

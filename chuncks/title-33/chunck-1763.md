@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 27— OCEAN DUMPING
+#### § 1415. Penalties
+##### (a) Assessment of civil penalty by Administrator; remission or mitigation; court action for appropriate relief
+
+Any person who violates any provision of this subchapter, or of the regulations promulgated under this subchapter, or a permit issued under this subchapter shall be liable to a civil penalty of not more than $50,000 for each violation to be assessed by the Administrator. In addition, any person who violates this subchapter or any regulation issued under this subchapter by engaging in activity involving the dumping of medical waste shall be liable for a civil penalty of not more than $125,000 for each violation, to be assessed by the Administrator after written notice and an opportunity for a hearing. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing of such violation. In determining the amount of the penalty, the gravity of the violation, prior violations, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation shall be considered by said Administrator. For good cause shown, the Administrator may remit or mitigate such penalty. Upon failure of the offending party to pay the penalty, the Administrator may request the Attorney General to commence an action in the appropriate district court of the United States for such relief as may be appropriate.

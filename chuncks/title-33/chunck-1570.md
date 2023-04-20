@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1342. National pollutant discharge elimination system
+##### (k) Compliance with permits
+
+Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974 , in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title , unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972 , in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title , the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.

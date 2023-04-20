@@ -1,0 +1,11 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 29— DEEPWATER PORTS
+#### § 1504. Procedure
+##### (h) Nonrefundable application fee; processing costs; State fees; “land-based facilities directly related to a deepwater port facility” defined; fair market rental value, advance payment
+
+(1) Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefund­able application fee established by regulation by the Secretary. In addition, an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
+
+(2) Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities. Fees may be fixed under authority of this paragraph as compensation for any economic cost attributable to the construction and operation of such deepwater port and such land-based facilities, which cannot be recovered under other authority of such State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of such deepwater port and such land-based facilities. Fees under this paragraph shall not exceed such economic, environmental, and administrative costs of such State. Such fees shall be subject to the approval of the Secretary. As used in this paragraph, the term “land-based facilities directly related to a deepwater port facility” means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.
+
+(3) A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the Outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.

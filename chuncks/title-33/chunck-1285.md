@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1285. Allotment of grant funds
+##### (i) Set-aside for innovative and alternative projects
+
+Not less than ½ of 1 percent of funds allotted to a State for each of the fiscal years ending September 30, 1979 , through September 30, 1990 , under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title . Including the expenditures authorized by the preceding sentence, a total of 2 percent of the funds allotted to a State for each of the fiscal years ending September 30, 1979 , and September 30, 1980 , and 3 percent of the funds allotted to a State for the fiscal year ending September 30, 1981 , under subsection (c) of this section shall be expended only for increasing grants for construction of treatment works pursuant to section 1282(a)(2) of this title . Including the expenditures authorized by the first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 percent nor more than 7½ percent of the funds allotted to such State under subsection (c) of this section for each of the fiscal years ending September 30, 1982 , through September 30, 1990 , shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title .

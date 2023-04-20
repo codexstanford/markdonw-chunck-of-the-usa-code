@@ -1,0 +1,16 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 35— ARTIFICIAL REEFS
+#### § 2102. Establishment of standards
+
+Based on the best scientific information available, artificial reefs in waters covered under this chapter shall be sited and constructed, and subsequently monitored and managed in a manner which will
+
+(1) enhance fishery resources to the maximum extent practicable;
+
+(2) facilitate access and utilization by United States recreational and commercial fishermen;
+
+(3) minimize conflicts among competing uses of waters covered under this chapter and the resources in such waters;
+
+(4) minimize environmental risks and risks to personal health and property; and
+
+(5) be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.

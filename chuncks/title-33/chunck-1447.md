@@ -1,0 +1,13 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1317. Toxic and pretreatment effluent standards
+##### (b) Pretreatment standards; hearing; promulgation; compliance period; revision; application to State and local laws
+
+(1) The Administrator shall, within one hundred and eighty days after October 18, 1972 , and from time to time thereafter, publish proposed regulations establishing pretreatment standards for introduction of pollutants into treatment works (as defined in section 1292 of this title ) which are publicly owned for those pollutants which are determined not to be susceptible to treatment by such treatment works or which would interfere with the operation of such treatment works. Not later than ninety days after such publication, and after opportunity for public hearing, the Administrator shall promulgate such pretreatment standards. Pretreatment standards under this subsection shall specify a time for compliance not to exceed three years from the date of promulgation and shall be established to prevent the discharge of any pollutant through treatment works (as defined in section 1292 of this title ) which are publicly owned, which pollutant interferes with, passes through, or otherwise is incompatible with such works. If, in the case of any toxic pollutant under subsection (a) of this section introduced by a source into a publicly owned treatment works, the treatment by such works removes all or any part of such toxic pollutant and the discharge from such works does not violate that effluent limitation or standard which would be applicable to such toxic pollutant if it were discharged by such source other than through a publicly owned treatment works, and does not prevent sludge use or disposal by such works in accordance with section 1345 of this title , then the pretreatment requirements for the sources actually discharging such toxic pollutant into such publicly owned treatment works may be revised by the owner or operator of such works to reflect the removal of such toxic pollutant by such works.
+
+(2) The Administrator shall, from time to time, as control technology, processes, operating methods, or other alternatives change, revise such standards following the procedure established by this subsection for promulgation of such standards.
+
+(3) When proposing or promulgating any pretreatment standard under this section, the Administrator shall designate the category or categories of sources to which such standard shall apply.
+
+(4) Nothing in this subsection shall affect any pretreatment requirement established by any State or local law not in conflict with any pretreatment standard established under this subsection.

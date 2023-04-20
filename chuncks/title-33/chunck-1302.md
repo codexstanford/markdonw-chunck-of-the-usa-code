@@ -1,0 +1,11 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1288. Areawide waste treatment management
+##### (f) Grants
+
+(1) The Administrator shall make grants to any agency designated under subsection (a) of this section for payment of the reasonable costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
+
+(2) For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977 , the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period. In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.
+
+(3) Each applicant for a grant under this subsection shall submit to the Administrator for his approval each proposal for which a grant is applied for under this subsection. The Administrator shall act upon such proposal as soon as practicable after it has been submitted, and his approval of that proposal shall be deemed a contractual obligation of the United States for the payment of its contribution to such proposal, subject to such amounts as are provided in appropriation Acts. There is authorized to be appropriated to carry out this subsection not to exceed $50,000,000 for the fiscal year ending June 30, 1973 , not to exceed $100,000,000 for the fiscal year ending June 30, 1974 , not to exceed $150,000,000 per fiscal year for the fiscal years ending June 30, 1975 , September 30, 1977 , September 30, 1978 , September 30, 1979 , and September 30, 1980 , not to exceed $100,000,000 per fiscal year for the fiscal years ending September 30, 1981 , and September 30, 1982 , and such sums as may be necessary for fiscal years 1983 through 1990.

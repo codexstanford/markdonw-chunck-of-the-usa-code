@@ -1,0 +1,6 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 15— FLOOD CONTROL
+#### § 701b–4. Administration of surveys; number authorized; reports
+
+The surveys authorized to be performed under the direction of the Secretary of the Army as well as all duties performed by the Chief of Engineers under the direction of the Secretary of the Army shall be functions of the Engineer Corps, United States Army, and its head, to be administered under the direction of the Secretary of the Army and the supervision of the Chief of Engineers except as otherwise specifically provided by Congress: Provided , That the power and authority conferred by the Flood Control Act of June 28, 1938 , and previously conferred, upon the Federal Power Commission shall remain in full force and effect: Provided , That no preliminary examination, survey, project, or estimate for new works other than those designated in this Act or some prior Act or joint resolution shall be made: Provided further , That after the regular or formal reports made as required by law on any examination, survey, project, or work under way or proposed, are submitted, no supplemental or additional report or estimate shall be made unless authorized by law.

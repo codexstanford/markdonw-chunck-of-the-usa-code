@@ -1,0 +1,7 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 15— FLOOD CONTROL
+#### § 701r–1. Utilization of public roads
+##### (b) Improvement, reconstruction, and maintenance
+
+Whenever, in connection with the construction of any authorized flood control, navigation, irrigation, or multiple purpose project for the development of water resources, the head of the Agency concerned determines it to be in the public interest to utilize existing public roads as a means of providing access to such projects during construction, such Agency may improve, reconstruct, and maintain such roads and may contract with the local authority having jurisdiction over the roads to accomplish the necessary work. The accomplishment of such work of improvement may be carried out with or without obtaining any interest in the land on which the road is located in accordance with mutual agreement between the parties: Provided , (1) That the head of the Agency concerned determines that such work would result in a saving in Federal cost as opposed to the cost of providing a new access road at Federal expense, (2) that, at the completion of construction, the head of the Agency concerned will, if necessary, restore the road to at least as good condition as prior to the beginning of utilization for access during construction, and (3) that, at the completion of construction, the responsibility of the Agency for improvement, reconstruction, and maintenance shall cease.

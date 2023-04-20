@@ -1,0 +1,13 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 26— WATER POLLUTION PREVENTION AND CONTROL
+#### § 1377. Indian tribes
+##### (e) Treatment as States
+
+The Administrator is authorized to treat an Indian tribe as a State for purposes of subchapter II of this chapter and sections 1254, 1256, 1313, 1315, 1318, 1319, 1324, 1329, 1341, 1342, 1344, and 1346 of this title to the degree necessary to carry out the objectives of this section, but only if
+
+(1) the Indian tribe has a governing body carrying out substantial governmental duties and powers;
+
+(2) the functions to be exercised by the Indian tribe pertain to the management and protection of water resources which are held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian tribe if such property interest is subject to a trust restriction on alienation, or otherwise within the borders of an Indian reservation; and
+
+(3) the Indian tribe is reasonably expected to be capable, in the Administrator’s judgment, of carrying out the functions to be exercised in a manner consistent with the terms and purposes of this chapter and of all applicable regulations. Such treatment as a State may include the direct provision of funds reserved under subsection (c) to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987 , the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution of any unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes located on common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.

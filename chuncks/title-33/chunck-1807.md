@@ -1,0 +1,12 @@
+
+# Title 33— NAVIGATION AND NAVIGABLE WATERS
+### CHAPTER 28— POLLUTION CASUALTIES ON THE HIGH SEAS: UNITED STATES INTERVENTION
+#### § 1478. Personal, flag state, and foreign state considerations
+
+In the direction and conduct of measures under this chapter the Secretary shall use his best endeavors to
+
+(1) assure the avoidance of risk to human life;
+
+(2) render all possible aid to distressed persons, including facilitating repatriation of ships’ crews; and
+
+(3) not unnecessarily interfere with rights and interests of others, including the flag state of any ship involved, other foreign states threatened by damage, and persons otherwise concerned.
