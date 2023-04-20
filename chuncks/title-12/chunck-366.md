@@ -1,0 +1,6 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 3— FEDERAL RESERVE SYSTEM
+#### § 349. Rediscount for intermediate credit banks of obligations given for agricultural purposes; discount of notes made pursuant to section 1031
+
+Any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, rediscount such notes, drafts, and bills mentioned in section 348 of this title for any Federal intermediate credit bank, except that no Federal reserve bank shall rediscount for a Federal intermediate credit bank any such note or obligation which bears the indorsement of a nonmember State bank or trust company which is eligible for membership in the Federal reserve system in accordance with subchapter VIII of this chapter. Any Federal reserve bank may also, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, discount notes payable to and bearing the indorsement of any Federal intermediate credit bank covering loans or advances made by such bank pursuant to the provisions of section 1031  1 of this title which have maturities at the time of discount of not more than nine months, exclusive of days of grace, and which are secured by notes, drafts, or bills of exchange eligible for rediscount by Federal Reserve banks.

@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 16— FEDERAL DEPOSIT INSURANCE CORPORATION
+#### § 1823. Corporation monies
+##### (b) Depository accounts
+
+The depository accounts of the Corporation shall be kept with the Treasurer of the United States, or, with the approval of the Secretary of the Treasury, with a Federal Reserve bank, or with a depository institution designated as a depository or fiscal agent of the United States: Provided , That the Secretary of the Treasury may waive the requirements of this subsection under such conditions as he may determine: And provided further , That this subsection shall not apply to the establishment and maintenance in any depository institution for temporary purposes of depository accounts not in excess of $50,000 in any one depository institution, or to the establishment and maintenance in any depository institution of any depository accounts to facilitate the payment of insured deposits, or the making of loans to, or the purchase of assets of, insured depository institutions. When designated for that purpose by the Secretary of the Treasury, the Corporation shall be a depositary of public moneys, except receipts from customs, under such regulations as may be prescribed by the said Secretary, and may also be employed as a financial agent of the Government. It shall perform all such reasonable duties as depositary of public moneys and financial agent of the Government as may be required of it.

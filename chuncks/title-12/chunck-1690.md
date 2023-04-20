@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1735f–7a. State constitution or laws limiting mortgage interest, discount points, and finance or other charges; exemption for obligations made after March 31, 1980
+##### (d) Implementation of provisions applicable to residential manufactured home
+
+The provisions of subsection (c) shall not apply to a loan, mortgage, credit sale, or advance secured by a first lien on a residential manufactured home until regulations required to be issued pursuant to paragraphs (1), (2), and (3) of subsection (c) take effect, except that the provisions of subsection (c) shall apply in the case of such a loan, mortgage, credit sale, or advance made prior to the date on which such regulations take effect if the loan, mortgage, credit sale, or advance includes a precomputed finance charge and does not provide that, upon prepayment in full, the refund of the unearned portion of the precomputed finance charge is in an amount not less the amount which would be calculated by the actuarial method, except that the debtor shall not be entitled to a refund which is less than $1. The Federal Home Loan Bank Board shall issue regulations pursuant to the provisions of paragraphs (1), (2), and (3) of subsection (c) that shall take effect prospectively not less than 30 days after publication in the Federal Register and not later than 120 days from March 31, 1980 .

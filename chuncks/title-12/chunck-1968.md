@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 14— FEDERAL CREDIT UNIONS
+#### § 1784. Examination of insured credit unions
+##### (a) Examiners and claim agents; powers; report by examiner; jurisdiction of court
+
+The Board shall appoint examiners who shall have power, on its behalf, to examine any insured credit union, any credit union making application for insurance of its member accounts, or any closed insured credit union whenever in the judgment of the Board an examination is necessary to determine the condition of any such credit union for insurance purposes. Each examiner shall have power to make a thorough examination of all of the affairs of the credit union and shall make a full and detailed report of the condition of the credit union to the Board. The Board in like manner shall appoint claim agents who shall have power to investigate and examine all claims for insured member accounts. Each claim agent shall have power to administer oaths and affirmations, to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured accounts, and to issue subpenas and subpenas duces tecum and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the principal office of the credit union is located or in which the witness resides or carries on business. Such courts shall have jurisdiction and power to order and require compliance with any such subpena.

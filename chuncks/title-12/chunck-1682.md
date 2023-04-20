@@ -1,0 +1,10 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1735f–4. Minimum property standards
+
+(a) To the maximum extent feasible, the Secretary of Housing and Urban Development shall promote the use of energy saving techniques through minimum property standards established by him for newly constructed residential housing, other than manufactured homes, subject to mortgages insured under this chapter. Such standards shall establish energy performance requirements that will achieve a significant increase in the energy efficiency of new construction. Such requirements shall be implemented as soon as practicable after November 9, 1978 . Following November 30, 1983 , the energy performance requirements developed and established by the Secretary under this subsection for newly constructed residential housing, other than manufactured homes, shall be at least as effective in performance as the energy performance requirements incorporated in the minimum property standards that were in effect under this subsection on September 30, 1982 .
+
+(b) The Secretary may require that each property, other than a manufactured home, subject to a mortgage insured under this chapter shall, with respect to health and safety, comply with one of the nationally recognized model building codes, or with a State or local building code based on one of the nationally recognized model building codes or their equivalent. The Secretary shall be responsible for determining the comparability of the State and local codes to such model codes and for selecting for compliance purposes an appropriate nationally recognized model building code where no such model code has been duly adopted or where the Secretary determines the adopted code is not comparable.
+
+(c) The Secretary may establish an exception to any minimum property standard established under this section in order to address alternative water systems, including cisterns, which meet requirements of State and local building codes that ensure health and safety standards.

@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715e. Cooperative housing insurance
+##### (k) Cooperative Management Housing Insurance Fund
+
+There is hereby created a Cooperative Management Housing Insurance Fund (hereinafter referred to as the “Management Fund”). The Management Fund shall be used by the Secretary as a revolving fund for carrying out the provisions of this section with respect to mortgages or loans insured, on or after August 10, 1965 , under subsections (a)(1), (a)(3) (if the project is acquired by a cooperative corporation), (i), and (j). The Management Fund shall also be used as a revolving fund for mortgages, loans, and commitments transferred to it pursuant to subsection (m). The Secretary is directed to transfer to the Management Fund from the General Insurance Fund an amount equal to the total of the premium payments theretofore made with respect to the insurance of mortgages and loans transferred to the Management Fund pursuant to subsection (m) minus the total of any administrative expenses theretofore incurred in connection with such mortgages and loans, plus such other amounts as the Secretary determines to be necessary and appropriate. General expenses of operation of the Department of Housing and Urban Development relating to mortgages or loans which are the obligation of the Management Fund may be charged to the Management Fund.

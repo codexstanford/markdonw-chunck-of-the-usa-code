@@ -1,0 +1,6 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 3— FEDERAL RESERVE SYSTEM
+#### § 348. Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes
+
+Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice, and protest by such bank as to its own indorsement exclusively, any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, discount notes, drafts, and bills of exchange issued or drawn for an agricultural purpose, or based upon livestock, and having a maturity, at the time of discount, exclusive of days of grace, not exceeding nine months, and such notes, drafts, and bills of exchange may be offered as collateral security for the issuance of Federal reserve notes under the provisions of section 16 of this Act: Provided , That notes, drafts, and bills of exchange with maturities in excess of six months shall not be eligible as a basis for the issuance of Federal reserve notes unless secured by warehouse receipts or other such negotiable documents conveying or securing title to readily marketable staple agricultural products or by chattel mortgage upon livestock which is being fattened for market.

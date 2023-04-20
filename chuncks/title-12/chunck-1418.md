@@ -1,0 +1,11 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715z–3. Special Risk Insurance Fund
+##### (c) Mortgage insurance for military impacted areas; criteria; obligation of Special Risk Insurance Fund; establishment of premiums and other charges
+
+(1) Notwithstanding the provisions of this chapter or any other Act, and without regard to limitations upon eligibility contained in any section of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter a mortgage executed in connection with the construction, repair, rehabilitation, or purchase of property located near any installation of the Armed Forces of the United States in federally impacted areas in which the conditions are such that one or more of the eligibility requirements applicable to the section under which insurance is sought could not be met, if (A) the Secretary finds that the benefits to be derived from such use outweigh the risk of probable cost to the Government, and (B) the Secretary of Defense certifies that there is no intention insofar as can reasonably be foreseen to curtail substantially the personnel assigned or to be assigned to such installation. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
+
+(2) The Secretary is authorized (A) to establish such premiums and other charges as may be necessary to assure that the mortgage insurance program pursuant to this subsection is made available on a basis which, in the Secretary’s judgment, is designed to be actuarially sound and likely to maintain the fiscal integrity of such program, and (B) to prescribe such terms and conditions relating to insurance pursuant to this subsection as may be found by the Secretary to be necessary and appropriate, and which are to the maximum extent possible, consistent with provisions otherwise applicable to mortgage insurance and payment of insurance benefits.
+
+(3) The Secretary shall undertake an annual assessment of the risks associated with each of the insurance programs comprising the Special Risk Insurance Fund, and shall present findings from such review to the Congress in the FHA Annual Management Report.

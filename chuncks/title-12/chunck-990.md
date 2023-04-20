@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1701g–5b. Liquidation of New Communities Program; cancellation of debt
+##### (b) Availability of revolving fund moneys for administrative and other expenses
+
+In carrying out the purposes of subsection (a), all moneys in the revolving fund (liquidating programs) shall be available for necessary administrative and other expenses of servicing and liquidating obligations guaranteed pursuant to section 403 and section 713 of title IV and title VII, respectively [ 42 U.S.C. 3902 , 4514], including costs of services (including legal services) performed on a contract or fee basis, and to discharge any other liability acquired or incurred in connection with the new communities program. Notwithstanding any other provision of law relating to the acquisition, handling, improvement, or disposal of real and other property by the United States, the Secretary of Housing and Urban Development shall also have power, for the protection of the interests of the revolving fund (liquidating programs), to pay out of any moneys in such fund all expenses or charges in connection with the acquisition, handling, improvement, or disposal of any property, real or personal, acquired by the Secretary either prior or subsequent to November 30, 1983 , as a result of recoveries under security, subrogation, or other rights in connection with the new communities program.

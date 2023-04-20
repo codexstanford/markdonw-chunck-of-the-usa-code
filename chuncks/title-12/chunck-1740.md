@@ -1,0 +1,6 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1735h. Repealed. Pub. L. 89–754, title X, § 1013(j) , Nov. 3, 1966 , 80 Stat. 1292
+
+SUBCHAPTER VI— WAR HOUSING INSURANCE

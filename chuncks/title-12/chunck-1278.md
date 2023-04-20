@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715e. Cooperative housing insurance
+##### (i) Mortgages executed by consumer cooperatives covering existing structures
+
+Nothing in this chapter shall be construed to prevent the insurance of a mortgage executed by a mortgagor of the character described in paragraph (1) of subsection (a) of this section covering property upon which dwelling units and related facilities have been constructed prior to the filing of the application for mortgage insurance hereunder: Provided , That the Secretary determines that the consumer interest is protected and that the mortgagor will be a consumer cooperative. In the case of properties other than new construction, the limitations in this section upon the amount of the mortgage shall be based upon the appraised value of the property for continued use as a cooperative rather than upon the Secretary’s estimate of the replacement cost. As to any project on which construction was commenced after September 23, 1959 , the mortgage on such proj­ect shall be eligible for insurance under this section only in those cases where the construction was subject to inspection by the Secretary and where there was compliance with the provisions of section 1715c of this title . As to any project on which construction was commenced prior to September 23, 1959 , such inspection, and compliance with the provisions of section 1715c of this title , shall not be a prerequisite.

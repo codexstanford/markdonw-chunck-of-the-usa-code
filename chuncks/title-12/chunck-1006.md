@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1701j–2. National Institute of Building Sciences
+##### (i) Authorization of appropriations
+
+There is authorized to be appropriated to the Institute not to exceed $5,000,000 for the fiscal year 1975, and $5,000,000 for the fiscal year 1976, and $5,000,000 for each of the fiscal years 1977 and 1978, and any amounts not appropriated in fiscal years 1977 and 1978 may be appropriated in any fiscal year through 1984 (with not more than $500,000 to be appropriated for each of the fiscal years 1982, 1983, and 1984 and with each appropriation to be available until expended), to provide the Institute with initial capital adequate for the exercise of its functions and responsibilities during such years; and thereafter the Institute shall be financially self-sustaining through the means described in subsection (f). In addition to the amounts authorized to be appropriated under the first sentence of this section, there are authorized to be appropriated to the Institute to carry out the provisions of this section not to exceed $512,000 for fiscal year 1991 and $534,000 for fiscal year 1992. Any amount appropriated under the preceding sentence shall be made available for expenditure or obligation by the Institute only to the extent of an equal amount received by the Institute after November 30, 1983 , from persons or entities other than the Federal Government.

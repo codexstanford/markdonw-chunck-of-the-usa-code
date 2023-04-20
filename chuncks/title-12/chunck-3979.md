@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 46— GOVERNMENT SPONSORED ENTERPRISES
+#### § 4520. Minority and women inclusion; diversity requirements
+##### (b) Inclusion in all levels of business activities
+
+Each regulated entity shall develop and implement standards and procedures to ensure, to the maximum extent possible, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ( 12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4)  1 of this title) (including financial institutions, investment banking firms, mortgage banking firms, asset management firms, broker-dealers, financial services firms, underwriters, accountants, brokers, investment consultants, and providers of legal services) in all business and activities of the regulated entity at all levels, including in procurement, insurance, and all types of contracts (including contracts for the issuance or guarantee of any debt, equity, or mortgage-related securities, the management of its mortgage and securities portfolios, the making of its equity investments, the purchase, sale and servicing of single- and multi-family mortgage loans, and the implementation of its affordable housing program and initiatives). The processes established by each regulated entity for review and evaluation for contract proposals and to hire service providers shall include a component that gives consideration to the diversity of the applicant.

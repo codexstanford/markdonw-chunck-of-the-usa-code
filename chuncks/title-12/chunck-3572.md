@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 38— MULTIFAMILY MORTGAGE FORECLOSURE
+#### § 3710. Foreclosure sale
+##### (b) Conduct of sale
+
+The foreclosure commissioner shall conduct the foreclosure sale in accordance with the provisions of this chapter and in a manner fair to both the mortgagor and the Secretary. The foreclosure commissioner shall attend the foreclosure sale in person, or, if there are two or more commissioners, at least one shall attend the foreclosure sale. In the event that no foreclosure commissioner is a natural person, the foreclosure commissioner shall cause its duly authorized employee to attend the foreclosure sale to act on its behalf. Written one-price sealed bids shall be accepted by the foreclosure commissioner from the Secretary and other persons for entry by announcement by the commissioner at the sale. The Secretary and any other person may bid at the foreclosure sale, including the Secretary or any other person who has submitted a written one-price bid, except that the foreclosure commissioner or any relative, related business entity or employee of such commissioner or entity shall not be permitted to bid in any manner on the security property subject to foreclosure sale. The foreclosure commissioner may serve as auctioneer, or, in accordance with regulations of the Secretary, may employ an auctioneer to be paid from the commission provided for in section 3711(5) of this title .

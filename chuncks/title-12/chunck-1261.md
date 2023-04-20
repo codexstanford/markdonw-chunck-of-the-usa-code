@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1713. Rental housing insurance
+##### (l) Handling and disposal of property; settlement of claims
+
+Notwithstanding any other provisions of law relating to the acquisition, handling, or disposal of real and other property by the United States, the Secretary shall also have power, for the protection of the interests of the General Insurance Fund, to pay out of the General Insurance Fund all expenses or charges in connection with, and to deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, or establish suitable agencies for the management of, or sell for cash or credit or lease in his discretion, any property acquired by him under this section, and notwithstanding any other provision of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims assigned and transferred to him in connection with the assignment, transfer, and delivery provided for in this section, and at any time, upon default, to foreclose on any property secured by any mortgage assigned and transferred to or held by him: Provided , That section 6101 of title 41 shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of such property if the amount thereof does not exceed $1,000.

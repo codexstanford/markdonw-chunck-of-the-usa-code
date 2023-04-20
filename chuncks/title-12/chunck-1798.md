@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1748b. Insurance of mortgages
+##### (a) Aggregate amount of insurance; termination date
+
+In order to assist in relieving the acute shortage and urgent need for family housing which now exists at or in areas adjacent to military installations because of uncertainty as to the permanency of such installations and to increase the supply of necessary family housing accommodations for personnel at such installations, the Secretary is authorized, upon application of the mortgagee, to insure mortgages (including advances on such mortgages during construction) which are eligible for insurance as hereinafter provided, and, upon such terms as the Secretary may prescribe, to make commitments for so insuring such mortgages prior to the date of their execution or disbursement thereon: Provided , That the aggregate amount of principal obligations of all mortgages insured under this subchapter (except mortgages insured pursuant to the provisions of this subchapter in effect prior to August 11, 1955 ) shall not exceed $2,300,000,000: And provided further , That the limitation in section 1715h of this title shall not apply to this subchapter: And provided further , That no more mortgages shall be insured under this section after October 1, 1962 , except pursuant to a commitment to insure before such date, and not more than twenty-eight thousand family housing units shall be contracted for after June 30, 1959 , pursuant to any mortgage insured under this section after such date.

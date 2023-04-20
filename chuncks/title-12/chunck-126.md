@@ -1,0 +1,13 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 2— NATIONAL BANKS
+#### § 92a. Trust powers
+##### (k) Revocation; procedures applicable
+
+(1) In addition to the authority conferred by other law, if, in the opinion of the Comptroller of the Currency, a national banking association is unlawfully or unsoundly exercising, or has unlawfully or unsoundly exercised, or has failed for a period of five consecutive years to exercise, the powers granted by this section or otherwise fails or has failed to comply with the requirements of this section, the Comptroller may issue and serve upon the association a notice of intent to revoke the authority of the association to exercise the powers granted by this section. The notice shall contain a statement of the facts constituting the alleged unlawful or unsound exercise of powers, or failure to exercise powers, or failure to comply, and shall fix a time and place at which a hearing will be held to determine whether an order revoking authority to exercise such powers should issue against the association.
+
+(2) Such hearing shall be conducted in accordance with the provisions of section 1818(h) of this title , and subject to judicial review as provided in such section, and shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or later date is set by the Comptroller at the request of any association so served.
+
+(3) Unless the association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified in the notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this section, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
+
+(4) A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.

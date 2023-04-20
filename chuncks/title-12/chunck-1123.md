@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1701z–2. Advanced technologies, methods, and materials for housing construction, rehabilitation, and maintenance
+##### (d) Technical assistance; reports; general dissemination and form of reports, data, and information
+
+In order to effectively carry out his activities under section 1701z–1 of this title , the Secretary is authorized to provide such advice and technical assistance as may be required and to pay for the cost of writing and publishing reports on activities and undertakings financed under section 1701z–1 of this title , as well as reports on similar activities and undertakings, not so financed, which are of significant value in furthering the purposes of that section. He may disseminate (without regard to the provisions of section 3204 of title 39 or section 4154 of such title with respect to any period before the effective date of such section 3204 as provided in section 15(a) of the Postal Reorganization Act) any reports, data, or information acquired or held under this title [ 12 U.S.C. 1701z–1 et seq.], including related data and information otherwise available to the Secretary through the operation of the programs and activities of the Department of Housing and Urban Development, in such form as he determines to be most useful to departments, establishments, and agencies of Federal, State, and local governments, to industry, and to the general public.

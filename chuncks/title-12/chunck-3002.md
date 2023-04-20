@@ -1,0 +1,8 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 23— FARM CREDIT SYSTEM
+#### §§ 2278a to 2278b–11. Repealed. Pub. L. 115–334, title V, § 5411(39) , Dec. 20, 2018 , 132 Stat. 4683
+
+SUBCHAPTER VII— RESTRUCTURING OF SYSTEM INSTITUTIONS
+
+Part A— Merger of Banks Within a District

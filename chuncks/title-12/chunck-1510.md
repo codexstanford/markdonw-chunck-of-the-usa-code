@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715z–16. Adjustable rate single family mortgages
+##### (a) One- to four-family dwellings; maximum term of mortgage; adjustments in effective rate of interest
+
+The Secretary may insure under any provision of this subchapter a mortgage involving property upon which there is located a dwelling designed principally for occupancy by one to four families, where the mortgage provides for periodic adjustments by the mortgagee in the effective rate of interest charged. Such interest rate adjustments may be accomplished through adjustments in the monthly payment amount, the outstanding principal balance, or the mortgage term, or a combination of these factors, except that in no case may any extension of a mortgage term result in a total term in excess of 40 years. Adjustments in the effective rate of interest shall correspond to a specified national interest rate index approved in regulations by the Secretary, information on which is readily accessible to mortgagors from generally available published sources. Adjustments in the effective rate of interest shall (1) be made on an annual basis; (2) be limited, with respect to any single interest rate increase, to no more than 1 percent on the outstanding loan balance; and (3) be limited to a maximum increase of 5 percentage points above the initial contract interest rate over the term of the mortgage.

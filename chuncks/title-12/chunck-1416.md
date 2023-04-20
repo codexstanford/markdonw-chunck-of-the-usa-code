@@ -1,0 +1,11 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715z–3. Special Risk Insurance Fund
+##### (a) Entitlement to benefits; computation and payment of benefits to mortgagee
+
+(1) Any mortgagee under a mortgage insured under section 1715z(i), (j)(4), 1715z–2, or 1715z–8 of this title shall be entitled to receive the benefits of the insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title . The provisions of subsections (b), (c), (d), (g), (j), and (k)  1 of section 1710 of this title shall be applicable to mortgages insured under section 1715z(i), (j)(4), 1715z–2, 1 or 1715z–8 of this title, except that all references therein to the “Mutual Mortgage Insurance Fund” shall be construed to refer to the “Special Risk Insurance Fund”, and all references therein to section 1709 of this title shall be construed to refer to section 1715z(i), (j)(4), 1715z–2, or 1715z–8 of this title, as may be appropriate.
+
+(2) Any mortgagee under a mortgage insured under section 1715z(j)(1) or 1715z–1 of this title shall be entitled to receive the benefits of insurance as provided in section 1713(g) of this title with respect to mortgages insured under section 1713 of this title . The provisions of subsections (d), (e), (h), (i), (j), (k), ( l ), and (n) of section 1713 of this title shall be applicable to mortgages insured under section 1715z(j)(1) or 1715z–1 of this title, except that all references therein to the “General Insurance Fund” shall be construed to refer to the “Special Risk Insurance Fund” and the premium charge provided in section 1713(d) of this title shall be payable only in cash or debentures of the Special Risk Insurance Fund.
+
+(3) In lieu of the amount of insurance benefits computed pursuant to paragraph (1) or (2) of this subsection the Secretary, in his discretion and in accordance with such regulations as he may prescribe, may (with respect to any mortgage loan acquired by him) compute and pay insurance benefits to the mortgagee in a total amount equal to the unpaid principal balance of the loan plus any accrued interest and any advances approved by the Secretary and made previously by the mortgagee under the provisions of the mortgage.

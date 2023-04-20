@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 38— MULTIFAMILY MORTGAGE FORECLOSURE
+#### § 3710. Foreclosure sale
+##### (c) Adjournment or cancellation
+
+The foreclosure commissioner shall have discretion, prior to or at the time of sale, to adjourn or cancel the foreclosure sale if the commissioner determines, in the commissioner’s sole discretion, that circumstances are not conducive to a sale which is fair to the mortgagor and the Secretary or that additional time is necessary to determine whether the security property should be withdrawn from foreclosure as provided in section 3709 of this title . The foreclosure commissioner may adjourn a sale to a later hour the same day without the giving of further notice, or may adjourn the foreclosure sale for not less than nine nor more than twenty-four days, in which case the commissioner shall serve a notice of default and foreclosure sale revised to recite that the foreclosure sale has been adjourned to a specified date and to include any corrections the foreclosure commissioner deems appropriate. Such notice shall be served by publication, mailing and posting in accordance with section 3708 of this title , except that publication may be made on any of three separate days prior to the revised date of foreclosure sale, and mailing may be made at any time at least seven days prior to the date to which the foreclosure sale has been adjourned.

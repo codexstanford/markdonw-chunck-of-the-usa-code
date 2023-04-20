@@ -1,0 +1,15 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1717. Federal National Mortgage Association and Government National Mortgage Association
+##### (a) Creation; succession; principal and other offices
+
+(1) There is created a body corporate to be known as the “Federal National Mortgage Association”, which shall be in the Department of Housing and Urban Development. The Association shall have succession until dissolved by Act of Congress. It shall maintain its principal office in the District of Columbia and shall be deemed, for purposes of venue in civil actions, to be a resident thereof. Agencies or offices may be established by the Association in such other place or places as it may deem necessary or appropriate in the conduct of its business.
+
+(2) On September 1, 1968 , the body corporate described in the foregoing paragraph shall cease to exist in that form and is hereby partitioned into two separate and distinct bodies corporate, each of which shall have continuity and corporate succession as a separated portion of the previously existing body corporate, as follows:
+
+(A) One of such separated portions shall be a body corporate without capital stock to be known as Government National Mortgage Association (hereinafter referred to as the “Association”), which shall be in the Department of Housing and Urban Development and which shall retain the assets and liabilities acquired and incurred under sections 1720  1 and 1721 of this title prior to such date, including any and all liabilities incurred pursuant to subsection (c). The Association shall have succession until dissolved by Act of Congress. It shall maintain its principal office in the District of Columbia and shall be deemed, for purposes of venue in civil actions, to be a resident thereof. Agencies or offices may be established by the Association in such other place or places as it may deem necessary or appropriate in the conduct of its business.
+
+(B) The other such separated portion shall be a body corporate to be known as Federal National Mortgage Association (hereinafter referred to as the “corporation”), which shall retain the assets and liabilities acquired and incurred under sections 1718 and 1719 of this title prior to such date. The corporation shall have succession until dissolved by Act of Congress. It shall maintain its principal office in the District of Columbia or the metropolitan area thereof and shall be deemed, for purposes of jurisdiction and venue in civil actions, to be a District of Columbia corporation.
+
+(3) The partition transaction effected pursuant to the foregoing paragraph constitutes a reorganization within the meaning of section 368(a)(1)(E) of title 26 ; and for the purposes of such title 26, no gain or loss is recognized by the previously existing body corporate by reason of the partition, and the basis and holding period of the assets of the corporation immediately following such partition are the same as the basis and holding period of such assets immediately prior to such partition.

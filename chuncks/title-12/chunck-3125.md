@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 24— FEDERAL FINANCING BANK
+#### § 2288. Bank obligations
+##### (b) Purchase and sale of obligations of Federal Financing Bank by Secretary of the Treasury as public debt transactions
+
+The Bank is also authorized to issue its obligations to the Secretary of the Treasury and the Secretary of the Treasury may in his discretion purchase or agree to purchase any such obligations, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this subsection. All purchases and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.

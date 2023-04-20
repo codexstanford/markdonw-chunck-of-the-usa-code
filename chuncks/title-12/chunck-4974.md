@@ -1,0 +1,6 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 53— WALL STREET REFORM AND CONSUMER PROTECTION
+#### § 5495. Coordination
+
+The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.

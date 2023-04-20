@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 16— FEDERAL DEPOSIT INSURANCE CORPORATION
+#### § 1827. Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits
+##### (e) Audit of Corporation
+
+The financial transactions of the Corporation shall be audited by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where accounts of the Corporation are normally kept. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the Corporation pertaining to its financial transactions and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians. All such books, accounts, rec­ords, reports, files, papers, and property of the Corporation shall remain in possession and custody of the Corporation. The audit shall begin with financial transactions occurring on and after August 31, 1948 . The Corporation shall be audited at least once in every three years.

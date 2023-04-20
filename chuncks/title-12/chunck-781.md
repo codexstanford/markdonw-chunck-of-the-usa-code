@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 11— FEDERAL HOME LOAN BANKS
+#### § 1431. Powers and duties of banks
+##### (b) Issuance of consolidated Federal Home Loan Bank debentures; restrictions
+
+The Office of Finance, as agent for the Banks, may issue consolidated Federal Home Loan Bank debentures which shall be the joint and several obligations of all Federal Home Loan Banks organized and existing under this chapter, in order to provide funds for any such bank or banks, and such debentures shall be issued upon such terms and conditions as such Office may prescribe. No such debentures shall be issued at any time if any of the assets of any Federal Home Loan Bank are pledged to secure any debts or subject to any lien, and neither the Office of Finance nor any Federal Home Loan Bank shall have power to pledge any of the assets of any Federal Home Loan Bank, or voluntarily to permit any lien to attach to the same while any of such debentures so issued are outstanding. The debentures issued under this section and outstanding shall at no time exceed five times the total paid-in capital of all the Federal Home Loan Banks as of the time of the issue of such debentures. It shall be the duty of the Office of Finance not to issue debentures under this section in excess of the notes or obligations of member institutions held and secured under section 1430(a) of this title by all the Federal Home Loan Banks.

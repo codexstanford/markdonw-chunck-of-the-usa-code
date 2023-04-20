@@ -1,0 +1,19 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1746. Insurance on mortgages on large-scale housing projects
+##### (b) Eligibility requirements
+
+To be eligible for insurance under this section, a mortgage shall
+
+(1) have been made to and be held by a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;
+
+(2) cover property, held by a mortgagor approved by the Secretary, upon which there is to be constructed or erected dwelling units for not less than twenty-five families consisting of a group of single-family dwellings approved by the Secretary for mortgage insurance prior to the beginning of construction: Provided , That during the course of construction there may be located upon the mortgaged property a plant for the fabrication or storage of such dwellings or sections or parts thereof, and the Secretary may consent to the removal or release of such plant from the lien of the mortgage upon such terms and conditions as he may approve;
+
+(3) involve a principal obligation in an amount
+
+(A) not to exceed 85 per centum of the amount which the Secretary estimates will be the value of the completed property or project, exclusive of any plant of the character described in paragraph (2) of this subsection located thereon, and
+
+(B) not to exceed a sum computed on the individual dwellings comprising the total project as follows: $5,950 or 85 per centum of the valuation, whichever is the lower amount, with respect to each single-family dwelling: Provided , That if the Secretary finds that it is not feasible, within the dollar amount limitation in this clause on the principal obligation of the mortgage, to construct dwellings containing three or four bedrooms without sacrifice of sound standards of construction, design, and livability, he may increase such dollar amount limitation by not exceeding $850 for each additional bedroom (as defined by the Secretary) in excess of two contained in each such dwelling if he finds that such dwelling meets sound standards of design and livability as a three-bedroom unit or a four-bedroom unit, as the case may be, but the amount computed under this clause for each such dwelling shall not exceed, in any event, $7,650. With respect to the insurance of advances during construction, the Secretary is authorized to approve advances by the mortgagee to cover the cost of materials delivered upon the mortgaged property and labor performed in the fabrication or erection thereof;
+
+(4) provide for complete amortization by periodic payments within such term as the Secretary shall prescribe and shall bear interest (exclusive of premium charges for insurance) as not to exceed 4 per centum per annum on the amount of the principal obligation outstanding at any time: Provided , That the Secretary with the approval of the Secretary of the Treasury, may prescribe by regulation a higher maximum rate of interest, not exceeding 4½ per centum per annum on the amount of the principal obligation outstanding at any time, if he finds that the mortgage market demands it. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release, and the mortgage may provide that, upon the completion of the construction of the project, such mortgage may be replaced by individual mortgages covering each individual dwelling in the project. Each such individual mortgage may be insured under this section with the mortgagor being either the builder who constructed the dwellings or the owner and occupant of the dwelling at the time, and where the mortgagor is the owner and occupant, may involve a principal obligation in such amount and have such maturity and interest rate as a mortgage eligible for insurance under section 1709(b)(2)(D) of this title .

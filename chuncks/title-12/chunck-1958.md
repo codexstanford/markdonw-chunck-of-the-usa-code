@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 14— FEDERAL CREDIT UNIONS
+#### § 1782. Administration of insurance fund
+##### (e) Recovery of unpaid deposit or premium; limitations
+
+The Board, in a suit brought at law or in equity in any court of competent jurisdiction, shall be entitled to recover from any insured credit union the amount of any unpaid deposit or premium charge for insurance lawfully payable by the credit union to the fund, whether or not such credit union shall have made any report of condition under subsection (a) of this section or filed any certified statement required under subsection (b) of this section and whether or not suit shall have been brought to compel the credit union to make any such report or to file any such statement. No action or proceeding shall be brought for the recovery of any deposit or premium charge due to the fund, or for the recovery of any amount paid to the fund in excess of the amount due it, unless such action or proceeding shall have been brought within five years after the right accrued for which the claim is made. Where the insured credit union has made or filed with the Board a false or fraudulent certified statement with the intent to evade, in whole or in part, the payment of its deposit or any premium charge, the claim shall not be deemed to have accrued until the discovery by the Board of the fact that the certified statement is false or fraudulent.

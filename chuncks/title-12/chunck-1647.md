@@ -1,0 +1,6 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### §§ 1730f to 1730i. Repealed. Pub. L. 101–73, title IV, § 407 , Aug. 9, 1989 , 103 Stat. 363
+
+SUBCHAPTER V— MISCELLANEOUS

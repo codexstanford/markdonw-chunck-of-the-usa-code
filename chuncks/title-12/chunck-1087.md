@@ -1,0 +1,13 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1701x. Assistance with respect to housing for low- and moderate-income families
+##### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
+
+(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act [ 12 U.S.C. 1715z ] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
+
+(2) The Secretary shall determine prior to the making of any loan that the nonprofit organization or public housing agency meets such requirements with respect to financial responsibility and stability as he may prescribe.
+
+(3) There are authorized to be appropriated for the purposes of this subsection not to exceed $7,500,000 for the fiscal year ending June 30, 1969 , and not to exceed $10,000,000 for the fiscal year ending June 30, 1970 . Any amounts so appropriated shall remain available until expended, and any amounts authorized for any fiscal year under this paragraph but not appropriated may be appropriated for any succeeding fiscal year.
+
+(4) All funds appropriated for the purposes of this subsection shall be deposited in a fund which shall be known as the Low and Moderate Income Sponsor Fund, and which shall be available without fiscal year limitation and be administered by the Secretary as a revolving fund for carrying out the purposes of this subsection. Sums received in repayment of loans made under this subsection shall be deposited in such fund.

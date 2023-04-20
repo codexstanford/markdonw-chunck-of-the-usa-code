@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1701z–2. Advanced technologies, methods, and materials for housing construction, rehabilitation, and maintenance
+##### (f) Utilization of facilities of other agencies; working agreements, cooperative agreements, contract authority, receipt of funds, and exercise of section 1701c(c) powers
+
+In carrying out activities under section 1701z–1 of this title , the Secretary shall utilize to the fullest extent feasible the available facilities of other Federal departments and agencies, and shall consult with, and make recommendations to, such departments and agencies. The Secretary may enter into working agreements with such departments and agencies and contract or make grants on their behalf or have such departments and agencies contract or make grants on his behalf and such departments and agencies are hereby authorized to execute such contracts and grants. The Secretary is authorized to make or accept reimbursement for the cost of such activities. The Secretary is further authorized to undertake activities under this title [ 12 U.S.C. 1701z–1 et seq.] under cooperative agreements with industry and labor, agencies of State or local governments, educational institutions, and other organizations. He may enter into contracts with and receive funds from such agencies, institutions, and organizations, and may exercise any of the other powers vested in him by section 1701c(c) of this title .

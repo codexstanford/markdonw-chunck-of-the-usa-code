@@ -1,0 +1,11 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1713. Rental housing insurance
+##### (h) Certificate of claim; division of excess proceeds
+
+The certificate of claim issued under this section shall be for an amount which the Secretary determines to be sufficient, when added to the face value of the debentures issued and the cash adjustment paid to the mortgagee, to equal the amount which the mortgagee would have received if, on the date of the assignment, transfer and delivery to the Secretary provided for in subsection (g), the mortgagor had extinguished the mortgage indebtedness by payment in full of all obligations under the mortgage and a reasonable amount for necessary expenses incurred by the mortgagee in connection with the foreclosure proceedings, or the acquisition of the mortgaged property otherwise, and the conveyance thereof to the Secretary. Each such certificate of claim shall provide that there shall accrue to the holder of such certificate with respect to the face amount of such certificate, an increment at the rate of 3 per centum per annum which shall not be compounded. If the net amount realized from the mortgage, and all claims in connection therewith, so assigned, transferred, and delivered, and from the property covered by such mortgage and all claims in connection with such property, after deducting all expenses incurred by the Secretary in handling, dealing with, acquiring title to, and disposing of such mortgage and property and in collecting such claims, exceeds the face value of the debentures issued and the cash adjustment paid to the mortgagee plus all interest paid on such debentures, such excess shall be divided as follows:
+
+(1) If such excess is greater than the total amount payable under the certificate of claim issued in connection with such property, the Secretary shall pay to the holder of such certificate the full amount so payable, and any excess remaining thereafter shall be retained by the Secretary and credited to the General Insurance Fund; and
+
+(2) If such excess is equal to or less than the total amount payable under such certificate of claim, the Secretary shall pay to the holder of such certificate the full amount of such excess.

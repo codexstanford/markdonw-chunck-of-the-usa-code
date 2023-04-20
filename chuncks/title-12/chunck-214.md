@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 2— NATIONAL BANKS
+#### § 215a. Merger of national banks or State banks into national banks
+##### (e) Status of receiving association; property rights and interests vested and held as fiduciary
+
+The corporate existence of each of the merging banks or banking associations participating in such merger shall be merged into and continued in the receiving association and such receiving association shall be deemed to be the same corporation as each bank or banking association participating in the merger. All rights, franchises, and interests of the individual merging banks or banking associations in and to every type of property (real, personal, and mixed) and choses in action shall be transferred to and vested in the receiving association by virtue of such merger without any deed or other transfer. The receiving association, upon the merger and without any order or other action on the part of any court or otherwise, shall hold and enjoy all rights of property, franchises, and interests, including appointments, designations, and nominations, and all other rights and interests as trustee, executor, administrator, registrar of stocks and bonds, guardian of estates, assignee, and receiver, and in every other fiduciary capacity, in the same manner and to the same extent as such rights, franchises, and interests were held or enjoyed by any one of the merging banks or banking associations at the time of the merger, subject to the conditions hereinafter provided.

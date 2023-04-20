@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 16— FEDERAL DEPOSIT INSURANCE CORPORATION
+#### § 1827. Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits
+##### (f) Report of audit
+
+A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assets and liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary of the Treasury, and to the Corporation at the time submitted to the Congress.

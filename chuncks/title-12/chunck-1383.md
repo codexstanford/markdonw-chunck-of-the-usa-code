@@ -1,0 +1,11 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715z–1. Rental and cooperative housing for lower income families
+##### (g) Collection of excess rental charges; credit to reserve for additional assistance payments; retention by project owner
+
+(1) The project owner shall, as required by the Secretary, accumulate, safeguard, and periodically pay the Secretary or such other entity as determined by the Secretary and upon such terms and conditions as the Secretary deems appropriate, all rental charges collected on a unit-by-unit basis in excess of the basic rental charges. Unless otherwise directed by the Secretary, such excess charges shall be credited to a reserve used by the Secretary to make additional assistance payments as provided in paragraph (3) of subsection (f).
+
+(2) Notwithstanding any other requirements of this subsection, a project owner may retain some or all of such excess charges for project use if authorized by the Secretary. Such excess charges shall be used for the project and upon terms and conditions established by the Secretary, unless the Secretary permits the owner to retain funds for non-project use after a determination that the project is well-maintained housing in good condition and that the owner has not engaged in material adverse financial or managerial actions or omissions as described in section 516 of the Multifamily Assisted Housing Reform and Affordability Act of 1997. In connection with the retention of funds for non-project use, the Secretary may require the project owner to enter into a binding commitment (which shall be applicable to any subsequent owner) to ensure that the owner will continue to operate the project in accordance with all low-income affordability restrictions for the project in connection with the Federal assistance for the project for a period having a duration of not less than the term of the existing affordability restrictions plus an additional 5 years.
+
+(3) The Secretary shall not withhold approval of the retention by the owner of such excess charges because of the existence of unpaid excess charges if such unpaid amount is being remitted to the Secretary over a period of time in accordance with a workout agreement with the Secretary, unless the Secretary determines that the owner is in violation of the workout agreement.

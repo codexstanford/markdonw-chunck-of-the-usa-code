@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 2— NATIONAL BANKS
+#### § 215. Consolidation of banks within same State
+##### (b) Liability of consolidated association; capital stock; dissenting shareholders
+
+The consolidated association shall be liable for all liabilities of the respective consolidating banks or associations. The capital stock of such consolidated association shall not be less than that required under existing law for the organization of a national bank in the place in which it is located: Provided , That if such consolidation shall be voted for at such meetings by the necessary majorities of the shareholders of each association and State bank proposing to consolidate, and thereafter the consolidation shall be approved by the Comptroller, any shareholder of any of the associations or State banks so consolidated who has voted against such consolidation at the meeting of the association or bank of which he is a stockholder, or who has given notice in writing at or prior to such meeting to the presiding officer that he dissents from the plan of consolidation, shall be entitled to receive the value of the shares so held by him when such consolidation is approved by the Comptroller upon written request made to the consolidated association at any time before thirty days after the date of consummation of the consolidation, accompanied by the surrender of his stock certificates.

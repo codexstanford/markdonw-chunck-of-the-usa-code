@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 32— FOREIGN BANK PARTICIPATION IN DOMESTIC MARKETS
+#### § 3102. Establishment of Federal branches and agencies by foreign bank
+##### (i) Termination of authority to operate Federal branch or agency
+
+Authority to operate a Federal branch or agency shall terminate when the parent foreign bank voluntarily relinquishes it or when such parent foreign bank is dissolved or its authority or existence is otherwise terminated or canceled in the country of its organization. If (1) at any time the Comptroller is of the opinion or has reasonable cause to believe that such foreign bank has violated or failed to comply with any of the provisions of this section or any of the rules, regulations, or orders of the Comptroller made pursuant to this section, or (2) a conservator is appointed for such foreign bank or a similar proceeding is initiated in the foreign bank’s country of organization, the Comptroller shall have the power, after opportunity for hearing, to revoke the foreign bank’s authority to operate a Federal branch or agency. The Comptroller may, in his discretion, deny such opportunity for hearing if he determines such denial to be in the public interest. The Comptroller may restore any such authority upon due proof of compliance with the provisions of this section and the rules, regulations, or orders of the Comptroller made pursuant to this section.

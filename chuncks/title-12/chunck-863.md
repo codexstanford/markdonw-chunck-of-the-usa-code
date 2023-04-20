@@ -1,0 +1,11 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 11A— FEDERAL HOME LOAN MORTGAGE CORPORATION
+#### § 1455. Obligations and securities of the Corporation
+##### (e) Authority to purchase, hold, or invest by person, trust, or organization
+
+(1) Any person, trust, or organization created pursuant to or existing under the laws of the United States or any State shall be authorized to purchase, hold, and invest in mortgages, obligations, or other securities which are or have been sold by the Corporation pursuant to this section or pursuant to section 1454 of this title to the same extent that such person, trust, or organization is authorized under any applicable law to purchase, hold, or invest in obligations issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality thereof. Where State law limits the purchase, holding, or investment in obligations issued by the United States by such a person, trust, or organization, such Corporation mortgages, obligations, and other securities shall be considered to be obligations issued by the United States for purposes of the limitation.
+
+(2) The provisions of paragraph (1) shall not apply with respect to a particular person, trust, or organization or class thereof in any State which, after December 21, 1979 , enacts a statute which specifically names the Corporation and either prohibits or provides for a more limited authority to purchase, hold, or invest in such securities by such person, trust, or organization or class thereof than is provided in paragraph (1). The enactment by any State of any statute of the type described in the preceding sentence shall not affect the validity of any contractual commitment to purchase, hold, or invest which was made prior thereto.
+
+(3) Any authority granted by paragraph (1) and not granted by any other Federal statute shall expire as of the end of June 30, 1985 . Such expiration shall not affect the validity of any contractual commitment to purchase, hold, or invest which was made prior thereto pursuant to paragraph (1), and shall not affect the validity of any contractual commitment or other action to purchase, hold, or invest pursuant to any other authorization.

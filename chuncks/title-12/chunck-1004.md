@@ -1,0 +1,13 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1701j–2. National Institute of Building Sciences
+##### (g) Technical findings and performance criteria and standards; applicability and use by Federal departments, agencies, and establishments, and State and local governments; supporting grants and contracts
+
+(1) Every department, agency, and establishment of the Federal Government, in carrying out any building or construction, or any building- or construction-related programs, which involves direct expenditures, and in developing technical requirements for any such building or construction, shall be encouraged to accept the technical findings of the Institute, or any nationally recognized performance criteria, standards, and other technical provisions for building regulations brought about by the Institute, which may be applicable.
+
+(2) All projects and programs involving Federal assistance in the form of loans, grants, guarantees, insurance, or technical aid, or in any other form, shall be encouraged to accept, use, and comply with any of the technical findings of the Institute, or any nationally recognized performance criteria, standards, and other technical provisions for building codes and other regulations brought about by the Institute, which may be applicable to the purposes for which the assistance is to be used.
+
+(3) Every department, agency, and establishment of the Federal Government having responsibility for building or construction, or for building- or construction-related programs, is authorized and encouraged to request authorization and appropriations for grants to the Institute for its general support, and is authorized to contract with and accept contracts from the Institute for specific services where deemed appropriate by the responsible Federal official involved.
+
+(4) The Institute shall establish and carry on a specific and continuing program of cooperation with the States and their political subdivisions designed to encourage their acceptance of its technical findings and of nationally recognized performance criteria, standards, and other technical provisions for building regulations brought about by the Institute. Such program shall include (A) efforts to encourage any changes in existing State and local law to utilize or embody such findings and regulatory provisions; and (B) assistance to States in the development of inservice training programs for building officials, and in the establishment of fully staffed and qualified State technical agencies to advise local officials on questions of technical interpretation.

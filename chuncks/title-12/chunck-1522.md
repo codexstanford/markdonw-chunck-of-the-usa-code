@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715z–18. Shared appreciation mortgages for multifamily housing
+##### (b) Payment of mortgagee’s share of net appreciated value; term of mortgage; repayment; “net appreciated value” defined
+
+The mortgagee’s share of a property’s net appreciated value shall be payable upon maturity or upon payment in full of the loan or sale or transfer (as defined by the Secretary) of the property, whichever occurs first. The term of the mortgage shall not be less than 15 years, and shall be repayable in equal monthly installments of principal and fixed interest during the mortgage term in an amount which would be sufficient to retire a debt with the same principal and fixed interest rate over a period not exceeding 30 years. In the case of a mortgage which will not be completely amortized during the mortgage term, the principal obligation of the mortgage may not exceed 85 percent of the estimated value of the property or project. For purposes of this section, the term “net appreciated value” means the amount by which the sales price of the property (less the mortgagor’s selling costs) exceeds the actual project cost after completion, as approved by the Secretary. If there has been no sale or transfer at the time the mortgagee’s share of net appreciated value becomes payable, the sales price for purposes of this section shall be determined by means of an appraisal conducted in accordance with procedures approved by the Secretary and provided for in the mortgage.

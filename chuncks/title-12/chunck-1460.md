@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 13— NATIONAL HOUSING
+#### § 1715z–9. Co-insurance of eligible mortgage, advance, or loan
+##### (i) 2 Annual review of, and assessment of compliance with, requirements; report; adjustment of requirements
+
+The Secretary shall, by January 15 and July 15 of each year (1) review the adequacy of capital and other requirements for mortgagees under this section, (2) assess the compliance by mortgagees with such requirements, and (3) make such adjustment to such requirements as the Secretary, after providing opportunity for hearing, determines to be appropriate to improve the long-term financial soundness of the Federal Housing Administration funds. Such requirements shall include the minimum capital or net worth of mortgagees; the ratio that mortgagees shall maintain between the mortgagee’s capital and the volume of mortgages co-insured by such mortgagee; and such other requirements as the Secretary determines to be appropriate to ensure the long-term financial soundness of the Federal Housing Administration funds. The Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report on the review and assessment under the previous sentence, and an explanation of the Secretary’s reasons for making any adjustment in requirements authorized under this section.

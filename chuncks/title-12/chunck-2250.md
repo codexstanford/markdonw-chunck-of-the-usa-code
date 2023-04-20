@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 16— FEDERAL DEPOSIT INSURANCE CORPORATION
+#### § 1825. Issuance of notes, debentures, bonds, and other obligations; exemptions
+##### (a) General rule
+
+All notes, debentures, bonds, or other such obligations issued by the Corporation shall be exempt, both as to principal and interest, from all taxation (except estate and inheritance taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority: Provided , That interest upon or any income from any such obligations and gain from the sale or other disposition of such obligations shall not have any exemption, as such, and loss from the sale or other disposition of such obligations shall not have any special treatment, as such, under the Internal Revenue Code, or laws amendatory or supplementary thereto. The Corporation, including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.

@@ -1,0 +1,7 @@
+
+# Title 12— BANKS AND BANKING
+### CHAPTER 16— FEDERAL DEPOSIT INSURANCE CORPORATION
+#### § 1818. Termination of status as insured depository institution
+##### (o) Termination of membership of State bank in Federal Reserve System
+
+Whenever the insured status of a State member bank shall be terminated by action of the Board of Directors, the Board of Governors of the Federal Reserve System shall terminate its membership in the Federal Reserve System in accordance with the provisions of subchapter VIII of chapter 3 of this title, and whenever the insured status of a national member bank shall be so terminated the Comptroller of the Currency shall appoint a receiver for the bank, which shall be the Corporation. Except as provided in subsection (c) or (d) of section 1814 of this title , whenever a member bank shall cease to be a member of the Federal Reserve System, its status as an insured depository institution shall, without notice or other action by the Board of Directors, terminate on the date the bank shall cease to be a member of the Federal Reserve System, with like effect as if its insured status had been terminated on said date by the Board of Directors after proceedings under subsection (a) of this section. Whenever the insured status of an insured Federal savings bank shall be terminated by action of the Board of Directors, the Comptroller of the Currency shall appoint a receiver for the bank, which shall be the Corporation.
