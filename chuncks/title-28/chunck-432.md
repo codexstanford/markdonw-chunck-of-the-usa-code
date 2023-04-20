@@ -1,0 +1,11 @@
+
+# Title 28— JUDICIARY AND JUDICIAL PROCEDURE
+### CHAPTER 43— UNITED STATES MAGISTRATE JUDGES
+#### § 633. Determination of number, locations, and salaries of magistrate judges
+###### (a) Surveys by the Director.
+
+(1) The Director shall, within one year immediately following the date of the enactment of the Federal Magistrates Act, make a careful survey of conditions in judicial districts to determine (A) the number of appointments of full-time magistrates and part-time magistrates required to be made under this chapter to provide for the expeditious and effective administration of justice, (B) the locations at which such officers shall serve, and (C) their respective salaries under section 634 of this title . Thereafter, the Director shall, from time to time, make such surveys, general or local, as the conference shall deem expedient.
+
+(2) In the course of any survey, the Director shall take into account local conditions in each judicial district, including the areas and the populations to be served, the transportation and communications facilities available, the amount and distribution of business of the type expected to arise before officers appointed under this chapter (including such matters as may be assigned under section 636(b) of this chapter), and any other material factors. The Director shall give consideration to suggestions from any interested parties, including district judges, United States magistrate judges or officers appointed under this chapter, United States attorneys, bar associations, and other parties having relevant experience or information.
+
+(3) The surveys shall be made with a view toward creating and maintaining a system of full-time United States magistrate judges. However, should the Director find, as a result of any such surveys, areas in which the employment of a full-time magistrate judge would not be feasible or desirable, he shall recommend the appointment of part-time United States magistrate judges in such numbers and at such locations as may be required to permit prompt and efficient issuance of process and to permit individuals charged with criminal offenses against the United States to be brought before a judicial officer of the United States promptly after arrest.
