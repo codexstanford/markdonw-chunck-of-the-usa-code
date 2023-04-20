@@ -1,0 +1,8 @@
+
+# Title 6— DOMESTIC SECURITY
+### CHAPTER 4— TRANSPORTATION SECURITY
+#### § 1172. Railroad security enhancements; Model State legislation
+
+Not later than November 2, 2007 , the Secretary of Transportation shall develop and make available to States model legislation to address the problem of entities that claim to be railroad carriers in order to establish and run a police force when the entities do not in fact provide railroad transportation. In developing the model State legislation the Secretary shall solicit the input of the States, railroads carriers, and railroad carrier employees. The Secretary shall review and, if necessary, revise such model State legislation periodically.
+
+Part C— Over-the-Road Bus and Trucking Security

@@ -1,0 +1,7 @@
+
+# Title 6— DOMESTIC SECURITY
+### CHAPTER 4— TRANSPORTATION SECURITY
+#### § 1143. Security background checks of covered individuals for public transportation
+##### (e) False statements
+
+A public transportation agency or a contractor or subcontractor of a public transportation agency may not knowingly misrepresent to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check. Not later than 1 year after August 3, 2007 , the Secretary shall issue a regulation that prohibits a public transportation agency or a contractor or subcontractor of a public transportation agency from knowingly misrepresenting to an employee or other relevant person, including an arbiter involved in a labor arbitration, the scope, application, or meaning of any rules, regulations, directives, or guidance issued by the Secretary related to security background check requirements for covered individuals when conducting a security background check.
