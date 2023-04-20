@@ -1,0 +1,6 @@
+
+# Title 25— INDIANS
+### CHAPTER 7— EDUCATION OF INDIANS
+#### § 293. Sale of lands purchased for day school or other Indian administrative uses
+
+Subject to applicable regulations under chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41 the Secretary of the Interior is authorized to cause to be sold, to the highest bidder, under such rules and regulations as he may prescribe any tract or part of a tract of land purchased by the United States for day school or other Indian administrative uses, not exceeding one hundred and sixty acres in any one tract, when said land or a part thereof is no longer needed for the original purpose; the proceeds therefrom in all cases to be paid into the Treasury of the United States; title to be evidenced by a patent in fee simple for such lands as can be described in terms of the legal survey, or by deed duly executed by the Secretary of the Interior containing such metes-and-bounds description as will identify the land so conveyed as the land which had been purchased: Provided , That where the purchase price was paid from tribal funds, the net proceeds shall be placed in the Treasury of the United States to the credit of the respective tribes of Indians.

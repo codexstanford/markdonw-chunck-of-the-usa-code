@@ -1,0 +1,6 @@
+
+# Title 25— INDIANS
+### CHAPTER 7— EDUCATION OF INDIANS
+#### § 291. Removal of Government property at schools
+
+Where there is Government property on hand at any of the Indian reservations or schools not required for the use or benefit of the Indians of reservations or said schools, the Secretary of the Interior is authorized to move such property to other Indian reservations or schools where it may be required.

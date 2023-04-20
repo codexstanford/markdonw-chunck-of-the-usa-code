@@ -1,0 +1,6 @@
+
+# Title 25— INDIANS
+### CHAPTER 18— INDIAN HEALTH CARE
+#### § 1616r. Repealed. Pub. L. 111–148, title X, § 10221(b)(2) , Mar. 23, 2010 , 124 Stat. 936
+
+SUBCHAPTER II— HEALTH SERVICES

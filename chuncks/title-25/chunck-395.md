@@ -1,0 +1,6 @@
+
+# Title 25— INDIANS
+### CHAPTER 12— LEASE, SALE, OR SURRENDER OF ALLOTTED OR UNALLOTTED LANDS
+#### § 415d. Lease of restricted lands under other laws unaffected
+
+Nothing contained in sections 415 to 415d of this title shall be construed to repeal any authority to lease restricted Indian lands conferred by or pursuant to any other provision of law.

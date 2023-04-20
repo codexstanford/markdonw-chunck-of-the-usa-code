@@ -1,0 +1,6 @@
+
+# Title 25— INDIANS
+### CHAPTER 9— ALLOTMENT OF INDIAN LANDS
+#### § 349. Patents in fee to allottees
+
+At the expiration of the trust period and when the lands have been conveyed to the Indians by patent in fee, as provided in section 348 of this title , then each and every allottee shall have the benefit of and be subject to the laws, both civil and criminal, of the State or Territory in which they may reside; and no Territory shall pass or enforce any law denying any such Indian within its jurisdiction the equal protection of the law: Provided , That the Secretary of the Interior may, in his discretion, and he is authorized, whenever he shall be satisfied that any Indian allottee is competent and capable of managing his or her affairs at any time to cause to be issued to such allottee a patent in fee simple, and thereafter all restrictions as to sale, incumbrance, or taxation of said land shall be removed and said land shall not be liable to the satisfaction of any debt contracted prior to the issuing of such patent: Provided further , That until the issuance of fee-simple patents all allottees to whom trust patents shall be issued shall be subject to the exclusive jurisdiction of the United States: And provided further , That the provisions of this Act shall not extend to any Indians in the former Indian Territory.

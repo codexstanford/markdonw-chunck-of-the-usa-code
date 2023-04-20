@@ -1,0 +1,6 @@
+
+# Title 25— INDIANS
+### CHAPTER 11— IRRIGATION OF ALLOTTED LANDS
+#### § 389c. Cancellation of charges in absence of lien or contract for payment
+
+Where irrigation assessments against any such lands remained unpaid at the time the Indian title to such lands became extinguished and no lien existed and attached to such lands for the payment of charges so assessed and no contract for the payment of such charges was entered into, the Secretary shall cancel all such charges.
