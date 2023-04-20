@@ -1,0 +1,8 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle A— Income Taxes
+### CHAPTER 1— NORMAL TAXES AND SURTAXES
+#### § 454. Obligations issued at discount
+##### (a) Non-interest-bearing obligations issued at a discount
+
+If, in the case of a taxpayer owning any non-interest-bearing obligation issued at a discount and redeemable for fixed amounts increasing at stated intervals or owning an obligation described in paragraph (2) of subsection (c), the increase in the redemption price of such obligation occurring in the taxable year does not (under the method of accounting used in computing his taxable income) constitute income to him in such year, such taxpayer may, at his election made in his return for any taxable year, treat such increase as income received in such taxable year. If any such election is made with respect to any such obligation, it shall apply also to all such obligations owned by the taxpayer at the beginning of the first taxable year to which it applies and to all such obligations thereafter acquired by him and shall be binding for all subsequent taxable years, unless on application by the taxpayer the Secretary permits him, subject to such conditions as the Secretary deems necessary, to change to a different method. In the case of any such obligations owned by the taxpayer at the beginning of the first taxable year to which his election applies, the increase in the redemption price of such obligations occurring between the date of acquisition (or, in the case of an obligation described in paragraph (2) of subsection (c), the date of acquisition of the series E bond involved) and the first day of such taxable year shall also be treated as income received in such taxable year.

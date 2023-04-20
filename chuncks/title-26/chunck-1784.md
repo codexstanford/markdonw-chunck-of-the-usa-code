@@ -1,0 +1,9 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle A— Income Taxes
+### CHAPTER 1— NORMAL TAXES AND SURTAXES
+#### [§ 425. Renumbered § 424]
+
+PART III— RULES RELATING TO MINIMUM FUNDING STANDARDS AND BENEFIT LIMITATIONS
+
+Subpart A— Minimum Funding Standards for Pension Plans

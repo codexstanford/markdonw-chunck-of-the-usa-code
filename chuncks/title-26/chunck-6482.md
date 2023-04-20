@@ -1,0 +1,14 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle F— Procedure and Administration
+### CHAPTER 68— ADDITIONS TO THE TAX, ADDITIONAL AMOUNTS, AND ASSESSABLE PENALTIES
+#### § 6651. Failure to file tax return or to pay tax
+##### (a) Addition to the tax
+
+In case of failure
+
+(1) to file any return required under authority of subchapter A of chapter 61 (other than part III thereof), subchapter A of chapter 51 (relating to distilled spirits, wines, and beer), or of subchapter A of chapter 52 (relating to tobacco, cigars, cigarettes, and cigarette papers and tubes), or of subchapter A of chapter 53 (relating to machine guns and certain other firearms), on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount required to be shown as tax on such return 5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate;
+
+(2) to pay the amount shown as tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
+
+(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate. In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $435 or 100 percent of the amount required to be shown as tax on such return.

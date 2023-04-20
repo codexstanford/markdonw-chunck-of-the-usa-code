@@ -1,0 +1,8 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle E— Alcohol, Tobacco, and Certain Other Excise Taxes
+### CHAPTER 52— TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES
+#### § 5732. Payment of tax
+##### (b) Computation
+
+All special taxes under this subchapter shall be imposed as of on the first day of July in each year, or on commencing any trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.

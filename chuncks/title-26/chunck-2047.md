@@ -1,0 +1,7 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle A— Income Taxes
+### CHAPTER 1— NORMAL TAXES AND SURTAXES
+#### § 482. Allocation of income and deductions among taxpayers
+
+In any case of two or more organizations, trades, or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, the Secretary may distribute, apportion, or allocate gross income, deductions, credits, or allowances between or among such organizations, trades, or businesses, if he determines that such distribution, apportionment, or allocation is necessary in order to prevent evasion of taxes or clearly to reflect the income of any of such organizations, trades, or businesses. In the case of any transfer (or license) of intangible property (within the meaning of section 367(d)(4)), the income with respect to such transfer or license shall be commensurate with the income attributable to the intangible. For purposes of this section, the Secretary shall require the valuation of transfers of intangible property (including intangible property transferred with other property or services) on an aggregate basis or the valuation of such a transfer on the basis of the realistic alternatives to such a transfer, if the Secretary determines that such basis is the most reliable means of valuation of such transfers.

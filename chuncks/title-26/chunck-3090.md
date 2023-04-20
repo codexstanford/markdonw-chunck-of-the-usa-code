@@ -1,0 +1,7 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle A— Income Taxes
+### CHAPTER 1— NORMAL TAXES AND SURTAXES
+#### [§ 1002. Repealed. Pub. L. 94–455, title XIX, § 1901(b)(28)(B)(i) , Oct. 4, 1976 , 90 Stat. 1799 ]
+
+PART II— BASIS RULES OF GENERAL APPLICATION

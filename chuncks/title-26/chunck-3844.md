@@ -1,0 +1,8 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle B— Estate and Gift Taxes
+### CHAPTER 11— ESTATE TAX
+#### § 2040. Joint interests
+##### (a) General rule
+
+The value of the gross estate shall include the value of all property to the extent of the interest therein held as joint tenants with right of survivorship by the decedent and any other person, or as tenants by the entirety by the decedent and spouse, or deposited, with any person carrying on the banking business, in their joint names and payable to either or the survivor, except such part thereof as may be shown to have originally belonged to such other person and never to have been received or acquired by the latter from the decedent for less than an adequate and full consideration in money or money’s worth: Provided , That where such property or any part thereof, or part of the consideration with which such property was acquired, is shown to have been at any time acquired by such other person from the decedent for less than an adequate and full consideration in money or money’s worth, there shall be excepted only such part of the value of such property as is proportionate to the consideration furnished by such other person: Provided further , That where any property has been acquired by gift, bequest, devise, or inheritance, as a tenancy by the entirety by the decedent and spouse, then to the extent of one-half of the value thereof, or, where so acquired by the decedent and any other person as joint tenants with right of survivorship and their interests are not otherwise specified or fixed by law, then to the extent of the value of a fractional part to be determined by dividing the value of the property by the number of joint tenants with right of survivorship.

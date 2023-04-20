@@ -1,0 +1,7 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle A— Income Taxes
+### CHAPTER 1— NORMAL TAXES AND SURTAXES
+#### [§ 1348. Repealed. Pub. L. 97–34, title I, § 101(c)(1) , Aug. 13, 1981 , 95 Stat. 183 ]
+
+PART VII— RECOVERIES OF FOREIGN EXPROPRIATION LOSSES

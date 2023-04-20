@@ -1,0 +1,8 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle F— Procedure and Administration
+### CHAPTER 61— INFORMATION AND RETURNS
+#### § 6104. Publicity of information required from certain exempt organizations and certain trusts
+##### (b) Inspection of annual returns
+
+The information required to be furnished by sections 6033, 6034, and 6058, together with the names and addresses of such organizations and trusts, shall be made available to the public at such times and in such places as the Secretary may prescribe. Nothing in this subsection shall authorize the Secretary to disclose the name or address of any contributor to any organization or trust (other than a private foundation, as defined in section 509(a) or a political organization exempt from taxation under section 527) which is required to furnish such information. In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization. In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c). Any annual return which is filed under section 6011 by an organization described in section 501(c)(3) and which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) shall be treated for purposes of this subsection in the same manner as if furnished under section 6033. Any annual return required to be filed electronically under section 6033(n) shall be made available by the Secretary to the public as soon as practicable in a machine readable format.

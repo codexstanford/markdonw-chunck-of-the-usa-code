@@ -1,0 +1,36 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle A— Income Taxes
+### CHAPTER 1— NORMAL TAXES AND SURTAXES
+#### § 186. Recoveries of damages for antitrust violations, etc.
+##### (d) Unrecovered losses
+
+(1) In general
+
+For purposes of this section, the amount of any unrecovered loss sustained as a result of any compensable injury is
+
+(A) the sum of the amount of the net operating losses (as determined under section 172) for each taxable year in whole or in part within the injury period, to the extent that such net operating losses are attributable to such compensable injury, reduced by
+
+(B) the sum of
+
+(i) the amount of the net operating losses described in subparagraph (A) which were allowed for any prior taxable year as a deduction under section 172 as a net operating loss carryback or carryover to such taxable year, and
+
+(ii) the amounts allowed as a deduction under subsection (a) for any prior taxable year for prior recoveries of compensatory amounts for such compensable injury.
+
+(2) Injury period
+
+For purposes of paragraph (1), the injury period is
+
+(A) with respect to any infringement of a patent, the period in which such infringement occurred,
+
+(B) with respect to a breach of contract or breach of fiduciary duty or relationship, the period during which amounts would have been received or accrued but for the breach of contract or breach of fiduciary duty or relationship, and
+
+(C) with respect to injuries sustained by reason of any conduct forbidden in the antitrust laws, the period in which such injuries were sustained.
+
+(3) Net operating losses attributable to compensable injuries
+
+For purposes of paragraph (1)
+
+(A) a net operating loss for any taxable year shall be treated as attributable to a compensable injury to the extent of the compensable injury sustained during such taxable year, and
+
+(B) if only a portion of a net operating loss for any taxable year is attributable to a compensable injury, such portion shall (in applying section 172 for purposes of this section) be considered to be a separate net operating loss for such year to be applied after the other portion of such net operating loss.

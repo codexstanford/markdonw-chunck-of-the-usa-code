@@ -1,0 +1,44 @@
+
+# Title 26— INTERNAL REVENUE CODE
+## Subtitle K— Group Health Plan Requirements
+### CHAPTER 100— GROUP HEALTH PLAN REQUIREMENTS
+#### § 9801. Increased portability through limitation on preexisting condition exclusions
+##### (e) Certifications and disclosure of coverage
+
+(1) Requirement for certification of period of creditable coverage
+
+(A) In general
+
+A group health plan shall provide the certification described in subparagraph (B)
+
+(i) at the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision,
+
+(ii) in the case of an individual becoming covered under such a provision, at the time the individual ceases to be covered under such provision, and
+
+(iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later. The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
+
+(B) Certification
+
+The certification described in this subparagraph is a written certification of
+
+(i) the period of creditable coverage of the individual under such plan and the coverage under such COBRA continuation provision, and
+
+(ii) the waiting period (if any) (and affiliation period, if applicable) imposed with respect to the individual for any coverage under such plan.
+
+(C) Issuer compliance
+
+To the extent that medical care under a group health plan consists of health insurance coverage offered in connection with the plan, the plan is deemed to have satisfied the certification requirement under this paragraph if the issuer provides for such certification in accordance with this paragraph.
+
+(2) Disclosure of information on previous benefits
+
+(A) In general
+
+In the case of an election described in subsection (c)(3)(B) by a group health plan, if the plan enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)
+
+(i) upon request of such plan, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan information on coverage of classes and categories of health benefits available under such entity’s plan, and
+
+(ii) such entity may charge the requesting plan or issuer for the reasonable cost of disclosing such information.
+
+(3) Regulations
+
+The Secretary shall establish rules to prevent an entity’s failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
