@@ -1,0 +1,7 @@
+
+# Title 17— COPYRIGHTS
+### CHAPTER 15— COPYRIGHT SMALL CLAIMS
+#### § 1508. Review and confirmation by district court
+###### (a) In General .
+
+In any proceeding in which a party has failed to pay damages, or has failed otherwise to comply with the relief, awarded in a final determination of the Copyright Claims Board, including a default determination or a determination based on a failure to prosecute, the aggrieved party may, not later than 1 year after the date on which the final determination is issued, any reconsideration by the Copyright Claims Board or review by the Register of Copyrights is resolved, or an amended final determination is issued, whichever occurs last, apply to the United States District Court for the District of Columbia or any other appropriate district court of the United States for an order confirming the relief awarded in the final determination and reducing such award to judgment. The court shall grant such order and direct entry of judgment unless the determination is or has been vacated, modified, or corrected under subsection (c). If the United States District Court for the District of Columbia or other district court of the United States, as the case may be, issues an order confirming the relief awarded by the Copyright Claims Board, the court shall impose on the party who failed to pay damages or otherwise comply with the relief, the reasonable expenses required to secure such order, including attorneys’ fees, that were incurred by the aggrieved party.
