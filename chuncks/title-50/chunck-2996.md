@@ -1,0 +1,9 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 53— TRADING WITH THE ENEMY
+#### § 4322. Investments by Custodian in participating certificates issued by Secretary of the Treasury; transfers to and payments from German, Austrian or Hungarian special deposit accounts; allocation of payments
+##### (a) Authority to invest; limitation on amount; credit against investment
+
+(1) The Alien Property Custodian is authorized and directed to invest, from time to time upon the request of the Secretary of the Treasury, out of the funds held by the Alien Property Custodian or by the Treasurer of the United States for the Alien Property Custodian, an amount not to exceed $40,000,000 in the aggregate, in one or more participating certificates issued by the Secretary of the Treasury in accordance with the provisions of this section.
+
+(2) When in the case of any trust written consent under subsection (m) of section 4309 of this title has been filed, an amount equal to the portion of such trust the return of which is temporarily postponed under such subsection shall be credited against the investment made under paragraph (1) of this subsection. If the total amount so credited is in excess of the amount invested under paragraph (1) of this subsection, the excess shall be invested by the Alien Property Custodian in accordance with the provisions of this subsection, without regard to the $40,000,000 limitation in paragraph (1). If the amount invested under paragraph (1) of this subsection is in excess of the total amount so credited, such excess shall, from time to time on request of the Alien Property Custodian, be paid to him out of the funds in the German special deposit account created by section 4 of the Settlement of War Claims Act of 1928, and such payments shall have priority over any payments therefrom other than the payments under paragraph (1) of subsection (c) of such section (relating to expenses of administration).

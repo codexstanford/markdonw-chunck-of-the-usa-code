@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 55— DEFENSE PRODUCTION
+#### § 4564. Termination of chapter
+##### (d) Conditions on recovery of certain cooperative payments
+
+No action for the recovery of any cooperative payment made to a cooperative association by a Market Administrator under an invalid provision of a milk marketing order issued by the Secretary of Agriculture pursuant to the Agricultural Marketing Agreement Act of 1937 [ 7 U.S.C. 671 et seq.] shall be maintained unless such action is brought by producers specifically named as party plaintiffs to recover their respective share of such payments within ninety days after June 30, 1952 , with respect to any cause of action heretofore accrued and not otherwise barred, or within ninety days after accrual with respect to future payments, and unless each claimant shall allege and prove (1) that he objected at the hearing to the provisions of the order under which such payments were made and (2) that he either refused to accept payments computed with such deduction or accepted them under protest to either the Secretary or the Administrator. The district courts of the United States shall have exclusive original jurisdiction of all such actions regardless of the amount involved. This subsection shall not apply to funds held in escrow pursuant to court order. Notwithstanding any other provision of this chapter, no termination date shall be applicable to this subsection.

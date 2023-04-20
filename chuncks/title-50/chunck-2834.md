@@ -1,0 +1,6 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 51— WAR CLAIMS
+#### § 4109. Hearings on claims; finality of decision
+
+The Commission shall notify all claimants of the approval or denial of their claims, and, if approved, shall notify such claimants of the amount for which such claims are approved. Any claimant whose claim is denied, or is approved for less than the full allowable amount of such claim, shall be entitled, under such regulations as the Commission may prescribe, to a hearing before the Commission or its representatives with respect to such claim. Upon such hearing, the Commission may affirm, modify, or revise its former action with respect to such claim, including a denial or reduction in the amount theretofore allowed with respect to such claim. The action of the Commission in allowing or denying any claim under this subchapter shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General is authorized and directed to allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.

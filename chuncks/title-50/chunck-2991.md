@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 53— TRADING WITH THE ENEMY
+#### § 4321. Payment of taxes and expenses by Alien Property Custodian
+##### (b) Income, war-profits, excess-profits, or estate taxes; computation of amount; payment
+
+In the case of income, war-profits, excess-profits, or estate taxes imposed by any Act of Congress, the amount thereof shall, under regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury, be computed in the same manner (except as hereinafter in this section provided) as though the money or other property had not been seized by or paid to the Alien Property Custodian, and shall be paid, as far as practicable, in accordance with subsection (a) of this section. Pending final determination of the tax liability the Alien Property Custodian is authorized to return, in accordance with the provisions of this chapter, money or other property in any trust in such amounts as may be determined, under regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury, to be consistent with the prompt payment of the full amount of the internal-revenue taxes. Notwithstanding the expiration of any period of limitation provided by law, credit or refund of any income, war-profits, or excess-profits tax erroneously or illegally assessed or collected may be made or allowed if claim therefor was filed with the Commissioner of Internal Revenue by the Alien Property Custodian on or before February 15, 1933 .

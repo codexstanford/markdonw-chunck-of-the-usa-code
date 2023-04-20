@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 53— TRADING WITH THE ENEMY
+#### § 4309. Claims to property transferred to custodian; notice of claim; filing; return of property; suits to recover; sale of claimed property in time of war or during national emergency
+##### (d) Claims of deceased individuals for return of property not requiring filing of written consent
+
+Whenever an individual, deceased, would have been entitled, if living, to the return of any money or other property without filing the written consent provided for in subsection (m), then his legal representative may proceed for the return of such money or other property in the same manner as such individual might proceed if living, and such money or other property may be returned to such legal representative without requiring the appointment of an administrator, or an ancillary administrator, by a court in the United States, or to any such ancillary administrator, for distribution directly to the persons entitled thereto. Return in accordance with the provisions of this subsection may be made in any case where an application or court proceeding by any legal representative, under the provisions of this subsection before its amendment by the Settlement of War Claims Act of 1928 is pending and undetermined at the time of the enactment of such Act. All bonds or other security given under the provisions of this subsection before such amendment shall be canceled or released and all sureties thereon discharged.

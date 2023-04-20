@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 53— TRADING WITH THE ENEMY
+#### § 4340. Divestment of trademarks
+##### (d) Publication of ownership list in Federal Register; effective date of divestment; succession to ownership of equivalent trademarks
+
+The Attorney General shall within forty-five days after October 23, 1962 , publish in the Federal Register a list of trademarks which at the date of vesting in the Alien Property Custodian or Attorney General were owned by persons who were resident in or had their sole or primary seat in the area of Germany now in the Soviet Zone of Occupation or in the Soviet sector of Berlin or in German territory under provisional Soviet or Polish administration. Notwithstanding the provisions of subsection (b) of this section, the effective date of divestment of the trademarks so listed and published in the Federal Register shall be the date of publication in the Federal Register by the Secretary of State of a certification identifying the cases in which an equivalent trademark has been registered in the Federal Republic of Germany for a person residing or having its sole or primary seat in the Federal Republic of Germany or in the western sectors of Berlin. In those cases of an equivalent trademark certified by the Secretary of State, the person registered by the Federal Republic of Germany as owner of such equivalent trademark shall succeed to the ownership of the divested trademark in the United States.

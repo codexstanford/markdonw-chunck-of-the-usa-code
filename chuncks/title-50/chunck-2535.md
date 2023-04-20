@@ -1,0 +1,15 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 49— MILITARY SELECTIVE SERVICE
+#### § 3803. Persons liable for training and service
+##### (c) Opportunity to enlist in Regular Army; voluntary induction; volunteers under 18 years old
+
+(1) Under the provisions of applicable laws and regulations any person between the ages of eighteen years and six months and twenty-six years shall be offered an opportunity to enlist in the regular army for a period of service equal to that prescribed in subsection (b) of this section: Provided , That, notwithstanding the provisions of this or any other Act, any person so enlisting shall not have his enlistment extended without his consent until after a declaration of war or national emergency by the Congress after June 19, 1951 .
+
+(2) Any enlisted member of any reserve component of the Armed Forces may, during the effective period of this Act, apply for a period of service equal to that prescribed in subsection (b) of this section and his application shall be accepted: Provided , That his services can be effectively utilized and that his physical and mental fitness for such service meet the standards prescribed by the head of the department concerned: Provided further , That active service performed pursuant to this section shall not prejudice his status as such member of such reserve component: And provided further , That any person who was a member of a reserve component on June 25, 1950 , and who thereafter continued to serve satisfactorily in such reserve component, shall, if his application for active duty made pursuant to this paragraph is denied, be deferred from induction under this chapter until such time as he is ordered to active duty or ceases to serve satisfactorily in such reserve component.
+
+(3) Within the limits of the quota determined under section 3805(b) of this title for the subdivision in which he resides, any person, between the ages of eighteen and twenty-six, shall be afforded an opportunity to volunteer for induction into the Armed Forces of the United States for the training and service prescribed in subsection (b), but no person who so volunteers shall be inducted for such training and service so long as he is deferred after classification.
+
+(4) Within the limits of the quota determined under section 3805(b) of this title for the subdivision in which he resides, any person after attaining the age of seventeen shall with the written consent of his parents or guardian be afforded an opportunity to volunteer for induction into the Armed Forces of the United States for the training and service prescribed in subsection (b).
+
+(5) Within the limits of the quota determined under section 3805(b) of this title for the subdivision in which he resides, at such time as induction into the National Security Training Corps is authorized pursuant to the provisions of this chapter, any person after attaining the age of seventeen shall with the written consent of his parents or guardian be afforded an opportunity to volunteer for induction into the National Security Training Corps for the training prescribed in subsection (k).

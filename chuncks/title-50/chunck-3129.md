@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 55— DEFENSE PRODUCTION
+#### § 4558. Voluntary agreements and plans of action for preparedness programs and expansion of production capacity and supply
+##### (m) Jurisdiction to enjoin statutory exemption or suspension and order for production of transcripts, etc.; procedures
+
+On complaint, the United States District Court for the District of Columbia shall have jurisdiction to enjoin any exemption or suspension pursuant to subsections (d)(2), (e)(3)(D) and (G), and (h)(3), (7), and (8), and to order the production of transcripts, agreements, items, or other records maintained pursuant to this section by the Attorney General, the Federal Trade Commission or any individual designated under subsection (c)(2), where the court determines that such transcripts, agreements, items, or other records have been improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such transcripts, agreements, items, or other records in camera to determine whether such transcripts, agreements, items, or other records or any parts thereof shall be withheld under any of the exemption or suspension provisions referred to in this subsection, and the burden is on the Attorney General, the Federal Trade Commission, or such designated individual, as the case may be, to sustain its action.

@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 5— ARSENALS, ARMORIES, ARMS, AND WAR MATERIAL GENERALLY
+#### § 100. Nitrate plants
+##### (a) Investigations; designation of sites; construction and operation of dams, locks, improvements to navigation, etc.
+
+The President of the United States may make, or cause to be made, such investigation as in his judgment is necessary to determine the best, cheapest, and most available means for the production of nitrates and other products for munitions of war and useful in the manufacture of fertilizers and other useful products by water power or any other power as in his judgment is the best and cheapest to use; and is also authorized to designate for the exclusive use of the United States, if in his judgment such means is best and cheapest, such site or sites, upon any navigable or nonnavigable river or rivers or upon the public lands, as in his opinion will be necessary for national defense; and is further authorized to construct, maintain, and operate, at or on any site or sites so designated, dams, locks, improvements to navigation, power houses, and other plants and equipment or other means than water power as in his judgment is the best and cheapest, necessary or convenient for the generation of electrical or other power and for the production of nitrates or other products needed for munitions of war and useful in the manufacture of fertilizers and other useful products.

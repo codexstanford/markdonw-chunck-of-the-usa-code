@@ -1,0 +1,8 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 53— TRADING WITH THE ENEMY
+#### § 4314. False manifest; refusal of clearance; reports of gold or silver coin in cargoes for export
+
+During the present war, whenever there is reasonable cause to believe that the manifest or the additional statements under oath required by section 4313 of this title are false or that any vessel, domestic or foreign, is about to carry out of the United States any property to or for the account or benefit of an enemy, or ally of enemy, or any property or person whose export, taking out, or transport will be in violation of law, the collector of customs for the district in which such vessel is located is authorized and empowered subject to review by the President to refuse clearance to any such vessel, domestic or foreign, for which clearance is required by law, and by formal notice served upon the owners, master, or person or persons in command or charge of any domestic vessel for which clearance is not required by law, to forbid the departure of such vessel from the port, and it shall thereupon be unlawful for such vessel to depart.
+
+The collector of customs shall, during the present war, in each case report to the President the amount of gold or silver coin or bullion or other moneys of the United States contained in any cargo intended for export. Such report shall include the names and addresses of the consignors and consignees, together with any facts known to the collector with reference to such shipment and particularly those which may indicate that such gold or silver coin or bullion or moneys of the United States may be intended for delivery or may be delivered, directly or indirectly, to an enemy or an ally of enemy.

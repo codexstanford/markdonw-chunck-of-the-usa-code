@@ -1,0 +1,6 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 51— WAR CLAIMS
+#### § 4108. Fee limitation for representing claimants; penalties
+
+No remuneration on account of services rendered or to be rendered to or on behalf of any claimant in connection with any claim filed with the administering agency under this subchapter shall exceed 10 per centum (or such lesser per centum as may be fixed by the administering agency with respect to any class of claims) of the amount allowed by the administering agency on account of such claim. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, pays or offers to pay, or promises, to pay, or receives, on account of services rendered or to be rendered in connection with any such claim, any remuneration in excess of the maximum permitted by this section, shall be deemed guilty of a misdemeanor, and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both, and, if any such payment shall have been made or granted, the administering agency shall take such action as may be necessary to recover the same, and, in addition thereto any such claimant shall forfeit all rights under this subchapter.

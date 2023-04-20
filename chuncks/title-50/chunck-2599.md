@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 49— MILITARY SELECTIVE SERVICE
+#### § 3816. Utilization of industry
+##### (h) Rules and regulations governing steel industry; mandatory
+
+The President is empowered, through the Secretary of Defense, to require all producers of steel in the United States to make available, to individuals, firms, associations, companies, corporations, or organized manufacturing industries having orders for steel products or steel materials required by the armed forces, such percentages of the steel production of such producers, in equal proportion deemed necessary for the expeditious execution of orders for such products or materials. Compliance with such requirement shall be obligatory on all such producers of steel and such requirement shall take precedence over all orders and contracts theretofore placed with such producers. If any such producer of steel or the responsible head or heads thereof refuses to comply with such requirement, the President, through the Secretary of Defense, is authorized to take immediate possession of the plant or plants of such producer and, through the appropriate branch, bureau, or department of the armed forces, to insure compliance with such requirement. Any such producer of steel or the responsible head or heads thereof refusing to comply with such requirement shall be deemed guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than three years and a fine not exceeding $50,000.

@@ -1,0 +1,7 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 53— TRADING WITH THE ENEMY
+#### § 4340. Divestment of trademarks
+##### (b) Effective date of divestment; rights of licensees; transfer of interests; payment of royalties to Attorney General
+
+Trademarks vested in the Alien Property Custodian or the Attorney General under the provisions of this chapter subsequent to December 17, 1941 , which have not been returned or otherwise disposed of under this chapter, except trademarks vested by vesting orders 284, as amended (7 Fed. Reg. 9754, 9 Fed. Reg. 1038), 2354 (8 Fed. Reg. 14635), 5592 (11 Fed. Reg. 1675), and 18805 (17 Fed. Reg. 4364), are hereby divested as a matter of grace, effective the ninety-first day after October 23, 1962 , and the persons entitled to such trademarks shall on that day succeed to the rights, privileges, and obligations arising therefrom, subject, however, to the rights of licensees under licenses issued by the Alien Property Custodian or the Attorney General in respect to such trademarks. The rights and interests remaining in the Attorney General under licenses issued by him or by the Alien Property Custodian in respect to trademarks divested hereunder are transferred, effective the day of divestment, to the persons entitled to such trademarks: Provided , That all unpaid royalties or other income accrued in favor of the Attorney General under such licenses prior to the day of divestment shall be paid by the licensees to the Attorney General.

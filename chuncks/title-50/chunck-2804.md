@@ -1,0 +1,13 @@
+
+# Title 50— WAR AND NATIONAL DEFENSE
+### CHAPTER 51— WAR CLAIMS
+#### § 4101. Foreign Claims Settlement Commission of the United States
+##### (c) Subpenas; issuance; contempt; witness fees; administration of oaths
+
+(1) For the purpose of any hearing, examination, or investigation under this subchapter, the Commission and those employees designated by the Commission shall have the power to issue subpenas requiring persons to appear and testify or to appear and produce documents, or both, at any designated place where such hearing, examination, or investigation is being held. The Commission or any employee so designated shall, upon application of a claimant, issue to such claimant subpenas requiring the attendance and testimony of witnesses or the production of documents, or both, required by such claimant in hearings upon his claim: Provided , That the claimant making such application pay the witness fees and mileage of any witness or witnesses subpenaed upon his request. The production of a person’s documents at any place other than his place of business shall not be required, however, in any case in which, prior to the return date specified in the subpena with respect thereto, such person either has furnished the issuer of the subpena with a copy of such documents (certified by such person under oath to be a true and correct copy) or has entered into a stipulation with the issuer of the subpena as to the information contained in such documents.
+
+(2) The Commission may, in case of a failure or refusal on the part of any person to comply with any such subpena, invoke the aid of any United States district court within the jurisdiction of which the hearing, examination, or investigation is being conducted, or such person resides or transacts business. Such court may issue an order requiring such person to appear at the designated place of hearing, examination, or investigation, there to give or produce testimony or documentary evidence concerning the matter in question. Any failure to obey such order of the court shall be punishable by such court as a contempt thereof. All process in any such case may be served in the judicial district wherein such person resides or transacts business or wherever such person may be found.
+
+(3) Witnesses subpenaed under this subsection shall be paid the same fees and mileage that are allowed and paid witnesses in United States district courts.
+
+(4) Any member of the Commission, and any employee of the Commission authorized by the Commission to do so, may administer to, or take from, any person an oath, affirmation, or affidavit when such action is necessary or appropriate in the performance of the functions or activities of the Commission.
