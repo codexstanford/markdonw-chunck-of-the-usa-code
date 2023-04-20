@@ -1,0 +1,8 @@
+
+# Title 52— VOTING AND ELECTIONS
+## Subtitle I— Voting Rights
+### CHAPTER 103— ENFORCEMENT OF VOTING RIGHTS
+#### § 10302. Proceeding to enforce the right to vote
+##### (a) Authorization by court for appointment of Federal observers
+
+Whenever the Attorney General or an aggrieved person institutes a proceeding under any statute to enforce the voting guarantees of the fourteenth or fifteenth amendment in any State or political subdivision the court shall authorize the appointment of Federal observers by the Director of the Office of Personnel Management in accordance with section 1973d  1 of title 42 to serve for such period of time and for such political subdivisions as the court shall determine is appropriate to enforce the voting guarantees of the fourteenth or fifteenth amendment (1) as part of any interlocutory order if the court determines that the appointment of such observers is necessary to enforce such voting guarantees or (2) as part of any final judgment if the court finds that violations of the fourteenth or fifteenth amendment justifying equitable relief have occurred in such State or subdivision: Provided , That the court need not authorize the appointment of observers if any incidents of denial or abridgement of the right to vote on account of race or color, or in contravention of the voting guarantees set forth in section 10303(f)(2) of this title (1) have been few in number and have been promptly and effectively corrected by State or local action, (2) the continuing effect of such incidents has been eliminated, and (3) there is no reasonable probability of their recurrence in the future.
