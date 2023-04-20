@@ -1,0 +1,7 @@
+
+# Title 47— TELECOMMUNICATIONS
+### CHAPTER 5— WIRE OR RADIO COMMUNICATION
+#### § 213. Valuation of property of carrier
+##### (c) Original cost
+
+The Commission may at any time require any such carrier to file with the Commission a statement showing the original cost at the time of dedication to the public use of all or of any part of the property owned or used by said carrier. For the showing of such original cost said property shall be classified, and the original cost shall be defined, in such manner as the Commission may prescribe; and if any part of such cost cannot be determined from accounting or other records, the portion of the property for which such cost cannot be determined shall be reported to the Commission; and, if the Commission shall so direct, the original cost thereof shall be estimated in such manner as the Commission may prescribe. If the carrier owning the property at the time such original cost is reported shall have paid more or less than the original cost to acquire the same, the amount of such cost of acquisition, and any facts which the Commission may require in connection therewith, shall be reported with such original cost. The report made by a carrier under this subsection shall show the source or sources from which the original cost reported was obtained, and such other information as to the manner in which the report was prepared, as the Commission shall require.

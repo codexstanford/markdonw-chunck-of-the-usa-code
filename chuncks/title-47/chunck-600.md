@@ -1,0 +1,9 @@
+
+# Title 47— TELECOMMUNICATIONS
+### CHAPTER 5— WIRE OR RADIO COMMUNICATION
+#### § 396. Corporation for Public Broadcasting
+##### (e) Officers and employees; term of office, compensation, qualifications, and removal; political party affiliation, political test or qualification when taking personnel actions
+
+(1) The Corporation shall have a President, and such other officers as may be named and appointed by the Board for terms and at rates of compensation fixed by the Board. No officer or employee of the Corporation may be compensated by the Corporation at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5 . No individual other than a citizen of the United States may be an officer of the Corporation. No officer of the Corporation, other than the Chairman or a Vice Chairman, may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of his or her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall be subject to annual advance approval by the Board and subject to the provisions of the Corporation’s Statement of Ethical Conduct. All officers shall serve at the pleasure of the Board.
+
+(2) Except as provided in the second sentence of subsection (c)(1) of this section, no political test or qualification shall be used in selecting, appointing, promoting, or taking other personnel actions with respect to officers, agents, and employees of the Corporation.

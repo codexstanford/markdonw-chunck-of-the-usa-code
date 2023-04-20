@@ -1,0 +1,6 @@
+
+# Title 47— TELECOMMUNICATIONS
+### CHAPTER 5— WIRE OR RADIO COMMUNICATION
+#### § 404. Reports of investigations
+
+Whenever an investigation shall be made by the Commission it shall be its duty to make a report in writing in respect thereto, which shall state the conclusions of the Commission, together with its decision, order, or requirement in the premises; and in case damages are awarded such report shall include the findings of fact on which the award is made.

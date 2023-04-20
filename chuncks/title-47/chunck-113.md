@@ -1,0 +1,7 @@
+
+# Title 47— TELECOMMUNICATIONS
+### CHAPTER 5— WIRE OR RADIO COMMUNICATION
+#### § 213. Valuation of property of carrier
+##### (f) Additional information; access to records and data
+
+For the purpose of enabling the Commission to make a valuation of any of the property of any such carrier, or to find the original cost of such property, or to find any other facts concerning the same which are required for use by the Commission, it shall be the duty of each such carrier to furnish to the Commission, within such reasonable time as the Commission may order, any information with respect thereto which the Commission may by order require, including copies of maps, contracts, reports of engineers, and other data, records, and papers, and to grant to all agents of the Commission free access to its property and its accounts, records, and memoranda whenever and wherever requested by any such duly authorized agent, and to cooperate with and aid the Commission in the work of making any such valuation or finding in such manner and to such extent as the Commission may require and direct, and all rules and regulations made by the Commission for the purpose of administering this section shall have the full force and effect of law. Unless otherwise ordered by the Commission, with the reasons therefor, the records and data of the Commission shall be open to the inspection and examination of the public. The Commission, in making any such valuation, shall be free to adopt any method of valuation which shall be lawful.
