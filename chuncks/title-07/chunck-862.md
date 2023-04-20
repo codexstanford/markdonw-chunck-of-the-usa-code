@@ -1,0 +1,17 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 13— AGRICULTURAL AND MECHANICAL COLLEGES
+#### § 309. Land grants in the State of North Dakota
+##### (b) Disposition of proceeds
+
+Notwithstanding section 304 of this title , the State of North Dakota shall, with respect to any trust fund in which proceeds from the sale of land under this subchapter are deposited (referred to in this section as the “trust fund”)
+
+(1) deposit all revenues earned by a trust fund into the trust fund;
+
+(2) deduct the costs of administering a trust fund from each trust fund; and
+
+(3) manage each trust fund to
+
+(A) preserve the purchasing power of the trust fund; and
+
+(B) maintain stable distributions to trust fund beneficiaries.

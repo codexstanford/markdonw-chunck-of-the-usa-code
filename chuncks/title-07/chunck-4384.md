@@ -1,0 +1,13 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 71— AGRICULTURAL TRADE SUSPENSION ADJUSTMENT
+#### § 4001. Trade suspension reserves
+##### (c) Acquisition of suitable agricultural commodities; payment of transportation and storage costs; disposition of acquired commodities
+
+(1) To establish a gasohol feedstock reserve under this section, the Secretary of Agriculture may acquire agricultural commodities (the export of which is suspended or restricted as described in subsection (a) of this section) that are suitable for use in the production of alcohol for motor fuel through purchases from producers or in the market and by designation by the Secretary of stocks of the commodities held by the Commodity Credit Corporation, and to pay such storage, transportation, and related costs as may be necessary to permit maintenance of the commodities in the reserve for the purposes of this section and disposition of the commodities as provided in paragraph (2) of this subsection.
+
+(2) The Secretary of Agriculture may dispose of stocks of agricultural commodities acquired under paragraph (1) of this subsection only through sale
+
+(A) for use in the production of alcohol for motor fuel, at not less than the fuel conversion price (as defined in section 4005 of this title ) for the commodity involved: Provided , That, for wheat and feed grains, if the fuel conversion price for the commodity involved is less than the then current release price at which producers may repay producer storage loans on the commodity and redeem the commodity prior to the maturity dates of the loans, as determined under clause (5) of the third sentence of section 1445e(b)  1 of this title, the Secretary may dispose of stocks of the commodity for such use only through sale at not less than the release price: Provided further , That such sales shall only be made to persons for use in the production of alcohol for motor fuel at facilities that, whenever supplies of the commodity are not readily available, can produce alcohol from other agricultural or forestry biomass feedstocks; or
+
+(B) for any other use, when sales for use under clause (A) of this paragraph are impracticable, (i) if there is a producer storage program in effect for the commodity, at not less than 110 per centum of the then current level at which the Secretary may encourage repayment of producer storage loans on the commodity prior to the maturity dates of the loans, as determined under clause (5) of the third sentence of section 1445e(b)  1 of this title, or, (ii) if there is no producer storage program in effect for the commodity, at not less than the average market price producers received for the commodity at the time the trade suspension was imposed.

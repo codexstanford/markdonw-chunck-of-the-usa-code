@@ -1,0 +1,6 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 3— GRAIN STANDARDS
+#### § 74. Congressional findings and declaration of policy
+
+(a) Grain is an essential source of the world’s total supply of human food and animal feed and is merchandised in interstate and foreign commerce. It is declared to be the policy of the Congress, for the promotion and protection of such commerce in the interests of producers, merchandisers, warehousemen, processors, and consumers of grain, and the general welfare of the people of the United States, to provide for the establishment of official United States standards for grain, to promote the uniform application thereof by official inspection personnel, to provide for an official inspection system for grain, and to regulate the weighing and the certification of the weight of grain shipped in interstate or foreign commerce in the manner hereinafter provided; with the objectives that grain may be marketed in an orderly and timely manner and that trading in grain may be facilitated. It is hereby found that all grain and other articles and transactions in grain regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce and that regulation thereof as provided in this chapter is necessary to prevent or eliminate burdens on such commerce and to regulate effectively such commerce.

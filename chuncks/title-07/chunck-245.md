@@ -1,0 +1,17 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 1— COMMODITY EXCHANGES
+#### § 25. Private rights of action
+##### (b) Liabilities of organizations and individuals; bad faith requirement; exclusive remedy
+
+(1)
+
+(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by section 7, 7a–1, 7a–2, 7b–3, or 24a of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person’s actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
+
+(2) A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person’s actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
+
+(3) Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered  2 entity or a registered futures association willfully aids, abets, counsels, induces, or procures any failure by any such entity to enforce (or any violation of the chapter in enforcing) any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, shall be liable for actual damages sustained by a person who engaged in any transaction specified in subsection (a) of this section on, or subject to the rules of, such registered entity or, in the case of an officer, director, governor, committee member, or employee of a registered futures association, any transaction specified in subsection (a) of this section, in either case to the extent of such person’s actual losses that resulted from such transaction and were caused by such failure or violation.
+
+(4) A person seeking to enforce liability under this section must establish that the registered entity  3 registered futures association, officer, director, governor, committee member, or employee acted in bad faith in failing to take action or in taking such action as was taken, and that such failure or action caused the loss.
+
+(5) The rights of action authorized by this subsection shall be the exclusive remedy under this chapter available to any person who sustains a loss as a result of (A) the alleged failure by a registered entity or registered futures association or by any officer, director, governor, committee member, or employee to enforce any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, or (B) the taking of action in enforcing any bylaw, rule, regulation, or resolution referred to in this subsection that is alleged to have violated this chapter, or any Commission rule, regulation, or order.

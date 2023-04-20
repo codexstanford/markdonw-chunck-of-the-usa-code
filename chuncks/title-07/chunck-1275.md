@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 31— RURAL ELECTRIFICATION AND TELEPHONE SERVICE
+#### § 936b. Sale or prepayment of direct or insured loans
+##### (b) Mergers of electric borrowers
+
+Notwithstanding subsection (a), a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987 , prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under section 904 of this title .

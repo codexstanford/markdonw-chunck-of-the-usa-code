@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 26— AGRICULTURAL ADJUSTMENT
+#### § 610. Administration
+##### (j) Definitions
+
+The term “interstate or foreign commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia. For the purpose of this chapter (but in nowise limiting the foregoing definition) a marketing transaction in respect to an agricultural commodity or the product thereof shall be considered in interstate or foreign commerce if such commodity or product is part of that current of interstate or foreign commerce usual in the handling of the commodity or product whereby they, or either of them, are sent from one State to end their transit, after purchase, in another, including all cases where purchase or sale is either for shipment to another State or for the processing within the State and the shipment outside the State of the products so processed. Agricultural commodities or products thereof normally in such current of interstate or foreign commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of said sections. As used herein, the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nations.

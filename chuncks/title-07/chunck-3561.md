@@ -1,0 +1,6 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 55— DEPARTMENT OF AGRICULTURE
+#### § 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements
+
+Notwithstanding the provisions of existing law, except the Commodity Credit Corporation Charter Act [ 15 U.S.C. 714 et seq.] and without regard to sections 3111 and 3112 of title 40, but within the limitations of cost otherwise applicable, appropriations of the Department of Agriculture may be expended for the erection of buildings and other structures on land owned by States, counties, municipalities, or other political subdivisions, corporations, or individuals: Provided , That prior to such erection there is obtained the right to use the land for the estimated life of or need for the structure, including the right to remove any such structure within a reasonable time after the termination of the right to use the land: Provided further , That appropriations and funds available to the Department of Agriculture shall be available for expenses in connection with acquiring the right to use land for such purposes under long-term lease or other agreement.

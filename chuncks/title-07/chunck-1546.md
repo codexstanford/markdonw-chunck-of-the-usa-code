@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 35— AGRICULTURAL ADJUSTMENT ACT OF 1938
+#### § 1344. Apportionment of national acreage allotments
+##### (n) Transfer of farm cotton acreage allotments in case of natural disasters; eligibility for allotment
+
+Notwithstanding any other provision of this chapter, if the Secretary determines for any year that because of a natural disaster a portion of the farm cotton acreage allotments in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of the cotton acreage allotment for any farm in the county so affected to another farm in the county or in an adjoining county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of cotton and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm allotment transferred under this paragraph shall be deemed to be released acreage for purposes of acreage history credits under subsections (f)(8) and (m)(2) of this section, and section 1377 of this title : Provided , That, notwithstanding the provisions of subsection (m)(2) of this section, the transfer of any farm allotment under this subsection for any year shall operate to make the farm from which the allotment was transferred eligible for an allotment as having cotton planted thereon during the three-year base period.

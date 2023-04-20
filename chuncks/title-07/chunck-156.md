@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 1— COMMODITY EXCHANGES
+#### § 13a–1. Enjoining or restraining violations
+##### (a) Action to enjoin or restrain violations
+
+Whenever it shall appear to the Commission that any registered entity or other person has engaged, is engaging, or is about to engage in any act or practice constituting a violation of any provision of this chapter or any rule, regulation, or order thereunder, or is restraining trading in any commodity for future delivery or any swap, the Commission may bring an action in the proper district court of the United States or the proper United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such act or practice, or to enforce compliance with this chapter, or any rule, regulation or order thereunder, and said courts shall have jurisdiction to entertain such actions: Provided , That no restraining order (other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate) or injunction for violation of the provisions of this chapter shall be issued ex parte by said court.

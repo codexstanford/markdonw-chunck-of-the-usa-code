@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 6— INSECTICIDES AND ENVIRONMENTAL PESTICIDE CONTROL
+#### § 136. Definitions
+##### (u) Pesticide
+
+The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w)  1 of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x)  1 of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21 . For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.

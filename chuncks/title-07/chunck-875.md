@@ -1,0 +1,6 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 13— AGRICULTURAL AND MECHANICAL COLLEGES
+#### § 341. Cooperative extension work by colleges
+
+In order to aid in diffusing among the people of the United States useful and practical information on subjects relating to agriculture, uses of solar energy with respect to agriculture, home economics, and rural energy, and to encourage the application of the same, there may be continued or inaugurated in connection with the college or colleges in each State, Territory, or possession, now receiving, or which may hereafter receive, the benefits of subchapters I and II of this chapter, agricultural extension work which shall be carried on in cooperation with the United States Department of Agriculture: Provided , That in any State, Territory, or possession in which two or more such colleges have been or hereafter may be established, the appropriations hereinafter made to such State, Territory, or possession shall be administered by such college or colleges as the legislature of such State, Territory, or possession may direct. For the purposes of this subchapter, the term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Non-Nuclear  1 Energy Research and Development Act of 1974, as amended [ 42 U.S.C. 5901 et seq.].

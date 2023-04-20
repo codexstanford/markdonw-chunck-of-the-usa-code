@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 50— AGRICULTURAL CREDIT
+#### § 1985. Security servicing
+##### (d) Easements; condemnations
+
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: Provided, however , That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.

@@ -1,0 +1,19 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 50— AGRICULTURAL CREDIT
+#### § 1922. Persons eligible for real estate loans
+##### (a) In general
+
+(1) Eligibility requirements
+
+The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities as the Secretary considers appropriate, that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, individuals holding a majority interest in such entity, must (A) be citizens of the United States, (B) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (C) be or will become owner-operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (D) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this section, in the case of corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, the family farm requirement of subparagraph (C) of the preceding sentence shall apply as well to the farm or farms in which the entity has an ownership and operator interest and the requirement of subparagraph (D) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities.
+
+(2) Special rules
+
+(A) Eligibility of certain operating-only entities
+
+An entity that is or will become only the operator of a family farm shall be considered to meet the owner-operator requirements of paragraph (1) if the individuals that are the owners of the family farm own more than 50 percent (or such other percentage as the Secretary determines is appropriate) of the entity.
+
+(B) Eligibility of certain embedded entities
+
+An entity that is an owner-operator described in paragraph (1), or an operator described in subparagraph (A) of this paragraph that is owned, in whole or in part, by other entities, shall be considered to meet the direct ownership requirement imposed under paragraph (1) if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.

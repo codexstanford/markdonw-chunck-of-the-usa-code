@@ -1,0 +1,13 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 3— GRAIN STANDARDS
+#### § 77. Official inspection and weighing requirements; waiver; supervision by representatives of Secretary
+##### (a) Official samples and certificates; waiver; excepted grains
+
+Whenever standards or procedures are effective under section 76 of this title for any grain
+
+(1) no person shall ship from the United States to any place outside thereof any lot of such grain, unless such lot is officially weighed and officially inspected in accordance with such standards or procedures, and unless a valid official certificate showing the official grade designation and certified weight of the lot of grain has been provided by official inspection personnel and is promptly furnished by the shipper, or the agent of the shipper, to the consignee with the bill of lading or other shipping documents covering the shipment: Provided , That the Secretary shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment: Provided further , That the Secretary shall waive the requirement for official inspection whenever the parties to a contract for such shipment of a lot of grain (which is not sold, offered for sale, or consigned for sale by grade) from the United States to any place outside thereof mutually agree under the contract to ship such lot of grain without official inspection being performed and a copy of the contract is furnished to the Secretary prior to shipment;
+
+(2) except as the Secretary may provide in emergency or other circumstances which would not impair the objectives of this chapter, all other grain transferred out of and all grain transferred into an export elevator at an export port location shall be officially weighed in accordance with such standards or procedure: Provided , That, unless the shipper or receiver requests that the grain be officially weighed, shipments of grain into an export elevator by any mode of transportation and grain transferred out of an export elevator to destinations within the United States shall not be officially weighed; and
+
+(3) except as otherwise authorized by the Secretary, whenever a lot of grain is both officially inspected and officially weighed while being transferred into or out of a grain elevator, warehouse, or other storage or handling facility, an official certificate shall be issued showing both the official grade designation and the certified weight of the lot of grain.

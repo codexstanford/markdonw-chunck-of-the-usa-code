@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 50— AGRICULTURAL CREDIT
+#### § 1929. Agricultural Credit Insurance Fund
+##### (c) Notes; form and denominations; maturities; terms and conditions; interest rate; purchase by Treasury; public debt transaction
+
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.

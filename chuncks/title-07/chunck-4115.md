@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 64— AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING
+#### § 3222. Agricultural research at 1890 land-grant colleges, including Tuskegee University
+##### (d) Payment of funds to eligible institutions
+
+Sums available for allotment to the eligible institutions under the terms of this section shall be paid to such institutions in equal quarterly payments beginning on or about the first day of October of each year upon vouchers approved by the Secretary. The President of each eligible institution shall appoint a research director who shall be responsible for administration of the program authorized herein. Each eligible institution shall designate a treasurer or other officer who shall receive and account for all funds allotted to such institution under the provisions of this section and shall report, with the approval of the research director, to the Secretary on or before the first day of December of each year a detailed statement of the amount received under the provisions of this section during the preceding fiscal year and its disbursement on schedules prescribed by the Secretary. If any portion of the allotted moneys received by any eligible institution shall by any action or contingency be diminished, lost, or misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be allotted or paid to such institution. Funds made available to eligible institutions shall not be used for payment of negotiated overhead or indirect cost rates.

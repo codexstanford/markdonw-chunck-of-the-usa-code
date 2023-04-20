@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 59— RURAL FIRE PROTECTION, DEVELOPMENT, AND SMALL FARM RESEARCH AND EDUCATION
+#### § 2662. Programs authorized
+##### (a) Rural development extension programs
+
+Rural development extension programs shall consist of the collection, interpretation, and dissemination of useful information and knowledge from research and other sources to units of multistate regional agencies, State, county, municipal, and other units of government, multicounty planning and development districts, organizations of citizens contributing to community and rural development, businesses, Indian tribes on Federal or State reservations or other federally recognized Indian tribal groups, and industries that employ or may employ people in rural areas. The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities. These programs also shall include technical services and educational activities, including instruction for persons not enrolled as students in colleges or universities, to facilitate and encourage the use and practical application of this information. These programs may also include feasibility studies and planning assistance.

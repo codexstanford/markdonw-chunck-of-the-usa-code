@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 9— PACKERS AND STOCKYARDS
+#### § 227. Powers of Federal Trade Commission and Secretary of Agriculture
+##### (d) Jurisdiction of Secretary of Agriculture except for poultry products
+
+The Secretary of Agriculture shall exercise power or jurisdiction over oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form only when he determines, in any investigation of, or any proceeding for the prevention of, an alleged violation of this chapter, that such action is necessary to avoid impairment of his power or jurisdiction over acts or transactions involving livestock, meat, meat food products, livestock products in unmanufactured form, or poultry other than retail sales thereof. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Secretary shall notify the Federal Trade Commission of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with respect to acts or transactions involving oleomargarine or retail sales of meat, meat food products, or livestock products in unmanufactured form if the Commission within 10 days from the date of receipt of such notice notifies the Secretary that there is pending in the Commission an investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission involving the same subject matter.

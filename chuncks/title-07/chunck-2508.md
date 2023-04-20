@@ -1,0 +1,6 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 43— FOREIGN MARKET DEVELOPMENT
+#### § 1766b. Language training for families of officers and employees assigned abroad
+
+Effective October 1, 1976 , the Secretary of Agriculture is authorized to provide appropriate orientation and language training to families of officers and employees of the Department of Agriculture in anticipation of an assignment abroad of such officers and employees or while abroad pursuant to this chapter or other authority: Provided , That the facilities of the George P. Shultz National Foreign Affairs Training Center or other Government facilities shall be used wherever practicable, and the Secretary may utilize foreign currencies generated under title I of the Food for Peace Act, as amended [ 7 U.S.C. 1701 et seq.], to carry out the purposes of this section in the foreign nations to which such officers, employees, and families are assigned. There are hereby authorized to be appropriated such sums, not to exceed $50,000 annually, as may be necessary to carry out the purposes of this section: Provided , That for the fiscal year ending September 30, 1977 , any appropriations available to the Secretary of Agriculture (not to exceed $50,000) may be used to carry out the purposes of this section.

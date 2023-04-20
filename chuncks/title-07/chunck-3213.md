@@ -1,0 +1,7 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 51— SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+#### § 2024. Violations and enforcement
+##### (c) Presentation for payment or redemption of benefits that have been illegally received, transferred, or used
+
+Whoever presents, or causes to be presented, benefits for payment or redemption of the value of $100 or more, knowing the same to have been received, transferred, or used in any manner in violation of the provisions of this chapter or the regulations issued pursuant to this chapter, shall be guilty of a felony and, upon the first conviction thereof, shall be fined not more than $20,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than one year nor more than five years and may also be fined not more than $20,000, or, if such benefits are of a value of less than $100, shall be guilty of a misdemeanor and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the supplemental nutrition assistance program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title .

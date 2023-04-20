@@ -1,0 +1,13 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 20A— PERISHABLE AGRICULTURAL COMMODITIES
+#### § 499h. Grounds for suspension or revocation of license
+##### (b) Unlawful employment of certain persons; restrictions; bond assuring compliance; approval of employment without bond; change in amount of bond; payment of increased amount; penalties
+
+Except with the approval of the Secretary, no licensee shall employ any person, or any person who is or has been responsibly connected with any person
+
+(1) whose license has been revoked or is currently suspended by order of the Secretary;
+
+(2) who has been found after notice and opportunity for hearing to have committed any flagrant or repeated violation of section 499b of this title , but this provision shall not apply to any case in which the license of the person found to have committed such violation was suspended and the suspension period has expired or is not in effect; or
+
+(3) against whom there is an unpaid reparation award issued within two years, subject to his right of appeal under section 499g(c) of this title . The Secretary may approve such employment at any time following nonpayment of a reparation award, or after one year following the revocation or finding of flagrant or repeated violation of section 499b of this title , if the licensee furnishes and maintains a surety bond in form and amount satisfactory to the Secretary as assurance that such licensee’s business will be conducted in accordance with this chapter and that the licensee will pay all reparation awards, subject to its right of appeal under section 499g(c) of this title , which may be issued against it in connection with transactions occurring within four years following the approval. The Secretary may approve employment without a surety bond after the expiration of two years from the effective date of the applicable disciplinary order. The Secretary, based on changes in the nature and volume of business conducted by the licensee, may require an increase or authorize a reduction in the amount of the bond. A licensee who is notified by the Secretary to provide a bond in an increased amount shall do so within a reasonable time to be specified by the Secretary, and if the licensee fails to do so the approval of employment shall automatically terminate. The Secretary may, after thirty days notice and an opportunity for a hearing, suspend or revoke the license of any licensee who, after the date given in such notice, continues to employ any person in violation of this section. The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.

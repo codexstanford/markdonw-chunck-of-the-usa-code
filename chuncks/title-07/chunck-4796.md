@@ -1,0 +1,15 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 87— EXPORT PROMOTION
+#### § 5663. Departmental administration system
+##### (a) In general
+
+With respect to each commercial export promotion program of the Department of Agriculture or the Commodity Credit Corporation, the Secretary shall
+
+(1) specify by regulation the criteria used to evaluate and approve proposals for that program;
+
+(2) establish a centralized system to permit the Foreign Agricultural Service to provide the history and current status of any proposal;
+
+(3) provide for regular audits of program transactions to determine compliance with program objectives and requirements; and
+
+(4) establish criteria to evaluate loans eligible for guarantees by the Commodity Credit Corporation, so as to ensure that the Corporation does not assume undue risk in providing such guarantees.

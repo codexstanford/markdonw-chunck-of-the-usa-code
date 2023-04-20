@@ -1,0 +1,12 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 13— AGRICULTURAL AND MECHANICAL COLLEGES
+#### § 329. Additional appropriation for agricultural colleges
+
+In order to provide for the more complete endowment and support of the colleges in the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands entitled to the benefits of the Act entitled “An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts,” approved July 2, 1862 , as amended and supplemented ( 7 U.S.C. 301–328 ), there are authorized to be appropriated annually, out of any money in the Treasury not otherwise appropriated, the following amounts:
+
+(a) For the first fiscal year beginning after the date of enactment of this Act, and for each fiscal year thereafter, $8,250,000; and
+
+(b) For the first fiscal year beginning after the date of enactment of this Act, and for each fiscal year thereafter, $4,380,000. The sums appropriated in pursuance of paragraph (a) shall be paid annually to the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands in equal shares. The sums appropriated in pursuance of paragraph (b) shall be in addition to sums appropriated in pursuance of paragraph (a) and shall be allotted and paid annually to each of the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands in the proportion to which the total population of each State, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands bears to the total population of all the States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands as determined by the last preceding decennial census. Sums appropriated in pursuance of this section shall be in addition to sums appropriated or authorized under such Act of July 2, 1862 , as amended and supplemented, and shall be applied only for the purposes of the colleges defined in such Act, as amended and supplemented. The provisions of law applicable to the use and payment of sums under the Act entitled “An Act to apply a portion of the proceeds of the public lands to the more complete endowment and support of the colleges for the benefit of agriculture and the mechanic arts established under the provisions of an Act of Congress approved July 2, 1862 ,” approved August 30, 1890 , as amended and supplemented, shall apply to the use and payment of sums appropriated in pursuance of this section.
+
+SUBCHAPTER III— RETIREMENT OF EMPLOYEES

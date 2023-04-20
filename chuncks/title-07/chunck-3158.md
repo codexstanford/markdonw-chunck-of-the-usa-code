@@ -1,0 +1,13 @@
+
+# Title 7— AGRICULTURE
+### CHAPTER 51— SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+#### § 2017. Value of allotment
+##### (c) First month benefits prorated
+
+(1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.
+
+(2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the supplemental nutrition assistance program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title , and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the supplemental nutrition assistance program after previous participation in such program.
+
+(3) Optional combined allotment for expedited households .
+
+A State agency may provide to an eligible household applying after the 15th day of a month, in lieu of the initial allotment of the household and the regular allotment of the household for the following month, an allotment that is equal to the total amount of the initial allotment and the first regular allotment. The allotment shall be provided in accordance with section 2020(e)(3) of this title in the case of a household that is not entitled to expedited service and in accordance with paragraphs (3) and (9) of section 2020(e) of this title in the case of a household that is entitled to expedited service.
