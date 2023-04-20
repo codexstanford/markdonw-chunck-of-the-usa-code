@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 16— REGIONAL RAIL REORGANIZATION
+#### § 745. Continuing reorganization; supplemental transactions
+##### (c) Review by Commission
+
+Within 90 days after the publication in the Federal Register of each report referred to in subsection (b) of this section, the Commission shall determine whether the supplemental transactions referred to in the report, considered in their entirety, would be in the public interest and consistent with the purposes of this chapter and the goals of the final system plan. In making such determination, the Commission shall give due consideration to the views received by it, within 30 days after the publication of the applicable report, from the Corporation and the Secretary. The Commission may condition its approval of such supplemental transactions on such reasonable terms and conditions as it may deem necessary in the public interest. The approval by the Commission of such supplemental transactions shall not be a prerequisite to the consummation of such transactions, but any determination of the Commission modifying, approving, or disapproving any proposed supplemental transactions shall be given due weight and consideration by the special court in the proceedings prescribed in subsection (d) of this section. If the Commission fails to act within the time period provided in this subsection, the supplemental transactions involved shall be deemed to have been approved by the Commission. The Commission may prescribe such regulations as may be necessary for the administration of this section.

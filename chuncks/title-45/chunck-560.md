@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 21— ALASKA RAILROAD TRANSFER
+#### § 1204. Transition period
+##### (a) Joint report by Secretary and Governor of Alaska; contents, preparation, etc.
+
+Within 6 months after January 14, 1983 , the Secretary and the Governor of Alaska shall jointly prepare and deliver to the Congress of the United States and the legislature of the State a report that describes to the extent possible the rail properties of the Alaska Railroad, the liabilities and obligations to be assumed by the State, the sum of money, if any, in the Alaska Railroad Revolving Fund to be withheld from the State pursuant to section 1202(10)(C)  1 of this title, and any personal property to be withheld pursuant to section 1202(10)(D)  1 of this title. The report shall separately identify by the best available descriptions (1) the rail properties of the Alaska Railroad to be transferred pursuant to section 1203(b)(1)(A), (B), and (D) of this title; (2) the rail properties to be subject to the license granted pursuant to section 1203(b)(1)(C) of this title ; and (3) the easements to be reserved pursuant to section 1203(c)(2) of this title . The Secretaries of Agriculture, Defense, and the Interior and the Administrator of the General Services Administration shall provide the Secretary with all information and assistance necessary to allow the Secretary to complete the report within the time required.

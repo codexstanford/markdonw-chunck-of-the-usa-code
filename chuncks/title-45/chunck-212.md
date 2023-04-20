@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 11— RAILROAD UNEMPLOYMENT INSURANCE
+#### § 363. Exclusiveness of provisions; transfers from State unemployment compensation accounts to railroad unemployment insurance account
+##### (c) Determination of “preliminary amount” for States
+
+The Social Security Board is directed to determine for each State, after agreement with the Railroad Retirement Board, and after consultation with such State; the total (hereinafter referred to as the “preliminary amount”) of (i) the amount remaining as the balances of reserve accounts of employers as of June 30, 1939 , if the unemployment compensation law of such State provides for a type of fund known as “Reserve Accounts,” plus (ii) if the unemployment compensation law of such State provides for a type of fund known as “Pooled Fund” or “Pooled Account,” that proportion of the balance of such fund or account of such State as of June 30, 1939 , as the amount of taxes or contributions collected from employers and their employees prior to July 1, 1939 , pursuant to its unemployment compensation law and credited to such fund or account bears to all such taxes or contributions theretofore collected from all persons subject to its unemployment compensation law and credited to such fund or account; and the additional amounts (hereinafter referred to as the “liquidating amount”) of taxes or contributions collected from employers and their employees from July 1, 1939 to December 31, 1939 , pursuant to its unemployment compensation law.

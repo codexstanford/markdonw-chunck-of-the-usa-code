@@ -1,0 +1,9 @@
+
+# Title 45— RAILROADS
+### CHAPTER 9— RETIREMENT OF RAILROAD EMPLOYEES
+#### § 231n–1. Social Security Equivalent Benefit Account
+##### (d) Transfers to Social Security Equivalent Benefit Account and National Railroad Retirement Investment Trust
+
+(1) Whenever the Board finds that the balance in the Social Security Equivalent Benefit Account will be insufficient to pay social security equivalent benefits which it estimates are due in any month, it shall request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the Social Security Equivalent Benefit Account such moneys as the Board estimates will be necessary for the payment of such benefits, and the Secretary shall make such transfer.
+
+(2) Upon establishment of the National Railroad Retirement Investment Trust and from time to time thereafter, the Board shall direct the Secretary of the Treasury to transfer, in such manner as will maximize the investment returns to the Railroad Retirement system, the balance of the Social Security Equivalent Benefit Account not needed to pay current benefits and administrative expenses required to be paid from that Account to the National Railroad Retirement Investment Trust or the Railroad Retirement Account, and the Secretary shall make that transfer. Any balance transferred under this paragraph shall be used by the National Railroad Retirement Investment Trust or the Railroad Retirement Board only to pay benefits under this subchapter or to purchase obligations of the United States (either directly or through a commingled account consisting only of such obligations) that are backed by the full faith and credit of the United States pursuant to chapter 31 of title 31. The proceeds of sales of, and the interest income from, such obligations shall be used by the Trust only to pay benefits under this subchapter or to purchase such additional obligations.

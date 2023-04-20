@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 11— RAILROAD UNEMPLOYMENT INSURANCE
+#### § 362. Duties and powers of Board
+##### (f) Cooperation with other agencies administering unemployment or sickness compensation laws; agreements
+
+The Board may cooperate with or enter into agreement with the appropriate agencies charged with the administration of State, Territorial, Federal, or foreign unemployment-compensation or sickness laws or employment offices, with respect to investigations, the exchange of information and services, the establishment, maintenance, and use of free employment service facilities, and such other matters as the Board deems expedient in connection with the administration of this chapter, and may compensate any such agency for services or facilities supplied to the Board in connection with the administration of this chapter. The Board may enter also into agreements with any such agency, pursuant to which any unemployment or sickness benefits provided for by this chapter or any other unemployment-compensation or sickness law, may be paid through a single agency to persons who have, during the period on the basis of which eligibility for and duration of benefits is determined under the law administered by such agency or under this chapter, or both, performed services covered by one or more of such laws, or performed services which constitute employment as defined in this chapter: Provided , That the Board finds that any such agreement is fair and reasonable as to all affected interests.

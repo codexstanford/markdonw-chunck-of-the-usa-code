@@ -1,0 +1,17 @@
+
+# Title 45— RAILROADS
+### CHAPTER 9— RETIREMENT OF RAILROAD EMPLOYEES
+#### § 231a. Annuity eligibility requirements
+##### (f) Deductions on account of work
+
+(1) That portion of the individual’s annuity as is computed under section 231b(a) of this title on the basis of (A) his compensation and years of service subsequent to December 31, 1974 , and (B) his wages and self-employment income derived from employment and self-employment under the Social Security Act [ 42 U.S.C. 301 et seq.] and that portion of the individual’s annuity as is computed under section 231b(h) of this title shall be subject to deductions on account of work pursuant to the provisions of section 203 of the Social Security Act [ 42 U.S.C. 403 ] in the same manner as if such portion of such annuity were a monthly insurance benefit under that Act: Provided, however , That the provisions of this subdivision shall be applicable to the annuity of an individual only if such individual would be fully insured under the Social Security Act on the basis of wages and self-employment income derived from employment and self-employment under that Act and on the basis of compensation derived from service as an employee after December 31, 1974 , if such service as an employee had been included in the term “employment” as defined in that Act. Any person in receipt of an annuity subject to deduction under this subsection shall report to the Board the receipt of excess earnings as defined in paragraph (3) of section 203(f) of the Social Security Act.
+
+(2) That portion of the spouse’s or divorced wife’s annuity under subsection (c) which is derived from the portion of the individual’s annuity subject to deductions under subdivision (1) and that portion of the spouse’s or divorced wife’s annuity as is computed under section 231c(e) of this title shall be subject to deductions on account of work pursuant to the provisions of section 203 of the Social Security Act [42 U.S.S. 403] in the same manner as if such portion of such spouse’s or divorced wife’s annuity were a monthly insurance benefit under that Act. In addition, such portion of the spouse’s or divorced wife’s annuity shall be subject to deductions if the individual’s annuity is subject to deductions under subdivision (1) in the same manner as if such portion of such spouse’s or divorced wife’s annuity were a monthly insurance benefit under the Social Security Act [ 42 U.S.C. 301 et seq.].
+
+(3) Deductions shall not be made pursuant to subdivision (1) from that portion of an individual’s annuity as is computed under section 231b(a) of this title for any month in which the annuity of such individual is reduced pursuant to section 231b(m) of this title . This subdivision shall be disregarded in determining the applicability and amount of deductions in a spouse’s annuity pursuant to subdivision (2) of this subsection.
+
+(4) Deductions shall not be made pursuant to subdivision (2) from that portion of a spouse’s annuity as is computed under section 231c(a) of this title for any month in which the annuity of such spouse is reduced due to entitlement to a benefit under title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
+
+(5) If an annuity begins to accrue on other than the first day of a month, subdivisions (1) and (2) of this subsection shall not apply in the year the annuity begins to accrue if the annuitant has no earnings in excess of the monthly exempt amount in such year after the annuity beginning date.
+
+(6)

@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 16— REGIONAL RAIL REORGANIZATION
+#### § 720. Obligations of Association
+##### (e) The Secretary of the Treasury
+
+If at any time the moneys available to the Secretary are insufficient to enable him to discharge his responsibilities under subsection (c) of this section or under subsection (a) of section 746 of this title , he shall issue notes or other obligations to the Secretary of the Treasury in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Secretary of the Treasury. Such obligations shall bear interest at a rate to be determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such obligations. The Secretary of the Treasury is authorized and directed to purchase any such obligations and for such purposes is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The purposes for which securities may be issued under such chapter are extended to include any purchase of notes or other obligations issued under this subsection. At any time, the Secretary of the Treasury may sell any such obligations, and all sales, purchases, and redemptions of such obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States.

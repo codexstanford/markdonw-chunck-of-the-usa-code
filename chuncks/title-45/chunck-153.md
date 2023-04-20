@@ -1,0 +1,13 @@
+
+# Title 45— RAILROADS
+### CHAPTER 11— RAILROAD UNEMPLOYMENT INSURANCE
+#### § 354. Disqualifying conditions
+##### (a–1) Day of unemployment or day of sickness
+
+There shall not be considered as a day of unemployment, or as a day of sickness, with respect to any employee
+
+(i) any of the seventy-five days beginning with the first day of any registration period with respect to which the Board finds that he knowingly made or aided in making or caused to be made any false or fraudulent statement or claim for the purpose of causing benefits to be paid;
+
+(ii) any day in any period with respect to which the Board finds that he is receiving or will have received annuity payments under the Railroad Retirement Act of 1974 [ 45 U.S.C. 231 et seq.], or insurance benefits under title II of the Social Security Act [ 42 U.S.C. 401 et seq.], or unemployment, maternity, or sickness benefits under an unemployment, maternity, or sickness compensation law other than this chapter, or any other social-insurance payments under any law: Provided , That if an employee receives or is held entitled to receive any such payments, other than unemployment, maternity, or sickness payments, with respect to any period which include days of unemployment or sickness in a registration period, after benefits under this chapter for such registration period will have been paid, the amount by which such benefits under this chapter will have been increased by including such days as days of unemployment or as days of sickness shall be recoverable by the Board: Provided further , That, if that part of any such payment or payments, other than unemployment, maternity, or sickness payments, which is apportionable to such days of unemployment or days of sickness is less in amount than the benefits under this chapter which, but for this paragraph, would be payable and not recoverable with respect to such days of unemployment or days of sickness, the preceding provisions of this paragraph shall not apply but such benefits under this chapter for such days of unemployment or days of sickness shall be diminished or recoverable in the amount of such part of such other payment or payments;
+
+(iii) if he is paid a separation allowance, any of the days in the period beginning with the day following his separation from service and continuing for that number of consecutive fourteen-day periods which is equal, or most nearly equal, to the amount of the separation allowance divided (i) by ten times his last daily rate of compensation prior to his separation if he normally works five days a week, (ii) by twelve times such rate if he normally works six days a week, and (iii) by fourteen times such rate if he normally works seven days a week;  1

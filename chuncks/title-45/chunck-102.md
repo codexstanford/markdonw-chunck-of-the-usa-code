@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 9— RETIREMENT OF RAILROAD EMPLOYEES
+#### § 231i. Erroneous payments
+##### (a) Recovery
+
+If the Board finds that at any time more than the correct amount of annuities or other benefits has been paid to any individual under this subchapter, or payment has been made to an individual not entitled thereto, recovery by adjustment in subsequent payments to which such individual, or any other individual on the basis of the same compensation, wages, or self-employment income, is entitled under this subchapter, or the Railroad Unemployment Insurance Act [ 45 U.S.C. 351 et seq.] may, except as otherwise provided in this section, be made under regulations prescribed by the Board. If the individual to whom more than the correct amount has been paid dies before recovery is completed, recovery may be made by setoff or adjustments, under regulations prescribed by the Board, in subsequent payments due, under this subchapter, or the Railroad Unemployment Insurance Act, to the estate of such individual or to any person on the basis of the compensation, wages, or self-employment income of such individual. The Board shall have the authority to recover from any payment which would be made to an individual by the Board under section 231f(b)(2) of this title the amount of annuity payments made to such individual which are erroneous because of such individual’s entitlement to monthly insurance benefits under title II of the Social Security Act [ 42 U.S.C. 401 et seq.].

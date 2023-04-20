@@ -1,0 +1,9 @@
+
+# Title 45— RAILROADS
+### CHAPTER 16— REGIONAL RAIL REORGANIZATION
+#### § 741. Formation and structure
+##### (e) Initial capitalization
+
+(1) The Corporation is authorized to issue debentures, series A preferred stock, series B preferred stock, common stock, contingent interest notes, and other securities.
+
+(2) Debentures and series A preferred stock shall be issued initially to the Association. Series B preferred stock and common stock shall be issued initially to the estates of railroads in reorganization in the region, to railroads leased, operated, and controlled by railroads in reorganization in the region, and to other persons leased, operated or controlled by a railroad in reorganization who are transferors of rail properties in exchange for rail properties transferred to the Corporation pursuant to the final system plan. Notwithstanding any other provisions of State or Federal law, the series B preferred stock and common stock shall have terms and conditions not inconsistent with the final system plan. As a condition of its investment in the Corporation, the Association may require that the Corporation adopt limitations consistent with the final system plan on the circumstances under which dividends on the series B preferred stock and common stock are payable so long as any of the debentures or series A preferred stock are outstanding. Notwithstanding anything to the contrary in the final system plan, the initial authorized number of shares of series B preferred stock may be 35,000,000, and the Corporation may issue initially for the purpose of the deposit required under section 743(a)(1) of this title such numbers of shares of series B preferred and common stock as the Association shall certify to the Special Court pursuant to section 719(c)(1)(3)  1 of this title, including any modifications in such numbers of shares as may be ordered by the Special Court for the purpose of, and in connection with, such deposit and certification.

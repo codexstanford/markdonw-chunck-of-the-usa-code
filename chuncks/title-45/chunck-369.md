@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 16— REGIONAL RAIL REORGANIZATION
+#### § 743. Valuation and conveyance of rail properties
+##### (e) Transfer and other taxes and recording fees
+
+All transfers or conveyances of rail properties (whether real, personal, or mixed) which are made under this chapter (including transfers and conveyances which are made in accordance with a supplemental transaction pursuant to section 745 of this title or which are made at any time to carry out the purposes of section 791(d) of this title ) shall be exempt from any taxes, imposts, or levies now or hereafter imposed, by the United States or by any State or any political subdivision of a State, on or in connection with such transfers or conveyances or on the recording of deeds, bills of sale, liens, encumbrances, or other instruments evidencing, effectuating, or incident to any such transfers or conveyances, whether imposed on the transferor or on the transferee. Such transferors and transferees shall be entitled to record any such deeds, bills of sale, liens, encumbrances, or other instruments and, consistent with the designations and applicable principles in the final system plan, to record the release or removal of any pre-existing liens or encumbrances of record with respect to properties so transferred or conveyed, upon payment of any appropriate and generally applicable charges to compensate for the cost of the service performed.

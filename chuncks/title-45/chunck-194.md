@@ -1,0 +1,7 @@
+
+# Title 45— RAILROADS
+### CHAPTER 11— RAILROAD UNEMPLOYMENT INSURANCE
+#### § 362. Duties and powers of Board
+##### (a) Witnesses; subpenas, service, fees, etc.
+
+For the purpose of any investigation or other proceeding relative to the determination of any right to benefits, or relative to any other matter within its jurisdiction under this chapter, the Board shall have the power to issue subpenas requiring the attendance and testimony of witnesses and the production of any evidence, documentary or otherwise, that relates to any matter under investigation or in question, before the Board or any member, employee, or representative thereof. Any member of the Board or any of its employees or representatives designated by it may administer oaths and affirmations, examine witnesses, and receive evidence. Such attendance of witnesses and production of evidence may be required from any place in the United States or any Territory or possession thereof at any designated place of hearing. All subpenas may be served and returned by anyone authorized by the Board in the same manner as is now provided by law for the service and return by United States marshals of subpenas in suits in equity. Such service may also be made by registered mail or by certified mail and in such case the return post-office receipt shall be proof of service. Witnesses summoned in accordance with this subsection shall be paid the same fees and mileage as are paid witnesses in the district courts of the United States.
