@@ -1,0 +1,6 @@
+
+# Title 8— ALIENS AND NATIONALITY
+### CHAPTER 11— NATIONALITY
+#### § 747. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948
+
+SUBCHAPTER IV— LOSS OF NATIONALITY

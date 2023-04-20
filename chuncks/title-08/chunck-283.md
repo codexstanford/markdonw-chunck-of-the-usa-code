@@ -1,0 +1,7 @@
+
+# Title 8— ALIENS AND NATIONALITY
+### CHAPTER 12— IMMIGRATION AND NATIONALITY
+#### § 1221. Lists of alien and citizen passengers arriving and departing
+##### (g) Penalties against noncomplying shipments, aircraft, or carriers
+
+If it shall appear to the satisfaction of the Attorney General that an appropriate official specified in subsection (d), any public or private carrier, or the agent of any transportation line, as the case may be, has refused or failed to provide manifest information required by subsection (a) or (b), or that the manifest information provided is not accurate and full based on information provided to the carrier, such official, carrier, or agent, as the case may be, shall pay to the Commissioner the sum of $1,000 for each person with respect to whom such accurate and full manifest information is not provided, or with respect to whom the manifest information is not prepared as prescribed by this section or by regulations issued pursuant thereto. No commercial vessel or aircraft shall be granted clearance pending determination of the question of the liability to the payment of such penalty, or while it remains unpaid, and no such penalty shall be remitted or refunded, except that clearance may be granted prior to the determination of such question upon the deposit with the Commissioner of a bond or undertaking approved by the Attorney General or a sum sufficient to cover such penalty.

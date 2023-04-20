@@ -1,0 +1,6 @@
+
+# Title 8— ALIENS AND NATIONALITY
+### CHAPTER 11— NATIONALITY
+#### §§ 801 to 810. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42), 66 Stat. 280 , eff. Dec. 24, 1952
+
+SUBCHAPTER V— MISCELLANEOUS
