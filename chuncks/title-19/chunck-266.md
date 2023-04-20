@@ -1,0 +1,13 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE II— SPECIAL PROVISIONS
+#### § 1337. Unfair practices in import trade
+##### (e) Exclusion of articles from entry during investigation except under bond; procedures applicable; preliminary relief
+
+(1) If, during the course of an investigation under this section, the Commission determines that there is reason to believe that there is a violation of this section, it may direct that the articles concerned, imported by any person with respect to whom there is reason to believe that such person is violating this section, be excluded from entry into the United States, unless, after considering the effect of such exclusion upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such articles should not be excluded from entry. The Commission shall notify the Secretary of the Treasury of its action under this subsection directing such exclusion from entry, and upon receipt of such notice, the Secretary shall, through the proper officers, refuse such entry, except that such articles shall be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the Commission later determines that the respondent has violated the provisions of this section, the bond may be forfeited to the complainant.
+
+(2) A complainant may petition the Commission for the issuance of an order under this subsection. The Commission shall make a determination with regard to such petition by no later than the 90th day after the date on which the Commission’s notice of investigation is published in the Federal Register. The Commission may extend the 90-day period for an additional 60 days in a case it designates as a more complicated case. The Commission shall publish in the Federal Register its reasons why it designated the case as being more complicated. The Commission may require the complainant to post a bond as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent.
+
+(3) The Commission may grant preliminary relief under this subsection or subsection (f) to the same extent as preliminary injunctions and temporary restraining orders may be granted under the Federal Rules of Civil Procedure.
+
+(4) The Commission shall prescribe the terms and conditions under which bonds may be forfeited under paragraphs (1) and (2).

@@ -1,0 +1,7 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE II— SPECIAL PROVISIONS
+#### § 1361. Action by President; reports to Congress
+##### (a) Transmittal by President of trade agreement and message to Congress
+
+Within thirty days after any trade agreement under section 1351 of this title has been entered into which, when effective, will (1) require or make appropriate any modification of duties or other import restrictions, the imposition of additional import restrictions, or the continuance of existing customs or excise treatment, which modification, imposition, or continuance will exceed the limit to which such modification, imposition, or continuance may be extended without causing or threatening serious injury to the domestic industry producing like or directly competitive articles as found and reported by the United States International Trade Commission under section 1360 of this title , or (2) fail to require or make appropriate the minimum increase in duty or additional import restrictions required to avoid such injury, the President shall transmit to Congress a copy of such agreement together with a message accurately identifying the article with respect to which such limits or minimum requirements are not complied with, and stating his reasons for the action taken with respect to such article. If either the Senate or the House of Representatives, or both, are not in session at the time of such transmission, such agreement and message shall be filed with the Secretary of the Senate or the Clerk of the House of Representatives, or both, as the case may be.

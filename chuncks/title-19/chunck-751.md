@@ -1,0 +1,7 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE III— ADMINISTRATIVE PROVISIONS
+#### § 1641. Customs brokers
+##### (f) Regulations by the Secretary
+
+The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, and the furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of U.S. Customs and Border Protection. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.

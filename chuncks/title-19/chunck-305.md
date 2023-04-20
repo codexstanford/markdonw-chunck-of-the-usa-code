@@ -1,0 +1,9 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE II— SPECIAL PROVISIONS
+#### § 1360. Investigation before trade negotiations
+##### (b) Procedures and determinations
+
+(1) In the course of any investigation pursuant to this section the Commission shall hold hearings and give reasonable public notice thereof, and shall afford reasonable opportunity for parties interested to be present, to produce evidence, and to be heard at such hearings. If in the course of any such investigation the Commission shall find with respect to any article on the list upon which a tariff concession has been granted that an increase in duty or additional import restriction is required to avoid serious injury to the domestic industry producing like or directly competitive articles, the Commission shall promptly institute an investigation with respect to that article pursuant to section 1364 of this title .
+
+(2) In each such investigation the Commission shall, to the extent practicable and without excluding other factors, ascertain for the last calendar year preceding the investigation the average invoice price on a country-of-origin basis (converted into currency of the United States in accordance with the provisions of section 5151 of title 31 ) at which the foreign article was sold for export to the United States, and the average prices at which the like or directly competitive domestic articles were sold at wholesale in the principal markets of the United States. The Commission shall also, to the extent practicable, estimate for each article on the list the maximum increase in annual imports which may occur without causing serious injury to the domestic industry producing like or directly competitive articles. The Commission shall request the executive departments and agencies for information in their possession concerning prices and other economic data from the principal supplier foreign country of each such article.

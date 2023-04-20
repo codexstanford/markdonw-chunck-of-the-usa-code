@@ -1,0 +1,8 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE VI— SOFTWOOD LUMBER
+### CHAPTER 5— SMUGGLING
+#### § 1701. Customs-enforcement area
+##### (b) Boarding vessels; arrest and seizure; compliance with treaty provisions; authority of Secretary of Commerce unaffected
+
+At any place within a customs-enforcement area the several officers of the customs may go on board of any vessel and examine the vessel and any merchandise or person on board, and bring the same into port, and, subject to regulations of the Secretary of the Treasury, it shall be their duty to pursue and seize or arrest and otherwise enforce upon such vessel, merchandise, or person, the provisions of law which are made effective thereto in pursuance of subsection (a) in the same manner as such officers are or may be authorized or required to do in like case at any place in the United States by virtue of any law respecting the revenue: Provided, That nothing contained in this section or in any other provision of law respecting the revenue shall be construed to authorize or to require any officer of the United States to enforce any law thereof upon the high seas upon a foreign vessel in contravention of any treaty with a foreign government enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States except as such authorities are or may otherwise be enabled or permitted under special arrangement with such foreign government: Provided further, That none of the provisions of this Act shall be construed to relieve the Secretary of Commerce of any authority, responsibility, or jurisdiction now vested in or imposed on that officer.

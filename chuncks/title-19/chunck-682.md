@@ -1,0 +1,13 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE III— ADMINISTRATIVE PROVISIONS
+#### § 1613. Disposition of proceeds of forfeited property
+##### (a) Application for remission of forfeiture and restoration of proceeds of sale; disposition of proceeds when no application has been made
+
+Except as provided in subsection (b) of this section, any person claiming any vessel, vehicle, aircraft, merchandise, or baggage, or any interest therein, which has been forfeited and sold under the provisions of this chapter, may at any time within three months after the date of sale apply to the Secretary of the Treasury if the forfeiture and sale was under the customs laws, or to the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if the forfeiture and sale was under the navigation laws, for a remission of the forfeiture and restoration of the proceeds of such sale, or such part thereof as may be claimed by him. Upon the production of satisfactory proof that the applicant did not know of the seizure prior to the declaration or condemnation of forfeiture, and was in such circumstances as prevented him from knowing of the same, and that such forfeiture was incurred without any willful negligence or intention to defraud on the part of the applicant, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection may order the proceeds of the sale, or any part thereof, restored to the applicant, after deducting the cost of seizure and of sale, the duties, if any, accruing on the merchandise or baggage, and any sum due on a lien for freight, charges, or contribution in general average that may have been filed. If no application for such remission or restoration is made within three months after such sale, or if the application be denied by the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection, the proceeds of sale shall be disposed of as follows:
+
+(1) For the payment of all proper expenses of the proceedings of forfeiture and sale, including expenses of seizure, maintaining the custody of the property, advertising and sale, and if condemned by a decree of a district court and a bond for such costs was not given, the costs as taxed by the court;
+
+(2) For the satisfaction of liens for freight, charges, and contributions in general average, notice of which has been filed with the appropriate customs officer according to law; and
+
+(3) The residue shall be deposited in the general fund of the Treasury of the United States. 1

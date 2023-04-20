@@ -1,0 +1,18 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE VI— SOFTWOOD LUMBER
+### CHAPTER 7— TRADE EXPANSION PROGRAM
+#### § 1981. General authority
+##### (a) Proclamation of increase in, or imposition of, any duty or other import restriction; report to the Congress; adoption of resolution of approval; request for additional information
+
+(1) After receiving an affirmative finding of the United States International Trade Commission under section 1901(b) of this title with respect to an industry, the President may proclaim such increase in, or imposition of, any duty or other import restriction on the article causing or threatening to cause serious injury to such industry as he determines to be necessary to prevent or remedy serious injury to such industry.
+
+(2) If the President does not, within 60 days after the date on which he receives such affirmative finding, proclaim the increase in, or imposition of, any duty or other import restriction on such article found and reported by the United States International Trade Commission pursuant to section 1901(e)  1 of this title
+
+(A) he shall immediately submit a report to the House of Representatives and to the Senate stating why he has not proclaimed such increase or imposition, and
+
+(B) such increase or imposition shall take effect (as provided in paragraph (3)) upon the adoption by both Houses of the Congress (within the 60-day period following the date on which the report referred to in subparagraph (A) is submitted to the House of Representatives and the Senate), by the yeas and nays by the affirmative vote of a majority of the authorized membership of each House, of a concurrent resolution stating in effect that the Senate and House of Representatives approve the increase in, or imposition of, any duty or other import restriction on the article found and reported by the United States International Trade Commission. For purposes of subparagraph (B), in the computation of the 60-day period there shall be excluded the days on which either House is not in session because of adjournment of more than 3 days to a day certain or an adjournment of the Congress sine die. The report referred to in subparagraph (A) shall be delivered to both Houses of the Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House of Representatives is not in session and to the Secretary of the Senate if the Senate is not in session.
+
+(3) In any case in which the contingency set forth in paragraph (2)(B) occurs, the President shall (within 15 days after the adoption of such resolution) proclaim the increase in, or imposition of, any duty or other import restriction on the article which was found and reported by the United States International Trade Commission pursuant to section 1901(e) of this title .
+
+(4) The President may, within 60 days after the date on which he receives an affirmative finding of the United States International Trade Commission under section 1901(b)  1 of this title with respect to an industry, request additional information from the United States International Trade Commission. The United States International Trade Commission shall, as soon as practicable but in no event more than 120 days after the date on which it receives the President’s request, furnish additional information with respect to such industry in a supplemental report. For purposes of paragraph (2), the date on which the President receives such supplemental report shall be treated as the date on which the President received the affirmative finding of the United States International Trade Commission with respect to such industry.

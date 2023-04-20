@@ -1,0 +1,13 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE II— SPECIAL PROVISIONS
+#### § 1309. Supplies for certain vessels and aircraft
+##### (a) Exemption from customs duties and internal-revenue tax
+
+Articles of foreign or domestic origin may be withdrawn, under such regulations as the Secretary of the Treasury may prescribe, from any customs bonded warehouse, from continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone free of duty and internal-revenue tax, or from any internal-revenue bonded warehouse, from any brewery, or from any winery premises or bonded premises for the storage of wine, free of internal-revenue tax
+
+(1) for supplies (not including equipment) of (A) vessels or aircraft operated by the United States, (B) vessels of the United States employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions, or between Hawaii and any other part of the United States, or between Alaska and any other part of the United States, or (C) aircraft registered in the United States and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States; or
+
+(2) for supplies (including equipment) or repair of (A) vessels of war of any foreign nation, or (B) foreign vessels employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where such trade by foreign vessels is permitted; or
+
+(3) for supplies (including equipment), ground equipment, maintenance, or repair of aircraft registered in any foreign country and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where trade by foreign aircraft is permitted. With respect to articles for ground equipment, the exemption hereunder shall apply only to duties and to taxes imposed upon or by reason of importation. The provisions for free withdrawals made by this subsection shall not apply to petroleum products for vessels or aircraft in voyages or flights exclusively between Hawaii or Alaska and any airport or Pacific coast seaport of the United States.

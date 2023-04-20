@@ -1,0 +1,7 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE III— ADMINISTRATIVE PROVISIONS
+#### § 1516. Petitions by domestic interested parties
+##### (c) Contest by petitioner of appraised value, classification, or rate of duty
+
+If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shall notify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner’s desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customs officer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.

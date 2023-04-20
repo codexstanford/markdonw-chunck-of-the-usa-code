@@ -1,0 +1,7 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE III— ADMINISTRATIVE PROVISIONS
+#### § 1516. Petitions by domestic interested parties
+##### (f) Appraisement, classification, and assessment of duty of merchandise covered by published decision of Secretary in accordance with final judicial decision of Court of International Trade or Court of Appeals for the Federal Circuit sustaining cause of action in whole or in part; suspension of liquidation of entries; publication
+
+If the cause of action is sustained in whole or in part by a decision of the United States Court of International Trade or of the United States Court of Appeals for the Federal Circuit, merchandise of the character covered by the published decision of the Secretary, which is entered for consumption or withdrawn from warehouse for consumption after the date of publication in the Federal Register by the Secretary or the administering authority of a notice of the court decision, shall be subject to appraisement, classification, and assessment of duty in accordance with the final judicial decision in the action, and the liquidation of entries covering the merchandise so entered or withdrawn shall be suspended until final disposition is made of the action, whereupon the entries shall be liquidated, or if necessary, reliquidated in accordance with the final decision. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.

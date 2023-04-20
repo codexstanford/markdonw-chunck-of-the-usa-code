@@ -1,0 +1,7 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE II— SPECIAL PROVISIONS
+#### § 1338. Discrimination by foreign countries
+##### (e) Duties to offset benefits to third country
+
+Whenever the President shall find as a fact that any foreign country imposes any unequal imposition or discrimination as aforesaid upon the commerce of the United States, or that any benefits accrue or are likely to accrue to any industry in any foreign country by reason of any such imposition or discrimination imposed by any foreign country other than the foreign country in which such industry is located, and whenever the President shall determine that any new or additional rate or rates of duty or any prohibition hereinbefore provided for do not effectively remove such imposition or discrimination and that any benefits from any such imposition or discrimination accrue or are likely to accrue to any industry in any foreign country, he shall, when he finds that the public interest will be served thereby, by proclamation specify and declare such new or additional rate or rates of duty upon the articles wholly or in part the growth or product of any such industry as he shall determine will offset such benefits, not to exceed 50 per centum ad valorem or its equivalent, upon importation from any foreign country into the United States of such articles; and on and after thirty days after the date of any such proclamation such new or additional rate or rates of duty so specified and declared in such proclamation shall be levied, collected, and paid upon such articles.

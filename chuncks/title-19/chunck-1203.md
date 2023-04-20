@@ -1,0 +1,7 @@
+
+# Title 19— CUSTOMS DUTIES
+## SUBTITLE VI— SOFTWOOD LUMBER
+### CHAPTER 12— TRADE ACT OF 1974
+#### § 2154. Prerequisites for offers
+
+(a) In any negotiation seeking an agreement under section 2133 of this title or section 4202 of this title , the President may make a formal offer for the modification or continuance of any United States duty, import restrictions, or barriers to (or other distortions of) international trade, the continuance of United States duty-free or excise treatment, or the imposition of additional duties, import restrictions, or other barrier to (or other distortion of) international trade including trade in services, foreign direct investment and intellectual property as covered by this subchapter, with respect to any article or matter only after he has received a summary of the hearings at which an opportunity to be heard with respect to such article has been afforded under section 2153 of this title . In addition, the President may make an offer for the modification or continuance of any United States duty, the continuance of United States duty-free or excise treatment, or the imposition of additional duties, with respect to any article included in a list published and furnished under section 2151(a) of this title , only after he has received advice concerning such article from the Commission under section 2151(b) of this title , or after the expiration of the 6-month or 90-day period provided for in that section, as appropriate, whichever first occurs.
