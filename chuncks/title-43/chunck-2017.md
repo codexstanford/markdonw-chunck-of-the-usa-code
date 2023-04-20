@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 35— FEDERAL LAND POLICY AND MANAGEMENT
+#### § 1770. Applicability of provisions to other Federal laws
+##### (a) Right-of-way
+
+Effective on and after October 21, 1976 , no right-of-way for the purposes listed in this subchapter shall be granted, issued, or renewed over, upon, under, or through such lands except under and subject to the provisions, limitations, and conditions of this subchapter: Provided , That nothing in this subchapter shall be construed as affecting or modifying the provisions of sections 532 to 538 of title 16 and in the event of conflict with, or inconsistency between, this subchapter and sections 532 to 538 of title 16, the latter shall prevail: Provided further , That nothing in this Act should be construed as making it mandatory that, with respect to forest roads, the Secretary of Agriculture limit rights-of-way grants or their term of years or require disclosure pursuant to section 1761(b) of this title or impose any other condition contemplated by this Act that is contrary to present practices of that Secretary under sections 532 to 538 of title 16. Any pending application for a right-of-way under any other law on the effective date of this section shall be considered as an application under this subchapter. The Secretary concerned may require the applicant to submit any additional information he deems necessary to comply with the requirements of this subchapter.

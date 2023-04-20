@@ -1,0 +1,13 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 32— COLORADO RIVER BASIN PROJECT
+#### § 1543. Lower Colorado River Basin Development Fund
+##### (c) Revenues credited to fund
+
+There shall also be credited to the development fund
+
+(1) all revenues collected in connection with the operation of facilities authorized in subchapter III in furtherance of the purposes of this chapter (except entrance, admission, and other recreation fees or charges and proceeds received from recreation concessionaires), until completion of repayment requirements of the Central Arizona project;
+
+(2) any Federal revenues from the Boulder Canyon and Parker-Davis projects which, after completion of repayment requirements of the said Boulder Canyon and Parker-Davis projects, are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of those projects: Provided, however , That for the Boulder Canyon project commencing June 1, 1987 , and for the Parker-Davis project commencing June 1, 2005 , and until the end of the repayment period for the Central Arizona project described in section 1521(a) of this title , the Secretary of Energy shall provide for surplus revenues by including the equivalent of 4½ mills per kilowatthour in the rates charged to purchasers in Arizona for application to the purposes specified in subsection (f) of this section and by including the equivalent 2½ mills per kilowatthour in the rates charged to purchasers in California and Nevada for application to the purposes of subsection (g) of this section as amended and supplemented: Provided further , That after the repayment period for said Central Arizona project, the equivalent of 2½ mills per kilowatthour shall be included by the Secretary of Energy in the rates charged to purchasers in Arizona, California, and Nevada to provide revenues for application to the purposes of said subsection (g) of this section: Provided, however , That the Secretary is authorized and directed to continue the in-lieu-of-tax payments to the States of Arizona and Nevada provided for in section 618a(c) of this title so long as revenues accrue from the operation of the Boulder Canyon project; and
+
+(3) any Federal revenues from that portion of the Pacific Northwest-Pacific Southwest intertie located in the States of Nevada and Arizona which, after completion of repayment requirements of the said part of the Pacific Northwest-Pacific Southwest intertie located in the States of Nevada and Arizona, are surplus, as determined by the Secretary, to the operation, maintenance, and replacement requirements of said portion of the Pacific Northwest-Pacific Southwest intertie and related facilities.

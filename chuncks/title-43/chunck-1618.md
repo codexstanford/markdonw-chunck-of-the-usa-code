@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 33— ALASKA NATIVE CLAIMS SETTLEMENT
+#### § 1620. Taxation
+##### (c) Land or land interests exemption; basis for sale or other disposition, adjustment; basis for interest in mine, well, other natural deposit, or block of timber, adjustment
+
+The receipt of land or any interest therein pursuant to this chapter or of cash in order to equalize the values of properties exchanged pursuant to section 1621(f) of this title shall not be subject to any form of Federal, State, or local taxation. The basis for determining gain or loss from the sale or other disposition of such land or interest in land for purposes of any Federal, State, or local tax imposed on or measured by income shall be the fair value of such land or interest in land at the time of receipt, adjusted as provided in section 1016 of title 26 , as amended: Provided, however , That the basis of any such land or interest therein attributable to an interest in a mine, well, other natural deposit, or block of timber shall be not less than the fair value of such mine, well, natural deposit, or block of timber (or such interest therein as the Secretary shall convey) at the time of the first commercial development thereof, adjusted as provided in section 1016 of title 26 . For purposes of this subsection, the time of receipt of land or any interest therein shall be the time of the conveyance by the Secretary of such land or interest (whether by interim conveyance or patent).

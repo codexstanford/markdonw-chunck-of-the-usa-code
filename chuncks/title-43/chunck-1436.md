@@ -1,0 +1,13 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 32— COLORADO RIVER BASIN PROJECT
+#### § 1552. Criteria for long-range operation of reservoirs
+##### (a) Promulgation by Secretary; order of priorities
+
+In order to comply with and carry out the provisions of the Colorado River Compact, the Upper Colorado River Basin Compact, and the Mexican Water Treaty, the Secretary shall propose criteria for the coordinated long-range operation of the reservoirs constructed and operated under the authority of the Colorado River Storage Project Act [ 43 U.S.C. 620 et seq.], the Boulder Canyon Project Act [ 43 U.S.C. 617 et seq.], and the Boulder Canyon Project Adjustment Act [ 43 U.S.C. 618 et seq.]. To effect in part the purposes expressed in this paragraph, the criteria shall make provision for the storage of water in storage units of the Colorado River storage project and releases of water form Lake Powell in the following listed order of priority:
+
+(1) releases to supply one-half the deficiency described in article III(c) of the Colorado River Compact, if any such deficiency exists and is chargeable to the States of the Upper Division, but in any event such releases, if any, shall not be required in any year that the Secretary makes the determination and issues the proclamation specified in section 1512 of this title ;
+
+(2) releases to comply with article III(d) of the Colorado River Compact, less such quantities of water delivered into the Colorado River below Lee Ferry to the credit of the States of the Upper Division from other sources; and
+
+(3) storage of water not required for the releases specified in clauses (1) and (2) of this subsection to the extent that the Secretary, after consultation with the Upper Colorado River Commission and representatives of the three Lower Division States and taking into consideration all relevant factors (including, but not limited to, historic stream-flows, the most critical period of record, and probabilities of water supply), shall find this to be reasonably necessary to assure deliveries under clauses (1) and (2) without impairment of annual consumptive uses in the upper basin pursuant to the Colorado River Compact: Provided , That water not so required to be stored shall be released from Lake Powell: (i) to the extent it can be reasonably applied in the States of the Lower Division to the uses specified in article III(e) of the Colorado River Compact, but no such releases shall be made when the active storage in Lake Powell is less than the active storage in Lake Mead, (ii) to maintain, as nearly as practicable, active storage in Lake Mead equal to the active storage in Lake Powell, and (iii) to avoid anticipated spills from Lake Powell.

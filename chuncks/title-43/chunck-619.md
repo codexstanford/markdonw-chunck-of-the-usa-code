@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12— RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
+#### § 451b. Irrigation construction charges
+##### (b) Credits to district; reduction of costs
+
+If an irrigation district or other form of organization within the boundaries of which is located the lieu farm unit of an entryman making an exchange under the provisions of this subchapter is or becomes the direct obligor for payment to the United States of irrigation construction charges or undertakes or has undertaken a contract under which the equivalent, in whole or in part, of such charges is returned to the United States, the Secretary may, to the extent to which it gives credit to the entryman for such charges or the equivalent thereof actually paid upon the original farm unit, give the district or other form of organization credit for payment of such charges. Upon the making of an exchange pursuant to the provisions of this subchapter, the Secretary may reduce (i) the reimbursable construction costs of the project or division thereof upon which the original farm unit was located by the amount of such costs which were properly assignable to the original farm unit and which were not then due and payable, and (ii) the reimbursable construction costs of the project or division thereof upon which the lieu farm unit is located by the amount of credit which might be given under the provisions of this section.

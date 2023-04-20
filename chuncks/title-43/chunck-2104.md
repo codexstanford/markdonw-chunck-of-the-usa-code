@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 37— PUBLIC RANGELANDS IMPROVEMENT
+#### § 1904. Range improvement funding
+##### (c) Fund limitations for prescribed uses; distribution, consultation and coordination; public hearings and meetings; interested parties; priority of cooperative agreements with range users
+
+No less than 80 per centum of such funds provided herein shall be used for on-the-ground range rehabilitation, maintenance and the construction of range improvements (including project layout, project design, and project supervision). No more than 15 per centum of such funds provided herein shall be used to hire and train such experienced and qualified personnel as are necessary to implement on-the-ground supervision and enforcement of the land use plans required pursuant to section 1712 of this title and such allotment management plans as may be developed. Such funds shall be distributed as the Secretary deems advisable after careful and considered consultation and coordination, including public hearings and meetings where appropriate, with the district grazing advisory boards established pursuant to section 1753 of this title , and the advisory councils established pursuant to section 1739 of this title , range user representatives, and other interested parties. To the maximum extent practicable, and where economically sound, the Secretary shall give priority to entering into cooperative agreements with range users (or user groups) for the installation and maintenance of on-the-ground range improvements.

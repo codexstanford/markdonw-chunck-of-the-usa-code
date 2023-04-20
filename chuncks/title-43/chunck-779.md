@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12— RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
+#### § 600c. Nonreimbursable costs
+##### (b) Conditions precedent to construction
+
+Actual construction of the project herein authorized shall not be commenced, and no construction contract awarded therefor, until (1) the Congress shall have consented to the interstate compact between the States of New Mexico, Oklahoma, and Texas agreed upon by the Canadian River Compact Commission at Santa Fe, New Mexico, December 6, 1950 , in conformity with Public Law 491, Eighty-first Congress, and (2) repayment of that portion of the actual cost of constructing the project which is allocated to municipal and industrial water supply and of interest on the unamortized balance thereof at a rate (which rate shall be certified by the Secretary of the Treasury) equal to the average rate paid by the United States on its long-term loans outstanding at the time the repayment contract is negotiated minus the amount of such net revenues as may be derived from temporary water supply contracts or from other sources prior to the close of the repayment period, shall have been assured by a contract satisfactory to the Secretary, with one central repayment contract organization, the term of which shall not exceed fifty years from the date of completion of the municipal and industrial water supply features of the project as determined by the Secretary.

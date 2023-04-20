@@ -1,0 +1,6 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 7— HOMESTEADS
+#### §§ 270–13 to 270–17. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789
+
+SUBCHAPTER IX— SOLDIERS’ AND SAILORS’ HOMESTEAD

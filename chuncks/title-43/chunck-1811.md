@@ -1,0 +1,8 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 35— FEDERAL LAND POLICY AND MANAGEMENT
+#### § 1703. Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture
+
+In fiscal year 2012 and each fiscal year thereafter, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish programs to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and may promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the “Service First” initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service or matters under the purview of other bureaus or offices of either Department. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.
+
+SUBCHAPTER II— LAND USE PLANNING AND LAND ACQUISITION AND DISPOSITION

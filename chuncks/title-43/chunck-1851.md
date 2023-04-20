@@ -1,0 +1,9 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 35— FEDERAL LAND POLICY AND MANAGEMENT
+#### § 1716. Exchanges of public lands or interests therein within the National Forest System
+##### (i) Segregation from appropriation under mining and public land laws
+
+(1) Upon receipt of an offer to exchange lands or interests in lands pursuant to this Act or other applicable laws, at the request of the head of the department or agency having jurisdiction over the lands involved, the Secretary of the Interior may temporarily segregate the Federal lands under consideration for exchange from appropriation under the mining laws. Such temporary segregation may only be made for a period of not to exceed five years. Upon a decision not to proceed with the exchange or upon deletion of any particular parcel from the exchange offer, the Federal lands involved or deleted shall be promptly restored to their former status under the mining laws. Any segregation pursuant to this paragraph shall be subject to valid existing rights as of the date of such segregation.
+
+(2) All non-Federal lands which are acquired by the United States through exchange pursuant to this Act or pursuant to other law applicable to lands managed by the Secretary of Agriculture shall be automatically segregated from appropriation under the public land law, including the mining laws, for ninety days after acceptance of title by the United States. Such segregation shall be subject to valid existing rights as of the date of such acceptance of title. At the end of such ninety day period, such segregation shall end and such lands shall be open to operation of the public land laws and to entry, location, and patent under the mining laws except to the extent otherwise provided by this Act or other applicable law, or appropriate actions pursuant thereto.

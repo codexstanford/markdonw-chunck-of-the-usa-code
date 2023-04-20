@@ -1,0 +1,6 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12— RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
+#### § 522. Lease of water power
+
+Whenever a development of power is necessary for the irrigation of lands, under any project undertaken under the said reclamation Act, or an opportunity is afforded for the development of power under any such project, the Secretary of the Interior is authorized to lease for a period not exceeding ten years, giving preference to municipal purposes, any surplus power or power privilege, and the moneys derived from such leases shall be covered into the reclamation fund and be placed to the credit of the project from which such power is derived: Provided , That no lease shall be made of such surplus power or power privileges as will impair the efficiency of the irrigation project: Provided further , That the Secretary of the Interior is authorized, in his discretion, to make such a lease in connection with Rio Grande project in Texas and New Mexico for a longer period not exceeding fifty years, with the approval of the water-users’ association or associations under any such project, organized in conformity with the rules and regulations prescribed by the Secretary of the Interior in pursuance of section 498 of this title .

@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12— RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
+#### § 485g. Classification of lands
+##### (f) Expenses
+
+One-half of the expense involved in any classification work undertaken pursuant to this section shall be charged to operation and maintenance administration nonreimbursable; and one-half shall be paid in advance by the organization involved. On determining probable justification for the requested classification or reclassification as provided in this section, the Secretary shall estimate the cost of the work involved and shall submit a statement of the estimated cost to said organization. Said organization, before commencement of the work, shall advance to the United States one-half of the amount set forth in said statement and also shall advance one-half of the amount of supplementary estimates of costs which the Secretary may find it necessary to make from time to time during the progress of the work; and said amounts shall be and remain available for expenditure by the Secretary for the purposes for which they are advanced, until the work is completed or abandoned. After completion or abandonment of the work, the Secretary, shall determine the actual costs thereof; and said organization shall pay any additional amount required to make its total payments hereunder equal to one-half of the actual cost or shall be credited with any amount by which advances made by it exceed one-half of said actual cost, as the case may be.

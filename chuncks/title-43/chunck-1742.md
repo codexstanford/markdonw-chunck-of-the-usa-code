@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 33A— IMPLEMENTATION OF ALASKA NATIVE CLAIMS SETTLEMENT AND ALASKA STATEHOOD
+#### § 1634. Alaska Native allotments
+##### (f) Reinstatement
+
+(1)

@@ -1,0 +1,9 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 33— ALASKA NATIVE CLAIMS SETTLEMENT
+#### § 1629. Cape Krusenstern National Monument land exchange between United States and NANA Regional Corporation, Inc.
+##### (h) Agreement as governing use of lands
+
+(1) The construction, operation, maintenance, expansion and reclamation of any portion of the transportation system on any of the lands subject to the easement granted to NANA by this section shall be governed solely by the terms and conditions of the Agreement, including the procedural and substantive provisions of Exhibit B to the Agreement, as if the lands covered by the easement granted to NANA by this section had been conveyed to NANA pursuant to paragraph A(1) of the Agreement.
+
+(2) The Secretary of the Interior, acting through the National Park Service, shall monitor the construction, operation, maintenance, expansion and reclamation of the transportation system, as provided in the Agreement. Any complaint by any person or entity that any aspect of the construction, operation, maintenance, expansion or reclamation of the portion of the transportation system on the lands subject to the easement granted to NANA by this section is not in accordance with the terms and conditions specified in the Agreement shall be made to the Secretary in writing. The Secretary shall review any such complaint and shall provide to NANA or its successors or assigns and to the complainant a decision in writing on the complaint within 90 days of receipt thereof. If the Secretary determines that the activity made the subject of a complaint is not in accordance with the terms specified in the Agreement, and NANA or its successors or assigns disagrees with that determination, the dispute shall be resolved according to the procedures established in Exhibit B to the Agreement.

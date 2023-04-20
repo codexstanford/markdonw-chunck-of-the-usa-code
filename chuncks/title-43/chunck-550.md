@@ -1,0 +1,6 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12— RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
+#### § 419. Contract for irrigation project; notice as to lands irrigable, unit of entry, and construction charges
+
+Upon the determination that any irrigation project is practicable, the Secretary of the Interior may cause to be let contracts for the construction of the same, in such portions or sections as it may be practicable to construct and complete as parts of the whole project, providing the necessary funds for such portions or sections are available, and thereupon he shall give public notice of the lands irrigable under such project, and limit of area per entry, which limit shall represent the acreage which, in the opinion of the Secretary, may be reasonably required for the support of a family upon the lands in question; also of the charges which shall be made per acre upon the said entries, and upon lands in private ownership which may be irrigated by the waters of the said irrigation project, and the number of annual installments in which such charges shall be paid and the time when such payments shall commence: Provided , That in all construction work eight hours shall constitute a day’s work.

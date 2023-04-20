@@ -1,0 +1,6 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12B— COLORADO RIVER STORAGE PROJECT
+#### § 620d–1. Reimbursement of Fund from Colorado River Development Fund; operation of Hoover Dam
+
+The Upper Colorado River Basin Fund established under section 620d of this title shall be reimbursed from the Colorado River Development Fund established by section 618a of this title for the money expended heretofore or hereafter from the Upper Colorado River Basin Fund to meet deficiencies in generation at Hoover Dam during the filling period of storage units of the Colorado River storage project pursuant to the criteria for the filling of Glen Canyon Reservoir (27 Fed. Reg. 6851, July 19, 1962 ). For this purpose, $500,000 for each year of operation of Hoover Dam and powerplant, commencing with fiscal year 1970, shall be transferred from the Colorado River Development Fund to the Upper Colorado River Basin Fund, in lieu of application of said amounts to the purposes stated in section 618a(d) of this title , until such reimbursement is accomplished. To the extent that any deficiency in such reimbursement remains as of June 1, 1987 , the amount of the remaining deficiency shall then be transferred to the Upper Colorado River Basin Fund from the Lower Colorado River Basin Development Fund, as provided in section 1543(g) of this title .

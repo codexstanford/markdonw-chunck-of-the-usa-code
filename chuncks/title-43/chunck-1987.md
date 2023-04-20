@@ -1,0 +1,11 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 35— FEDERAL LAND POLICY AND MANAGEMENT
+#### § 1761. Grant, issue, or renewal of rights-of-way
+##### (b) Procedures applicable; administration
+
+(1) The Secretary concerned shall require, prior to granting, issuing, or renewing a right-of-way, that the applicant submit and disclose those plans, contracts, agreements, or other information reasonably related to the use, or intended use, of the right-of-way, including its effect on competition, which he deems necessary to a determination, in accordance with the provisions of this Act, as to whether a right-of-way shall be granted, issued, or renewed and the terms and conditions which should be included in the right-of-way.
+
+(2) If the applicant is a partnership, corporation, association, or other business entity, the Secretary concerned, prior to granting a right-to-way  3 pursuant to this subchapter, shall require the applicant to disclose the identity of the participants in the entity, when he deems it necessary to a determination, in accordance with the provisions of this subchapter, as to whether a right-of-way shall be granted, issued, or renewed and the terms and conditions which should be included in the right-of-way. Such disclosures shall include, where applicable: (A) the name and address of each partner; (B) the name and address of each shareholder owning 3 per centum or more of the shares, together with the number and percentage of any class of voting shares of the entity which such shareholder is authorized to vote; and (C) the name and address of each affiliate of the entity together with, in the case of an affiliate controlled by the entity, the number of shares and the percentage of any class of voting stock of that affiliate owned, directly or indirectly, by that entity, and, in the case of an affiliate which controls that entity, the number of shares and the percentage of any class of voting stock of that entity owned, directly or indirectly, by the affiliate.
+
+(3) The Secretary of Agriculture shall have the authority to administer all rights-of-way granted or issued under authority of previous Acts with respect to lands under the jurisdiction of the Secretary of Agriculture, including rights-of-way granted or issued pursuant to authority given to the Secretary of the Interior by such previous Acts.

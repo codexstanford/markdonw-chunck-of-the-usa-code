@@ -1,0 +1,9 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 33A— IMPLEMENTATION OF ALASKA NATIVE CLAIMS SETTLEMENT AND ALASKA STATEHOOD
+#### § 1635. State selections and conveyances
+##### (o) Status of lands within units
+
+(1) Notwithstanding any other provision of law, subject to valid existing rights any land withdrawn pursuant to section 17(d)(1) of the Alaska Native Claims Settlement Act [ 43 U.S.C. 1616(d)(1) ] and within the boundaries of any conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be added to such unit and administered accordingly unless, before, on, or after December 2, 1980 , such land has been validly selected by and conveyed to a Native Corporation, or unless before December 2, 1980 , such land has been validly selected by, and after December 2, 1980 , is conveyed to the State. At such time as the entitlement of any Native Corporation to land under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.] is satisfied, any land within a conservation system unit selected by such Native Corporation shall, to the extent that such land is in excess of its entitlement, become part of such unit and administered accordingly: Provided , That nothing in this subsection shall necessarily preclude the future conveyance to the State of those Federal lands which are specified in a list dated October 19, 1979 , submitted by the State of Alaska and on file with the Office of the Secretary: Provided further , That nothing in this subsection shall affect any conveyance to the State pursuant to subsections (b), (c), (d), or (g) of this section.
+
+(2) Until conveyed, all Federal lands within the boundaries of a conservation system unit, National Recreation Area, National Conservation Area, new national forest or forest addition, shall be administered in accordance with the laws applicable to such unit.

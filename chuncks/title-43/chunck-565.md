@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 12— RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
+#### § 422d. Contents of proposals
+##### (a) Plans and estimates; review by States; allocation of capital costs
+
+Any proposal with respect to the construction of a project which has not theretofore been authorized for construction under the Federal reclamation laws shall set forth, among other things, a plan and estimated cost in detail comparable to those included in preauthorization reports required for a Federal reclamation project; shall have been submitted for review by the States of the drainage basin in which the project is located in like manner as provided in section 701–1(c) of title 33 , except that the review may be limited to the State or States in which the project is located if the proposal is one solely for rehabilitation and betterment of an existing project; and shall include a proposed allocation of capital costs to functions such that costs for facilities used for a single purpose shall be allocated to that purpose and costs for facilities used for more than one purpose shall be so allocated among the purposes served that each purpose will share equitably in the costs of such joint facilities. The costs of means and measures to prevent loss of and damage to fish and wildlife resources shall be considered as project costs and allocated as may be appropriate among project functions.

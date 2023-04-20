@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 32— COLORADO RIVER BASIN PROJECT
+#### § 1552. Criteria for long-range operation of reservoirs
+##### (b) Submittal of criteria for review and comment; publication; report to Congress
+
+Not later than January 1, 1970 , the criteria proposed in accordance with the foregoing subsection (a) of this section shall be submitted to the Governors of the seven Colorado River Basin States and to such other parties and agencies as the Secretary may deem appropriate for their review and comment. After receipt of comments on the proposed criteria, but not later than July 1, 1970 , the Secretary shall adopt appropriate criteria in accordance with this section and publish the same in the Federal Register. Beginning January 1, 1972 , and yearly thereafter, the Secretary shall transmit to the Congress and to the Governors of the Colorado River Basin States a report describing the actual operation under the adopted criteria for the preceding compact water year and the projected operation for the current year. As a result of actual operating experience or unforeseen circumstances, the Secretary may thereafter modify the criteria to better achieve the purposes specified in subsection (a) of this section, but only after correspondence with the Governors of the seven Colorado River Basin States and appropriate consultation with such State representatives as each Governor may designate.

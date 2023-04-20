@@ -1,0 +1,6 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 31— DEPARTMENT OF THE INTERIOR
+#### § 1474b–1. Transfer of funds from Natural Resource Damage Assessment and Restoration Fund
+
+Notwithstanding any other provision of law, any amounts appropriated or credited in fiscal year 1992 and thereafter, may be transferred to any account, including transfers to Federal trustees and payments to non-Federal trustees, to carry out the provisions of negotiated legal settlements or other legal actions for restoration activities and to carry out the provisions of the Comprehensive Environmental Response, Compensation, and Liability Act, as amended ( 42 U.S.C. 9601 , et seq.), Federal Water Pollution Control Act, as amended ( 33 U.S.C. 1251 , et seq.), the Oil Pollution Act of 1990 ( Public Law 101–380 ) [ 33 U.S.C. 2701 et seq.], and subchapter II of chapter 1007 of title 54 for damage assessment activities: Provided further , That sums provided by any party heretofore and hereafter are not limited to monetary payments and may include stocks, bonds or other personal or real property, which may be retained, liquidated or otherwise disposed of by the Secretary and such sums, to remain available until expended, or properties shall be utilized for the restoration of injured resources, and to conduct new damage assessment activities.

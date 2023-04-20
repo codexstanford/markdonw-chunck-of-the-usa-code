@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 33— ALASKA NATIVE CLAIMS SETTLEMENT
+#### § 1619. Attorney and consultant fees
+##### (g) Claims for costs in performance of certain services: submission, form, information, reasonableness, pro rata reductions; report to Congress; payment of claims; interest restriction
+
+A claim for actual costs incurred in filing protests, preserving land claims, advancing land claims settlement legislation, and presenting testimony to the Congress on proposed Native land claims may be submitted to the Chief Commissioner of the Court of Claims by any bona fide association of Natives. The claim must be submitted within six months from December 18, 1971 , and shall be in such form and contain such information as the Chief Commissioner shall prescribe. The Chief Commissioner shall allow such amounts as he determines are reasonable, but he shall allow no amount for attorney and consultant fees and expenses which shall be compensable solely under subsection  1 (b) through (e). If approved claims under this subsection aggregate more than $600,000, each claim shall be reduced on a pro rata basis. The Chief Commissioner shall certify to the Secretary of the Treasury, and report to the Congress, the amount of each claim allowed and the name and address of the claimant. The Secretary of the Treasury shall pay to such claimant from the Alaska Native Fund the amount certified. No award under this subsection shall bear interest.

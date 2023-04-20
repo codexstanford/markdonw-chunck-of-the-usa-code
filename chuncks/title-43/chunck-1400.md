@@ -1,0 +1,7 @@
+
+# Title 43— PUBLIC LANDS
+### CHAPTER 32— COLORADO RIVER BASIN PROJECT
+#### § 1521. Central Arizona Project
+##### (b) Limitation on water diversions in years of insufficient main stream Colorado River water
+
+Article II(B)(3) of the decree of the Supreme Court of the United States in Arizona against California (376 U.S. 340) shall be so administered that in any year in which, as determined by the Secretary, there is insufficient main stream Colorado River water available for release to satisfy annual consumptive use of seven million five hundred thousand acre-feet in Arizona, California, and Nevada, diversions from the main stream for the Central Arizona Project shall be so limited as to assure the availability of water in quantities sufficient to provide for the aggregate annual consumptive use by holders of present perfected rights, by other users in the State of California served under existing contracts with the United States by diversion works heretofore constructed, and by other existing Federal reservations in that State, of four million four hundred thousand acre-feet of mainstream water, and by users of the same character in Arizona and Nevada. Water users in the State of Nevada shall not be required to bear shortages in any proportion greater than would have been imposed in the absence of this subsection. This subsection shall not affect the relative priorities, among themselves, of water users in Arizona, Nevada, and California which are senior to diversions for the Central Arizona Project, or amend any provisions of said decree.
