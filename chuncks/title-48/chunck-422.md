@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 17— NORTHERN MARIANA ISLANDS
+#### § 1823. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules
+##### (a) Appellate jurisdiction of District Court
+
+Prior to the establishment of an appellate court for the Northern Mariana Islands the district court shall have such appellate jurisdiction over the courts established by the Constitution or laws of the Northern Mariana Islands as the Constitution and laws of the Northern Mariana Islands provide, except that such Constitution and laws may not preclude the review of any judgment or order which involves the Constitution, treaties, or laws of the United States, including the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ( 90 Stat. 263 ) (hereinafter referred to as “Covenant”), or any authority exercised thereunder by an officer or agency of the Government of the United States, or the conformity of any law enacted by the legislature of the Northern Mariana Islands or of any orders or regulations issued or actions taken by the executive branch of the government of the Northern Mariana Islands with the Constitution, treaties, or laws of the United States, including the Covenant or with any authority exercised thereunder by an officer or agency of the United States.

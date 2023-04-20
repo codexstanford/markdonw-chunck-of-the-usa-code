@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 17— NORTHERN MARIANA ISLANDS
+#### § 1841. Funds and services
+##### (c) Supplemental nutrition assistance program benefits and distribution of donated foods
+
+Notwithstanding the provisions of the Food and Nutrition Act of 2008 [ 7 U.S.C. 2011 et seq.], the Secretary of Agriculture is authorized, upon the request of the Governor of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with section 5 and 7 of article II of the Constitution of the Northern Mariana Islands, and for the period during which such legislation is effective, (1) to implement a supplemental nutrition assistance program in part or all of the Northern Mariana Islands with such income and household standards of eligibility, deductions, and allotment values as the Secretary determines, after consultation with the Governor, to be suited to the economic and social circumstances of such islands: Provided , That in no event shall such income standards of eligibility exceed those in the forty-eight contiguous States, and (2) to distribute or permit a distribution of federally donated foods in any part of the Northern Mariana Islands for which the Governor has not requested that the supplemental nutrition assistance program be implemented. This authority shall remain in effect through September 30, 1981 , and shall not apply to section 1421q–1 or 1574–1  1 of this title.

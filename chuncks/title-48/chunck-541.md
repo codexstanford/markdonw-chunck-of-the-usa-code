@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 18— MICRONESIA, MARSHALL ISLANDS, AND PALAU
+#### § 1921d. Supplemental provisions
+##### (j) Technical assistance
+
+Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements.

@@ -1,0 +1,15 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 18— MICRONESIA, MARSHALL ISLANDS, AND PALAU
+#### § 1905. Supplemental provisions
+##### (b) Relations with Federated States of Micronesia and Marshall Islands
+
+(1) The United States representatives to the Federated States of Micronesia and the Republic of the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relations between the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
+
+(2) Except for programs or services provided by or through other federal agencies or officials to the Federated States of Micronesia or the Republic of the Marshall Islands, or for which residents thereof are eligible pursuant to the Compact or any other provision of this joint resolution, appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior. The Secretary of the Interior shall coordinate and monitor any programs or activities, including such activities for which funding is made directly to such other agencies, provided to the Federated States of Micronesia or the Republic of the Marshall Islands by agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies, except that the Secretary of the Interior shall be able to reimburse Departments or agencies for purposes authorized by this joint resolution.
+
+(3) All programs and services provided to the Federated States of Micronesia and the Republic of the Marshall Islands by Federal agencies may be provided only after consultation with and under the supervision of the Secretary of the Interior, and the head of each Federal agency is directed to cooperate with the Secretary of the Interior and to make such personnel and services available as the Secretary of the Interior may request.
+
+(4) Any United States Government personnel assigned, on a temporary or permanent basis, to either the Federated States of Micronesia or the Marshall Islands shall, during the period of such assignment, be subject to the supervision of the United States representative to that area.
+
+(5) The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to provide policy guidance to federal departments and agencies. Such interagency group shall include the Secretary of the Interior and the Secretary of State.

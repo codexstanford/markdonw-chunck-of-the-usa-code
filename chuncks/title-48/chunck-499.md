@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 18— MICRONESIA, MARSHALL ISLANDS, AND PALAU
+#### § 1911. Compensatory adjustments
+##### (d) Further amounts
+
+The governments of the Federated States of Micronesia and the Marshall Islands may submit to Congress reports concerning the overall financial and economic impacts on such areas resulting from the effect of Title IV of this joint resolution upon Title Two of the Compact. There are hereby authorized to be appropriated for fiscal years beginning after September 30, 1990 , such amounts as may be necessary, but not to exceed $40 million for the Federated States of Micronesia and $20 million for the Marshall Islands, as provided in appropriation acts, to further compensate the governments of such islands (in addition to the compensation provided in subsections (a) and (b) of this section) for adverse impacts, if any, on the finances and economies of such areas resulting from the effect of Title IV of this joint resolution upon Title Two of the Compact. At the end of the initial fifteen-year term of the Compact, should any portion of the total amount of funds authorized in this subsection not have been appropriated, such amount not yet appropriated may be appropriated, without regard to divisions between amounts authorized in this subsection for the Federated States of Micronesia and for the Marshall Islands, based on either or both such government’s showing of such adverse impact, if any, as provided in this subsection.

@@ -1,0 +1,9 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 18— MICRONESIA, MARSHALL ISLANDS, AND PALAU
+#### § 1921. Approval of U.S.-FSM Compact of Free Association and the U.S.-RMI Compact of Free Association; references to subsidiary agreements or separate agreements
+##### (c) References to the Compact, the U.S.-FSM Compact, and the U.S.-RMI Compact; References to subsidiary agreements or separate agreements
+
+(1) Any reference in this joint resolution (except references in Title II) to “the Compact” shall be treated as a reference to the Compact of Free Association set forth in title II of Public Law 99–239 , January 14, 1986 , 99 Stat. 1770 . Any reference in this joint resolution to the “U.S.-FSM Compact” shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution. Any reference in this joint resolution to the “U.S.-RMI Compact” shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution.
+
+(2) Any reference to the term “subsidiary agreements” or “separate agreements” in this joint resolution shall be treated as a reference to agreements listed in section 462 of the U.S.-FSM Compact and the U.S.-RMI Compact, and any other agreements that the United States may from time to time enter into with either the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands, or with both such governments in accordance with the provisions of the U.S.-FSM Compact and the U.S.-RMI Compact.

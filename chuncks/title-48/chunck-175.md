@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 8A— GUAM
+#### § 1424–3. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court
+##### (b) Appellate division of District Court; quorum; presiding judge; designation of judges; decisions
+
+Appeals to the District Court of Guam shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The district judge shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division of any session shall be designated by the presiding judge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to section 1424b of this title : Provided , That no more than one of them may be a judge of a court of record of Guam. The concurrence of two judges shall be necessary to any decision of the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure.

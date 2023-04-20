@@ -1,0 +1,15 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 17— NORTHERN MARIANA ISLANDS
+#### § 1804. Direct grant assistance
+##### (c) Specific allocations for capital infrastructure projects
+
+The additional amounts referred to in subsection (b) shall be made available to the Secretary for obligation as follows:
+
+(1) for fiscal years 1996 through 2001, $4,580,000 annually for capital infrastructure projects as Impact Aid for Guam under section 1904(e)(6)  1 of this title;
+
+(2) for fiscal year 1996, $7,700,000 shall be provided for capital infrastructure projects in American Samoa; $4,420,000 for resettlement of Rongelap Atoll; and  2
+
+(3) for fiscal years 1997 and thereafter, all such amounts shall be available solely for capital infrastructure projects in Guam, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, the Federated States of Micronesia and the Republic of the Marshall Islands, except that $200,000 in fiscal year 2009 and $225,000 annually for fiscal years 2010 through 2018 are hereby rescinded; Provided, That the amount rescinded shall be increased by the same percentage as that of the annual salary and benefit adjustments for Members of Congress  3 Provided , That, in fiscal year 1997, $3,000,000 of such amounts shall be made available to the College of the Northern Marianas and beginning in fiscal year 1997, and in each year thereafter, not to exceed $3,000,000 may be allocated, as provided in appropriations Acts, to the Secretary of the Interior for use by Federal agencies or the Commonwealth of the Northern Mariana Islands to address immigration, labor, and law enforcement issues in the Northern Mariana Islands. The specific projects to be funded in American Samoa shall be set forth in a five-year plan for infrastructure assistance developed by the Secretary of the Interior in consultation with the American Samoa Government and updated annually and submitted to the Congress concurrent with the budget justifications for the Department of the Interior. In developing budget recommendations for capital infrastructure funding, the Secretary shall indicate the highest priority projects, consider the extent to which particular projects are part of an overall master plan, whether such project has been reviewed by the Corps of Engineers and any recommendations made as a result of such review, the extent to which a set-aside for maintenance would enhance the life of the project, the degree to which a local cost-share requirement would be consistent with local economic and fiscal capabilities, and may propose an incremental set-aside, not to exceed $2,000,000 per year, to remain available without fiscal year limitation, as an emergency fund in the event of natural or other disasters to supplement other assistance in the repair, replacement, or hardening of essential facilities: Provided further , That the cumulative amount set aside for such emergency fund may not exceed $10,000,000 at any time. 4
+
+(4) for fiscal year 2000, $5,420,000 shall be provided to the Virgin Islands for correctional facilities and other projects mandated by Federal law.

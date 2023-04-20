@@ -1,0 +1,6 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 10— TERRITORIAL PROVISIONS OF A GENERAL NATURE
+#### § 1469a–1. Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited
+
+Pursuant to the terms of the Organic Act of Guam ( 64 Stat. 384 ), as amended [ 48 U.S.C. 1421 et seq.]; the Joint resolution to Approve the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America ( 90 Stat. 263 ), as amended [ 48 U.S.C. 1801 et seq.]; the Puerto Rican Federal Relations Act ( 64 Stat. 319 ), as amended and supplemented [ 48 U.S.C. 731 et seq.]; and the Revised Organic Act of the Virgin Islands (86  1 Stat. 497), as amended and supplemented [ 48 U.S.C. 1541 et seq.] and an Act to authorize appropriations for certain insular areas of the United States, and for other purposes ( 92 Stat. 487 ), as amended; there shall be paid into the treasuries of Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands respectively the full amounts which are to be covered into the treasuries of said islands or paid pursuant to said laws as amended and supplemented and such amounts shall not be reduced, notwithstanding Public Law 99–177 , Public Law 99–366 , or any other provision of law.

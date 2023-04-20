@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 17— NORTHERN MARIANA ISLANDS
+#### § 1823. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules
+##### (b) Appellate division of District Court; quorum; presiding judge; designation of judges; decisions
+
+Appeals to the district court shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The judge appointed for the court by the President shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division at any session shall be designated by the presiding judge from among the judges assigned to the court from time to time pursuant to section 1821(b)(2) of this title : Provided , That no more than one of them may be a judge of a court of record of the Northern Mariana Islands. The concurrence of two judges shall be necessary to any decision by the appellate division of the district court on the merits of an appeal but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure.

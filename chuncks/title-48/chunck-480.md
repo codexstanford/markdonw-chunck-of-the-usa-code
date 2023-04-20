@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 18— MICRONESIA, MARSHALL ISLANDS, AND PALAU
+#### § 1905. Supplemental provisions
+##### (l) Technical assistance
+
+Technical assistance may be provided pursuant to section 226 of the Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Soil Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the Compact is in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Funds provided pursuant to sections 1902(a), 1903(a), 1903(c), 1903(h), 1903(i), 1903(j), and 1903( l ) of this title and subsections (c), (i), (j), (k), ( l ), (m), (n), and ( o ) shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Marshall Islands pursuant to the Compact or the subsidiary agreements.

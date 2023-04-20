@@ -1,0 +1,7 @@
+
+# Title 48— TERRITORIES AND INSULAR POSSESSIONS
+### CHAPTER 18— MICRONESIA, MARSHALL ISLANDS, AND PALAU
+#### § 1921c. Interpretation of and United States policy regarding U.S.-FSM Compact and U.S.-RMI Compact
+##### (a) Human rights
+
+In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the conclusion in the Statement of Intent of the Report of The Future Political Status Commission of the Congress of Micronesia in July, 1969, that “our recommendation of a free associated state is indissolubly linked to our desire for such a democratic, representative, constitutional government” and notes that such desire and intention are reaffirmed and embodied in the Constitutions of the Federated States of Micronesia and the Republic of the Marshall Islands. Congress also notes and specifically endorses the preamble to the U.S.-FSM Compact and the U.S.-RMI Compact, which affirms that the governments of the parties to the U.S.-FSM Compact and the U.S.-RMI Compact are founded upon respect for human rights and fundamental freedoms for all. The Secretary of State shall include in the annual reports on the status of internationally recognized human rights in foreign countries, which are submitted to Congress pursuant to sections 2151n and 2304 of title 22, a full and complete report regarding the status of internationally recognized human rights in the Federated States of Micronesia and the Republic of the Marshall Islands.
