@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B–1— SECURITIES INVESTOR PROTECTION
+#### § 78fff–4. Direct payment procedure
+##### (b) Notice
+
+Promptly after a determination under subsection (a) that the direct payment procedure is to be used with respect to a member, SIPC shall cause notice of such direct payment procedure to be published in one or more newspapers of general circulation in a form and manner determined by SIPC, and at the same time shall cause to be mailed a copy of such notice to each person who appears, from the books and records of such member, to have been a customer of the member with an open account within the past twelve months, to the address of such person as it appears from the books and records of such member. Such notice shall state that SIPC will satisfy customer claims directly, without a liquidation proceeding, and shall set forth the form and manner in which claims may be presented. A direct payment procedure shall be deemed to commence on the date of first publication under this subsection and no claim by a customer shall be paid or otherwise satisfied by SIPC unless received within the six-month period beginning on such date, except that SIPC shall, upon application within such period, and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian.

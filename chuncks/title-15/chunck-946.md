@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B— SECURITIES EXCHANGES
+#### § 78u. Investigations and actions
+##### (e) Mandamus
+
+Upon application of the Commission the district courts of the United States and the United States courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78 o of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.

@@ -1,0 +1,13 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 53— TOXIC SUBSTANCES CONTROL
+#### § 2622. Employee protection
+##### (b) Remedy
+
+(1) Any employee who believes that the employee has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section may, within 30 days after such alleged violation occurs, file (or have any person file on the employee’s behalf) a complaint with the Secretary of Labor (hereinafter in this section referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
+
+(2)
+
+(A) Upon receipt of a complaint filed under paragraph (1), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within 30 days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting on behalf of the complainant) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this paragraph. Within ninety days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committed such violation, issue an order either providing the relief prescribed by subparagraph (B) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for agency hearing. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
+
+(B) If in response to a complaint filed under paragraph (1) the Secretary determines that a violation of subsection (a) of this section has occurred, the Secretary shall order (i) the person who committed such violation to take affirmative action to abate the violation, (ii) such person to reinstate the complainant to the complainant’s former position together with the compensation (including back pay), terms, conditions, and privileges of the complainant’s employment, (iii) compensatory damages, and (iv) where appropriate, exemplary damages. If such an order issued, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorney’s fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.

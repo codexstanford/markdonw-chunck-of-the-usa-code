@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 47— CONSUMER PRODUCT SAFETY
+#### § 2067. Exemption of exports
+##### (b) Statement of exportation: filing period, information; notification of foreign country; petition for minimum filing period: good cause
+
+Not less than thirty days before any person exports to a foreign country any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter, such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and the basis for such safety standard or rule. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such product, the country and port of destination of such product, and the quantity of such product that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.

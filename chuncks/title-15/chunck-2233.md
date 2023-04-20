@@ -1,0 +1,9 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 14A— AID TO SMALL BUSINESS
+#### § 650. Supervisory and enforcement authority for small business lending companies
+##### (j) Penalties and forfeitures
+
+(1) Except as provided in paragraph (2), a small business lending company or a non-Federally regulated lender which violates any regulation or written directive issued by the Administrator regarding the filing of any regular or special report shall pay to the United States a civil penalty of not more than $5,000 for each day of the continuance of the failure to file such report, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The civil penalties under this subsection may be enforced in a civil action brought by the Administrator. The penalties under this subsection shall not apply to any affiliate of a small business lending company that procures at least 10 percent of its annual purchasing requirements from small manufacturers.
+
+(2) The Administrator may by rules and regulations that shall be codified in the Code of Federal Regulations, after an opportunity for notice and comment, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing which shall be conducted pursuant to sections 554, 556, and 557 of title 5, exempt in whole or in part, any small business lending company or non-Federally regulated lender from paragraph (1), upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administrator finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administrator may for the purposes of this section make any alternative requirements appropriate to the situation.

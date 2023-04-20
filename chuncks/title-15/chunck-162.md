@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 46. Additional powers of Commission
+##### (f) Publication of information; reports
+
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: Provided , That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title .

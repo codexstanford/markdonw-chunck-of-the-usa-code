@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–12. Functions and activities of investment companies
+##### (g) Exceptions to limitation on ownership by investment company of securities of insurance com­pany
+
+Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as a result thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.

@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 41— CONSUMER CREDIT PROTECTION
+#### § 1635. Right of rescission as to certain transactions
+##### (a) Disclosure of obligor’s right to rescind
+
+Except as otherwise provided in this section, in the case of any consumer credit transaction (including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Bureau, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Bureau, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Bureau, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.

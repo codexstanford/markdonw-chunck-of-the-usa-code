@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 68c. Stamp, tag, label, or other identification
+##### (c) Packages of wool products
+
+For the purposes of subsections (a) and (b) of this section, any package of wool products intended for sale to the ultimate consumer shall also be considered a wool product and shall have affixed to it a stamp, tag, label, or other means of identification bearing the information required by section 68b of this title , with respect to the wool products contained therein, unless such package of wool products is transparent to the extent that it allows for the clear reading of the stamp, tag, label, or other means of identification affixed to the wool product, or in the case of hosiery items this section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each hosiery product contained in a package if (1) such hosiery products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the hosiery products contained therein, the information required by section 68b of this title , 2 and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each hosiery product contained therein.

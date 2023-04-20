@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 47— CONSUMER PRODUCT SAFETY
+#### § 2058. Procedure for consumer product safety rules
+##### (h) Amendment or revocation of rule
+
+The Commission may by rule amend or revoke any consumer product safety rule. Such amendment or revocation shall specify the date on which it is to take effect which shall not exceed 180 days from the date the amendment or revocation is published unless the Commission finds for good cause shown that a later effective date is in the public interest and publishes its reasons for such finding. Where an amendment involves a material change in a consumer product safety rule, sections 2056 and 2057 of this title, and subsections (a) through (g) of this section shall apply. In order to revoke a consumer product safety rule, the Commission shall publish a proposal to revoke such rule in the Federal Register, and allow oral and written presentations in accordance with subsection (d)(2) of this section. It may revoke such rule only if it determines that the rule is not reasonably necessary to eliminate or reduce an unreasonable risk of injury associated with the product. Section 2060 of this title shall apply to any amendment of a consumer product safety rule which involves a material change and to any revocation of a consumer product safety rule, in the same manner and to the same extent as such section applies to the Commission’s action in promulgating such a rule.

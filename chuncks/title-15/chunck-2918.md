@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 16B— FEDERAL ENERGY ADMINISTRATION
+#### § 771. Comptroller General, powers and duties
+##### (a) Scope of activities; monitoring activity; data to Comptroller General from Administration; reports and recommendations to Congress
+
+For the duration of this chapter, the Comptroller General of the United States shall monitor and evaluate the operations of the Administration including its reporting activities. The Comptroller General shall (1) conduct studies of existing statutes and regulations governing the Administration’s programs; (2) review the policies and practices of the Administration; (3) review and evaluate the procedures followed by the Administrator in gathering, analyzing, and interpreting energy statistics, data, and information related to the management and conservation of energy, including but not limited to data related to energy costs, supply, demand, industry structure, and environmental impacts; and (4) evaluate particular projects or programs. The Comptroller General shall have access to such data within the possession or control of the Administration from any public or private source whatever, notwithstanding the provisions of any other law, as are necessary to carry out his responsibilities under this chapter and shall report to the Congress at such times as he deems appropriate with respect to the Administration’s programs, including his recommendations for modifications in existing laws, regulations, procedures, and practices.

@@ -1,0 +1,13 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 52— ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION
+#### § 2506. Demonstrations
+##### (b) Performance standards; factors considered; vehicle uses; revision; transmission of standards to Congress
+
+(1) Within 15 months after September 17, 1976 , the Secretary of Energy shall promulgate rules establishing performance standards for electric and hybrid vehicles to be purchased or leased pursuant to subsection (c)(1). The standards so developed shall take into account the factors of energy conservation, urban traffic characteristics, patterns of use for “second” vehicles, consumer preferences, maintenance needs, battery recharging characteristics, agricultural requirements, materials demand and their ability to be recycled, vehicle safety and insurability, cost, and other relevant considerations, as such factors and considerations particularly apply to or affect vehicles with electric or hybrid propulsion systems. Such standards are to be developed taking into account (A) the best current state-of-the-art, and (B) reasonable estimates as to the future state-of-the-art, based on projections of results from the research and development conducted under section 2505 of this title . In developing such standards, the Secretary of Energy shall consult with appropriate experts concerning design needs for electric and hybrid vehicles which are compatible with long-range urban planning, traffic management, and vehicle safety.
+
+(2) Separate performance standards shall be established under subsection (b)(1) with respect to (A) electric or hybrid vehicles for personal use, and (B) commercial electric or hybrid vehicles. Such performance standards shall represent the minimum level of performance which is required with respect to any vehicles purchased or leased pursuant to subsection (c). Initial performance standards under subsection (b)(1) shall be set at such levels as the Secretary of Energy determines are necessary to promote the acquisition and use of such vehicles for transportation purposes which are within the capability (as determined by the Secretary of Energy) of electric and hybrid vehicles.
+
+(3) Such performance standards shall be revised, by rule, periodically as the state-of-the-art improves.
+
+(4) The Secretary of Energy shall transmit to the Speaker of the House of Representatives and the President of the Senate, and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, the performance standards developed under paragraph (1) and all revised performance standards established in connection with the demonstrations specified in subsection (c)(2).

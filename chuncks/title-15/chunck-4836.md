@@ -1,0 +1,6 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 51— NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE
+#### § 2433. Support of external activities
+
+Each department, agency, and independent establishment of the Federal Government, in coordination with the Center, shall, to the extent appropriate, make available to State and local governments, labor organizations, industry, public institutions, and other qualified organizations advice, information, and support, including financial and other assistance, designed to maintain, promote, and enhance sustained productivity growth in the public and private sectors of the United States.

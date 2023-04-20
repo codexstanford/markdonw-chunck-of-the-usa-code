@@ -1,0 +1,8 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 41. Federal Trade Commission established; membership; vacancies; seal
+
+A commission is created and established, to be known as the Federal Trade Commission (hereinafter referred to as the Commission), which shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. Not more than three of the Commissioners shall be members of the same political party. The first Commissioners appointed shall continue in office for terms of three, four, five, six, and seven years, respectively, from September 26, 1914 , the term of each to be designated by the President, but their successors shall be appointed for terms of seven years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom he shall succeed: Provided, however , That upon the expiration of his term of office a Commissioner shall continue to serve until his successor shall have been appointed and shall have qualified.. 1 The President shall choose a chairman from the Commission’s membership. No Commissioner shall engage in any other business, vocation, or employment. Any Commissioner may be removed by the President for inefficiency, neglect of duty, or malfeasance in office. A vacancy in the Commission shall not impair the right of the remaining Commissioners to exercise all the powers of the Commission.
+
+The Commission shall have an official seal, which shall be judicially noticed.

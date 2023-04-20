@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–24. Registration of securities under Securities Act of 1933
+##### (d) Application of other provisions to securities of investment companies, face-amount certificate companies, and open-end companies or unit investment trust
+
+The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 [ 15 U.S.C. 77c(a)(8) ] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) [ 15 U.S.C. 77c(a)(11) ] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3)  1 of the Securities Act of 1933 [ 15 U.S.C. 77d(a)(3) ] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act [ 15 U.S.C. 77e ], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.

@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B–1— SECURITIES INVESTOR PROTECTION
+#### § 78kkk. Miscellaneous provisions
+##### (e) SIPC exempt from taxation
+
+SIPC, its property, its franchise, capital, reserves, surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of SIPC shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed. Assessments made upon a member of SIPC shall constitute ordinary and necessary expenses in carrying on the business of such member for the purpose of section 162(a) of title 26 . The contribution and transfer to SIPC of funds or securities held by any trust established by a national securities exchange prior to January 1, 1970 , for the purpose of providing assistance to customers of members of such exchange, shall not result in any taxable gain to such trust or give rise to any taxable income to any member of SIPC under any provision of title 26, nor shall such contribution or transfer, or any reduction in assessments made pursuant to this chapter, in any way affect the status, as ordinary and necessary expenses under section 162(a) of title 26 , of any contributions made to such trust by such exchange at any time prior to such transfer. Upon dissolution of SIPC, none of its net assets shall inure to the benefit of any of its members.

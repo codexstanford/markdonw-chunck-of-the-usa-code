@@ -1,0 +1,11 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B–1— SECURITIES INVESTOR PROTECTION
+#### § 78fff–2. Special provisions of a liquidation proceeding
+##### (b) Payments to customers
+
+After receipt of a written statement of claim pursuant to subsection (a)(2), the trustee shall promptly discharge, in accordance with the provisions of this section, all obligations of the debtor to a customer relating to, or net equity claims based upon, securities or cash, by the delivery of securities or the making of payments to or for the account of such customer (subject to the provisions of subsection (d) and section 78fff–3(a) of this title ) insofar as such obligations are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee. For purposes of distributing securities to customers, all securities shall be valued as of the close of business on the filing date. For purposes of this subsection, the court shall, among other things
+
+(1) with respect to net equity claims, authorize the trustee to satisfy claims out of moneys made available to the trustee by SIPC notwithstanding the fact that there has not been any showing or determination that there are sufficient funds of the debtor available to satisfy such claims; and
+
+(2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee, authorize the trustee to deliver securities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee. Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudice to any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) for any balance of securities or cash to which such claimant considers himself entitled.

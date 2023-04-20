@@ -1,0 +1,17 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 70b. Misbranded and falsely advertised textile fiber products
+##### (b) Stamp, tag, label or other means of identification; contents
+
+Except as otherwise provided in this subchapter, a textile fiber product shall be misbranded if a stamp, tag, label, or other means of identification, or substitute therefor authorized by section 70c of this title , is not on or affixed to the product showing in words and figures plainly legible, the following:
+
+(1) The constituent fiber or combination of fibers in the textile fiber product, designating with equal prominence each natural or manufactured fiber in the textile fiber product by its generic name in the order of predominance by the weight thereof if the weight of such fiber is 5 per centum or more of the total fiber weight of the product, but nothing in this section shall be construed as prohibiting the use of a nondeceptive trademark in conjunction with a designated generic name: Provided , That exclusive of permissible ornamentation, any fiber or group of fibers present in an amount of 5 per centum or less by weight of the total fiber content shall not be designated by the generic name or the trademark of such fiber or fibers, but shall be designated only as “other fiber” or “other fibers” as the case may be, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product.
+
+(2) The percentage of each fiber present, by weight, in the total fiber content of the textile fiber product, exclusive of ornamentation not exceeding 5 per centum by weight of the total fiber content: Provided , That, exclusive of permissible ornamentation, any fiber or group of fibers present in an amount of 5 per centum or less by weight of the total fiber content shall not be designated by the generic name or trademark of such fiber or fibers, but shall be designated only as “other fiber” or “other fibers” as the case may be but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated: Provided further , That in the case of a textile fiber product which contains more than one kind of fiber, deviation in the fiber content of any fiber in such product, from the amount stated on the stamp, tag, label, or other identification shall not be a misbranding under this section unless such deviation is in excess of reasonable tolerances which shall be established by the Commission: And provided further , That any such deviation which exceeds said tolerances shall not be a misbranding if the person charged proves that the deviation resulted from unavoidable variations in manufacture and despite due care to make accurate the statements on the tag, stamp, label, or other identification.
+
+(3) The name, or other identification issued and registered by the Commission, of the manufacturer of the product or one or more persons subject to section 70a of this title with respect to such product.
+
+(4) If it is an imported textile fiber product the name of the country where processed or manufactured.
+
+(5) If it is a textile fiber product processed or manufactured in the United States, it be so identified.

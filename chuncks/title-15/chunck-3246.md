@@ -1,0 +1,13 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 24— TRANSPORTATION OF GAMBLING DEVICES
+#### § 1173. Registration of manufacturers and dealers
+##### (a) Activities requiring registration; contents of registration statement
+
+(1) It shall be unlawful for any person engaged in the business of manufacturing gambling devices, if the activities of such business in any way affect interstate or foreign commerce, to manufacture any gambling device during any calendar year, unless, after November 30 of the preceding calendar year, and before the date on which such device is manufactured, such person has registered with the Attorney General under this subsection, regardless of whether such device ever enters interstate or foreign commerce.
+
+(2) It shall be unlawful for any person during any calendar year to engage in the business of repairing, reconditioning, buying, selling, leasing, using, or making available for use by others any gambling device, if in such business he sells, ships, or delivers any such device knowing that it will be introduced into interstate or foreign commerce after the effective date of the Gambling Devices Act of 1962, unless, after November 30 of the preceding calendar year, and before the date such sale, shipment, or delivery occurs, such person has registered with the Attorney General under this subsection.
+
+(3) It shall be unlawful for any person during any calendar year to engage in the business of repairing, reconditioning, buying, selling, leasing, using, or making available for use by others any gambling device, if in such business he buys or receives any such device knowing that it has been transported in interstate or foreign commerce after the effective date of the Gambling Devices Act of 1962, unless, after November 30, of the preceding calendar year and before the date on which he buys or receives such device, such person has registered with the Attorney General under this subsection.
+
+(4) Each person who registers with the Attorney General pursuant to this subsection shall set forth in such registration (A) his name and each trade name under which he does business, (B) the address of each of his places of business in any State or possession of the United States, (C) the address of a place, in a State or possession of the United States in which such a place of business is located, where he will keep all rec­ords required to be kept by him by subsection (c) of this section, and (D) each activity described in paragraph (1), (2), or (3) of this subsection which he intends to engage in during the calendar year with respect to which such registration is made.

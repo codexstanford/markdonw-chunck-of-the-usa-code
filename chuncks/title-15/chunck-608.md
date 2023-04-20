@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B— SECURITIES EXCHANGES
+#### § 78d–1. Delegation of functions by Commission
+##### (b) Right of review; procedure
+
+With respect to the delegation of any of its functions, as provided in subsection (a) of this section, the Commission shall retain a discretionary right to review the action of any such division of the Commission, individual Commissioner, administrative law judge, employee, or employee board, upon its own initiative or upon petition of a party to or intervenor in such action, within such time and in such manner as the Commission by rule shall prescribe. The vote of one member of the Commission shall be sufficient to bring any such action before the Commission for review. A person or party shall be entitled to review by the Commission if he or it is adversely affected by action at a delegated level which (1) denies any request for action pursuant to section 77h(a) or section 77h(c) of this title or the first sentence of section 78 l (d) of this title; (2) suspends trading in a security pursuant to section 78 l (k) of this title; or (3) is pursuant to any provision of this chapter in a case of adjudication, as defined in section 551 of title 5 , not required by this chapter to be determined on the record after notice and opportunity for hearing (except to the extent there is involved a matter described in section 554(a)(1) through (6) of such title 5).

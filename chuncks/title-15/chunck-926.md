@@ -1,0 +1,13 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B— SECURITIES EXCHANGES
+#### § 78s. Registration, responsibilities, and oversight of self-regulatory organizations
+##### (e) Disposition of review; cancellation, reduction, or remission of sanction
+
+(1) In any proceeding to review a final disciplinary sanction imposed by a self-regulatory organization on a member thereof or participant therein or a person associated with such a member, after notice and opportunity for hearing (which hearing may consist solely of consideration of the record before the self-regulatory organization and opportunity for the presentation of supporting reasons to affirm, modify, or set aside the sanction)
+
+(A) if the appropriate regulatory agency for such member, participant, or person associated with a member finds that such member, participant, or person associated with a member has engaged in such acts or practices, or has omitted such acts, as the self-regulatory organization has found him to have engaged in or omitted, that such acts or practices, or omissions to act, are in violation of such provisions of this chapter, the rules or regulations thereunder, the rules of the self-regulatory organization, or, in the case of a registered securities association, the rules of the Municipal Securities Rulemaking Board as have been specified in the determination of the self-regulatory organization, and that such provisions are, and were applied in a manner, consistent with the purposes of this chapter, such appropriate regulatory agency, by order, shall so declare and, as appropriate, affirm the sanction imposed by the self-regulatory organization, modify the sanction in accordance with paragraph (2) of this subsection, or remand to the self-regulatory organization for further proceedings; or
+
+(B) if such appropriate regulatory agency does not make any such finding it shall, by order, set aside the sanction imposed by the self-regulatory organization and, if appropriate, remand to the self-regulatory organization for further proceedings.
+
+(2) If the appropriate regulatory agency for a member, participant, or person associated with a member, having due regard for the public interest and the protection of investors, finds after a proceeding in accordance with paragraph (1) of this subsection that a sanction imposed by a self-regulatory organization upon such member, participant, or person associated with a member imposes any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter or is excessive or oppressive, the appropriate regulatory agency may cancel, reduce, or require the remission of such sanction.

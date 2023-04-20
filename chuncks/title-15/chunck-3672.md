@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 41— CONSUMER CREDIT PROTECTION
+#### § 1635. Right of rescission as to certain transactions
+##### (b) Return of money or property following rescission
+
+When an obligor exercises his right to rescind under subsection (a), he is not liable for any finance or other charge, and any security interest given by the obligor, including any such interest arising by operation of law, becomes void upon such a rescission. Within 20 days after receipt of a notice of rescission, the creditor shall return to the obligor any money or property given as earnest money, downpayment, or otherwise, and shall take any action necessary or appropriate to reflect the termination of any security interest created under the transaction. If the creditor has delivered any property to the obligor, the obligor may retain possession of it. Upon the performance of the creditor’s obligations under this section, the obligor shall tender the property to the creditor, except that if return of the property in kind would be impracticable or inequitable, the obligor shall tender its reasonable value. Tender shall be made at the location of the property or at the residence of the obligor, at the option of the obligor. If the creditor does not take possession of the property within 20 days after tender by the obligor, ownership of the property vests in the obligor without obligation on his part to pay for it. The procedures prescribed by this subsection shall apply except when otherwise ordered by a court.

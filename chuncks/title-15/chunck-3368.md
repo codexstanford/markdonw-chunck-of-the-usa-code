@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 30— HAZARDOUS SUBSTANCES
+#### § 1273. Imports
+##### (b) Disposition of refused articles
+
+Pending decision as to the admission of a hazardous substance being imported or offered for import, the Secretary of the Treasury may authorize delivery of such hazardous substance to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Commission that the hazardous substance can, by relabeling or other action, be brought into compliance with this chapter, final determination as to admission of such hazardous substance may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary  1 may, in accordance with regulations, authorize the applicant to perform such relabeling or other action specified in such authorization (including destruction or export of rejected hazardous substances or portions thereof, as may be specified in the Secretary’s  2 authorization). All such relabeling or other action pursuant to such authorization shall, in accordance with regulations, be under the supervision of an officer or employee of the Commission designated by the Secretary  1 , or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.

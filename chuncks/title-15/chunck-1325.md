@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–28. Face-amount certificate companies
+##### (h) Declaration or payment of dividends
+
+It shall be unlawful for any registered face-amount certificate company which does not maintain the minimum certificate reserve on all its outstanding face-amount certificates issued prior to the effective date of this chapter, in an aggregate amount calculated and adjusted as provided in this section to declare or pay any dividends on the shares of such company for or during any calendar year which shall exceed one-third of the net earnings for the next preceding calendar year or which shall exceed 10 per centum of the aggregate net earnings for the next preceding five calendar years, whichever is the lesser amount, or any dividend which shall have been forbidden by the Commission pursuant to the provision of the next sentence of this paragraph. At least thirty days before such company shall declare, pay, or distribute any dividend, it shall give the Commission written notice of its intention to declare, pay, or distribute the same; and if at any time it shall appear to the Commission that the declaration, payment or distribution of any dividend for or during any calendar year might impair the financial integrity of such company or its ability to meet its liabilities under its outstanding face-amount certificates, it may by order forbid the declaration, distribution, or payment of any such dividend.

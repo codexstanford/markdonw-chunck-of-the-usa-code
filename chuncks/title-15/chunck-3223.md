@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 22— TRADEMARKS
+#### § 1141j. Dependence of extension of protection to the United States on the underlying international registration
+##### (c) Transformation of an extension of protection into a United States application
+
+The holder of an international registration canceled in whole or in part by the International Bureau at the request of the office of origin, under article 6(4) of the Madrid Protocol, may file an application, under section 1051 or 1126 of this title, for the registration of the same mark for any of the goods and services to which the cancellation applies that were covered by an extension of protection to the United States based on that international registration. Such an application shall be treated as if it had been filed on the international registration date or the date of recordal of the request for extension of protection with the International Bureau, whichever date applies, and, if the extension of protection enjoyed priority under section 1141g of this title , shall enjoy the same priority. Such an application shall be entitled to the benefits conferred by this subsection only if the application is filed not later than 3 months after the date on which the international registration was canceled, in whole or in part, and only if the application complies with all the requirements of this chapter which apply to any application filed pursuant to section 1051 or 1126 of this title.

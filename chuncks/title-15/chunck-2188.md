@@ -1,0 +1,9 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 14A— AID TO SMALL BUSINESS
+#### § 648. Small business development center program authorization
+##### (i) National Small Business Development Center Advisory Board; establishment; membership; term; Chairman; advisory and counseling functions; meetings; compensation
+
+(1) There is established a National Small Business Development Center Advisory Board (herein referred to as “Board”) which shall consist of nine members appointed from civilian life by the Administrator and who shall be persons of outstanding qualifications known to be familiar and sympathetic with small business needs and problems. No more than three members shall be from universities or their affiliates and six shall be from small businesses or associations representing small businesses. At the time of the appointment of the Board, the Administrator shall designate one-third of the members and at least one from each category whose term shall end in two years from the date of appointment, a second third whose term shall end in three years from the date of appointment, and the final third whose term shall end in four years from the date of appointment. Succeeding Boards shall have three-year terms, with one-third of the Board changing each year.
+
+(2) The Board shall elect a Chairman and advise, counsel, and confer with the Associate Administrator for Small Business Development Centers in carrying out the duties described in this section. The Board shall meet at least semiannually and at the call of the Chairman of the Board. Each member of the Board shall be entitled to be compensated at the rate not in excess of the per diem, equivalent of the highest rate of pay for individuals occupying the position under GS–18 of the General Schedule for each day engaged in activities of the Board and shall be entitled to be reimbursed for expenses as a member of the Board.

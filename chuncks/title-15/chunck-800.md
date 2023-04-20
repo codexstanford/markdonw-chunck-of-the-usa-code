@@ -1,0 +1,21 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B— SECURITIES EXCHANGES
+#### § 78o–3. Registered securities associations
+##### (g) Denial of membership
+
+(1) A registered securities association shall deny membership to any person who is not a registered broker or dealer.
+
+(2) A registered securities association may, and in cases in which the Commission, by order, directs as necessary or appropriate in the public interest or for the protection of investors shall, deny membership to any registered broker or dealer, and bar from becoming associated with a member any person, who is subject to a statutory disqualification. A registered securities association shall file notice with the Commission not less than thirty days prior to admitting any registered broker or dealer to membership or permitting any person to become associated with a member, if the association knew, or in the exercise of reasonable care should have known, that such broker or dealer or person was subject to a statutory disqualification. The notice shall be in such form and contain such information as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+
+(3)
+
+(A) A registered securities association may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience, and competence as are prescribed by the rules of the association or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he will again engage in acts or practices inconsistent with just and equitable principles of trade. A registered securities association may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the association.
+
+(B) A registered securities association may bar a natural person from becoming associated with a member or condition the association of a natural person with a member if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the association or (ii) has engaged and there is a reasonable likelihood he will again engage in acts or practices inconsistent with just and equitable principles of trade. A registered securities association may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the association and require a natural person associated with a member, or any class of such natural persons, to be registered with the association in accordance with procedures so established.
+
+(C) A registered securities association may bar any person from becoming associated with a member if such person does not agree (i) to supply the association with such information with respect to its relationship and dealings with the member as may be specified in the rules of the association and (ii) to permit examination of its books and records to verify the accuracy of any information so supplied.
+
+(D) Nothing in subparagraph (A), (B), or (C) of this paragraph shall be construed to permit a registered securities association to deny membership to or condition the membership of, or bar any person from becoming associated with or condition the association of any person with, a broker or dealer that engages exclusively in transactions in municipal securities.
+
+(4) A registered securities association may deny membership to a registered broker or dealer not engaged in a type of business in which the rules of the association require members to be engaged: Provided, however , That no registered securities association may deny membership to a registered broker or dealer by reason of the amount of such type of business done by such broker or dealer or the other types of business in which he is engaged.

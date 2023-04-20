@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 15B— NATURAL GAS
+#### § 717m. Investigations by Commission
+##### (e) Testimony of witnesses
+
+The testimony of any witness may be taken at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.

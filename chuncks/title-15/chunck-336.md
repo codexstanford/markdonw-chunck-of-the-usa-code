@@ -1,0 +1,6 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 70f. Injunction proceedings
+
+Whenever the Commission has reason to believe

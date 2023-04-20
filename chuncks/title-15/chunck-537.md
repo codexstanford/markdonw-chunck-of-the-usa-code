@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2A— SECURITIES AND TRUST INDENTURES
+#### § 77ooo. Duties and responsibility of the trustee
+##### (e) Undertaking for costs
+
+The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions to the effect that all parties thereto, including the indenture security holders, agree that the court may in its discretion require, in any suit for the enforcement of any right or remedy under such indenture, or in any suit against the trustee for any action taken or omitted by it as trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its discretion assess reasonable costs, including reasonable attorney’s fees, against any party litigant in such suit, having due regard to the merits and good faith of the claims or defenses made by such party litigant: Provided , That the provisions of this subsection shall not apply to any suit instituted by such trustee, to any suit instituted by any indenture security holder, or group of indenture security holders, holding in the aggregate more than 10 per centum in principal amount of the indenture securities outstanding, or to any suit instituted by any indenture security holder for the enforcement of the payment of the principal of or interest on any indenture security, on or after the respective due dates expressed in such indenture security.

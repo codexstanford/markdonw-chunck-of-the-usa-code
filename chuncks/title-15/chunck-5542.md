@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 63— TECHNOLOGY INNOVATION
+#### § 3710. Utilization of Federal technology
+##### (b) Establishment of Research and Technology Applications Offices
+
+Each Federal laboratory shall establish an Office of Research and technology Applications. Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency’s research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.

@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–41. Enforcement of subchapter
+##### (c) Jurisdiction of courts of United States
+
+In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. And such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found. Any person who without just cause shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor, and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.

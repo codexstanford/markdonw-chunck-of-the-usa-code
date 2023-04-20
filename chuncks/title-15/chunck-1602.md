@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 6— WEIGHTS AND MEASURES AND STANDARD TIME
+#### § 261. Zones for standard time; interstate or foreign commerce
+##### (a) In general
+
+For the purpose of establishing the standard time of the United States, the territory of the United States shall be divided into nine zones in the manner provided in this section. Except as provided in section 260a(a) of this title , the standard time of the first zone shall be Coordinated Universal Time retarded by 4 hours; that of the second zone retarded by 5 hours; that of the third zone retarded by 6 hours; that of the fourth zone retarded by 7 hours; that of the fifth zone retarded  1 8 hours; that of the sixth zone retarded by 9 hours; that of the seventh zone retarded by 10 hours; that of the eighth zone retarded by 11 hours; and that of the ninth zone shall be Coordinated Universal Time advanced by 10 hours. The limits of each zone shall be defined by an order of the Secretary of Transportation, having regard for the convenience of commerce and the existing junction points and division points of common carriers engaged in interstate or foreign commerce, and any such order may be modified from time to time. As used in sections 261 to 264 of this title, the term “interstate or foreign commerce” means commerce between a State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof.

@@ -1,0 +1,9 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 47— CONSUMER PRODUCT SAFETY
+#### § 2058. Procedure for consumer product safety rules
+##### (g) Effective date of rule or standard; stockpiling of product
+
+(1) Each consumer product safety rule shall specify the date such rule is to take effect not exceeding 180 days from the date promulgated, unless the Commission finds, for good cause shown, that a later effective date is in the public interest and publishes its reasons for such finding. The effective date of a consumer product safety standard under this chapter shall be set at a date at least 30 days after the date of promulgation unless the Commission for good cause shown determines that an earlier effective date is in the public interest. In no case may the effective date be set at a date which is earlier than the date of promulgation. A consumer product safety standard shall be applicable only to consumer products manufactured after the effective date.
+
+(2) The Commission may by rule prohibit a manufacturer of a consumer product from stockpiling any product to which a consumer product safety rule applies, or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies, so as to prevent such manufacturer from circumventing the purpose of such rule, regulation, standard, or ban. For purposes of this paragraph, the term “stockpiling” means manufacturing or importing a product between the date of promulgation of such rule, regulation, standard, or ban and its effective date at a rate which is significantly greater (as determined under the rule under this paragraph) than the rate at which such product was produced or imported during a base period (prescribed in the rule under this paragraph) ending before the date of promulgation of the rule, regulation, standard, or ban.

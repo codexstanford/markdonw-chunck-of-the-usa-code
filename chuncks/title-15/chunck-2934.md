@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 16B— FEDERAL ENERGY ADMINISTRATION
+#### § 773. Public disclosure of information
+##### (b) Freedom of Information Act applicable; disclosure of confidential information or trade secrets; disclosure of matter included in public annual reports to Securities and Exchange Commission and matter excepted from such disclosure
+
+Subject to the provisions of this chapter, section 552 of title 5 shall apply to public disclosure of information by the Administrator: Provided , That notwithstanding said section, the provisions of section 1905 of title 18 , or any other provision of law, (1) all matters reported to, or otherwise obtained by, any person exercising authority under this chapter containing trade secrets or other matter referred to in section 1905 of title 18 , may be disclosed to other persons authorized to perform functions under this chapter solely to carry out the purposes of the chapter, or when relevant in any proceeding under this chapter, and (2) the Administrator shall disclose to the public, at a reasonable cost, and upon a request which reasonably describes the matter sought, any matter of the type which could not be excluded from public annual reports to the Securities and Exchange Commission pursuant to section 78m or 78 o (d) of this title by a business enterprise exclusively engaged in the manufacture or sale of a single product, unless such matter concerns or relates to the trade secrets, processes, operations, style of work, or apparatus of a business enterprise.

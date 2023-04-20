@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 25— FLAMMABLE FABRICS
+#### § 1195. Injunction and condemnation proceedings
+##### (b) Process of libel for seizure and confiscation; manner of procedure; consolidation of trials
+
+Whenever the Commission has reason to believe that any product has been manufactured or introduced into commerce or any fabric or related material has been introduced in commerce in violation of section 1192 of this title , it may institute proceedings by process of libel for the seizure and confiscation of such product, fabric, or related material in any district court of the United States within the jurisdiction of which such product, fabric, or related material is found. Proceedings in cases instituted under the authority of this section shall conform as nearly as may be to proceedings in rem in admiralty, except that on demand of either party and in the discretion of the court, any issue of fact shall be tried by jury. Whenever such proceedings involving identical products, fabrics, or related materials are pending in two or more jurisdictions, they may be consolidated for trial by order of any such court upon application seasonably made by any party in interest upon notice to all other parties in interest. Any court granting an order of consolidation shall cause prompt notification thereof to be given to other courts having jurisdiction in the cases covered thereby and the clerks of such other courts shall transmit all pertinent records and papers to the court designated for the trial of such consolidated proceedings.

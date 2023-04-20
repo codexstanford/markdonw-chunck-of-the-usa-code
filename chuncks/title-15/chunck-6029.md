@@ -1,0 +1,6 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 75— NATIONAL TRADE DATA BANK
+#### § 4903. Functions of Committee
+
+The Committee shall advise the Secretary of Commerce, as appropriate, on the establishment, structure, contents, and operation of a National Trade Data Bank in accordance with section 4906 of this title in order to assure the timely collection of accurate data and to provide the private sector and government officials efficient access to economic and trade data collected by the Federal Government for purposes of policymaking and export promotion.

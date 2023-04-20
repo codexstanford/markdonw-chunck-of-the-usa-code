@@ -1,0 +1,9 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 52— ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION
+#### § 2506. Demonstrations
+##### (e) Displacement of private procurement; reports to congressional committees; reduction of number purchased
+
+(1) At least 60 days prior to entering into any contract for the purchase or lease of any electric or hybrid vehicle under subsection (c)(1) or any advanced electric or hybrid vehicle under subsection (c)(2), the Secretary of Energy shall determine (A) if the purchase or lease of the number of such vehicles specified in such subsection (c)(1) or (c)(2) will, with high probability, displace the normal level of private procurement of such vehicles which would conform to the applicable performance standards promulgated pursuant to subsection (b) and which would be used in the United States, and (B) if such displacement will occur, the necessary extent of such displacement in order to carry out the purposes of this chapter.
+
+(2) The Secretary of Energy shall reduce the number of vehicles for which he shall contract for the purchase or lease under subsection (c)(1) or (c)(2) by the number determined under subsection (e)(1)(A) as modified by subsection (e)(1)(B), except in no event shall he contract for the purchase or lease pursuant to subsection (c)(1) of less than 1,000 electric or hybrid vehicles, and in no event shall he contract for the purchase or lease pursuant to subsection (c)(2) of less than 2,500 advanced electric or hybrid vehicles unless he determines on the basis of responses to the solicitations for proposals for such contracts, under the provisions of subsections (c)(1) and (c)(2) that lesser numbers of such vehicles which satisfy the applicable performance standards will be available within the delivery periods. All other provisions of subsection (c) shall apply.

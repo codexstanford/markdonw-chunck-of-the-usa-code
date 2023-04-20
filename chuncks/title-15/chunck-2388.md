@@ -1,0 +1,8 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 14B— SMALL BUSINESS INVESTMENT PROGRAM
+#### § 672. Repealed. Pub. L. 87–341, § 11(h)(1) , Oct. 3, 1961 , 75 Stat. 757
+
+SUBCHAPTER III— INVESTMENT DIVISION PROGRAMS
+
+Part A— Small Business Investment Companies

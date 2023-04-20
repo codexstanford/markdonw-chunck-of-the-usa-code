@@ -1,0 +1,26 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B— SECURITIES EXCHANGES
+#### § 78q–1. National system for clearance and settlement of securities transactions
+##### (b) Registration of clearing agencies; application; determinations by Commission requisite to registration of applicant as clearing agency; denial of participation; discipline; summary proceedings; exemption; facilities for handling derivatives
+######## (A) In any proceeding by a registered clearing agency to determine whether a participant should be disciplined (other than a summary proceeding pursuant to subparagraph (C) of this paragraph), the clearing agency shall bring specific charges, notify such participant of, and give him an opportunity to defend against such charges, and keep a record. A determination by the clearing agency to impose a disciplinary sanction shall be supported by a statement setting forth
+
+(i) any act or practice in which such participant has been found to have engaged, or which such participant has been found to have omitted;
+
+(ii) the specific provisions of the rules of the clearing agency which any such act or practice, or omission to act, is deemed to violate; and
+
+(iii) the sanction imposed and the reasons therefor.
+
+(B) In any proceeding by a registered clearing agency to determine whether a person shall be denied participation or prohibited or limited with respect to access to services offered by the clearing agency, the clearing agency shall notify such person of, and give him an opportunity to be heard upon, the specific grounds for denial or prohibition or limitation under consideration and keep a record. A determination by the clearing agency to deny participation or prohibit or limit a person with respect to access to services offered by the clearing agency shall be supported by a statement setting forth the specific grounds on which the denial or prohibition or limitation is based.
+
+(C) A registered clearing agency may summarily suspend and close the accounts of a participant who (i) has been and is expelled or suspended from any self-regulatory organization, (ii) is in default of any delivery of funds or securities to the clearing agency, or (iii) is in such financial or operating difficulty that the clearing agency determines and so notifies the appropriate regulatory agency for such participant that such suspension and closing of accounts are necessary for the protection of the clearing agency, its participants, creditors, or investors. A participant so summarily suspended shall be promptly afforded an opportunity for a hearing by the clearing agency in accordance with the provisions of subparagraph (A) of this paragraph. The appropriate regulatory agency for such participant, by order, may stay any such summary suspension on its own motion or upon application by any person aggrieved thereby, if such appropriate regulatory agency determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and protection of investors.
+
+(6) No registered clearing agency shall prohibit or limit access by any person to services offered by any participant therein.
+
+(7)
+
+(A) A clearing agency that is regulated directly or indirectly by the Commodity Futures Trading Commission through its association with a designated contract market for security futures products that is a national securities exchange registered pursuant to section 78f(g) of this title , and that would be required to register pursuant to paragraph (1) of this subsection only because it performs the functions of a clearing agency with respect to security futures products effected pursuant to the rules of the designated contract market with which such agency is associated, is exempted from the provisions of this section and the rules and regulations thereunder, except that if such a clearing agency performs the functions of a clearing agency with respect to a security futures product that is not cash settled, it must have arrangements in place with a registered clearing agency to effect the payment and delivery of the securities underlying the security futures product.
+
+(B) Any clearing agency that performs the functions of a clearing agency with respect to security futures products must coordinate with and develop fair and reasonable links with any and all other clearing agencies that perform the functions of a clearing agency with respect to security futures products, in order to permit, as of the compliance date (as defined in section 78f(h)(6)(C)  1 of this title), security futures products to be purchased on one market and offset on another market that trades such products.
+
+(8) A registered clearing agency shall be permitted to provide facilities for the clearance and settlement of any derivative agreements, contracts, or transactions that are excluded from the Commodity Exchange Act [ 7 U.S.C. 1 et seq.], subject to the requirements of this section and to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter.

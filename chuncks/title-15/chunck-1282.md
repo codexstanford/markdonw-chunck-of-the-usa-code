@@ -1,0 +1,11 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–22. Distribution, redemption, and repurchase of securities; regulations by securities associations
+##### (b) Rules relating to purchase of securities by members from issuer investment company
+
+(1) Such a securities association may also, by rules adopted and in effect in accordance with section 78 o –3 of this title, and notwithstanding the provisions of subsection (b)(6) thereof but subject to all other provisions of said section applicable to the rules of such an association, prohibit its members from purchasing, in connection with a primary distribution of redeemable securities of which any registered investment company is the issuer, any such security from the issuer or from any principal underwriter except at a price equal to the price at which such security is then offered to the public less a commission, discount, or spread which is computed in conformity with a method or methods, and within such limitations as to the relation thereof to said public offering price, as such rules may prescribe in order that the price at which such security is offered or sold to the public shall not include an excessive sales load but shall allow for reasonable compensation for sales personnel, broker-dealers, and underwriters, and for reasonable sales loads to investors. The Commission shall on application or otherwise, if it appears that smaller companies are subject to relatively higher operating costs, make due allowance therefor by granting any such company or class of companies appropriate qualified exemptions from the provisions of this section.
+
+(2) At any time after the expiration of eighteen months from December 14, 1970 (or, if earlier, after a securities association has adopted for purposes of paragraph (1) any rule respecting excessive sales loads), the Commission may alter or supplement the rules of any securities association as may be necessary to effectuate the purposes of this subsection in the manner provided by section 78s(c) of this title .
+
+(3) If any provision of this subsection is in conflict with any provision of any law of the United States in effect on December 14, 1970 , the provisions of this subsection shall prevail.

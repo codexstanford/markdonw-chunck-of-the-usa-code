@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 21— NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY
+#### § 1022a. Medium-term economic goals and policies respecting full employment and balanced growth
+##### (e) Interim numerical goals for succeeding Economic Reports
+
+If, after achievement of the 3 and 4 per centum goals specified in subsection (b), the unemployment rate for a year as set forth pursuant to section 1022(d) of this title is more than 3 per centum among individuals aged twenty and over or more than 4 per centum among individuals aged sixteen and over, the next Economic Report after such rate is set forth and each succeeding Economic Report shall include (as part of the five-year goals in each Economic Report) the interim numerical goal of reducing unemployment to not more than the levels specified in subsection (b)(1) as soon as practicable but not later than the fifth calendar year after the first such Economic Report, counting as the first calendar year the year in which such Economic Report is issued: Provided , That, if the President finds it necessary, the President may, under the authority provided in subsection (d), recommend modification of the timetable provided for in this subsection for the reduction of unemployment, and for the purposes of section 304 of the Full Employment and Balanced Growth Act of 1978, such recommendation by the President shall be treated as a recommendation made under subsection (d) of this section.

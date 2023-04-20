@@ -1,0 +1,27 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B— SECURITIES EXCHANGES
+#### § 78bb. Effect on existing law
+##### (a) Limitation on judgments
+
+(1) In general
+
+No person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in 1 or more actions, a total amount in excess of the actual damages to that person on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations under this chapter.
+
+(2) Rule of construction
+
+Except as provided in subsection (f), the rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
+
+(3) State bucket shop laws
+
+No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate
+
+(A) any put, call, straddle, option, privilege, or other security subject to this chapter (except any security that has a pari-mutuel payout or otherwise is determined by the Commission, acting by rule, regulation, or order, to be appropriately subject to such laws), or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such security;
+
+(B) any security-based swap between eligible contract participants; or
+
+(C) any security-based swap effected on a national securities exchange registered pursuant to section 78f(b) of this title .
+
+(4) Other State provisions
+
+No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.

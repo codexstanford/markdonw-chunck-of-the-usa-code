@@ -1,0 +1,15 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 25— FLAMMABLE FABRICS
+#### § 1193. Flammability standards or regulations
+##### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
+
+(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him  1 for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28 .
+
+(2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
+
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term “record” means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
+
+(4) The judgment of the court affirming or setting aside, in whole or in part, any such standard or regulation of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
+
+(5) The remedies provided for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.

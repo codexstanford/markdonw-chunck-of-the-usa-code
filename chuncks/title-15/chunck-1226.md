@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–11. Offers to exchange securities
+##### (a) Approval by Commission for exchanges of securities on basis other than relative net asset value
+
+It shall be unlawful for any registered open-end company or any principal underwriter for such a company to make or cause to be made an offer to the holder of a security of such company or of any other open-end investment company to exchange his security for a security in the same or another such company on any basis other than the relative net asset values of the respective securities to be exchanged, unless the terms of the offer have first been submitted to and approved by the Commission or are in accordance with such rules and regulations as the Commission may have prescribed in respect of such offers which are in effect at the time such offer is made. For the purposes of this section, (A) an offer by a principal underwriter means an offer communicated to holders of securities of a class or series but does not include an offer made by such principal underwriter to an individual investor in the course of a retail business conducted by such principal underwriter, and (B) the net asset value means the net asset value which is in effect for the purpose of determining the price at which the securities, or class or series of securities involved, are offered for sale to the public either (1) at the time of the receipt by the offeror of the acceptance of the offer or (2) at such later times as is specified in the offer.

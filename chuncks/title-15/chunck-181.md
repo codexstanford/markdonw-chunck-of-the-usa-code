@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 54. False advertisements; penalties
+##### (a) Imposition of penalties
+
+Any person, partnership, or corporation who violates any provision of section 52(a) of this title shall, if the use of the commodity advertised may be injurious to health because of results from such use under the conditions prescribed in the advertisement thereof, or under such conditions as are customary or usual, or if such violation is with intent to defraud or mislead, be guilty of a misdemeanor, and upon conviction shall be punished by a fine of not more than $5,000 or by imprisonment for not more than six months, or by both such fine and imprisonment; except that if the conviction is for a violation committed after a first conviction of such person, partnership, or corporation, for any violation of such section, punishment shall be by a fine of not more than $10,000 or by imprisonment for not more than one year, or by both such fine and imprisonment: Provided , That for the purposes of this section meats and meat food products duly inspected, marked, and labeled in accordance with rules and regulations issued under the Meat Inspection Act [ 21 U.S.C. 601 et seq.] shall be conclusively presumed not injurious to health at the time the same leave official “establishments.”

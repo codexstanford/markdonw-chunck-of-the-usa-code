@@ -1,0 +1,6 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 1— MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE
+#### § 26. Injunctive relief for private parties; exception; costs
+
+Any person, firm, corporation, or association shall be entitled to sue for and have injunctive relief, in any court of the United States having jurisdiction over the parties, against threatened loss or damage by a violation of the antitrust laws, including sections 13, 14, 18, and 19 of this title, when and under the same conditions and principles as injunctive relief against threatened conduct that will cause loss or damage is granted by courts of equity, under the rules governing such proceedings, and upon the execution of proper bond against damages for an injunction improvidently granted and a showing that the danger of irreparable loss or damage is immediate, a preliminary injunction may issue: Provided , That nothing herein contained shall be construed to entitle any person, firm, corporation, or association, except the United States, to bring suit for injunctive relief against any common carrier subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49. In any action under this section in which the plaintiff substantially prevails, the court shall award the cost of suit, including a reasonable attorney’s fee, to such plaintiff.

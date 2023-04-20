@@ -1,0 +1,6 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 40— DEPARTMENT OF COMMERCE
+#### § 1521. Working capital fund; establishment; amount; uses; reimbursement
+
+There is established a working capital fund of $100,000, without fiscal year limitation, for the payment of salaries and other expenses necessary to the maintenance and operation of (1) central duplicating, photographic, drafting, and photostating services and (2) such other services as the Secretary, with the approval of the Director of the Office of Management and Budget, determines may be performed more advantageously as central services; said fund to be reimbursed from applicable funds of bureaus, offices, and agencies for which services are performed on the basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation) and other expenses: Provided , That such central services shall, to the fullest extent practicable, be used to make unnecessary the maintenance of separate like services in the bureaus, offices, and agencies of the Department: Provided further , That a separate schedule of expenditures and reimbursements, and a statement of the current assets and liabilities of the working capital fund as of the close of the last completed fiscal year, shall be included in the annual Budget.

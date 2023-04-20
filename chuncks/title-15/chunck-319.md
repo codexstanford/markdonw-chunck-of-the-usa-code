@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2— FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION
+#### § 70b. Misbranded and falsely advertised textile fiber products
+##### (e) Labelling of packages
+
+For purposes of this subchapter, in addition to the textile fiber products contained therein, a package of textile fiber products intended for sale to the ultimate consumer shall be misbranded unless such package has affixed to it a stamp, tag, label, or other means of identification bearing the information required by subsection (b), with respect to such contained textile fiber products, or is transparent to the extent it allows for the clear reading of the stamp, tag, label, or other means of identification on the textile fiber product, or in the case of hosiery items, this section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each hosiery product contained in a package if (1) such hosiery products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the hosiery products contained therein, the information required by subsection (b), and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.

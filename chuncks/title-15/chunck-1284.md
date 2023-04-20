@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2D— INVESTMENT COMPANIES AND ADVISERS
+#### § 80a–22. Distribution, redemption, and repurchase of securities; regulations by securities associations
+##### (d) Sale of securities except to or through principal underwriter; price of securities
+
+No registered investment company shall sell any redeemable security issued by it to any person except either to or through a principal underwriter for distribution or at a current public offering price described in the prospectus, and, if such class of security is being currently offered to the public by or through an underwriter, no principal underwriter of such security and no dealer shall sell any such security to any person except a dealer, a principal underwriter, or the issuer, except at a current public offering price described in the prospectus. Nothing in this subsection shall prevent a sale made (i) pursuant to an offer of exchange permitted by section 80a–11 of this title including any offer made pursuant to section 80a–11(b) of this title ; (ii) pursuant to an offer made solely to all registered holders of the securities, or of a particular class or series of securities issued by the company proportionate to their holdings or proportionate to any cash distribution made to them by the company (subject to appropriate qualifications designed solely to avoid issuance of fractional securities); or (iii) in accordance with rules and regulations of the Commission made pursuant to subsection (b) of section 80a–12 of this title .

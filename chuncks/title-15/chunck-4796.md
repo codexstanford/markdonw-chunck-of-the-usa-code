@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 50— CONSUMER PRODUCT WARRANTIES
+#### § 2310. Remedies in consumer disputes
+##### (e) Class actions; conditions; procedures applicable
+
+No action (other than a class action or an action respecting a warranty to which subsection (a)(3) applies) may be brought under subsection (d) for failure to comply with any obligation under any written or implied warranty or service contract, and a class of consumers may not proceed in a class action under such subsection with respect to such a failure except to the extent the court determines necessary to establish the representative capacity of the named plaintiffs, unless the person obligated under the warranty or service contract is afforded a reasonable opportunity to cure such failure to comply. In the case of such a class action (other than a class action respecting a warranty to which subsection (a)(3) applies) brought under subsection (d) for breach of any written or implied warranty or service contract, such reasonable opportunity will be afforded by the named plaintiffs and they shall at that time notify the defendant that they are acting on behalf of the class. In the case of such a class action which is brought in a district court of the United States, the representative capacity of the named plaintiffs shall be established in the application of rule 23 of the Federal Rules of Civil Procedure.

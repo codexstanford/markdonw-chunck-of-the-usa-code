@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 2B–1— SECURITIES INVESTOR PROTECTION
+#### § 78fff–4. Direct payment procedure
+##### (f) Discontinuance of direct payment procedures
+
+If, at any time after the institution of a direct payment procedure with respect to a member, SIPC determines, in its discretion, that continuation of such direct payment procedure is not appropriate, SIPC may cease such direct payment procedure and, upon so doing, may seek a protective decree pursuant to section 78eee of this title . To the extent payments of cash, distributions of securities, or determinations with respect to the validity of a customer’s claim are made under this section, such payments, distributions, and determinations shall be recognized and given full effect in the event of any subsequent liquidation proceeding. Any action brought under subsection (e) and pending at the time of the appointment of a trustee under section 78eee(b)(3) of this title shall be permanently stayed by the court at the time of such appointment, and the court shall enter an order directing the transfer or removal to it of such suit. Upon such removal or transfer the complaint in such action shall constitute the plaintiff’s claim in the liquidation proceeding, if appropriate, and shall be deemed received by the trustee on the date of his appointment regardless of the date of actual transfer or removal of such action.

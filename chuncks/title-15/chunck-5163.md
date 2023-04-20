@@ -1,0 +1,14 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 53— TOXIC SUBSTANCES CONTROL
+#### § 2695a. Model guidelines for siting of school facilities
+
+Not later than 18 months after December 19, 2007 , the Administrator, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall issue voluntary school site selection guidelines that account for
+
+(1) the special vulnerability of children to hazardous substances or pollution exposures in any case in which the potential for contamination at a potential school site exists;
+
+(2) modes of transportation available to students and staff;
+
+(3) the efficient use of energy; and
+
+(4) the potential use of a school at the site as an emergency shelter.

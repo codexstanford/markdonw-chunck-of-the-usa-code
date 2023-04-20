@@ -1,0 +1,7 @@
+
+# Title 15— COMMERCE AND TRADE
+### CHAPTER 14A— AID TO SMALL BUSINESS
+#### § 645. Offenses and penalties
+##### (b) Embezzlement, etc.
+
+Whoever, being connected in any capacity with the Administration, (1) embezzles, abstracts, purloins, or willfully misapplies any moneys, funds, securities, or other things of value, whether belonging to it or pledged or otherwise entrusted to it, or (2) with intent to defraud the Administration or any other body politic or corporate, or any individual, or to deceive any officer, auditor, or examiner of the Administration, makes any false entry in any book, report, or statement of or to the Administration, or, without being duly authorized, draws any order or issues, puts forth, or assigns any note, debenture, bond, or other obligation, or draft, bill of exchange, mortgage, judgment, or decree thereof, or (3) with intent to defraud participates or shares in or receives directly or indirectly any money, profit, property, or benefit through any transaction, loan, commission, contract, or any other act of the Administration, or (4) gives any unauthorized information concerning any future action or plan of the Administration which might affect the value of securities, or, having such knowledge, invests or speculates, directly or indirectly, in the securities or property of any company or corporation receiving loans or other assistance from the Administration, shall be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both.
