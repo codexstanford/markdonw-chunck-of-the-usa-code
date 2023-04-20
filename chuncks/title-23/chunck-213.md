@@ -1,0 +1,11 @@
+
+# Title 23— HIGHWAYS
+### CHAPTER 1— FEDERAL-AID HIGHWAYS
+#### § 135. Statewide and nonmetropolitan transportation planning
+###### (b) Coordination With Metropolitan Planning; State Implementation Plan .
+
+A State shall
+
+(1) coordinate planning carried out under this section with the transportation planning activities carried out under section 134 for metropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and
+
+(2) develop the transportation portion of the State implementation plan as required by the Clean Air Act ( 42 U.S.C. 7401 et seq.).
