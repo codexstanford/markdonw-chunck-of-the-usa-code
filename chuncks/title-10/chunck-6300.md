@@ -1,0 +1,12 @@
+
+# Title 10— ARMED FORCES
+## Subtitle A— General Military Law
+### CHAPTER 383— DEVELOPMENT, APPLICATION, AND SUPPORT OF DUAL-USE TECHNOLOGIES
+#### § 4831. Defense dual-use critical technology program
+###### (c) Financial Commitment of Non-Federal Government Participants .
+
+(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
+
+(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
+
+(3) The Secretary shall consider a project proposal submitted by a small business concern without regard to the ability of the small business concern to immediately meet its share of the anticipated project costs. Upon the selection of a project proposal submitted by a small business concern, the small business concern shall have a period of not less than 120 days in which to arrange to meet its financial commitment requirements under the project from sources other than a person of a foreign country. If the Secretary determines upon the expiration of that period that the small business concern will be unable to meet its share of the anticipated project costs, the Secretary shall revoke the selection of the project proposal submitted by the small business concern.

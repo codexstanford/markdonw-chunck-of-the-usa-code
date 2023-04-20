@@ -1,0 +1,7 @@
+
+# Title 10— ARMED FORCES
+## Subtitle A— General Military Law
+### CHAPTER 101— TRAINING GENERALLY
+#### § 2003. Aeronautical rating as pilot: qualifications
+
+To be eligible to receive an aeronautical rating as a pilot in the Army or Air Force or be designated as a naval aviator, a member of an armed force must successfully complete an undergraduate pilot course of instruction prescribed or approved by the Secretary of his military department.

@@ -1,0 +1,8 @@
+
+# Title 10— ARMED FORCES
+## Subtitle A— General Military Law
+### CHAPTER 271— TRUTHFUL COST OR PRICING DATA (TRUTH IN NEGOTIATIONS)
+#### § 3705. Submission of other information
+###### (a) Authority to require submission .
+
+When certified cost or pricing data are not required to be submitted under this chapter for a contract, subcontract, or modification of a contract or subcontract, the offeror shall be required to submit to the contracting officer data other than certified cost or pricing data (if requested by the contracting officer), to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in section 3703(a)(1) of this title , the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement. If the contracting officer determines that the offeror does not have access to and cannot provide sufficient information on prices for the same or similar items to determine the reasonableness of price, the contracting officer shall require the submission of information on prices for similar levels of work or effort on related products or services, prices for alternative solutions or approaches, and other information that is relevant to the determination of a fair and reasonable price. Contracting officers shall not determine the price of a contract or subcontract to be fair and reasonable based solely on historical prices paid by the Government.
