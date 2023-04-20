@@ -1,0 +1,8 @@
+
+# Title 34— CRIME CONTROL AND LAW ENFORCEMENT
+## Subtitle IV— Criminal Records and Information
+### CHAPTER 409— NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM
+#### § 40901. Establishment
+##### (g) Correction of erroneous system information
+
+If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.
