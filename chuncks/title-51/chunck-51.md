@@ -1,0 +1,8 @@
+
+# Title 51— NATIONAL AND COMMERCIAL SPACE PROGRAMS
+## Subtitle II— General Program and Policy Provisions
+### CHAPTER 201— NATIONAL AERONAUTICS AND SPACE PROGRAM
+#### § 20135. Property rights in inventions
+###### (g) Waiver of Rights to Inventions .
+
+Under such regulations in conformity with this subsection as the Administrator shall prescribe, the Administrator may waive all or any part of the rights of the United States under this section with respect to any invention or class of inventions made or which may be made by any person or class of persons in the performance of any work required by any contract of the Administration if the Administrator determines that the interests of the United States will be served thereby. Any such waiver may be made upon such terms and under such conditions as the Administrator shall determine to be required for the protection of the interests of the United States. Each such waiver made with respect to any invention shall be subject to the reservation by the Administrator of an irrevocable, nonexclusive, nontransferable, royalty-free license for the practice of such invention throughout the world by or on behalf of the United States or any foreign government pursuant to any treaty or agreement with the United States. Each proposal for any waiver under this subsection shall be referred to an Inventions and Contributions Board which shall be established by the Administrator within the Administration. Such Board shall accord to each interested party an opportunity for hearing, and shall transmit to the Administrator its findings of fact with respect to such proposal and its recommendations for action to be taken with respect thereto.

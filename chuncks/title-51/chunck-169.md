@@ -1,0 +1,7 @@
+
+# Title 51— NATIONAL AND COMMERCIAL SPACE PROGRAMS
+## Subtitle III— Administrative Provisions
+### CHAPTER 303— CONTRACTING AND PROCUREMENT
+#### § 30304. Award of contracts to small businesses and disadvantaged individuals
+
+The Administrator shall annually establish a goal of at least 8 percent of the total value of prime and subcontracts awarded in support of authorized programs, including the space station by the time operational status is obtained, which funds will be made available to small business concerns or other organizations owned or controlled by socially and economically disadvantaged individuals (within the meaning of paragraphs (5) and (6) of section 8(a) of the Small Business Act ( 15 U.S.C. 637(a) )), including Historically Black Colleges and Universities that are part B institutions (as defined in section 322(2) of the Higher Education Act of 1965 ( 20 U.S.C. 1061(2) )), Hispanic-serving institutions (as defined in section 502(a)(5) of that Act ( 20 U.S.C. 1101a(a)(5) )), Tribal Colleges or Universities (as defined in section 316(b)(3) of that Act ( 20 U.S.C. 1059c(b)(3) )), Alaska Native-serving institutions (as defined in section 317(b)(2) of that Act ( 20 U.S.C. 1059d(b)(2) )), Native Hawaiian-serving institutions (as defined in section 317(b)(4) of that Act ( 20 U.S.C. 1059d(b)(4) )), and minority educational institutions (as defined by the Secretary of Education pursuant to the General Education Provisions Act ( 20 U.S.C. 1221 et seq.)).
