@@ -1,0 +1,11 @@
+
+# Title 3— THE PRESIDENT
+### CHAPTER 5— EXTENSION OF CERTAIN RIGHTS AND PROTECTIONS TO PRESIDENTIAL OFFICES
+#### § 413. Rights and protections under the Fair Labor Standards Act of 1938
+###### (d) Effective Date .
+
+Subsections (a) and (b) shall take effect on the earlier of
+
+(1) the effective date of regulations issued under subsection (c); or
+
+(2) October 1, 1998 .
