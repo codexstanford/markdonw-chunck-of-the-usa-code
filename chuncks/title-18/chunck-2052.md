@@ -1,0 +1,7 @@
+
+# Title 18— CRIMES AND CRIMINAL PROCEDURE
+### CHAPTER 229— POSTSENTENCE ADMINISTRATION
+#### § 3624. Release of a prisoner
+###### (e) Supervision After Release .
+
+A prisoner whose sentence includes a term of supervised release after imprisonment shall be released by the Bureau of Prisons to the supervision of a probation officer who shall, during the term imposed, supervise the person released to the degree warranted by the conditions specified by the sentencing court. The term of supervised release commences on the day the person is released from imprisonment and runs concurrently with any Federal, State, or local term of probation or supervised release or parole for another offense to which the person is subject or becomes subject during the term of supervised release. A term of supervised release does not run during any period in which the person is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than 30 consecutive days. Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.

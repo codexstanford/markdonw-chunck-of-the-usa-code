@@ -1,0 +1,6 @@
+
+# Title 18— CRIMES AND CRIMINAL PROCEDURE
+### CHAPTER 11— BRIBERY, GRAFT, AND CONFLICTS OF INTEREST
+#### § 208. Acts affecting a personal financial interest
+
+(a) Except as permitted by subsection (b) hereof, whoever, being an officer or employee of the executive branch of the United States Government, or of any independent agency of the United States, a Federal Reserve bank director, officer, or employee, or an officer or employee of the District of Columbia, including a special Government employee, participates personally and substantially as a Government officer or employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in a judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which, to his knowledge, he, his spouse, minor child, general partner, organization in which he is serving as officer, director, trustee, general partner or employee, or any person or organization with whom he is negotiating or has any arrangement concerning prospective employment, has a financial interest— Shall be subject to the penalties set forth in section 216 of this title .

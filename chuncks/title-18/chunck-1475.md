@@ -1,0 +1,12 @@
+
+# Title 18— CRIMES AND CRIMINAL PROCEDURE
+### CHAPTER 117— TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES
+#### § 2424. Filing factual statement about alien individual
+
+(a) Whoever keeps, maintains, controls, supports, or harbors in any house or place for the purpose of prostitution, or for any other immoral purpose, any individual, knowing or in reckless disregard of the fact that the individual is an alien, shall file with the Commissioner of Immigration and Naturalization a statement in writing setting forth the name of such individual, the place at which that individual is kept, and all facts as to the date of that individual’s entry into the United States, the port through which that individual entered, that individual’s age, nationality, and parentage, and concerning that individual’s procuration to come to this country within the knowledge of such person; and Whoever fails within five business days after commencing to keep, maintain, control, support, or harbor in any house or place for the purpose of prostitution, or for any other immoral purpose, any alien individual to file such statement concerning such alien individual with the Commissioner of Immigration and Naturalization; or
+
+Whoever knowingly and willfully states falsely or fails to disclose in such statement any fact within that person’s knowledge or belief with reference to the age, nationality, or parentage of any such alien individual, or concerning that individual’s procuration to come to this country
+
+Shall be fined under this title or imprisoned not more than 10 years, or both.
+
+(b) In any prosecution brought under this section, if it appears that any such statement required is not on file in the office of the Commissioner of Immigration and Naturalization, the person whose duty it is to file such statement shall be presumed to have failed to file said statement, unless such person or persons shall prove otherwise. No person shall be excused from furnishing the statement, as required by this section, on the ground or for the reason that the statement so required by that person, or the information therein contained, might tend to criminate that person or subject that person to a penalty or forfeiture, but no information contained in the statement or any evidence which is directly or indirectly derived from such information may be used against any person making such statement in any criminal case, except a prosecution for perjury, giving a false statement or otherwise failing to comply with this section.

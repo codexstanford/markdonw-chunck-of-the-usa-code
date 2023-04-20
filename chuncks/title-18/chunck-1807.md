@@ -1,0 +1,6 @@
+
+# Title 18— CRIMES AND CRIMINAL PROCEDURE
+### CHAPTER 216— SPECIAL GRAND JURY
+#### § 3334. General provisions
+
+The provisions of chapter 215, title 18, United States Code, and the Federal Rules of Criminal Procedure applicable to regular grand juries shall apply to special grand juries to the extent not inconsistent with sections 3331, 3332, or 3333 of this chapter.

@@ -1,0 +1,6 @@
+
+# Title 18— CRIMES AND CRIMINAL PROCEDURE
+### CHAPTER 40— IMPORTATION, MANUFACTURE, DISTRIBUTION AND STORAGE OF EXPLOSIVE MATERIALS
+#### § 843. Licenses and user permits
+
+(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to be charged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
