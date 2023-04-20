@@ -1,0 +1,6 @@
+
+# Title 2— THE CONGRESS
+### CHAPTER 65— SENATE OFFICERS AND ADMINISTRATION
+#### § 6629. Purchase, lease, exchange, maintenance, and operation of vehicles out of account for Sergeant at Arms and Doorkeeper of Senate within Senate contingent fund; authorization of appropriations
+
+For each fiscal year (commencing with the fiscal year ending September 30, 1985 ) there is authorized to be appropriated to the account, within the contingent fund of the Senate, for the Sergeant at Arms and Doorkeeper of the Senate, such funds (which shall be in addition to funds authorized to be so appropriated for other purposes) as may be necessary for the purchase, lease, exchange, maintenance, and operation of vehicles as follows: one for the Vice President, one for the President pro tempore of the Senate, one for the Majority Leader of the Senate, one for the Minority Leader of the Senate, one for the Majority Whip of the Senate, one for the Minority Whip of the Senate, one for the attending physician, one as authorized by Senate Resolution 90 of the 100th Congress  1 such number as is needed for carrying mails, and for official use of the offices of the Secretary of the Senate, the Sergeant at Arms and Doorkeeper of the Senate, the Secretary for the Majority, and the Secretary for the Minority, and such additional number as is otherwise specifically authorized by law.

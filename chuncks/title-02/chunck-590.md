@@ -1,0 +1,7 @@
+
+# Title 2— THE CONGRESS
+### CHAPTER 17A— CONGRESSIONAL BUDGET AND FISCAL OPERATIONS
+#### § 644. Extraneous matter in reconciliation legislation
+##### (e) General point of order
+
+Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisions against which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.

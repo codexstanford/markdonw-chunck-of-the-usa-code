@@ -1,0 +1,8 @@
+
+# Title 2— THE CONGRESS
+### CHAPTER 61— SENATE LEADERSHIP
+#### § 6102. Expense allowance of Majority and Minority Leaders of Senate; expense allowance of Majority and Minority Whips; methods of payment; taxability
+
+Effective fiscal year 1978 and each fiscal year thereafter, the expense allowances of the Majority and Minority Leaders of the Senate are increased to $40,000 each fiscal year for each leader: Provided , That, effective with the fiscal year 1983 and each fiscal year thereafter, the expense allowance of the Majority and Minority Whips of the Senate shall not exceed $10,000 each fiscal year for each Whip: Provided further , That, during the period beginning on January 3, 1977 , and ending September 30, 1977 , and during each fiscal year thereafter, the Vice President, the Majority Leader, the Minority Leader, the Majority Whip, and the Minority Whip may receive the expense allowance (a) as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the Vice President, the respective Leader or the respective Whip, or (b) in equal monthly payments: Provided further , That effective January 3, 1977 , the amounts paid to the Vice President, the Majority or Minority Leader of the Senate, or the Majority or Minority Whip of the Senate as reimbursement of actual expenses incurred upon certification and documentation pursuant to the second proviso of this section shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction, under title 26.
+
+SUBCHAPTER II— VICE PRESIDENT AND PRESIDENT PRO TEMPORE

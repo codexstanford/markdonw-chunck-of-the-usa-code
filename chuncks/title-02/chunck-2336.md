@@ -1,0 +1,6 @@
+
+# Title 2— THE CONGRESS
+### CHAPTER 65— SENATE OFFICERS AND ADMINISTRATION
+#### § 6597. Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation for positions
+
+Effective October 1, 1981 , all statutory positions in the Office of the Sergeant at Arms and Doorkeeper of the Senate (other than the positions of the Sergeant at Arms and Doorkeeper of the Senate, Deputy Sergeant at Arms and Doorkeeper, and Administrative Assistant) are abolished, and in lieu of the positions hereby abolished the Sergeant at Arms and Doorkeeper of the Senate is authorized to establish such number of positions as he deems appropriate and appoint and fix the compensation of employees to fill the positions so established; except that the annual rate of compensation payable to any employee appointed to fill any position established by the Sergeant at Arms and Doorkeeper of the Senate shall not, for any period of time, be in excess of $1,000 less than the annual rate of compensation of the Sergeant at Arms and Doorkeeper of the Senate for that period of time; and except that nothing in this section shall be construed to affect any position authorized by statute, if the compensation for such position is to be paid from the contingent fund of the Senate.

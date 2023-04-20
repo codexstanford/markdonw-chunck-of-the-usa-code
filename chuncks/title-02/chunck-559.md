@@ -1,0 +1,17 @@
+
+# Title 2— THE CONGRESS
+### CHAPTER 17A— CONGRESSIONAL BUDGET AND FISCAL OPERATIONS
+#### § 636. Provisions relating to consideration of concurrent resolutions on the budget
+##### (b) Procedure in Senate after report of Committee; debate; amendments
+
+(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in section 635 of this title all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+
+(2) Debate in the Senate on any amendment to a concurrent resolution on the budget shall be limited to 2 hours, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, except that in the event the manager of the concurrent resolution is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. No amendment that is not germane to the provisions of such concurrent resolution shall be received. Such leaders, or either of them, may, from the time under their control on the passage of the concurrent resolution, allot additional time to any Senator during the consideration of any amendment, debatable motion, or appeal.
+
+(3) Following the presentation of opening statements on the concurrent resolution on the budget for a fiscal year by the chairman and ranking minority member of the Committee on the Budget of the Senate, there shall be a period of up to four hours for debate on economic goals and policies.
+
+(4) Subject to the other limitations of this Act, only if a concurrent resolution on the budget reported by the Committee on the Budget of the Senate sets forth the economic goals (as described in sections 1022(a)(2) and 1022a(b) of title 15) which the estimates, amounts, and levels (as described in section 632(a) of this title ) set forth in such resolution are designed to achieve, shall it be in order to offer to such resolution an amendment relating to such goals, and such amendment shall be in order only if it also proposes to alter such estimates, amounts, and levels in germane fashion in order to be consistent with the goals proposed in such amendment.
+
+(5) A motion to further limit debate is not debatable. A motion to recommit (except a motion to recommit with instructions to report back within a specified number of days, not to exceed 3, not counting any day on which the Senate is not in session) is not in order. Debate on any such motion to recommit shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution.
+
+(6) Notwithstanding any other rule, an amendment or series of amendments to a concurrent resolution on the budget proposed in the Senate shall always be in order if such amendment or series of amendments proposes to change any figure or figures then contained in such concurrent resolution so as to make such concurrent resolution mathematically consistent or so as to maintain such consistency.

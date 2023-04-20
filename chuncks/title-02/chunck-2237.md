@@ -1,0 +1,9 @@
+
+# Title 2— THE CONGRESS
+### CHAPTER 63— SENATE MEMBERS
+#### § 6317. Home State office space for Senators; lease of office space
+##### (c) Maximum annual rental rate; maximum aggregate amount for acquisition of furniture, equipment, and other office furnishings
+
+(1) The maximum annual rate that may be paid for the rental of an office secured for a Senator not in a post office or other Federal building shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office by the Administrator of General Services, based upon a 100 percent building quality rating, for office space located in the place in which the Senator’s office is located, multiplied by the number of square feet contained in that office used by the Senator and his employees to perform their duties.
+
+(2) The aggregate amount that may be paid for the acquisition of furniture, equipment, and other office furnishings heretofore provided by the Administrator of General Services for one or more offices secured for the Senator is $40,000 if the aggregate square feet of office space is not in excess of 5,000 square feet. Such amount is increased by $1,000 for each authorized additional incremental increase in office space of 200 square feet. Effective beginning with the 106th Congress, the aggregate amount in effect under this paragraph for any Congress shall be increased by the inflation adjustment factor for the calendar year in which the Congress begins. For purposes of the preceding sentence, the inflation adjustment factor for any calendar year is a fraction the numerator of which is the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce for the preceding calendar year and the denominator of which is such deflator for the calendar year 1998.
