@@ -1,0 +1,7 @@
+
+# Title 31— MONEY AND FINANCE
+## SUBTITLE V— GENERAL ASSISTANCE ADMINISTRATION
+### CHAPTER 71— JOINT FUNDING SIMPLIFICATION
+#### § 7112. Expiration date
+
+This chapter expires on February 3, 1985 .

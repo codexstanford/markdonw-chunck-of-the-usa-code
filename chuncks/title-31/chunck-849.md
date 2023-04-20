@@ -1,0 +1,11 @@
+
+# Title 31— MONEY AND FINANCE
+## SUBTITLE V— GENERAL ASSISTANCE ADMINISTRATION
+### CHAPTER 62— CONSOLIDATED FEDERAL FUNDS REPORT
+#### § 6205. Availability of information
+
+Each head of any authority of the Government having custody of the data files and systems referred to in section 6202(c)
+
+(1) shall make available to the Director (or other authority to which the Director has delegated the responsibility to carry out such section) the information requested in the form designated; and
+
+(2) is authorized to make available to the Director (or such other authority) such administrative services, equipment, personnel, and facilities (and funds appropriated therefor) as the Director or such authority requires to carry out such section.
