@@ -1,0 +1,6 @@
+
+# Title 29— LABOR
+### CHAPTER 4B— FEDERAL EMPLOYMENT SERVICE
+#### § 49c–1. Transfer to States of property used by United States Employment Service
+
+For the purpose of assisting the State employment services established and maintained in accordance with the terms of the Act of June 6, 1933 , entitled “An Act to provide for the establishment of a National Employment System and for cooperation with the States in the promotion of such system, and for other purposes”, as amended ( 48 Stat. 113 ; 49 Stat. 216 ) [ 29 U.S.C. 49 et seq.], the Secretary of Labor is authorized without payment of compensation to transfer and assign to the States in which it is located all property, including records, files, and office equipment, used by the United States Employment Service in its administrative and local employment offices in the respective States, except the records, files, and property used in the Veterans’ Service and in the Farm Placement Service maintained under the said Act, as soon as such States establish and maintain systems of public employment offices, in accordance with the terms of sections 4, 5, and 8 of the said Act [ 29 U.S.C. 49c , 49d, 49g] and the regulations promulgated thereunder.

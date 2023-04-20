@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+### CHAPTER 4B— FEDERAL EMPLOYMENT SERVICE
+#### § 49b. Duties of Secretary
+##### (b) Provision of unemployment compensation information
+
+It shall be the duty of the Secretary to assure that unemployment insurance and employment service offices in each State, as appropriate, upon request of a public agency administering or supervising the administration of a State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.], of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act [ 42 U.S.C. 651 et seq.], or of a State agency charged with the administration of the supplemental nutrition assistance program in a State under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.), shall (and, notwithstanding any other provision of law, is authorized to) furnish to such agency making the request, from any data contained in the files of any such office, information with respect to any individual specified in the request as to (1) whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, (2) the current (or most recent) home address of such individual, and (3) whether such individual has refused an offer of employment and, if so, a description of the employment so offered and the terms, conditions, and rate of pay therefor.

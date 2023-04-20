@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+### CHAPTER 11— LABOR-MANAGEMENT REPORTING AND DISCLOSURE PROCEDURE
+#### § 501. Fiduciary responsibility of officers of labor organizations
+##### (a) Duties of officers; exculpatory provisions and resolutions void
+
+The officers, agents, shop stewards, and other representatives of a labor organization occupy positions of trust in relation to such organization and its members as a group. It is, therefore, the duty of each such person, taking into account the special problems and functions of a labor organization, to hold its money and property solely for the benefit of the organization and its members and to manage, invest, and expend the same in accordance with its constitution and bylaws and any resolutions of the governing bodies adopted thereunder, to refrain from dealing with such organization as an adverse party or in behalf of an adverse party in any matter connected with his duties and from holding or acquiring any pecuniary or personal interest which conflicts with the interests of such organization, and to account to the organization for any profit received by him in whatever capacity in connection with transactions conducted by him or under his direction on behalf of the organization. A general exculpatory provision in the constitution and bylaws of such a labor organization or a general exculpatory resolution of a governing body purporting to relieve any such person of liability for breach of the duties declared by this section shall be void as against public policy.

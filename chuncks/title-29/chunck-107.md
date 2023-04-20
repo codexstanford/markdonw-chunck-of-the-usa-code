@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+### CHAPTER 7— LABOR-MANAGEMENT RELATIONS
+#### § 160. Prevention of unfair labor practices
+##### (f) Review of final order of Board on petition to court
+
+Any person aggrieved by a final order of the Board granting or denying in whole or in part the relief sought may obtain a review of such order in any United States court of appeals in the circuit wherein the unfair labor practice in question was alleged to have been engaged in or wherein such person resides or transacts business, or in the United States Court of Appeals for the District of Columbia, by filing in such a court a written petition praying that the order of the Board be modified or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Board, and thereupon the aggrieved party shall file in the court the record in the proceeding, certified by the Board, as provided in section 2112 of title 28 . Upon the filing of such petition, the court shall proceed in the same manner as in the case of an application by the Board under subsection (e), and shall have the same jurisdiction to grant to the Board such temporary relief or restraining order as it deems just and proper, and in like manner to make and enter a decree enforcing, modifying, and enforcing as so modified, or setting aside in whole or in part the order of the Board; the findings of the Board with respect to questions of fact if supported by substantial evidence on the record considered as a whole shall in like manner be conclusive.

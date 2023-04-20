@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+## Subtitle F— Transition Rules and Effective Dates
+### CHAPTER 19— JOB TRAINING PARTNERSHIP
+#### §§ 1791i, 1791j. Omitted
+
+SUBCHAPTER VI— STATE HUMAN RESOURCE INVESTMENT COUNCIL

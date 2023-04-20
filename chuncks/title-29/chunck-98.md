@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+### CHAPTER 7— LABOR-MANAGEMENT RELATIONS
+#### § 159. Representatives and elections
+##### (b) Determination of bargaining unit by Board
+
+The Board shall decide in each case whether, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this subchapter, the unit appropriate for the purposes of collective bargaining shall be the employer unit, craft unit, plant unit, or subdivision thereof: Provided , That the Board shall not (1) decide that any unit is appropriate for such purposes if such unit includes both professional employees and employees who are not professional employees unless a majority of such professional employees vote for inclusion in such unit; or (2) decide that any craft unit is inappropriate for such purposes on the ground that a different unit has been established by a prior Board determination, unless a majority of the employees in the proposed craft unit vote against separate representation or (3) decide that any unit is appropriate for such purposes if it includes, together with other employees, any individual employed as a guard to enforce against employees and other persons rules to protect property of the employer or to protect the safety of persons on the employer’s premises; but no labor organization shall be certified as the representative of employees in a bargaining unit of guards if such organization admits to membership, or is affiliated directly or indirectly with an organization which admits to membership, employees other than guards.

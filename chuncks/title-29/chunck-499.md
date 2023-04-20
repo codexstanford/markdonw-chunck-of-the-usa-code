@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+### CHAPTER 15— OCCUPATIONAL SAFETY AND HEALTH
+#### § 667. State jurisdiction and plans
+##### (e) Discretion of Secretary to exercise authority over comparable standards subsequent to approval of State plan; duration; retention of jurisdiction by Secretary upon determination of enforcement of plan by State
+
+After the Secretary approves a State plan submitted under subsection (b), he may, but shall not be required to, exercise his authority under sections 657, 658, 659, 662, and 666 of this title with respect to comparable standards promulgated under section 655 of this title , for the period specified in the next sentence. The Secretary may exercise the authority referred to above until he determines, on the basis of actual operations under the State plan, that the criteria set forth in subsection (c) are being applied, but he shall not make such determination for at least three years after the plan’s approval under subsection (c). Upon making the determination referred to in the preceding sentence, the provisions of sections 654(a)(2), 657 (except for the purpose of carrying out subsection (f) of this section), 658, 659, 662, and 666 of this title, and standards promulgated under section 655 of this title , shall not apply with respect to any occupational safety or health issues covered under the plan, but the Secretary may retain jurisdiction under the above provisions in any proceeding commenced under section 658 or 659 of this title before the date of determination.

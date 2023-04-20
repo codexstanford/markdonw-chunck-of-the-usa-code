@@ -1,0 +1,7 @@
+
+# Title 29— LABOR
+### CHAPTER 7— LABOR-MANAGEMENT RELATIONS
+#### § 153. National Labor Relations Board
+##### (b) Delegation of powers to members and regional directors; review and stay of actions of regional directors; quorum; seal
+
+The Board is authorized to delegate to any group of three or more members any or all of the powers which it may itself exercise. The Board is also authorized to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under subsection (c) or (e) of section 159 of this title and certify the results thereof, except that upon the filing of a request therefor with the Board by any interested person, the Board may review any action of a regional director delegated to him under this paragraph, but such a review shall not, unless specifically ordered by the Board, operate as a stay of any action taken by the regional director. A vacancy in the Board shall not impair the right of the remaining members to exercise all of the powers of the Board, and three members of the Board shall, at all times, constitute a quorum of the Board, except that two members shall constitute a quorum of any group designated pursuant to the first sentence hereof. The Board shall have an official seal which shall be judicially noticed.
